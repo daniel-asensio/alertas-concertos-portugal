@@ -7,6 +7,7 @@ import re
 import sys
 import time
 import xml.etree.ElementTree as ET
+from datetime import date
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlencode, urljoin, urlsplit, urlunsplit
@@ -18,13 +19,14 @@ CHAT_FILE = ROOT / "telegram_chat_id.txt"
 SEEN_FILE = ROOT / "eventos_oficiais_vistos.json"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ConcertosPortugal/2.0"
 
-# Agendas oficiais. Os padrões identificam os links de eventos de cada página.
+# Agendas oficiais e agregadores de confirmação. Os padrões identificam os
+# links de eventos de cada página.
 SOURCES = [
     {"name": "Casa da Música", "kind": "Porto",
      "urls": [f"https://casadamusica.com/agenda/?paged={n}" for n in range(1, 16)],
      "patterns": [r"casadamusica\.com/event/"]},
     {"name": "Super Bock Arena", "kind": "Porto",
-     "urls": ["https://www.superbockarena.pt/agenda/category/concertos-en/"],
+     "urls": ["https://www.superbockarena.pt/agenda/"],
      "patterns": [r"superbockarena\.pt/(?:evento|event)/"]},
     {"name": "Hard Club", "kind": "Porto",
      "urls": ["https://www.hardclubporto.com/PT/agenda/"],
@@ -32,15 +34,30 @@ SOURCES = [
     {"name": "Coliseu Porto Ageas", "kind": "Porto",
      "urls": ["https://coliseu.pt/agenda"],
      "patterns": [r"coliseu\.pt/(?!agenda(?:/|$)|bilheteira|contactos|espacos|sobre)[^?#]+"]},
+    {"name": "Teatro Nacional São João", "kind": "Teatro, dança e ópera — Porto",
+     "urls": ["https://www.tnsj.pt/pt/"],
+     "patterns": [r"tnsj\.pt/pt/espetaculos/\d+/[^?#]+"]},
+    {"name": "Teatro Municipal do Porto", "kind": "Teatro e dança — Porto",
+     "urls": ["https://www.teatromunicipaldoporto.pt/pt/?ano=2026"],
+     "patterns": [r"teatromunicipaldoporto\.pt/pt/programa/[^?#]+"]},
     {"name": "Europarque", "kind": "Aveiro",
      "urls": ["https://www.europarque.pt/", "https://www.europarque.pt/agenda-completa/"],
      "patterns": [r"bol\.pt/Comprar/Bilhetes/[^?#]+-europarque/"]},
     {"name": "Teatro Aveirense", "kind": "Aveiro",
-     "urls": ["https://www.teatroaveirense.pt/index.php/programacao/"],
+     "urls": ["https://www.teatroaveirense.pt/index.php/programacao/",
+              "https://www.teatroaveirense.pt/pt/programacao/"],
      "patterns": [r"teatroaveirense\.pt/index\.php/evento/[^?#]+"]},
+    {"name": "Cineteatro António Lamoso", "kind": "Música, teatro, dança e ópera — Aveiro",
+     "urls": ["https://cineteatro.cm-feira.pt/"],
+     "patterns": [], "heading_tags": ["h2"],
+     "heading_exclude": [r"^Agenda\b", r"^Contactos$", r"^Localização$", r"^Bilheteira$"]},
     {"name": "Casa da Criatividade", "kind": "São João da Madeira",
-     "urls": ["https://www.casadacriatividade.com/", "https://www.casadacriatividade.com/musica"],
-     "patterns": [r"casadacriatividade\.com/(?:musica|infantil|teatro|danca|somos-nos)/?$"],
+     "urls": ["https://www.casadacriatividade.com/infantil",
+              "https://www.casadacriatividade.com/teatro",
+              "https://www.casadacriatividade.com/danca",
+              "https://www.casadacriatividade.com/somos-nos"],
+     "patterns": [], "heading_tags": ["h2", "h3"],
+     "heading_exclude": [r"^Casa da Criatividade\b", r"^Programa$", r"^Contactos$"],
      "watch_page": True},
     {"name": "Everything Is New", "kind": "Promotora",
      "urls": ["https://everythingisnew.pt/"],
@@ -56,10 +73,22 @@ SOURCES = [
      "patterns": [r"musicanocoracao\.com/(?!contactos|sobre|$)[^?#]+"]},
     {"name": "MEO Arena", "kind": "Grande sala",
      "urls": ["https://arena.meo.pt/agenda/"],
-     "patterns": [r"arena\.meo\.pt/agenda/[^?#]+"]},
+     "patterns": [r"arena\.meo\.pt/agenda/[^/?#]+/\d+/?$"]},
     {"name": "Coliseu dos Recreios", "kind": "Grande sala",
      "urls": ["https://coliseulisboa.com/o-coliseu/programacao/"],
      "patterns": [r"coliseulisboa\.com/eventos/"]},
+    {"name": "Teatro Nacional de São Carlos", "kind": "Ópera — grandes espetáculos",
+     "urls": ["https://www.saocarlos.pt/"],
+     "patterns": [r"saocarlos\.pt/(?:pt/)?program/[^?#]+"]},
+    {"name": "Companhia Nacional de Bailado", "kind": "Ballet e dança — grandes espetáculos",
+     "urls": ["https://www.cnb.pt/"],
+     "patterns": [r"cnb\.pt/(?:pt/)?program/[^?#]+"]},
+    {"name": "Centro Cultural de Belém", "kind": "Grandes espetáculos nacionais",
+     "urls": ["https://www.ccb.pt/agenda/"],
+     "patterns": [r"ccb\.pt/evento/[^?#]+"]},
+    {"name": "Agenda do Pedro", "kind": "Agenda complementar do Porto",
+     "urls": ["https://agendadopedro.pt/concertos-no-porto/agenda"],
+     "patterns": [r"agendadopedro\.pt/concertos/[^?#]+"]},
     {"name": "BLITZ Agenda", "kind": "Agenda nacional",
      "urls": ["https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,STREAM,PLAYLIST,EVENT&limit=100&pubsubhub=true"],
      "patterns": [r"expresso\.pt/blitz/(?:agenda|musica/ao-vivo)/\d{4}-"],
@@ -69,7 +98,59 @@ SOURCES = [
 GENERIC_TITLES = {
     "mais info", "saber mais", "detalhes", "comprar", "bilhetes", "info",
     "ver mais", "read more", "agenda", "programação", "programacao",
+    "ler mais", "eventos", "arquivo", "imprensa", "contacto", "contactos",
 }
+
+FEATURED_EVENTS = [
+    {
+        "title": "Sigur Rós — The Orchestral Tour",
+        "date": "13 setembro 2026, 21h00",
+        "link": "https://sigurros.com/tour/",
+        "source": "Sigur Rós / Coliseu Porto Ageas",
+        "kind": "Concerto prioritário — Porto",
+        "expires": "2026-09-14",
+    },
+    {
+        "title": "Relicário perpétuo — ópera de Luís Tinoco",
+        "date": "11 e 12 setembro 2026",
+        "link": "https://www.saocarlos.pt/en/program/relicario-perpetuo/",
+        "source": "Teatro Nacional São João / São Carlos",
+        "kind": "Ópera — Porto",
+        "expires": "2026-09-13",
+    },
+    {
+        "title": "Gala Lírica com Olga Kulchynska",
+        "date": "13 setembro 2026, 17h00",
+        "link": "https://www.europarque.pt/agenda-completa/",
+        "source": "Europarque",
+        "kind": "Ópera e música clássica — Aveiro",
+        "expires": "2026-09-14",
+    },
+    {
+        "title": "Os dias levantados — ópera em versão de concerto",
+        "date": "7 outubro 2026, 21h00",
+        "link": "https://www.saocarlos.pt/calendar/",
+        "source": "Coliseu Porto Ageas / São Carlos",
+        "kind": "Ópera — Porto",
+        "expires": "2026-10-08",
+    },
+    {
+        "title": "Turandot, de Giacomo Puccini",
+        "date": "31 outubro 2026, 21h30",
+        "link": "https://cineteatro.cm-feira.pt/",
+        "source": "Cineteatro António Lamoso",
+        "kind": "Ópera — Aveiro",
+        "expires": "2026-11-01",
+    },
+    {
+        "title": "O Quebra-Nozes — Imperial Heritage Ballet",
+        "date": "17 janeiro 2027",
+        "link": "https://www.europarque.pt/agenda-completa/",
+        "source": "Europarque",
+        "kind": "Ballet — Aveiro",
+        "expires": "2027-01-18",
+    },
+]
 
 
 class LinkParser(HTMLParser):
@@ -92,6 +173,41 @@ class LinkParser(HTMLParser):
             self.href, self.text = None, []
 
 
+class PageInfoParser(HTMLParser):
+    def __init__(self, heading_tags=None):
+        super().__init__(convert_charrefs=True)
+        self.meta_titles, self.page_title, self.h1 = [], [], []
+        self.heading_tags = {tag.lower() for tag in (heading_tags or [])}
+        self.headings, self.capture, self.buffer = [], None, []
+
+    def handle_starttag(self, tag, attrs):
+        tag = tag.lower()
+        values = {str(k).lower(): v for k, v in attrs}
+        meta_name = (values.get("property") or values.get("name") or "").lower()
+        if tag == "meta" and meta_name in {"og:title", "twitter:title"} and values.get("content"):
+            self.meta_titles.append(values["content"])
+        if tag in {"title", "h1"} or tag in self.heading_tags:
+            self.capture, self.buffer = tag, []
+
+    def handle_data(self, data):
+        if self.capture:
+            self.buffer.append(data)
+
+    def handle_endtag(self, tag):
+        tag = tag.lower()
+        if tag != self.capture:
+            return
+        value = clean(" ".join(self.buffer))
+        if value:
+            if tag == "title":
+                self.page_title.append(value)
+            elif tag == "h1":
+                self.h1.append(value)
+            elif tag in self.heading_tags:
+                self.headings.append(value)
+        self.capture, self.buffer = None, []
+
+
 def clean(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
     return re.sub(r"\s+", " ", html.unescape(value)).strip(" -|\t\r\n")
@@ -104,20 +220,48 @@ def canonical_url(url):
 
 
 def title_from_url(url):
-    slug = urlsplit(url).path.rstrip("/").split("/")[-1]
+    parts = [part for part in urlsplit(url).path.rstrip("/").split("/") if part]
+    slug = parts[-1] if parts else ""
+    if re.fullmatch(r"\d+", slug) and len(parts) > 1:
+        slug = parts[-2]
     slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", slug)
+    slug = re.sub(r"^\d{5,}[-_]", "", slug)
+    slug = re.sub(r"_pt$", "", slug, flags=re.I)
     return clean(slug.replace("-", " ").replace("_", " ")).title()
+
+
+def title_needs_detail(title):
+    normalized = clean(title).casefold()
+    return (
+        not normalized
+        or normalized in GENERIC_TITLES
+        or len(normalized) < 3
+        or not re.search(r"[a-záàâãéêíóôõúç]", normalized, re.I)
+        or bool(re.fullmatch(r"(?:\d+[\s./:-]*)+", normalized))
+    )
+
+
+def detail_title(raw):
+    parser = PageInfoParser()
+    parser.feed(raw.decode("utf-8", errors="replace"))
+    choices = parser.meta_titles + parser.h1 + parser.page_title
+    for choice in choices:
+        value = clean(choice)
+        value = re.split(r"\s+[|–—]\s+", value, maxsplit=1)[0]
+        if not title_needs_detail(value):
+            return value
+    return ""
 
 
 def get_bytes(url):
     req = Request(url, headers={"User-Agent": USER_AGENT, "Accept-Language": "pt-PT,pt;q=0.9"})
-    with urlopen(req, timeout=35) as response:
+    with urlopen(req, timeout=18) as response:
         return response.read()
 
 
 def extract_source(source):
     found, failures = {}, []
-    compiled = [re.compile(p, re.I) for p in source["patterns"]]
+    compiled = [re.compile(p, re.I) for p in source.get("patterns", [])]
     for page_url in source["urls"]:
         try:
             raw = get_bytes(page_url)
@@ -131,15 +275,36 @@ def extract_source(source):
                 parser.feed(raw.decode("utf-8", errors="replace"))
                 candidates = parser.links
             page_count = 0
+            if source.get("heading_tags"):
+                heading_parser = PageInfoParser(source["heading_tags"])
+                heading_parser.feed(raw.decode("utf-8", errors="replace"))
+                excluded = [re.compile(p, re.I) for p in source.get("heading_exclude", [])]
+                for heading in heading_parser.headings:
+                    title = clean(heading)
+                    if title_needs_detail(title) or any(p.search(title) for p in excluded):
+                        continue
+                    absolute = canonical_url(page_url)
+                    key = hashlib.sha256(f"{absolute}\n{title.casefold()}".encode("utf-8")).hexdigest()[:24]
+                    found[key] = {"id": key, "title": title, "link": absolute,
+                                  "source": source["name"], "kind": source["kind"]}
+                    page_count += 1
             for href, anchor_text in candidates:
                 if not href or href.startswith(("#", "mailto:", "tel:", "javascript:")):
                     continue
                 absolute = canonical_url(urljoin(page_url, href))
-                if not any(p.search(absolute) for p in compiled):
+                if not compiled or not any(p.search(absolute) for p in compiled):
                     continue
                 title = clean(anchor_text)
-                if not title or title.casefold() in GENERIC_TITLES or len(title) < 3:
+                weak_anchor = title_needs_detail(title)
+                if weak_anchor:
                     title = title_from_url(absolute)
+                    if title_needs_detail(title):
+                        try:
+                            better = detail_title(get_bytes(absolute))
+                            if better:
+                                title = better
+                        except Exception:
+                            pass
                 if len(title) > 180:
                     title = title[:177] + "..."
                 key = hashlib.sha256(absolute.encode("utf-8")).hexdigest()[:24]
@@ -162,6 +327,21 @@ def extract_source(source):
             if "paged=" not in page_url:
                 failures.append(f"{type(exc).__name__}: {exc}")
     return list(found.values()), failures
+
+
+def active_featured_events():
+    today = date.today().isoformat()
+    result = []
+    for item in FEATURED_EVENTS:
+        if item.get("expires", "9999-12-31") < today:
+            continue
+        event = {key: value for key, value in item.items() if key != "expires"}
+        event["link"] = canonical_url(event["link"])
+        event["id"] = hashlib.sha256(
+            f"featured\n{event['link']}\n{event.get('date', '')}".encode("utf-8")
+        ).hexdigest()[:24]
+        result.append(event)
+    return result
 
 
 def telegram_api(token, method, data=None):
@@ -217,13 +397,14 @@ def build_lines(events, failures, initial):
     by_source = {}
     for event in events:
         by_source.setdefault(event["source"], []).append(event)
-    heading = "🎵 Agenda inicial de concertos" if initial else "🎵 Novos concertos encontrados"
+    heading = "🎭 Agenda inicial de espetáculos" if initial else "🎭 Novos espetáculos encontrados"
     lines = [heading, f"{len(events)} resultados em {len(by_source)} fontes", ""]
     for source_name in sorted(by_source):
         group = sorted(by_source[source_name], key=lambda e: e["title"].casefold())
         lines.append(f"📍 {source_name} ({len(group)})")
         for event in group:
-            lines.append(f"• {event['title']}\n{event['link']}")
+            when = f" — {event['date']}" if event.get("date") else ""
+            lines.append(f"• {event['title']}{when}\n{event['link']}")
         lines.append("")
     if failures:
         lines.extend(["⚠️ Fontes a rever:"] + [f"• {failure}" for failure in failures[:15]])
@@ -234,6 +415,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--quiet-baseline", action="store_true")
+    parser.add_argument("--refresh-baseline", action="store_true")
     args = parser.parse_args()
 
     all_events, failures, counts = [], [], []
@@ -242,6 +424,11 @@ def main():
         all_events.extend(events)
         failures.extend([f"{source['name']}: {item}" for item in source_failures])
         counts.append((source["name"], len(events)))
+
+    featured = active_featured_events()
+    all_events.extend(featured)
+    if featured:
+        counts.append(("Eventos prioritários", len(featured)))
 
     all_events = list({event["id"]: event for event in all_events}.values())
     print(f"Encontrados {len(all_events)} resultados oficiais.")
@@ -252,6 +439,12 @@ def main():
         for failure in failures:
             print(f"  AVISO: {failure}")
     if args.dry_run:
+        return 0
+
+    if args.refresh_baseline:
+        featured_ids = {event["id"] for event in featured}
+        save_seen({event["id"]: event for event in all_events if event["id"] not in featured_ids})
+        print("Agenda atual guardada como base, sem envio para o Telegram.")
         return 0
 
     token = os.environ.get("TELEGRAM_TOKEN", "").strip()
