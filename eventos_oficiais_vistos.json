@@ -1469,15 +1469,15 @@
     "source": "Cineteatro António Lamoso",
     "kind": "Música, teatro, dança e ópera — Aveiro"
   },
-  "e8390b4aa65d9e02fd2f2aac": {
-    "id": "e8390b4aa65d9e02fd2f2aac",
+  "ecfea170dae9465c4615f5a2": {
+    "id": "ecfea170dae9465c4615f5a2",
     "title": "Programação atualizada — Casa da Criatividade",
     "link": "https://www.casadacriatividade.com/infantil/",
     "source": "Casa da Criatividade",
     "kind": "São João da Madeira"
   },
-  "0e0d0a191d6130c5f214b939": {
-    "id": "0e0d0a191d6130c5f214b939",
+  "0c1d73b819dd5c5c6fd2351c": {
+    "id": "0c1d73b819dd5c5c6fd2351c",
     "title": "Programação atualizada — Casa da Criatividade",
     "link": "https://www.casadacriatividade.com/somos-nos/",
     "source": "Casa da Criatividade",
@@ -4366,5 +4366,53 @@
     "link": "https://expresso.pt/blitz/agenda/2026-08-27-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
+  },
+  "902579a4818839b037a64884": {
+    "title": "Sigur Rós — The Orchestral Tour",
+    "date": "13 setembro 2026, 21h00",
+    "link": "https://sigurros.com/tour/",
+    "source": "Sigur Rós / Coliseu Porto Ageas",
+    "kind": "Concerto prioritário — Porto",
+    "id": "902579a4818839b037a64884"
+  },
+  "35684acb7462e503f1b14ec6": {
+    "title": "Relicário perpétuo — ópera de Luís Tinoco",
+    "date": "11 e 12 setembro 2026",
+    "link": "https://www.saocarlos.pt/en/program/relicario-perpetuo/",
+    "source": "Teatro Nacional São João / São Carlos",
+    "kind": "Ópera — Porto",
+    "id": "35684acb7462e503f1b14ec6"
+  },
+  "b5def3c629a0ad9c67067e50": {
+    "title": "Gala Lírica com Olga Kulchynska",
+    "date": "13 setembro 2026, 17h00",
+    "link": "https://www.europarque.pt/agenda-completa/",
+    "source": "Europarque",
+    "kind": "Ópera e música clássica — Aveiro",
+    "id": "b5def3c629a0ad9c67067e50"
+  },
+  "dd6d7d5da5f99325e0b171e5": {
+    "title": "Os dias levantados — ópera em versão de concerto",
+    "date": "7 outubro 2026, 21h00",
+    "link": "https://www.saocarlos.pt/calendar/",
+    "source": "Coliseu Porto Ageas / São Carlos",
+    "kind": "Ópera — Porto",
+    "id": "dd6d7d5da5f99325e0b171e5"
+  },
+  "5d06539c6d6e890cc7449956": {
+    "title": "Turandot, de Giacomo Puccini",
+    "date": "31 outubro 2026, 21h30",
+    "link": "https://cineteatro.cm-feira.pt/",
+    "source": "Cineteatro António Lamoso",
+    "kind": "Ópera — Aveiro",
+    "id": "5d06539c6d6e890cc7449956"
+  },
+  "0e47e16a8ee03a46167ab86d": {
+    "title": "O Quebra-Nozes — Imperial Heritage Ballet",
+    "date": "17 janeiro 2027",
+    "link": "https://www.europarque.pt/agenda-completa/",
+    "source": "Europarque",
+    "kind": "Ballet — Aveiro",
+    "id": "0e47e16a8ee03a46167ab86d"
   }
 }
