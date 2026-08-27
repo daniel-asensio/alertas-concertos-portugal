@@ -208,6 +208,32 @@ class PageInfoParser(HTMLParser):
         self.capture, self.buffer = None, []
 
 
+class VisibleTextParser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.skip_depth, self.text = 0, []
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() in {"script", "style", "noscript", "svg"}:
+            self.skip_depth += 1
+
+    def handle_endtag(self, tag):
+        if tag.lower() in {"script", "style", "noscript", "svg"} and self.skip_depth:
+            self.skip_depth -= 1
+
+    def handle_data(self, data):
+        if not self.skip_depth:
+            value = clean(data)
+            if value:
+                self.text.append(value)
+
+
+def visible_text(raw):
+    parser = VisibleTextParser()
+    parser.feed(raw.decode("utf-8", errors="replace"))
+    return clean(" ".join(parser.text))
+
+
 def clean(value):
     value = re.sub(r"<[^>]+>", " ", value or "")
     return re.sub(r"\s+", " ", html.unescape(value)).strip(" -|\t\r\n")
@@ -312,10 +338,11 @@ def extract_source(source):
                               "source": source["name"], "kind": source["kind"]}
                 page_count += 1
             if page_count == 0 and source.get("watch_page"):
-                digest = hashlib.sha256(re.sub(rb"\s+", b" ", raw).strip()).hexdigest()[:24]
+                digest = hashlib.sha256(visible_text(raw).encode("utf-8")).hexdigest()[:24]
+                section = title_from_url(page_url)
                 found[digest] = {
                     "id": digest,
-                    "title": f"Programação atualizada — {source['name']}",
+                    "title": f"Programação atualizada — {source['name']} ({section})",
                     "link": canonical_url(page_url),
                     "source": source["name"],
                     "kind": source["kind"],
