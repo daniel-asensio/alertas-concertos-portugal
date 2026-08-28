@@ -1203,6 +1203,13 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
+  "86b43aa5becb07098b114397": {
+    "id": "86b43aa5becb07098b114397",
+    "title": "Orquestra 3 Efes Sofia Escobar Ricardo Afonso Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/184256-orquestra_3_efes_sofia_escobar_ricardo_afonso-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
   "24f870f7b481f12000aa2549": {
     "id": "24f870f7b481f12000aa2549",
     "title": "Os Quatro E Meia Tour Interior Europarque",
@@ -1609,6 +1616,13 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "2680b4a6fa8898c7d587e411": {
+    "id": "2680b4a6fa8898c7d587e411",
+    "title": "1ªparte: Chalk",
+    "link": "https://everythingisnew.pt/fontaines-d-c/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "690c157ca2af9321fbf55017": {
     "id": "690c157ca2af9321fbf55017",
     "title": "Io Canto World Tour",
@@ -1704,6 +1718,20 @@
     "id": "94699eba95ee2ee443066096",
     "title": "CAMANÉ – FESTIVAL FADO LIMA",
     "link": "https://everythingisnew.pt/camane-festival-fado-lima/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "4fbc4f5d61059a75d700d7b5": {
+    "id": "4fbc4f5d61059a75d700d7b5",
+    "title": "CAMANÉ – FESTIVAL FADO BOGOTÁ",
+    "link": "https://everythingisnew.pt/camane-festival-fado-bogota/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "edc8d62c146eab49da5dea1b": {
+    "id": "edc8d62c146eab49da5dea1b",
+    "title": "SARA CORREIA – FESTIVAL FADO BOGOTÁ",
+    "link": "https://everythingisnew.pt/sara-correia-festival-fado-bogota-2/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2554,10 +2582,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "85fabc0e46a9ab440e0b4730": {
-    "id": "85fabc0e46a9ab440e0b4730",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-08-14/",
+  "b2e74dda859f8e36545610c1": {
+    "id": "b2e74dda859f8e36545610c1",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-08-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2568,10 +2596,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b2e74dda859f8e36545610c1": {
-    "id": "b2e74dda859f8e36545610c1",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-08-28/",
+  "4d901a6f5b84326c0f3e2328": {
+    "id": "4d901a6f5b84326c0f3e2328",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-08-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2579,13 +2607,6 @@
     "id": "d52b1efe09d454fb42cf97bb",
     "title": "José Pedro Croft - Reflexos, Enclaves, Desvios",
     "link": "https://www.ccb.pt/evento/exposicao-jose-pedro-croft/2026-08-28/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "4d901a6f5b84326c0f3e2328": {
-    "id": "4d901a6f5b84326c0f3e2328",
-    "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-08-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2659,10 +2680,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "83470e05b563beb96a8bef15": {
-    "id": "83470e05b563beb96a8bef15",
-    "title": "Programa Vincular - Serviço de Educação e Mediação - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-09-01/",
+  "7bc36a7ae4abcdc8d5313597": {
+    "id": "7bc36a7ae4abcdc8d5313597",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-09-01/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2670,6 +2691,13 @@
     "id": "7bfced27efd062d482f95fe3",
     "title": "Educação Inclusiva - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "83470e05b563beb96a8bef15": {
+    "id": "83470e05b563beb96a8bef15",
+    "title": "Programa Vincular - Serviço de Educação e Mediação - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-09-01/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2747,6 +2775,13 @@
     "id": "13800273a950f81f93dcdd2a",
     "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
     "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-17/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ff5361ad6a811b84c9cdbb9b": {
+    "id": "ff5361ad6a811b84c9cdbb9b",
+    "title": "3.º Aniversário MAC/CCB",
+    "link": "https://www.ccb.pt/evento/3-o-aniversario-do-mac-ccb/2026-10-23/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2831,13 +2866,6 @@
     "id": "7b60d6e31aaba19cbec750db",
     "title": "Trasgo",
     "link": "https://agendadopedro.pt/concertos/trasgo-porto-15413/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "b7a56a7248f80b7d2f52e477": {
-    "id": "b7a56a7248f80b7d2f52e477",
-    "title": "Band On The Run",
-    "link": "https://agendadopedro.pt/concertos/band-on-the-run-porto-13930/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3093,6 +3121,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "fd27099afd5703592ca74a02": {
+    "id": "fd27099afd5703592ca74a02",
+    "title": "Cities Aviv",
+    "link": "https://agendadopedro.pt/concertos/cities-aviv-porto-16008/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "52b97af1da8f7856c2829cfc": {
     "id": "52b97af1da8f7856c2829cfc",
     "title": "Éme",
@@ -3331,6 +3366,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "323d8813db4e1109deca5df3": {
+    "id": "323d8813db4e1109deca5df3",
+    "title": "Brux ᛫ Fuck It",
+    "link": "https://agendadopedro.pt/concertos/brux-porto-16021/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "60314eea68ee91ad385518fb": {
     "id": "60314eea68ee91ad385518fb",
     "title": "Joe Jackson",
@@ -3340,7 +3382,7 @@
   },
   "bf6c3e7987878cd8ed35ce03": {
     "id": "bf6c3e7987878cd8ed35ce03",
-    "title": "Os Quatro e Meia ᛫ David Fonseca ᛫ Miguel Araújo ᛫ ...",
+    "title": "Os Quatro e Meia ᛫ David Fonseca ᛫ Miguel Araújo ᛫ Átoa ᛫ Luís Trigacheiro ᛫ Fernando Daniel ᛫ Syro ᛫ Elisa",
     "link": "https://agendadopedro.pt/concertos/os-quatro-e-meia-porto-14062/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3622,6 +3664,13 @@
     "id": "9251a8bd82038a5e04b26901",
     "title": "Ideal Clube de Fado Homenageia Gina Santos",
     "link": "https://agendadopedro.pt/concertos/ideal-clube-de-fado-homenageia-gina-santos-porto-15834/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "b7a56a7248f80b7d2f52e477": {
+    "id": "b7a56a7248f80b7d2f52e477",
+    "title": "Band On The Run",
+    "link": "https://agendadopedro.pt/concertos/band-on-the-run-porto-13930/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3933,6 +3982,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "b37e345dee0b41a2b81b0241": {
+    "id": "b37e345dee0b41a2b81b0241",
+    "title": "This Will Destroy You",
+    "link": "https://agendadopedro.pt/concertos/this-will-destroy-you-porto-16023/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "bca973c2b6c146b1703fb313": {
     "id": "bca973c2b6c146b1703fb313",
     "title": "Jane Monheit",
@@ -4094,6 +4150,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "8c7aede0f08c7c03815b35a0": {
+    "id": "8c7aede0f08c7c03815b35a0",
+    "title": "Mono",
+    "link": "https://agendadopedro.pt/concertos/mono-porto-16025/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "5491fb93965500a209b4e32f": {
     "id": "5491fb93965500a209b4e32f",
     "title": "Fresno",
@@ -4105,6 +4168,13 @@
     "id": "efa7105826d11a48f8537b2e",
     "title": "Ângelo Freire & José Manuel Neto & Luís Guerreiro",
     "link": "https://agendadopedro.pt/concertos/angelo-freire-porto-15542/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "f0b1728d3205e0582c606958": {
+    "id": "f0b1728d3205e0582c606958",
+    "title": "Joint One",
+    "link": "https://agendadopedro.pt/concertos/joint-one-porto-16010/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4339,26 +4409,54 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "83cff8bcf39fde21612780e7": {
-    "id": "83cff8bcf39fde21612780e7",
-    "title": "Don Omar",
-    "link": "https://agendadopedro.pt/concertos/don-omar-lisboa-15751/",
+  "2c2b420282b2b8763b05043f": {
+    "id": "2c2b420282b2b8763b05043f",
+    "title": "Wet Bed Gang ᛫ D.A.M.A. ᛫ Dealema ᛫ ...",
+    "link": "https://agendadopedro.pt/concertos/wet-bed-gang-gondomar-15837/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "a3c3d917a45eab415c8679b2": {
-    "id": "a3c3d917a45eab415c8679b2",
-    "title": "Jessica Moss",
-    "link": "https://agendadopedro.pt/concertos/jessica-moss-coimbra-15787/",
+  "6110d3872505adfd84740d3a": {
+    "id": "6110d3872505adfd84740d3a",
+    "title": "Fontaines D.C. ᛫ Chalk",
+    "link": "https://agendadopedro.pt/concertos/fontaines-d-c-lisboa-16026/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "2729efadf6c93778677729fb": {
-    "id": "2729efadf6c93778677729fb",
-    "title": "Passenger",
-    "link": "https://agendadopedro.pt/concertos/passenger-lisboa-15955/",
+  "aabfca4725bc4a1fe526fc0a": {
+    "id": "aabfca4725bc4a1fe526fc0a",
+    "title": "Mateus Asato",
+    "link": "https://agendadopedro.pt/concertos/mateus-asato-lisboa-16009/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "499759e63d8d7f14815fca8c": {
+    "id": "499759e63d8d7f14815fca8c",
+    "title": "Mono",
+    "link": "https://agendadopedro.pt/concertos/mono-lisboa-16024/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "2bfaff03aee745f5f0a0cea6": {
+    "id": "2bfaff03aee745f5f0a0cea6",
+    "title": "Padre Guilherme ᛫ HMB ᛫ Gospel Choir Collective",
+    "link": "https://agendadopedro.pt/concertos/padre-guilherme-carcavelos-16020/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "c0a66d6adc833f3b1b4f52e7": {
+    "id": "c0a66d6adc833f3b1b4f52e7",
+    "title": "This Will Destroy You",
+    "link": "https://agendadopedro.pt/concertos/this-will-destroy-you-lisboa-16022/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "8d90f9b069b541f48f5e2339": {
+    "id": "8d90f9b069b541f48f5e2339",
+    "title": "Todos os concertos marcados para 2026 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-08-28-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "902579a4818839b037a64884": {
     "title": "Sigur Rós — The Orchestral Tour",
