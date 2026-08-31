@@ -2568,59 +2568,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c96475a5be31150094910a62": {
-    "id": "c96475a5be31150094910a62",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-08-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "79f308df2843e20f5a726b49": {
     "id": "79f308df2843e20f5a726b49",
     "title": "Visitas Guiadas Ao Edificio Centro Cultural De Belem",
     "link": "https://www.ccb.pt/evento/visitas-guiadas-ao-edificio-centro-cultural-de-belem/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "deaed64b808dda0e2f951a0f": {
-    "id": "deaed64b808dda0e2f951a0f",
-    "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
-    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-08-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "861460215ebaac413d6deef2": {
-    "id": "861460215ebaac413d6deef2",
-    "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-08-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "7f4eb12ccd9763954fb084da": {
-    "id": "7f4eb12ccd9763954fb084da",
-    "title": "José Pedro Croft - Reflexos, Enclaves, Desvios",
-    "link": "https://www.ccb.pt/evento/exposicao-jose-pedro-croft/2026-08-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "eacd1125c47ab0e76e53e830": {
-    "id": "eacd1125c47ab0e76e53e830",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-08-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "9c4d53a4463ed036511d9e59": {
-    "id": "9c4d53a4463ed036511d9e59",
-    "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-08-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "6679dbab761b1dbf79bf7e60": {
-    "id": "6679dbab761b1dbf79bf7e60",
-    "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-08-30/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2652,6 +2603,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "0fb0c0bb753d7c4515c9bbc7": {
+    "id": "0fb0c0bb753d7c4515c9bbc7",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "591c88e1bf60af9803fe2808": {
     "id": "591c88e1bf60af9803fe2808",
     "title": "Primeira Infância - Centro Cultural de Belém",
@@ -2666,17 +2624,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "83470e05b563beb96a8bef15": {
-    "id": "83470e05b563beb96a8bef15",
-    "title": "Programa Vincular - Serviço de Educação e Mediação - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-09-01/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "7bc36a7ae4abcdc8d5313597": {
     "id": "7bc36a7ae4abcdc8d5313597",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "83470e05b563beb96a8bef15": {
+    "id": "83470e05b563beb96a8bef15",
+    "title": "Programa Vincular - Serviço de Educação e Mediação - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-09-01/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2694,10 +2652,52 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "2f530393708bef4dd7d9ce64": {
+    "id": "2f530393708bef4dd7d9ce64",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c3d85d6864bfe94d87424223": {
+    "id": "c3d85d6864bfe94d87424223",
+    "title": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "24a68d5294754296eaeef2da": {
+    "id": "24a68d5294754296eaeef2da",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c2a6a6a8da299b58fa86cd65": {
+    "id": "c2a6a6a8da299b58fa86cd65",
+    "title": "José Pedro Croft - Reflexos, Enclaves, Desvios",
+    "link": "https://www.ccb.pt/evento/exposicao-jose-pedro-croft/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "0c5dad079c3714d7d1b73892": {
+    "id": "0c5dad079c3714d7d1b73892",
+    "title": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "d482f3cd3ce39c623c1d6672": {
     "id": "d482f3cd3ce39c623c1d6672",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "88ecffc1b78804a4b8601cf8": {
+    "id": "88ecffc1b78804a4b8601cf8",
+    "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
+    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-09-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2847,13 +2847,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "b19d593414b4716333c15e29": {
-    "id": "b19d593414b4716333c15e29",
-    "title": "Day Trippers",
-    "link": "https://agendadopedro.pt/concertos/day-trippers-porto-13787/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "4179c9057900315bb5046e96": {
     "id": "4179c9057900315bb5046e96",
@@ -4416,6 +4409,41 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "0f8046758af7f5cf93b4e279": {
+    "id": "0f8046758af7f5cf93b4e279",
+    "title": "Deva Premal & Miten",
+    "link": "https://agendadopedro.pt/concertos/deva-premal-miten-lisboa-11299/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "a3c3d917a45eab415c8679b2": {
+    "id": "a3c3d917a45eab415c8679b2",
+    "title": "Jessica Moss",
+    "link": "https://agendadopedro.pt/concertos/jessica-moss-coimbra-15787/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "12f1b7fc692be4ecde837df6": {
+    "id": "12f1b7fc692be4ecde837df6",
+    "title": "Mariza",
+    "link": "https://agendadopedro.pt/concertos/mariza-lisboa-14170/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "ed4b5bd6099bde2b20520696": {
+    "id": "ed4b5bd6099bde2b20520696",
+    "title": "Moonspell",
+    "link": "https://agendadopedro.pt/concertos/moonspell-sintra-13126/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "fb081ecb8dd3eadc96f68aa0": {
+    "id": "fb081ecb8dd3eadc96f68aa0",
+    "title": "The Neighbourhood ᛫ Nessa Barrett",
+    "link": "https://agendadopedro.pt/concertos/the-neighbourhood-lisboa-11831/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "6110d3872505adfd84740d3a": {
     "id": "6110d3872505adfd84740d3a",
     "title": "Fontaines D.C. ᛫ Chalk",
@@ -4450,13 +4478,6 @@
     "link": "https://agendadopedro.pt/concertos/this-will-destroy-you-lisboa-16022/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "8d90f9b069b541f48f5e2339": {
-    "id": "8d90f9b069b541f48f5e2339",
-    "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-08-28-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
   },
   "902579a4818839b037a64884": {
     "title": "Sigur Rós — The Orchestral Tour",
