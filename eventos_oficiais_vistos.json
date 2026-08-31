@@ -1742,6 +1742,13 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "3ece6b2b90f3fc118fca10c8": {
+    "id": "3ece6b2b90f3fc118fca10c8",
+    "title": "SARA CORREIA – FESTIVAL FADO CANCÚN",
+    "link": "https://everythingisnew.pt/sara-correia-festival-fado-cancun/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "ae6f061ebfc879dc94add073": {
     "id": "ae6f061ebfc879dc94add073",
     "title": "Level 2",
@@ -1774,6 +1781,13 @@
     "id": "d8ef65f034e2f32fd92e4c96",
     "title": "CIRQUE DU SOLEIL – OVO",
     "link": "https://everythingisnew.pt/cirque-du-soleil-ovo-2/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "9b22f894184c6b0cfa44ce63": {
+    "id": "9b22f894184c6b0cfa44ce63",
+    "title": "Europe 2027",
+    "link": "https://everythingisnew.pt/blanco-white/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2766,7 +2780,7 @@
   },
   "ff5361ad6a811b84c9cdbb9b": {
     "id": "ff5361ad6a811b84c9cdbb9b",
-    "title": "3.º Aniversário MAC/CCB",
+    "title": "3.º Aniversário MAC/CCB - Entrada livre",
     "link": "https://www.ccb.pt/evento/3-o-aniversario-do-mac-ccb/2026-10-23/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
@@ -4478,6 +4492,13 @@
     "link": "https://agendadopedro.pt/concertos/this-will-destroy-you-lisboa-16022/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "0e0ff70dec3bdd3802cedb65": {
+    "id": "0e0ff70dec3bdd3802cedb65",
+    "title": "Todos os concertos marcados para 2026 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-08-31-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "902579a4818839b037a64884": {
     "title": "Sigur Rós — The Orchestral Tour",
