@@ -356,6 +356,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "871b5dcce6cedcf003f32356": {
+    "id": "871b5dcce6cedcf003f32356",
+    "title": "Bonanca 2",
+    "link": "https://casadamusica.com/event/bonanca-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "aae7d80c46793947768f9565": {
     "id": "aae7d80c46793947768f9565",
     "title": "Inscape",
@@ -1119,10 +1126,10 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "92948ba42785841ebcdbf69c": {
-    "id": "92948ba42785841ebcdbf69c",
-    "title": "MUSICAL-MENTE",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7252/musical-mente/",
+  "87fc4221d291651f24d20f6e": {
+    "id": "87fc4221d291651f24d20f6e",
+    "title": "O Fantástico Francis Hardy, Curandeiro",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7300/o-fantastico-francis-hardy-curandeiro/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1735,6 +1742,13 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "429e3fab2f322ee981f7290f": {
+    "id": "429e3fab2f322ee981f7290f",
+    "title": "SARA CORREIA – FESTIVAL FADO CIUDAD DE MÉXICO",
+    "link": "https://everythingisnew.pt/sara-correia-festival-fado-ciudad-de-mexico/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "7a11ec47e55490e9bd45702d": {
     "id": "7a11ec47e55490e9bd45702d",
     "title": "Miku Expo 2026 Europe",
@@ -2323,13 +2337,6 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "414cf7944faa6900fc5ef8a9": {
-    "id": "414cf7944faa6900fc5ef8a9",
-    "title": "Educar Para A Musica 1782740078169",
-    "link": "https://www.saocarlos.pt/program/educar-para-a-musica-1782740078169/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
   "7d22c35339577999fce259ba": {
     "id": "7d22c35339577999fce259ba",
     "title": "Teatro Nacional de São João 12 Set 2026 19:00 Relicário perpétuo",
@@ -2341,6 +2348,13 @@
     "id": "0282099260addbbe3d34c9a7",
     "title": "Convento de São Francisco 27 Set 2026 19:00 O regresso de Don Quixote",
     "link": "https://www.saocarlos.pt/program/o-regresso-de-don-quixote/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "2df62473eb8f5b40bfb5dddd": {
+    "id": "2df62473eb8f5b40bfb5dddd",
+    "title": "São Luiz Teatro Municipal 02 Dez 2026 15:00 Uma viagem pela música com o Teatro Nacional de São Carlos",
+    "link": "https://www.saocarlos.pt/program/uma-viagem-pela-musica-1788272028226/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -2367,7 +2381,7 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 18 Dez 2026 20:00 A bela adormecida",
+    "title": "Teatro Camões 12 Dez 2026 18:30 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2397,6 +2411,13 @@
     "id": "0bbd222930d5359e75f0359b",
     "title": "26 Set 2026 21:30 Os Maias",
     "link": "https://www.cnb.pt/program/os-maias-2627/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "ab25e07a54bf7be5d456a83b": {
+    "id": "ab25e07a54bf7be5d456a83b",
+    "title": "Carmina Burana 2026",
+    "link": "https://www.cnb.pt/program/carmina-burana-2026/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
