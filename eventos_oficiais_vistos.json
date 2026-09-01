@@ -2610,13 +2610,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8b3f1ba45839dfba2df29bed": {
-    "id": "8b3f1ba45839dfba2df29bed",
-    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
-    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-08-31/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "0fb0c0bb753d7c4515c9bbc7": {
     "id": "0fb0c0bb753d7c4515c9bbc7",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -2698,6 +2691,13 @@
     "id": "0c5dad079c3714d7d1b73892",
     "title": "May I Help You? Posso ajudar?",
     "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c94d2c1d93ce78c4f428e221": {
+    "id": "c94d2c1d93ce78c4f428e221",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-09-01/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
