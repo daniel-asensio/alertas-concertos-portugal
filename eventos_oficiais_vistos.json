@@ -286,6 +286,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "b954e930ba362f3344c3b7d4": {
+    "id": "b954e930ba362f3344c3b7d4",
+    "title": "Joana Raquel Finge Azar Azar",
+    "link": "https://casadamusica.com/event/joana-raquel-finge-azar-azar/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "4fe5b66b1389173c49025f77": {
     "id": "4fe5b66b1389173c49025f77",
     "title": "Jazz Sinfonico",
@@ -1070,6 +1077,13 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "c6f8863fd159838f771bbb63": {
+    "id": "c6f8863fd159838f771bbb63",
+    "title": "Mandragora - Porto",
+    "link": "https://www.hardclubporto.com/PT/evento/mandragora-porto-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
   "913ca05ab03dbc749eebc815": {
     "id": "913ca05ab03dbc749eebc815",
     "title": "+351 FESTIVAL URBANO",
@@ -1084,13 +1098,6 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "eb54d7ba98de67c657e42d70": {
-    "id": "eb54d7ba98de67c657e42d70",
-    "title": "BACK TO SCHOOL! KPOP & KHIPHOP Night",
-    "link": "https://www.hardclubporto.com/PT/evento/back-to-school-kpop-khiphop-night-officialkevents-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "9176a1a3cfebb2891e181fc5": {
     "id": "9176a1a3cfebb2891e181fc5",
     "title": "Maiúscula",
@@ -1102,13 +1109,6 @@
     "id": "fc37a5bc0cd6950cd4d88eaa",
     "title": "Relicário Perpétuo",
     "link": "https://www.tnsj.pt/pt/espetaculos/7250/relicario-perpetuo/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "688eabd1633348c8619922cf": {
-    "id": "688eabd1633348c8619922cf",
-    "title": "Kung-Fu",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7248/kung-fu/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1133,6 +1133,34 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
+  "92948ba42785841ebcdbf69c": {
+    "id": "92948ba42785841ebcdbf69c",
+    "title": "MUSICAL-MENTE",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7252/musical-mente/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "81d6cf06f505ad0deccfeca7": {
+    "id": "81d6cf06f505ad0deccfeca7",
+    "title": "My Center Is not in the Solar System",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7253/my-center-is-not-in-the-solar-system/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "4ef56cda6aa5b4193c0b5d32": {
+    "id": "4ef56cda6aa5b4193c0b5d32",
+    "title": "Solistas da Orquestra XXI: Morton Feldman",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7254/solistas-da-orquestra-xxi-morton-feldman/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "688eabd1633348c8619922cf": {
+    "id": "688eabd1633348c8619922cf",
+    "title": "Kung-Fu",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7248/kung-fu/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
   "b552bdc3956a117afcad5b04": {
     "id": "b552bdc3956a117afcad5b04",
     "title": "Casa Aberta",
@@ -1151,6 +1179,13 @@
     "id": "b3062e94a434a26224bf0cd6",
     "title": "O Conceito Inútil",
     "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "5a90fbfd19639608a8c1b36c": {
+    "id": "5a90fbfd19639608a8c1b36c",
+    "title": "De regresso ao Mosteiro",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1816,6 +1851,13 @@
     "id": "63b67bbed56bef63cd00d25b",
     "title": "Wild Love Tour - Europe 2027",
     "link": "https://everythingisnew.pt/passenger/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "127f0c0b1114f5c735777ff0": {
+    "id": "127f0c0b1114f5c735777ff0",
+    "title": "Alamo - UK & European Tour",
+    "link": "https://everythingisnew.pt/jake-bugg/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -4549,10 +4591,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "7539907c55f87998cee49c92": {
-    "id": "7539907c55f87998cee49c92",
+  "d265fc3d913bb1e694a13f02": {
+    "id": "d265fc3d913bb1e694a13f02",
     "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-09-01-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-02-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
