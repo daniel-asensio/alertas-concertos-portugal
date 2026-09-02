@@ -1133,10 +1133,24 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "92948ba42785841ebcdbf69c": {
-    "id": "92948ba42785841ebcdbf69c",
+  "688eabd1633348c8619922cf": {
+    "id": "688eabd1633348c8619922cf",
+    "title": "Kung-Fu",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7248/kung-fu/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "5a90fbfd19639608a8c1b36c": {
+    "id": "5a90fbfd19639608a8c1b36c",
+    "title": "Reabrir , Voltar a escutar",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "b8c05b9a006d9abf87ae1591": {
+    "id": "b8c05b9a006d9abf87ae1591",
     "title": "MUSICAL-MENTE",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7252/musical-mente/",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7302/musical-mente/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1151,13 +1165,6 @@
     "id": "4ef56cda6aa5b4193c0b5d32",
     "title": "Solistas da Orquestra XXI: Morton Feldman",
     "link": "https://www.tnsj.pt/pt/espetaculos/7254/solistas-da-orquestra-xxi-morton-feldman/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "688eabd1633348c8619922cf": {
-    "id": "688eabd1633348c8619922cf",
-    "title": "Kung-Fu",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7248/kung-fu/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1179,13 +1186,6 @@
     "id": "b3062e94a434a26224bf0cd6",
     "title": "O Conceito Inútil",
     "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "5a90fbfd19639608a8c1b36c": {
-    "id": "5a90fbfd19639608a8c1b36c",
-    "title": "De regresso ao Mosteiro",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1285,6 +1285,13 @@
     "title": "Raphael Ghanem O Rugido Do Leao Stand Up Comedy Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/181437-raphael_ghanem_o_rugido_do_leao_stand_up_comedy-europarque/",
     "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "81c92d19075a17fd93dadda6": {
+    "id": "81c92d19075a17fd93dadda6",
+    "title": "Os lugares não são para depois o que antes lá ficou Lançamento do livro do Laboratório de Dramaturgia 2025",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/os-lugares-nao-sao-para-depois-o-que-antes-la-ficou-lancamento-do-livro-do-laboratorio-de-dramaturgia-2025/",
+    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "af541df66a6b6e78ce2d12b6": {
@@ -2393,17 +2400,17 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "2df62473eb8f5b40bfb5dddd": {
-    "id": "2df62473eb8f5b40bfb5dddd",
-    "title": "São Luiz Teatro Municipal 02 Dez 2026 15:00 Uma viagem pela música com o Teatro Nacional de São Carlos",
-    "link": "https://www.saocarlos.pt/program/uma-viagem-pela-musica-1788272028226/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
   "b37b80935b48aae7e7f28d74": {
     "id": "b37b80935b48aae7e7f28d74",
     "title": "Coliseu Porto Ageas 07 Out 2026 21:00 Os dias levantados",
     "link": "https://www.saocarlos.pt/program/os-dias-levantados-1776856196441/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "b80e87e134be704393905d4c": {
+    "id": "b80e87e134be704393905d4c",
+    "title": "Convento de São Francisco Mátria | Ensaio aberto 19 Nov 2026 15:00 Encontro com a ópera",
+    "link": "https://www.saocarlos.pt/program/encontro-com-a-opera-1788348519711/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -2425,13 +2432,6 @@
     "id": "3a1cd305471419090ba7a13e",
     "title": "Teatro Camões 12 Dez 2026 18:30 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
-  "c0e9092100283a3d0a41a903": {
-    "id": "c0e9092100283a3d0a41a903",
-    "title": "Teatro Tivoli BBVA 12 Dez 2026 20:00 Natal com Mozart",
-    "link": "https://www.saocarlos.pt/program/natal-com-mozart/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
