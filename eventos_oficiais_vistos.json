@@ -1175,17 +1175,31 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "d68a416d72a5bec90c4e5d5b": {
-    "id": "d68a416d72a5bec90c4e5d5b",
-    "title": "O Estado do Mundo (Quando Acordas)",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7258/o-estado-do-mundo-quando-acordas/",
+  "1105c6b3842a2fc7e2826cbd": {
+    "id": "1105c6b3842a2fc7e2826cbd",
+    "title": "Leituras Dramatizadas",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7283/leituras-dramatizadas/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "b3062e94a434a26224bf0cd6": {
-    "id": "b3062e94a434a26224bf0cd6",
-    "title": "O Conceito Inútil",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
+  "98f6f0b2c8870385f4d6ccda": {
+    "id": "98f6f0b2c8870385f4d6ccda",
+    "title": "Contra-Regras: Fazer Teatro a Brincar",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7284/contra-regras-fazer-teatro-a-brincar/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "d21d5cf744bef889faffbd5a": {
+    "id": "d21d5cf744bef889faffbd5a",
+    "title": "Visitações: O Mundo às Avessas*",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7277/visitacoes-o-mundo-as-avessas-titulo-provisorio/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "030343767836eccf91775637": {
+    "id": "030343767836eccf91775637",
+    "title": "Interculturalidade por Caminhos Artísticos",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7280/interculturalidade-por-caminhos-artisticos/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -2568,10 +2582,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "7f51670448719232708a8e35": {
-    "id": "7f51670448719232708a8e35",
+  "220de9bd324c6a74292d85b9": {
+    "id": "220de9bd324c6a74292d85b9",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas-museu-mac-ccb/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2712,6 +2726,13 @@
     "id": "6a09d687da44fb17b87ceecf",
     "title": "Pré-escolar - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-09-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c95fab3013d74b65df119b92": {
+    "id": "c95fab3013d74b65df119b92",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-09-03/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
