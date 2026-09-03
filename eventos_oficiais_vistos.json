@@ -1868,10 +1868,24 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "87d62c3cd7ce1cba4c7c111a": {
+    "id": "87d62c3cd7ce1cba4c7c111a",
+    "title": "Live 2027",
+    "link": "https://everythingisnew.pt/simple-minds-2027-porto/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "4376233d9f822b0e60064c50": {
     "id": "4376233d9f822b0e60064c50",
     "title": "A Beautiful Lie vs This Is War",
     "link": "https://everythingisnew.pt/thirty-seconds-to-mars-4/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "c243029adeb3f5c6f4698349": {
+    "id": "c243029adeb3f5c6f4698349",
+    "title": "Live 2027",
+    "link": "https://everythingisnew.pt/simple-minds-2027/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -4612,17 +4626,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "90a775630043867ecd7ec1f5": {
+    "id": "90a775630043867ecd7ec1f5",
+    "title": "Todos os concertos marcados para 2026 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-03-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
+  },
   "bdd567a34b975dadd2fce9bb": {
     "id": "bdd567a34b975dadd2fce9bb",
     "title": "23 concertos que vale a pena ver em Portugal até ao fim do ano",
     "link": "https://expresso.pt/blitz/agenda/2026-09-02-23-concertos-que-vale-a-pena-ver-em-portugal-ate-ao-fim-do-ano-3b7303bc/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
-  },
-  "d265fc3d913bb1e694a13f02": {
-    "id": "d265fc3d913bb1e694a13f02",
-    "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-09-02-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
