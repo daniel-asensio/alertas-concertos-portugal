@@ -2680,41 +2680,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "6a7559ad5c6fd47f344de94d": {
-    "id": "6a7559ad5c6fd47f344de94d",
-    "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-09-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f76a59d676bc59de30fd6e59": {
-    "id": "f76a59d676bc59de30fd6e59",
-    "title": "José Pedro Croft - Reflexos, Enclaves, Desvios",
-    "link": "https://www.ccb.pt/evento/exposicao-jose-pedro-croft/2026-09-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "579a4e9c8cb4d2c5fe250915": {
-    "id": "579a4e9c8cb4d2c5fe250915",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "762cfd1f21a179d1e92945bf": {
-    "id": "762cfd1f21a179d1e92945bf",
-    "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-09-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b7a34ee7b4973e30ef557acb": {
-    "id": "b7a34ee7b4973e30ef557acb",
-    "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "8dbb191918bd18fdd332bf5c": {
     "id": "8dbb191918bd18fdd332bf5c",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -2754,6 +2719,41 @@
     "id": "4ef3aebbbea2f7e8900ae9d9",
     "title": "Universitário - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/universitario/2026-09-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "51da83e2e18dd92fb8c637bd": {
+    "id": "51da83e2e18dd92fb8c637bd",
+    "title": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-09-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c9080dc76dfa818a4601d7b9": {
+    "id": "c9080dc76dfa818a4601d7b9",
+    "title": "José Pedro Croft - Reflexos, Enclaves, Desvios",
+    "link": "https://www.ccb.pt/evento/exposicao-jose-pedro-croft/2026-09-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "34870a3ca65a243e9b9d8bb5": {
+    "id": "34870a3ca65a243e9b9d8bb5",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "296bc520f4d46796576b6a61": {
+    "id": "296bc520f4d46796576b6a61",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-09-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "2a1626459e90050ed0ef5e63": {
+    "id": "2a1626459e90050ed0ef5e63",
+    "title": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-03/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
