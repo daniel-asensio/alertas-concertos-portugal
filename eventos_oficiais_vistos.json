@@ -2974,13 +2974,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4179c9057900315bb5046e96": {
-    "id": "4179c9057900315bb5046e96",
-    "title": "Basic Partner",
-    "link": "https://agendadopedro.pt/concertos/basic-partner-porto-16033/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "6c61567f759a2062c7fb44ba": {
     "id": "6c61567f759a2062c7fb44ba",
     "title": "Barananu",
@@ -3090,6 +3083,13 @@
     "id": "32021436ba65f09a8751d967",
     "title": "Paulo Ricardo",
     "link": "https://agendadopedro.pt/concertos/paulo-ricardo-porto-12033/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "095d92523b8c980a1c99e9e8": {
+    "id": "095d92523b8c980a1c99e9e8",
+    "title": "Polivalente ᛫ Berma",
+    "link": "https://agendadopedro.pt/concertos/polivalente-porto-16123/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4311,6 +4311,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "2e9a1a68ae5107c3438d49ee": {
+    "id": "2e9a1a68ae5107c3438d49ee",
+    "title": "Sheherazaad",
+    "link": "https://agendadopedro.pt/concertos/sheherazaad-porto-16127/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "5491fb93965500a209b4e32f": {
     "id": "5491fb93965500a209b4e32f",
     "title": "Fresno",
@@ -4413,6 +4420,13 @@
     "id": "c1fa7369e5412f8603f22e91",
     "title": "Zé Amaro",
     "link": "https://agendadopedro.pt/concertos/ze-amaro-porto-14106/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "5a5febc4facf8f6630d52e57": {
+    "id": "5a5febc4facf8f6630d52e57",
+    "title": "Simple Minds ᛫ Level 42",
+    "link": "https://agendadopedro.pt/concertos/simple-minds-porto-16107/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4640,10 +4654,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "499759e63d8d7f14815fca8c": {
-    "id": "499759e63d8d7f14815fca8c",
-    "title": "Mono",
-    "link": "https://agendadopedro.pt/concertos/mono-lisboa-16024/",
+  "c7cb51ce65376fb7666ea98a": {
+    "id": "c7cb51ce65376fb7666ea98a",
+    "title": "Simple Minds ᛫ Level 42",
+    "link": "https://agendadopedro.pt/concertos/simple-minds-lisboa-16108/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4653,13 +4667,6 @@
     "link": "https://agendadopedro.pt/concertos/the-mission-lisboa-16101/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "90a775630043867ecd7ec1f5": {
-    "id": "90a775630043867ecd7ec1f5",
-    "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-09-03-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
   },
   "902579a4818839b037a64884": {
     "title": "Sigur Rós — The Orchestral Tour",
