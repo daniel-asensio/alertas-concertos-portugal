@@ -1,25 +1,4 @@
 {
-  "c6e81b2d2c4616c0871cd47a": {
-    "id": "c6e81b2d2c4616c0871cd47a",
-    "title": "Viii Edicao Jovem Orquestra De Famalicao",
-    "link": "https://casadamusica.com/event/viii-edicao-jovem-orquestra-de-famalicao/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "7f759e0293ccdb13034c0bad": {
-    "id": "7f759e0293ccdb13034c0bad",
-    "title": "Barananu",
-    "link": "https://casadamusica.com/event/barananu/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "9dd76611489922b929130978": {
-    "id": "9dd76611489922b929130978",
-    "title": "Som Da Rua Na Avenida 2026",
-    "link": "https://casadamusica.com/event/som-da-rua-na-avenida-2026/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "53f7b183d252d30bcf448060": {
     "id": "53f7b183d252d30bcf448060",
     "title": "Festival Itinerante De Percussao Especial 2026",
@@ -2288,13 +2267,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "fece8ac40000e3cd00e86e62": {
-    "id": "fece8ac40000e3cd00e86e62",
-    "title": "Fischer Z",
-    "link": "https://coliseulisboa.com/eventos/fischer-z/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "a8e5f4e055ef20a4cc5e3430": {
     "id": "a8e5f4e055ef20a4cc5e3430",
     "title": "Tt 20 Anos De Rnb Come Closer",
@@ -2390,6 +2362,13 @@
     "id": "bc95d2d06b9aecd7996136f5",
     "title": "Gilberto Gil Amor Azul",
     "link": "https://coliseulisboa.com/eventos/gilberto-gil-amor-azul/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "44c979ca9d448bb3dbaad8f1": {
+    "id": "44c979ca9d448bb3dbaad8f1",
+    "title": "Alma De Coimbra Lusofonias 20 Anos De Musica",
+    "link": "https://coliseulisboa.com/eventos/alma-de-coimbra-lusofonias-20-anos-de-musica/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
