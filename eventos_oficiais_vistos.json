@@ -1042,13 +1042,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "c6f8863fd159838f771bbb63": {
-    "id": "c6f8863fd159838f771bbb63",
-    "title": "Mandragora - Porto",
-    "link": "https://www.hardclubporto.com/PT/evento/mandragora-porto-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "913ca05ab03dbc749eebc815": {
     "id": "913ca05ab03dbc749eebc815",
     "title": "+351 FESTIVAL URBANO",
@@ -1060,6 +1053,13 @@
     "id": "41773b18bb82619c1c290a15",
     "title": "JOHNNY HOOKER",
     "link": "https://www.hardclubporto.com/PT/evento/johnny-hooker-euro-tour-2026-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "eb54d7ba98de67c657e42d70": {
+    "id": "eb54d7ba98de67c657e42d70",
+    "title": "BACK TO SCHOOL! KPOP & KHIPHOP Night",
+    "link": "https://www.hardclubporto.com/PT/evento/back-to-school-kpop-khiphop-night-officialkevents-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -2939,20 +2939,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8978748c14d008ddbe3dca41": {
-    "id": "8978748c14d008ddbe3dca41",
-    "title": "Fischer-Z",
-    "link": "https://agendadopedro.pt/concertos/fischer-z-porto-11873/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "7a99b451004c6b4d91d364e7": {
-    "id": "7a99b451004c6b4d91d364e7",
-    "title": "Lyzzärd",
-    "link": "https://agendadopedro.pt/concertos/lyzzard-porto-15414/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "cced0909a8dcb500ce01cac4": {
     "id": "cced0909a8dcb500ce01cac4",
     "title": "Stone Dead",
@@ -4528,59 +4514,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "c5216400a63705401313e819": {
-    "id": "c5216400a63705401313e819",
-    "title": "Carl Cox",
-    "link": "https://agendadopedro.pt/concertos/carl-cox-loures-12569/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "6b1be0f917361ec0e943d4e4": {
     "id": "6b1be0f917361ec0e943d4e4",
     "title": "GNR",
     "link": "https://agendadopedro.pt/concertos/gnr-festival-entre-portas-lisboa-14048/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "a06ae30fabece481e8adbeba": {
-    "id": "a06ae30fabece481e8adbeba",
-    "title": "Ivete Sangalo",
-    "link": "https://agendadopedro.pt/concertos/ivete-sangalo-cascais-12871/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "866119142b92a8868f95ebf0": {
-    "id": "866119142b92a8868f95ebf0",
-    "title": "Jessica Moss",
-    "link": "https://agendadopedro.pt/concertos/jessica-moss-coimbra-15788/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "b3581126729183c8bb3ec3ab": {
-    "id": "b3581126729183c8bb3ec3ab",
-    "title": "Pedro Abrunhosa ᛫ Bluay",
-    "link": "https://agendadopedro.pt/concertos/pedro-abrunhosa-festival-portas-do-tejo-lisboa-15718/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "9f2fadab381b24769ffe6234": {
-    "id": "9f2fadab381b24769ffe6234",
-    "title": "The Weeknd ᛫ Playboi Carti",
-    "link": "https://agendadopedro.pt/concertos/the-weeknd-lisboa-10244/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "87c79b9efb3733a08451e2f8": {
-    "id": "87c79b9efb3733a08451e2f8",
-    "title": "Tt Lisboa 12055",
-    "link": "https://agendadopedro.pt/concertos/tt-lisboa-12055/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "2c2b420282b2b8763b05043f": {
-    "id": "2c2b420282b2b8763b05043f",
-    "title": "Wet Bed Gang ᛫ D.A.M.A. ᛫ Dealema ᛫ ...",
-    "link": "https://agendadopedro.pt/concertos/wet-bed-gang-gondomar-15837/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
