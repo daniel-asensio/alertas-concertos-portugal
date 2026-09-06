@@ -741,13 +741,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "ca3d9cd803d9acae35fe46d4": {
-    "id": "ca3d9cd803d9acae35fe46d4",
-    "title": "BLAST Premier",
-    "link": "https://www.superbockarena.pt/evento/blast-premier-3/",
-    "source": "Super Bock Arena",
-    "kind": "Porto"
-  },
   "7bb4951425eb8be7e1e9d986": {
     "id": "7bb4951425eb8be7e1e9d986",
     "title": "Phonica – Marisa Monte & Orquestra Ao Vivo",
@@ -1105,20 +1098,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "1105c6b3842a2fc7e2826cbd": {
-    "id": "1105c6b3842a2fc7e2826cbd",
-    "title": "Leituras Dramatizadas",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7283/leituras-dramatizadas/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "98f6f0b2c8870385f4d6ccda": {
-    "id": "98f6f0b2c8870385f4d6ccda",
-    "title": "Contra-Regras: Fazer Teatro a Brincar",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7284/contra-regras-fazer-teatro-a-brincar/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "d21d5cf744bef889faffbd5a": {
     "id": "d21d5cf744bef889faffbd5a",
     "title": "Visitações: O Mundo às Avessas*",
@@ -1137,6 +1116,20 @@
     "id": "950a669a52f5018cb049439b",
     "title": "Clubes de Teatro",
     "link": "https://www.tnsj.pt/pt/espetaculos/7278/clubes-de-teatro/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "ba4fe228bb60733dd339b039": {
+    "id": "ba4fe228bb60733dd339b039",
+    "title": "Fimpalitos",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7261/fimpalitos/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "d68a416d72a5bec90c4e5d5b": {
+    "id": "d68a416d72a5bec90c4e5d5b",
+    "title": "O Estado do Mundo (Quando Acordas)",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7258/o-estado-do-mundo-quando-acordas/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
