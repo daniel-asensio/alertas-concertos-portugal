@@ -1,25 +1,4 @@
 {
-  "53f7b183d252d30bcf448060": {
-    "id": "53f7b183d252d30bcf448060",
-    "title": "Festival Itinerante De Percussao Especial 2026",
-    "link": "https://casadamusica.com/event/festival-itinerante-de-percussao-especial-2026/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "09c066017ddebd27b51a5a88": {
-    "id": "09c066017ddebd27b51a5a88",
-    "title": "Fischer Z",
-    "link": "https://casadamusica.com/event/fischer-z/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "c0e90646e31d4613272b5db7": {
-    "id": "c0e90646e31d4613272b5db7",
-    "title": "Concerto De Opera Nos Aliados",
-    "link": "https://casadamusica.com/event/concerto-de-opera-nos-aliados/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "dad5000c6e8b3da1b530d8cf": {
     "id": "dad5000c6e8b3da1b530d8cf",
     "title": "Arruada Com Pancho",
@@ -2246,13 +2225,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "a8e5f4e055ef20a4cc5e3430": {
-    "id": "a8e5f4e055ef20a4cc5e3430",
-    "title": "Tt 20 Anos De Rnb Come Closer",
-    "link": "https://coliseulisboa.com/eventos/tt-20-anos-de-rnb-come-closer/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "2219d8817b77bb6750a0ecca": {
     "id": "2219d8817b77bb6750a0ecca",
     "title": "One Vision Tributo Queen 80O Aniversario De Freddie Mercury",
@@ -2348,6 +2320,13 @@
     "id": "44c979ca9d448bb3dbaad8f1",
     "title": "Alma De Coimbra Lusofonias 20 Anos De Musica",
     "link": "https://coliseulisboa.com/eventos/alma-de-coimbra-lusofonias-20-anos-de-musica/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "4328907c432ebaa59b1aee1b": {
+    "id": "4328907c432ebaa59b1aee1b",
+    "title": "Judit Nedderman Apresenta Brota Em Duo Com Dario Barroso",
+    "link": "https://coliseulisboa.com/eventos/judit-nedderman-apresenta-brota-em-duo-com-dario-barroso/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
