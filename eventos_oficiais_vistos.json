@@ -4479,13 +4479,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "6b1be0f917361ec0e943d4e4": {
-    "id": "6b1be0f917361ec0e943d4e4",
-    "title": "GNR",
-    "link": "https://agendadopedro.pt/concertos/gnr-festival-entre-portas-lisboa-14048/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "0f8046758af7f5cf93b4e279": {
     "id": "0f8046758af7f5cf93b4e279",
     "title": "Deva Premal & Miten",
@@ -4518,6 +4511,48 @@
     "id": "fb081ecb8dd3eadc96f68aa0",
     "title": "The Neighbourhood ᛫ Nessa Barrett",
     "link": "https://agendadopedro.pt/concertos/the-neighbourhood-lisboa-11831/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "2c2c281b1d06aa6941dce627": {
+    "id": "2c2c281b1d06aa6941dce627",
+    "title": "Billy Corgan & Orquestra Sinfonietta de Lisboa \"Mellon Collie and the Infinite Sadness\"",
+    "link": "https://agendadopedro.pt/concertos/billy-corgan-lisboa-14025/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "1d6f502b9255d0ce087ef19a": {
+    "id": "1d6f502b9255d0ce087ef19a",
+    "title": "Mac DeMarco",
+    "link": "https://agendadopedro.pt/concertos/mac-demarco-lisboa-11107/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "10f260f520e0540ba3271d36": {
+    "id": "10f260f520e0540ba3271d36",
+    "title": "Marisa Monte",
+    "link": "https://agendadopedro.pt/concertos/marisa-monte-lisboa-11379/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "2bfaff03aee745f5f0a0cea6": {
+    "id": "2bfaff03aee745f5f0a0cea6",
+    "title": "Padre Guilherme ᛫ HMB ᛫ Gospel Choir Collective",
+    "link": "https://agendadopedro.pt/concertos/padre-guilherme-carcavelos-16020/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "249c6cdc098b1ef77630ab6e": {
+    "id": "249c6cdc098b1ef77630ab6e",
+    "title": "Ronnie Wood",
+    "link": "https://agendadopedro.pt/concertos/ronnie-wood-lisboa-14201/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "cd96418ac7a5c6b401dd418a": {
+    "id": "cd96418ac7a5c6b401dd418a",
+    "title": "Sigur Rós",
+    "link": "https://agendadopedro.pt/concertos/sigur-ros-lisboa-12246/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
