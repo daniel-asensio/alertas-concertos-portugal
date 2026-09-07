@@ -1,18 +1,4 @@
 {
-  "dad5000c6e8b3da1b530d8cf": {
-    "id": "dad5000c6e8b3da1b530d8cf",
-    "title": "Arruada Com Pancho",
-    "link": "https://casadamusica.com/event/arruada-com-pancho/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "f7d05637900450d75bca6d78": {
-    "id": "f7d05637900450d75bca6d78",
-    "title": "Tiki Taka Na Avenida",
-    "link": "https://casadamusica.com/event/tiki-taka-na-avenida/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "668aa7fccd28264ee4507b15": {
     "id": "668aa7fccd28264ee4507b15",
     "title": "Diogo Andrade 2",
@@ -724,6 +710,20 @@
     "id": "dcf3de7e02a6bc374523825f",
     "title": "Elba Ramalho",
     "link": "https://casadamusica.com/event/elba-ramalho/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "7ae6aaed441599fa153c9224": {
+    "id": "7ae6aaed441599fa153c9224",
+    "title": "Rodrigo Gabriela",
+    "link": "https://casadamusica.com/event/rodrigo-gabriela/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "38fd22a0b7f8836d7b026290": {
+    "id": "38fd22a0b7f8836d7b026290",
+    "title": "Cassete Pirata",
+    "link": "https://casadamusica.com/event/cassete-pirata/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2190,13 +2190,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "2219d8817b77bb6750a0ecca": {
-    "id": "2219d8817b77bb6750a0ecca",
-    "title": "One Vision Tributo Queen 80O Aniversario De Freddie Mercury",
-    "link": "https://coliseulisboa.com/eventos/one-vision-tributo-queen-80o-aniversario-de-freddie-mercury/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "9135a70cf571d81442c00d89": {
     "id": "9135a70cf571d81442c00d89",
     "title": "Jorge Ferraz Santa Maria Gasolina Em Teu Ventre Redux",
@@ -2292,6 +2285,13 @@
     "id": "4328907c432ebaa59b1aee1b",
     "title": "Judit Nedderman Apresenta Brota Em Duo Com Dario Barroso",
     "link": "https://coliseulisboa.com/eventos/judit-nedderman-apresenta-brota-em-duo-com-dario-barroso/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "4ee855a6516df7cc9e4d0a5d": {
+    "id": "4ee855a6516df7cc9e4d0a5d",
+    "title": "Asi Contest Best Sommelier Of The World 2026",
+    "link": "https://coliseulisboa.com/eventos/asi-contest-best-sommelier-of-the-world-2026/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
