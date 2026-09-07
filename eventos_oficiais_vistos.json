@@ -727,20 +727,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "7ae6aaed441599fa153c9224": {
-    "id": "7ae6aaed441599fa153c9224",
-    "title": "Rodrigo Gabriela",
-    "link": "https://casadamusica.com/event/rodrigo-gabriela/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "38fd22a0b7f8836d7b026290": {
-    "id": "38fd22a0b7f8836d7b026290",
-    "title": "Cassete Pirata",
-    "link": "https://casadamusica.com/event/cassete-pirata/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "7bb4951425eb8be7e1e9d986": {
     "id": "7bb4951425eb8be7e1e9d986",
     "title": "Phonica – Marisa Monte & Orquestra Ao Vivo",
@@ -1487,20 +1473,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "878c07bef6dbf6924dc70a77": {
-    "id": "878c07bef6dbf6924dc70a77",
-    "title": "European Tour 2026",
-    "link": "https://everythingisnew.pt/kard/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "9adddf5faa1759802e8859b9": {
-    "id": "9adddf5faa1759802e8859b9",
-    "title": "CRISTINA BRANCO – FESTIVAL FADO BEIJING",
-    "link": "https://everythingisnew.pt/cristina-branco-festival-fado-beijing/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
