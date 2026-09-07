@@ -951,6 +951,13 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "2fca801bb38cb7772e779bb3": {
+    "id": "2fca801bb38cb7772e779bb3",
+    "title": "AMANHÃ NÃO ESTÁ CERTO – Pedro Teixeira da Mota",
+    "link": "https://www.superbockarena.pt/evento/amanha-nao-esta-certo-pedro-teixeira-da-mota/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
   "22dd15d4710f6bfe45c06421": {
     "id": "22dd15d4710f6bfe45c06421",
     "title": "Dominguinho",
@@ -1053,6 +1060,13 @@
     "id": "58ee32e2a2ba09656173a983",
     "title": "Cantar de Galo",
     "link": "https://www.tnsj.pt/pt/espetaculos/7249/cantar-de-galo/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "859820ffa7b96949cdbcb16c": {
+    "id": "859820ffa7b96949cdbcb16c",
+    "title": "Falsas Histórias Verdadeiras: Uma Pina Colagem",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7276/falsas-historias-verdadeiras-uma-pina-colagem-a-gramatica-nao-chega-para-dizer-tudo/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -4570,10 +4584,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "c9329cc0cb834ae875ce2633": {
-    "id": "c9329cc0cb834ae875ce2633",
+  "687a3d0924c63ca9b5cf2ed8": {
+    "id": "687a3d0924c63ca9b5cf2ed8",
     "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-09-06-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-07-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
