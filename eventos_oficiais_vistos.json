@@ -1224,6 +1224,13 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "07904371f4da9e23a80c66b5": {
+    "id": "07904371f4da9e23a80c66b5",
+    "title": "Calle Málaga Os Filmes das Nossas Terças",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/calle-malaga/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "81bb336b217d6f0690aa62a3": {
     "id": "81bb336b217d6f0690aa62a3",
     "title": "Futuros Ecossomáticos Oficina Todos São Palco",
@@ -1235,6 +1242,20 @@
     "id": "7aef44cafebba8e47a44a1bb",
     "title": "Los Devoró la Selva Todos São Palco",
     "link": "https://www.teatroaveirense.pt/index.php/evento/los-devoro-la-selva/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "b9b50e76300f8916f962a71f": {
+    "id": "b9b50e76300f8916f962a71f",
+    "title": "La Bohéme de G. Puccini Versão de Câmara de Melvin Tay",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/la-boheme-de-g-puccini/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "70d6ddc11c3ae46bd8496429": {
+    "id": "70d6ddc11c3ae46bd8496429",
+    "title": "Livros Restantes Os Filmes das Nossas Terças",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/livros-restantes/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -1252,10 +1273,31 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "fb764d3a4b5c6e9acb15f7df": {
+    "id": "fb764d3a4b5c6e9acb15f7df",
+    "title": "Para Instrução de Curiosos. Figuras negras, leituras brancas. Conversa Red Cloud",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/para-instrucao-de-curiosos-figuras-negras-leituras-brancas-com-jose-alberto-ferreira/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "be77cd829c173b30d66ccdf3": {
+    "id": "be77cd829c173b30d66ccdf3",
+    "title": "Happy Birthday Mr. Mercury Quinteto de Cordas + Piano / Orquestra Sinfónica de Lisboa",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/happy-birthday-mr-mercury/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "8d86030d378ac17a88d98ff7": {
     "id": "8d86030d378ac17a88d98ff7",
     "title": "Schönbrunn Palace Orchestra Vienna From Strauss to Léhar - an evening through Vienna's Golden Age",
     "link": "https://www.teatroaveirense.pt/index.php/evento/schonbrunn-palace-orchestra-vienna/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "6c3858f283ac0d1d65564a3b": {
+    "id": "6c3858f283ac0d1d65564a3b",
+    "title": "Cartas Amarelas Os Filmes das Nossas Terças",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/cartas-amarelas/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -1287,6 +1329,34 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "7d0d4f93a663d4bf941c7202": {
+    "id": "7d0d4f93a663d4bf941c7202",
+    "title": "PRISMA 2026 Art Light Tech",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/prisma-2026/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "39d2f3223de4ad1b123b52b9": {
+    "id": "39d2f3223de4ad1b123b52b9",
+    "title": "Arquitetas da Liberdade Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/arquitetas-da-liberdade/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "706338145ed67458712e5456": {
+    "id": "706338145ed67458712e5456",
+    "title": "Baile Tradicional Galego Oficina \"Do Terreiro ao Mundo\"",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/baile-tradicional-galego-oficina-do-terreiro-ao-mundo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "64194276c8fe4c6df16c7b2a": {
+    "id": "64194276c8fe4c6df16c7b2a",
+    "title": "Do Terreiro ao Mundo De Clara Andermatt para a Companhia Instável",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/do-terreiro-ao-mundo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "78c2a7d37be6ff7c7678273f": {
     "id": "78c2a7d37be6ff7c7678273f",
     "title": "Susie Filipe & Banda Amizade - Banda Sinfónica de Aveiro",
@@ -1294,10 +1364,206 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "30c72aedf16187b618c1d5b0": {
+    "id": "30c72aedf16187b618c1d5b0",
+    "title": "E as flores? Joana Gama",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/e-as-flores/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "b8ccf554922208dc7462b2ee": {
+    "id": "b8ccf554922208dc7462b2ee",
+    "title": "Helena Caldeira Novas Quintas",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/helena-caldeira-novas-quintas/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "bdb5ec1c2239acaa71e31d06": {
+    "id": "bdb5ec1c2239acaa71e31d06",
+    "title": "Uma Linha de Luz na Água [ESTREIA] João Reis e Nuno Aroso",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/uma-linha-de-luz-na-agua/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "ffd527c18df22669e163273f": {
+    "id": "ffd527c18df22669e163273f",
+    "title": "Woyzeck a partir de Georg Büchner",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/woyzeck/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "2cda50bc082ea563d0f67d87": {
+    "id": "2cda50bc082ea563d0f67d87",
+    "title": "Coelho Radioactivo Apresenta ANTI-ONTEM",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/coelho-radioactivo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "078d7f669f1c19c35725431c": {
+    "id": "078d7f669f1c19c35725431c",
+    "title": "Ensemble Inverspace [ESTREIA NACIONAL] Tubo de Ensaio #14",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/ensemble-inverspace-estreia-nacional/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "ab914a735a2a5c67734ec576": {
+    "id": "ab914a735a2a5c67734ec576",
+    "title": "Home Francisco Sassetti / Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/home-francisco-sassetti-ciclo-o-problema-da-habitacao/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "3ea6dbd914209bcbc3af76c7": {
+    "id": "3ea6dbd914209bcbc3af76c7",
+    "title": "Cantar-o-Lar [ESTREIA] Projeto de Arte Comunitária",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/cantar-o-lar-estreia/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "62831604610b945a8e30ff0e": {
+    "id": "62831604610b945a8e30ff0e",
+    "title": "Bastien e Bastienne de W. A. Mozart Uma ópera em marionetas e em português",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/bastien-e-bastienne-escolas/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "5ad91e5aba341e46af3d1a10": {
     "id": "5ad91e5aba341e46af3d1a10",
     "title": "Sondre Lerche Apresentação do disco 'Acrobat'",
     "link": "https://www.teatroaveirense.pt/index.php/evento/sondre-lerche/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "628f55ba84182e8646e02754": {
+    "id": "628f55ba84182e8646e02754",
+    "title": "Bastien e Bastienne de W. A. Mozart Uma ópera em marionetas e em português",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/bastien-e-bastienne-de-w-a-mozart/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "ef5aa999a166c0bf67bbe996": {
+    "id": "ef5aa999a166c0bf67bbe996",
+    "title": "Entre Corpo, Voz, Memória Oficina Palcos Instáveis",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/entre-corpo-voz-memoria/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "2e49cebc10bb5bfce5919dc0": {
+    "id": "2e49cebc10bb5bfce5919dc0",
+    "title": "Songs of Ascencion Beatriz Moreira, Iris Auguste e Giulia Micelli / Palcos Instáveis - Segunda Casa",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/songs-of-ascencion/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "1d23bea799fc2626c25a078c": {
+    "id": "1d23bea799fc2626c25a078c",
+    "title": "O Problema da Habitação [ESTREIA] Direção de Jorge Louraço Figueira",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "28b714cd7f0b3b4a5140184b": {
+    "id": "28b714cd7f0b3b4a5140184b",
+    "title": "Todos os sons vão dar à UA Ensemble Efémero Internacional / Festivais de Outono 2026",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/todos-os-sons-vao-dar-a-ua/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "e0c342b4df36ef1a95afae41": {
+    "id": "e0c342b4df36ef1a95afae41",
+    "title": "Som da Água: uma parceria UA / UNESCO Conversa Festivais de Outono",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/som-da-agua-uma-parceria-ua-unesco/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "d92e24e1728667377cb1d270": {
+    "id": "d92e24e1728667377cb1d270",
+    "title": "O Som da Água: Música em estado líquido Concerto de encerramento dos Festivais de Outono 2026",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-som-da-agua-musica-em-estado-liquido/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "07570ba7ff1ebb569908b3c5": {
+    "id": "07570ba7ff1ebb569908b3c5",
+    "title": "Carolina Deslandes Voz, Guitarra & Violoncelo",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/carolina-deslandes/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "14ca497c27b7157902671f49": {
+    "id": "14ca497c27b7157902671f49",
+    "title": "Axiom Casino Jonathan Uliel Saldanha",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/axiom-casino/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "c9e3b3ba6f8658a91435cb89": {
+    "id": "c9e3b3ba6f8658a91435cb89",
+    "title": "en.tre.nar.ra.ti.vas [ESTREIA] Red Cloud Teatro de Marionetas",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/en-tre/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "3a47b52cde33f81f08e56003": {
+    "id": "3a47b52cde33f81f08e56003",
+    "title": "Fabulando no Escuro Conversa Red Cloud",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/fabulando-no-escuro/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "9c2cb3f9437d98df1d8b093f": {
+    "id": "9c2cb3f9437d98df1d8b093f",
+    "title": "en.tre.nar.ra.ti.vas [ESTREIA] Red Cloud Teatro de Marionetas",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/en-tre-nar-ra-ti-vas-estreia/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "ee9ad36d5194b8b9619f06d8": {
+    "id": "ee9ad36d5194b8b9619f06d8",
+    "title": "As mais belas coisas do mundo Joana Providência",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/as-mais-belas-coisas-do-mundo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "0dee3639823b208ca7e0d7dd": {
+    "id": "0dee3639823b208ca7e0d7dd",
+    "title": "As mais belas coisas do mundo Joana Providência",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/as-mais-belas/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "2a24913c3adf0aa6c6d016c7": {
+    "id": "2a24913c3adf0aa6c6d016c7",
+    "title": "Baleia Baleia Baleia Novas Quintas",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/baleia-baleia-baleia/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "b111b2e8aaea1504078f791c": {
+    "id": "b111b2e8aaea1504078f791c",
+    "title": "Flamingo Remy Tiburg",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/flamingo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "1e1e07527150bfb6c6ba9d0b": {
+    "id": "1e1e07527150bfb6c6ba9d0b",
+    "title": "Concerto Coral - Cantar o Natal Conservatório de Música de Aveiro Calouste Gulbenkian",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/concerto-coral-cantar-o-natal/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "5ec21eacfacab5c6d8745257": {
+    "id": "5ec21eacfacab5c6d8745257",
+    "title": "Começar tudo outra vez Tonan Quito",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/comecar-tudo-outra-vez/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "d19e27bda0a43db888e5adb5": {
+    "id": "d19e27bda0a43db888e5adb5",
+    "title": "A Poesia das Pequenas Coisas [ESTREIA] Arte no Tempo",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/a-poesia-das-pequenas-coisas-estreia/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
