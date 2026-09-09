@@ -4374,6 +4374,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "9ac2135895a545b9e1882bf8": {
+    "id": "9ac2135895a545b9e1882bf8",
+    "title": "Vozes da Rádio",
+    "link": "https://agendadopedro.pt/concertos/vozes-da-radio-porto-16261/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "b37e345dee0b41a2b81b0241": {
     "id": "b37e345dee0b41a2b81b0241",
     "title": "This Will Destroy You",
@@ -4675,6 +4682,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "61163361dd76715a054dd2d5": {
+    "id": "61163361dd76715a054dd2d5",
+    "title": "The Pineapple Thief",
+    "link": "https://agendadopedro.pt/concertos/the-pineapple-thief-porto-16264/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "c1fa7369e5412f8603f22e91": {
     "id": "c1fa7369e5412f8603f22e91",
     "title": "Zé Amaro",
@@ -4850,20 +4864,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "f9913db2bc141f23336109a7": {
-    "id": "f9913db2bc141f23336109a7",
-    "title": "Blanco White",
-    "link": "https://agendadopedro.pt/concertos/blanco-white-lisboa-16066/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6110d3872505adfd84740d3a": {
-    "id": "6110d3872505adfd84740d3a",
-    "title": "Fontaines D.C. ᛫ Chalk",
-    "link": "https://agendadopedro.pt/concertos/fontaines-d-c-lisboa-16026/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "4c2b4ddee9c3c454f58befce": {
     "id": "4c2b4ddee9c3c454f58befce",
     "title": "Jake Bugg",
@@ -4889,6 +4889,13 @@
     "id": "572ded36c2518f932a6b1702",
     "title": "The Mission",
     "link": "https://agendadopedro.pt/concertos/the-mission-lisboa-16101/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "8b2d3bc3fe1c9f65d6423b33": {
+    "id": "8b2d3bc3fe1c9f65d6423b33",
+    "title": "The Pineapple Thief",
+    "link": "https://agendadopedro.pt/concertos/the-pineapple-thief-lisboa-16263/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
