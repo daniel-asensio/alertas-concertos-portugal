@@ -27,6 +27,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "01422055be20a07a91dc697a": {
+    "id": "01422055be20a07a91dc697a",
+    "title": "Sessao De Lancamento Do Livro De Homenagem A Maria Teresa De Macedo",
+    "link": "https://casadamusica.com/event/sessao-de-lancamento-do-livro-de-homenagem-a-maria-teresa-de-macedo/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "63a9362734b8ca2b7af276a6": {
     "id": "63a9362734b8ca2b7af276a6",
     "title": "Metropolis",
@@ -1924,6 +1931,20 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "94355dbee057c52658d5964c": {
+    "id": "94355dbee057c52658d5964c",
+    "title": "SARA CORREIA – FESTIVAL FADO BRASÍLIA",
+    "link": "https://everythingisnew.pt/sara-correia-festival-fado-brasilia/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "b49500fcaab2676ffef8480e": {
+    "id": "b49500fcaab2676ffef8480e",
+    "title": "CAMANÉ – FESTIVAL FADO BRASÍLIA",
+    "link": "https://everythingisnew.pt/camane-festival-fado-brasilia/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "91d8740729052dba53f76ed1": {
     "id": "91d8740729052dba53f76ed1",
     "title": "THE LAST INTERNATIONALE",
@@ -2299,6 +2320,13 @@
     "id": "609f773c5c077a73dd627394",
     "title": "Game Changers Forum 2026 Barack Obama",
     "link": "https://arena.meo.pt/agenda/game-changers-forum-2026-barack-obama_pt/16403/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "369870fc1775d8f93620bef2": {
+    "id": "369870fc1775d8f93620bef2",
+    "title": "Fontaines D C",
+    "link": "https://arena.meo.pt/agenda/fontaines-d-c_pt/16529/",
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
