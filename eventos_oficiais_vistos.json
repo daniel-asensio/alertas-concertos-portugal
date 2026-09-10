@@ -209,6 +209,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "b0d8c3617199ff7ed2afea16": {
+    "id": "b0d8c3617199ff7ed2afea16",
+    "title": "Quarteto De Cordas De Matosinhos 20261008",
+    "link": "https://casadamusica.com/event/quarteto-de-cordas-de-matosinhos-20261008/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "f91f85a852ec825c84d95a94": {
     "id": "f91f85a852ec825c84d95a94",
     "title": "Serenata De Mozart",
@@ -2092,6 +2099,20 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "d94360a5e34729b5ae2509a5": {
+    "id": "d94360a5e34729b5ae2509a5",
+    "title": "WARHAUS",
+    "link": "https://everythingisnew.pt/warhaus/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "bf26ce75304e172ac485919a": {
+    "id": "bf26ce75304e172ac485919a",
+    "title": "WARHAUS",
+    "link": "https://everythingisnew.pt/warhaus-2/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "dacf5cec2a308c170d19afad": {
     "id": "dacf5cec2a308c170d19afad",
     "title": "A New Dimension",
@@ -2411,6 +2432,13 @@
     "id": "c826447e1b42186739319c6f",
     "title": "Exponoivos Lisboa",
     "link": "https://arena.meo.pt/agenda/exponoivos-lisboa_pt/16385/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "14718db8d32ebb4ef37ed46c": {
+    "id": "14718db8d32ebb4ef37ed46c",
+    "title": "Amanha Nao Esta Certo Pedro Teixeira Da Mota",
+    "link": "https://arena.meo.pt/agenda/amanha-nao-esta-certo-pedro-teixeira-da-mota_pt/16550/",
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
