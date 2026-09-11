@@ -2239,27 +2239,6 @@
     "source": "PEV Entertainment",
     "kind": "Promotora Porto"
   },
-  "829a09beb03f752049d9276d": {
-    "id": "829a09beb03f752049d9276d",
-    "title": "Área Imprensa",
-    "link": "https://houseoffun.pt/imprensa/",
-    "source": "House of Fun",
-    "kind": "Promotora"
-  },
-  "1285df4beca4677e5bf82b78": {
-    "id": "1285df4beca4677e5bf82b78",
-    "title": "Newsletter",
-    "link": "https://houseoffun.pt/newsletter/",
-    "source": "House of Fun",
-    "kind": "Promotora"
-  },
-  "d6a6b172cb075194440a2cd7": {
-    "id": "d6a6b172cb075194440a2cd7",
-    "title": "Contacto - House of Fun",
-    "link": "https://houseoffun.pt/contacto/",
-    "source": "House of Fun",
-    "kind": "Promotora"
-  },
   "88f9e175594c18f925ba9a62": {
     "id": "88f9e175594c18f925ba9a62",
     "title": "SOBRE NÓS",
@@ -2308,6 +2287,223 @@
     "link": "https://musicanocoracao.com/legal/cookie-policy/",
     "source": "Música no Coração",
     "kind": "Promotora"
+  },
+  "4bf9acdd67a529df77278def": {
+    "id": "4bf9acdd67a529df77278def",
+    "title": "The Neighbourhood The Wourld Tour",
+    "link": "https://arena.meo.pt/agenda/the-neighbourhood-the-wourld-tour_pt/15928/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "be04a435bd5b257c497ba8a0": {
+    "id": "be04a435bd5b257c497ba8a0",
+    "title": "Ca7Riel Paco Amoroso Free Spirits World Tour",
+    "link": "https://arena.meo.pt/agenda/ca7riel-paco-amoroso-free-spirits-world-tour_pt/15994/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "9c8b0e3b3f0513756a1dd17b": {
+    "id": "9c8b0e3b3f0513756a1dd17b",
+    "title": "Phonica Marisa Monte Orquestra Ao Vivo",
+    "link": "https://arena.meo.pt/agenda/phonica-marisa-monte-orquestra-ao-vivo_pt/15806/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "cc7ada33ffd1715684ff7bd2": {
+    "id": "cc7ada33ffd1715684ff7bd2",
+    "title": "Evanescence 2026 World Tour",
+    "link": "https://arena.meo.pt/agenda/evanescence-2026-world-tour_pt/15722/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "609f773c5c077a73dd627394": {
+    "id": "609f773c5c077a73dd627394",
+    "title": "Game Changers Forum 2026 Barack Obama",
+    "link": "https://arena.meo.pt/agenda/game-changers-forum-2026-barack-obama_pt/16403/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "369870fc1775d8f93620bef2": {
+    "id": "369870fc1775d8f93620bef2",
+    "title": "Fontaines D C",
+    "link": "https://arena.meo.pt/agenda/fontaines-d-c_pt/16529/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "28e401c9eb06c3b88cc490d3": {
+    "id": "28e401c9eb06c3b88cc490d3",
+    "title": "Laura Pausini Io Canto World Tour",
+    "link": "https://arena.meo.pt/agenda/laura-pausini-io-canto-world-tour_pt/15457/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "47fc62fa8d4bab04c88dd553": {
+    "id": "47fc62fa8d4bab04c88dd553",
+    "title": "Jungle",
+    "link": "https://arena.meo.pt/agenda/jungle_pt/16031/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "c2a6bb17afdb02c950b37cb5": {
+    "id": "c2a6bb17afdb02c950b37cb5",
+    "title": "Andre Rieu E A Sua Orquestra Johann Strauss",
+    "link": "https://arena.meo.pt/agenda/andre-rieu-e-a-sua-orquestra-johann-strauss_pt/13193/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "7f996edf3db4c8aedf5cf0da": {
+    "id": "7f996edf3db4c8aedf5cf0da",
+    "title": "Jerry Seinfeld",
+    "link": "https://arena.meo.pt/agenda/jerry-seinfeld_pt/15789/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "e85a5a2af06b4b5da2ee2fff": {
+    "id": "e85a5a2af06b4b5da2ee2fff",
+    "title": "Pitbull Im Back",
+    "link": "https://arena.meo.pt/agenda/pitbull-im-back_pt/15887/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "6ebac2dd90e656d6f8f27e32": {
+    "id": "6ebac2dd90e656d6f8f27e32",
+    "title": "Duran Duran",
+    "link": "https://arena.meo.pt/agenda/duran-duran_pt/16275/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "a5114c70cee5e847021d6347": {
+    "id": "a5114c70cee5e847021d6347",
+    "title": "Amon Amarth",
+    "link": "https://arena.meo.pt/agenda/amon-amarth_pt/15718/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "237dc10526ec8069d68ddb9e": {
+    "id": "237dc10526ec8069d68ddb9e",
+    "title": "Bryan Adams Roll With The Punches",
+    "link": "https://arena.meo.pt/agenda/bryan-adams-roll-with-the-punches_pt/15883/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "e7439424f1a34a62c77b9d1e": {
+    "id": "e7439424f1a34a62c77b9d1e",
+    "title": "Freya Skye Stars Align Tour",
+    "link": "https://arena.meo.pt/agenda/freya-skye-stars-align-tour_pt/16098/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "c4d3acf513f5b8b1fdaabda9": {
+    "id": "c4d3acf513f5b8b1fdaabda9",
+    "title": "Tony Carreira",
+    "link": "https://arena.meo.pt/agenda/tony-carreira_pt/15781/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "04f0b2031035b405056706d0": {
+    "id": "04f0b2031035b405056706d0",
+    "title": "Patrulha Pata Ao Vivo Herois Unidos",
+    "link": "https://arena.meo.pt/agenda/patrulha-pata-ao-vivo-herois-unidos_pt/16115/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "f90d77d73598bd27501e60ed": {
+    "id": "f90d77d73598bd27501e60ed",
+    "title": "Richie Campbell",
+    "link": "https://arena.meo.pt/agenda/richie-campbell_pt/16260/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "ad8e6a2737587bc1c53d447b": {
+    "id": "ad8e6a2737587bc1c53d447b",
+    "title": "Xmas In The Night The Greatest Hits World Tour",
+    "link": "https://arena.meo.pt/agenda/xmas-in-the-night-the-greatest-hits-world-tour_pt/15535/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "c826447e1b42186739319c6f": {
+    "id": "c826447e1b42186739319c6f",
+    "title": "Exponoivos Lisboa",
+    "link": "https://arena.meo.pt/agenda/exponoivos-lisboa_pt/16385/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "14718db8d32ebb4ef37ed46c": {
+    "id": "14718db8d32ebb4ef37ed46c",
+    "title": "Amanha Nao Esta Certo Pedro Teixeira Da Mota",
+    "link": "https://arena.meo.pt/agenda/amanha-nao-esta-certo-pedro-teixeira-da-mota_pt/16550/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "63b16b5a3ac0700b6197bf7f": {
+    "id": "63b16b5a3ac0700b6197bf7f",
+    "title": "Buba Espinho",
+    "link": "https://arena.meo.pt/agenda/buba-espinho_pt/16188/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "e38d32b6437d8ef0d30d9cba": {
+    "id": "e38d32b6437d8ef0d30d9cba",
+    "title": "Carolina Deslandes",
+    "link": "https://arena.meo.pt/agenda/carolina-deslandes_pt/15716/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "13f867555a41158711f28537": {
+    "id": "13f867555a41158711f28537",
+    "title": "Hybrid Theory 10 Anos Depois",
+    "link": "https://arena.meo.pt/agenda/hybrid-theory-10-anos-depois_pt/16004/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "3899194c7816ff2d824ff010": {
+    "id": "3899194c7816ff2d824ff010",
+    "title": "Nelson Freitas Legacy",
+    "link": "https://arena.meo.pt/agenda/nelson-freitas-legacy_pt/16137/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "b414aa9d45c562c41dac1024": {
+    "id": "b414aa9d45c562c41dac1024",
+    "title": "Thirty Seconds To Mars",
+    "link": "https://arena.meo.pt/agenda/thirty-seconds-to-mars_pt/16091/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "24843cdb2d0e304d2776776a": {
+    "id": "24843cdb2d0e304d2776776a",
+    "title": "Viva Vivaldi The Four Seasons Immersive Concert",
+    "link": "https://arena.meo.pt/agenda/viva-vivaldi-the-four-seasons-immersive-concert_pt/16123/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "cc9ecabc0e1754fd0ef92760": {
+    "id": "cc9ecabc0e1754fd0ef92760",
+    "title": "Sabaton",
+    "link": "https://arena.meo.pt/agenda/sabaton_pt/16249/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "8eb3ddd2a0fa4527e7a63774": {
+    "id": "8eb3ddd2a0fa4527e7a63774",
+    "title": "Luisa Sonza",
+    "link": "https://arena.meo.pt/agenda/luisa-sonza_pt/16051/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "412de1db06322e438c1f9d19": {
+    "id": "412de1db06322e438c1f9d19",
+    "title": "The World Of Hans Zimmer A New Dimension",
+    "link": "https://arena.meo.pt/agenda/the-world-of-hans-zimmer-a-new-dimension_pt/15993/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "b1aab73258cebf22eefebc23": {
+    "id": "b1aab73258cebf22eefebc23",
+    "title": "Don Omar",
+    "link": "https://arena.meo.pt/agenda/don-omar_pt/16497/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
   },
   "3fd71b51fe76cbfa3f1f4715": {
     "id": "3fd71b51fe76cbfa3f1f4715",
