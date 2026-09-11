@@ -1238,6 +1238,13 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
+  "5f92825197cef4590e7cf74f": {
+    "id": "5f92825197cef4590e7cf74f",
+    "title": "Sessoes",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/184979-o_amor_e_assim-europarque/Sessoes/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
   "80cc643c090dd87e4cb070fe": {
     "id": "80cc643c090dd87e4cb070fe",
     "title": "O Quebra Nozes Imperial Heritage Ballet Europarque",
@@ -1786,7 +1793,7 @@
   },
   "1f78488cd34b8b83aef3b9b7": {
     "id": "1f78488cd34b8b83aef3b9b7",
-    "title": "1ªparte: Nessa Barrett",
+    "title": "1ªparte: Noise Dept. & Nessa Barrett",
     "link": "https://everythingisnew.pt/the-neighbourhood-2/",
     "source": "Everything Is New",
     "kind": "Promotora"
@@ -2512,13 +2519,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "9135a70cf571d81442c00d89": {
-    "id": "9135a70cf571d81442c00d89",
-    "title": "Jorge Ferraz Santa Maria Gasolina Em Teu Ventre Redux",
-    "link": "https://coliseulisboa.com/eventos/jorge-ferraz-santa-maria-gasolina-em-teu-ventre-redux/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "3fd71b51fe76cbfa3f1f4715": {
     "id": "3fd71b51fe76cbfa3f1f4715",
     "title": "Gil Semedo Caboswing Novo E Velho Tour",
@@ -2614,6 +2614,13 @@
     "id": "4ee855a6516df7cc9e4d0a5d",
     "title": "Asi Contest Best Sommelier Of The World 2026",
     "link": "https://coliseulisboa.com/eventos/asi-contest-best-sommelier-of-the-world-2026/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "7c35ae9b806f46a6811e8d3c": {
+    "id": "7c35ae9b806f46a6811e8d3c",
+    "title": "Gilsons",
+    "link": "https://coliseulisboa.com/eventos/gilsons/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
