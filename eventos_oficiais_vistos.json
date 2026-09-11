@@ -209,6 +209,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "bc5b83c2ac1c4dfad97a8dbf": {
+    "id": "bc5b83c2ac1c4dfad97a8dbf",
+    "title": "Pc Silva",
+    "link": "https://casadamusica.com/event/pc-silva/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "f91f85a852ec825c84d95a94": {
     "id": "f91f85a852ec825c84d95a94",
     "title": "Serenata De Mozart",
@@ -3450,13 +3457,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "9becac54774190faf5f8f3a3": {
-    "id": "9becac54774190faf5f8f3a3",
-    "title": "Beto Guedes",
-    "link": "https://agendadopedro.pt/concertos/beto-guedes-porto-13507/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "fd27099afd5703592ca74a02": {
     "id": "fd27099afd5703592ca74a02",
     "title": "Cities Aviv",
@@ -3634,7 +3634,7 @@
   },
   "e2f428efb6b6e6459f1ab814": {
     "id": "e2f428efb6b6e6459f1ab814",
-    "title": "Lau Ro",
+    "title": "Lau Ro ᛫ Tomé Capa",
     "link": "https://agendadopedro.pt/concertos/lau-ro-porto-16209/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3835,6 +3835,20 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "5e6e858fdce16fc5a3517563": {
+    "id": "5e6e858fdce16fc5a3517563",
+    "title": "Alpha Maid",
+    "link": "https://agendadopedro.pt/concertos/alpha-maid-porto-16289/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "858e6a269bcfb1c6704d0ed2": {
+    "id": "858e6a269bcfb1c6704d0ed2",
+    "title": "The Black Wizards",
+    "link": "https://agendadopedro.pt/concertos/the-black-wizards-porto-16288/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "58c1190ea4312e20f0106888": {
     "id": "58c1190ea4312e20f0106888",
     "title": "Gerardo Rodrigues",
@@ -3846,6 +3860,13 @@
     "id": "ff0b17d8c5590e273d19bb4a",
     "title": "Titãs",
     "link": "https://agendadopedro.pt/concertos/titas-porto-13919/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "ce8290df2cd22a85b9ce91d1": {
+    "id": "ce8290df2cd22a85b9ce91d1",
+    "title": "Husbands. ᛫ Semivitae",
+    "link": "https://agendadopedro.pt/concertos/husbands-porto-16287/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4731,6 +4752,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "4f787d289eca848d93f81da5": {
+    "id": "4f787d289eca848d93f81da5",
+    "title": "Warhaus",
+    "link": "https://agendadopedro.pt/concertos/warhaus-porto-16274/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "f0ea7c401c36baa87bcacefd": {
     "id": "f0ea7c401c36baa87bcacefd",
     "title": "The Mission",
@@ -4871,13 +4899,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "d5a8a569504cfef98694892f": {
-    "id": "d5a8a569504cfef98694892f",
-    "title": "Jorge Drexler",
-    "link": "https://agendadopedro.pt/concertos/jorge-drexler-lisboa-16100/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "c7cb51ce65376fb7666ea98a": {
     "id": "c7cb51ce65376fb7666ea98a",
     "title": "Simple Minds ᛫ Level 42",
@@ -4896,6 +4917,13 @@
     "id": "8b2d3bc3fe1c9f65d6423b33",
     "title": "The Pineapple Thief",
     "link": "https://agendadopedro.pt/concertos/the-pineapple-thief-lisboa-16263/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "79ab88b54552566cf3f4ea2d": {
+    "id": "79ab88b54552566cf3f4ea2d",
+    "title": "Warhaus",
+    "link": "https://agendadopedro.pt/concertos/warhaus-lisboa-16273/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
