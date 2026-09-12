@@ -1063,24 +1063,24 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "41773b18bb82619c1c290a15": {
-    "id": "41773b18bb82619c1c290a15",
-    "title": "JOHNNY HOOKER",
-    "link": "https://www.hardclubporto.com/PT/evento/johnny-hooker-euro-tour-2026-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
-  "eb54d7ba98de67c657e42d70": {
-    "id": "eb54d7ba98de67c657e42d70",
-    "title": "BACK TO SCHOOL! KPOP & KHIPHOP Night",
-    "link": "https://www.hardclubporto.com/PT/evento/back-to-school-kpop-khiphop-night-officialkevents-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "48c5c372a1ec09b67cfeb7be": {
     "id": "48c5c372a1ec09b67cfeb7be",
     "title": "2ZDINIZZ",
     "link": "https://www.hardclubporto.com/PT/evento/2zdinizz-patrono-tour-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "da35c8aac0041a94f80038e0": {
+    "id": "da35c8aac0041a94f80038e0",
+    "title": "Axisrock Fest' 26",
+    "link": "https://www.hardclubporto.com/PT/evento/axisrock-fest-26-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "b13b0ef1f9d42f71fe86a0e0": {
+    "id": "b13b0ef1f9d42f71fe86a0e0",
+    "title": "khaos",
+    "link": "https://www.hardclubporto.com/PT/evento/khaos-summer-closing-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -3170,41 +3170,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ea1cef4494a05ae863b1b109": {
-    "id": "ea1cef4494a05ae863b1b109",
-    "title": "Adrián Álvarez",
-    "link": "https://agendadopedro.pt/concertos/adrian-alvarez-porto-13443/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "65a6ca96d9b50c31a5cd3121": {
-    "id": "65a6ca96d9b50c31a5cd3121",
-    "title": "Johnny Hooker",
-    "link": "https://agendadopedro.pt/concertos/johnny-hooker-porto-15507/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "951a0baeccc5b0b9e347e0f4": {
-    "id": "951a0baeccc5b0b9e347e0f4",
-    "title": "T-Rex ᛫ Bárbara Bandeira ᛫ Nenny",
-    "link": "https://agendadopedro.pt/concertos/t-rex-noites-dos-jardins-do-palacio-porto-15002/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "fd11f0632d70b57a9bd319a9": {
-    "id": "fd11f0632d70b57a9bd319a9",
-    "title": "Enxerto Colectivo",
-    "link": "https://agendadopedro.pt/concertos/enxerto-colectivo-porto-15415/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "31331bbe1c3cd05bdb285624": {
-    "id": "31331bbe1c3cd05bdb285624",
-    "title": "AMPM ᛫ Trasgo",
-    "link": "https://agendadopedro.pt/concertos/ampm-porto-15347/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "0f2c3228ca3d9106d544d2f9": {
     "id": "0f2c3228ca3d9106d544d2f9",
     "title": "Sigur Rós",
@@ -4805,34 +4770,6 @@
     "id": "cf5df6f81a1dd72ac80b3c91",
     "title": "D'zrt",
     "link": "https://agendadopedro.pt/concertos/d-zrt-porto-15566/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "0f8046758af7f5cf93b4e279": {
-    "id": "0f8046758af7f5cf93b4e279",
-    "title": "Deva Premal & Miten",
-    "link": "https://agendadopedro.pt/concertos/deva-premal-miten-lisboa-11299/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "12f1b7fc692be4ecde837df6": {
-    "id": "12f1b7fc692be4ecde837df6",
-    "title": "Mariza ᛫ Napa ᛫ Viva o Samba ᛫ ...",
-    "link": "https://agendadopedro.pt/concertos/mariza-lisboa-14170/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "ed4b5bd6099bde2b20520696": {
-    "id": "ed4b5bd6099bde2b20520696",
-    "title": "Moonspell",
-    "link": "https://agendadopedro.pt/concertos/moonspell-sintra-13126/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "fb081ecb8dd3eadc96f68aa0": {
-    "id": "fb081ecb8dd3eadc96f68aa0",
-    "title": "The Neighbourhood ᛫ Nessa Barrett",
-    "link": "https://agendadopedro.pt/concertos/the-neighbourhood-lisboa-11831/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
