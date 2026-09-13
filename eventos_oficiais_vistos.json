@@ -2477,13 +2477,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "fdb5e3b97c3903003c1439be": {
-    "id": "fdb5e3b97c3903003c1439be",
-    "title": "Deva Premal Miten Singing Our Prayers Lisbon 2026",
-    "link": "https://coliseulisboa.com/eventos/deva-premal-miten-singing-our-prayers-lisbon-2026/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "b50d8b7342bbc6932bee2e30": {
     "id": "b50d8b7342bbc6932bee2e30",
     "title": "Ronnie Wood And His Band Featuring Imelda May",
@@ -2579,6 +2572,13 @@
     "id": "4f844286f6239b65ea6ba57d",
     "title": "The Soloist Of Wiener Mozart Orchestra",
     "link": "https://coliseulisboa.com/eventos/the-soloist-of-wiener-mozart-orchestra/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "13cf97b2bb8bd7a198c91d75": {
+    "id": "13cf97b2bb8bd7a198c91d75",
+    "title": "As Tres Da Manha Ao Vivo As Tres Da Manha Da Renascenca",
+    "link": "https://coliseulisboa.com/eventos/as-tres-da-manha-ao-vivo-as-tres-da-manha-da-renascenca/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
