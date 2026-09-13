@@ -1,11 +1,4 @@
 {
-  "d1b61ce4998f813792a08338": {
-    "id": "d1b61ce4998f813792a08338",
-    "title": "Mil E Uma Noites",
-    "link": "https://casadamusica.com/event/mil-e-uma-noites/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "bc337be0b360c084b0608971": {
     "id": "bc337be0b360c084b0608971",
     "title": "Estacao Casa Da Musica 2026",
@@ -1084,13 +1077,6 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "9176a1a3cfebb2891e181fc5": {
-    "id": "9176a1a3cfebb2891e181fc5",
-    "title": "Maiúscula",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7247/maiuscula/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "688eabd1633348c8619922cf": {
     "id": "688eabd1633348c8619922cf",
     "title": "Kung-Fu",
@@ -1109,6 +1095,13 @@
     "id": "58ee32e2a2ba09656173a983",
     "title": "Cantar de Galo",
     "link": "https://www.tnsj.pt/pt/espetaculos/7249/cantar-de-galo/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "9176a1a3cfebb2891e181fc5": {
+    "id": "9176a1a3cfebb2891e181fc5",
+    "title": "Maiúscula",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7247/maiuscula/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1767,13 +1760,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "1f78488cd34b8b83aef3b9b7": {
-    "id": "1f78488cd34b8b83aef3b9b7",
-    "title": "1ªparte: Noise Dept. & Nessa Barrett",
-    "link": "https://everythingisnew.pt/the-neighbourhood-2/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
