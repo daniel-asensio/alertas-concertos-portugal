@@ -741,6 +741,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "18036bfcfbdc36c146a9a5e3": {
+    "id": "18036bfcfbdc36c146a9a5e3",
+    "title": "The Pineapple Thief",
+    "link": "https://casadamusica.com/event/the-pineapple-thief/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "329f9c575dd7e0062258b72f": {
     "id": "329f9c575dd7e0062258b72f",
     "title": "Miguel Carmona",
@@ -3086,10 +3093,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d825ee8f615b56a46f0b7f09": {
-    "id": "d825ee8f615b56a46f0b7f09",
-    "title": "Exposicao Jose Pedro Croft",
-    "link": "https://www.ccb.pt/evento/exposicao-jose-pedro-croft/",
+  "b222ea8f388fe94cffddc3b4": {
+    "id": "b222ea8f388fe94cffddc3b4",
+    "title": "Interespecies",
+    "link": "https://www.ccb.pt/evento/interespecies/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
