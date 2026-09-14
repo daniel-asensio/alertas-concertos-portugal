@@ -1,11 +1,4 @@
 {
-  "bc337be0b360c084b0608971": {
-    "id": "bc337be0b360c084b0608971",
-    "title": "Estacao Casa Da Musica 2026",
-    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2026/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "e77f2038a5af786fa5fdfa13": {
     "id": "e77f2038a5af786fa5fdfa13",
     "title": "Ensaios Abertos 20260914",
@@ -52,6 +45,13 @@
     "id": "d27675a2b100f8aff2d84230",
     "title": "Bonds Festival",
     "link": "https://casadamusica.com/event/bonds-festival/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "bc337be0b360c084b0608971": {
+    "id": "bc337be0b360c084b0608971",
+    "title": "Estacao Casa Da Musica 2026",
+    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2026/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1732,13 +1732,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "88fa86c06b7799d80dcaa4a1": {
-    "id": "88fa86c06b7799d80dcaa4a1",
-    "title": "Convidado: Orquestra Sinfonietta de Lisboa e Coro Ricercare",
-    "link": "https://everythingisnew.pt/sigur-ros-2/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -4773,14 +4766,6 @@
     "source": "Sigur Rós / Coliseu Porto Ageas",
     "kind": "Concerto prioritário — Porto",
     "id": "902579a4818839b037a64884"
-  },
-  "35684acb7462e503f1b14ec6": {
-    "title": "Relicário perpétuo — ópera de Luís Tinoco",
-    "date": "11 e 12 setembro 2026",
-    "link": "https://www.saocarlos.pt/en/program/relicario-perpetuo/",
-    "source": "Teatro Nacional São João / São Carlos",
-    "kind": "Ópera — Porto",
-    "id": "35684acb7462e503f1b14ec6"
   },
   "b5def3c629a0ad9c67067e50": {
     "title": "Gala Lírica com Olga Kulchynska",
