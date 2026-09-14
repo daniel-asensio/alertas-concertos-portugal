@@ -384,6 +384,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "e307bdd3d1a4abf2553ec0c2": {
+    "id": "e307bdd3d1a4abf2553ec0c2",
+    "title": "Iii Intenso Tafdup 2",
+    "link": "https://casadamusica.com/event/iii-intenso-tafdup-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "2703261fb6526e84bf845d7c": {
     "id": "2703261fb6526e84bf845d7c",
     "title": "De Profundis",
@@ -1063,17 +1070,17 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
+  "c2d0cbbb709c7c2b3b434e8b": {
+    "id": "c2d0cbbb709c7c2b3b434e8b",
+    "title": "benito party",
+    "link": "https://www.hardclubporto.com/PT/evento/benito-party-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
   "b13b0ef1f9d42f71fe86a0e0": {
     "id": "b13b0ef1f9d42f71fe86a0e0",
     "title": "khaos",
     "link": "https://www.hardclubporto.com/PT/evento/khaos-summer-closing-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
-  "bd73be06fe2c0e72def44480": {
-    "id": "bd73be06fe2c0e72def44480",
-    "title": "Cities Aviv",
-    "link": "https://www.hardclubporto.com/PT/evento/cities-aviv-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1095,6 +1102,20 @@
     "id": "58ee32e2a2ba09656173a983",
     "title": "Cantar de Galo",
     "link": "https://www.tnsj.pt/pt/espetaculos/7249/cantar-de-galo/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "afee52e3d02837c62061e488": {
+    "id": "afee52e3d02837c62061e488",
+    "title": "O Pai",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7255/o-pai/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "646425e496b0e5421eb28d4f": {
+    "id": "646425e496b0e5421eb28d4f",
+    "title": "Crime e Castigo",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7256/crime-e-castigo/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1172,6 +1193,13 @@
     "id": "bbe19d95df06d998b0c5f84e",
     "title": "Namaste Ines Aires Pereira Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/183189-namaste_ines_aires_pereira-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "a713802749834fe54a45d364": {
+    "id": "a713802749834fe54a45d364",
+    "title": "Feiranoivos Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/182831-feiranoivos-europarque/",
     "source": "Europarque",
     "kind": "Aveiro"
   },
@@ -2561,13 +2589,6 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "7d22c35339577999fce259ba": {
-    "id": "7d22c35339577999fce259ba",
-    "title": "Teatro Nacional de São João 12 Set 2026 19:00 Relicário perpétuo",
-    "link": "https://www.saocarlos.pt/program/relicario-perpetuo/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
   "0282099260addbbe3d34c9a7": {
     "id": "0282099260addbbe3d34c9a7",
     "title": "Convento de São Francisco 27 Set 2026 19:00 O regresso de Don Quixote",
@@ -2584,7 +2605,7 @@
   },
   "b80e87e134be704393905d4c": {
     "id": "b80e87e134be704393905d4c",
-    "title": "Convento de São Francisco Mátria | Ensaio aberto 19 Nov 2026 15:00 Encontro com a ópera",
+    "title": "Convento de São Francisco Fidelio | Ensaio aberto 19 Nov 2026 15:00 Encontro com a ópera",
     "link": "https://www.saocarlos.pt/program/encontro-com-a-opera-1788348519711/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2605,8 +2626,15 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 12 Dez 2026 18:30 A bela adormecida",
+    "title": "Teatro Camões 13 Dez 2026 16:00 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "c0e9092100283a3d0a41a903": {
+    "id": "c0e9092100283a3d0a41a903",
+    "title": "Teatro Tivoli BBVA 12 Dez 2026 20:00 Natal com Mozart",
+    "link": "https://www.saocarlos.pt/program/natal-com-mozart/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -3055,6 +3083,13 @@
     "id": "b56445b262860d65caad17ee",
     "title": "Marisol - When Things are Just Beginning",
     "link": "https://www.ccb.pt/evento/exposicao-marisol/2026-12-17/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d825ee8f615b56a46f0b7f09": {
+    "id": "d825ee8f615b56a46f0b7f09",
+    "title": "Exposicao Jose Pedro Croft",
+    "link": "https://www.ccb.pt/evento/exposicao-jose-pedro-croft/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
