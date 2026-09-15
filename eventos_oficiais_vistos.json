@@ -594,6 +594,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "222dab4e69a3a8c8c6c09de7": {
+    "id": "222dab4e69a3a8c8c6c09de7",
+    "title": "Entre Baladas",
+    "link": "https://casadamusica.com/event/entre-baladas/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "e047d7b11f234943b1b7f1df": {
     "id": "e047d7b11f234943b1b7f1df",
     "title": "Melodias Celebres",
@@ -1063,6 +1070,13 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
+  "d34ccb54f174683f589da0f5": {
+    "id": "d34ccb54f174683f589da0f5",
+    "title": "snts - hard club",
+    "link": "https://www.hardclubporto.com/PT/evento/snts-hard-club-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
   "c2d0cbbb709c7c2b3b434e8b": {
     "id": "c2d0cbbb709c7c2b3b434e8b",
     "title": "benito party",
@@ -1070,12 +1084,82 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "b13b0ef1f9d42f71fe86a0e0": {
-    "id": "b13b0ef1f9d42f71fe86a0e0",
-    "title": "khaos",
-    "link": "https://www.hardclubporto.com/PT/evento/khaos-summer-closing-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
+  "688eabd1633348c8619922cf": {
+    "id": "688eabd1633348c8619922cf",
+    "title": "Kung-Fu",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7248/kung-fu/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "d42d72d1bd7a871894cf6216": {
+    "id": "d42d72d1bd7a871894cf6216",
+    "title": "Caravana",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7251/caravana/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "58ee32e2a2ba09656173a983": {
+    "id": "58ee32e2a2ba09656173a983",
+    "title": "Cantar de Galo",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7249/cantar-de-galo/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "afee52e3d02837c62061e488": {
+    "id": "afee52e3d02837c62061e488",
+    "title": "O Pai",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7255/o-pai/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "646425e496b0e5421eb28d4f": {
+    "id": "646425e496b0e5421eb28d4f",
+    "title": "Crime e Castigo",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7256/crime-e-castigo/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "5a90fbfd19639608a8c1b36c": {
+    "id": "5a90fbfd19639608a8c1b36c",
+    "title": "Reabrir, Voltar a escutar",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "b8c05b9a006d9abf87ae1591": {
+    "id": "b8c05b9a006d9abf87ae1591",
+    "title": "MUSICAL-MENTE",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7302/musical-mente/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "81d6cf06f505ad0deccfeca7": {
+    "id": "81d6cf06f505ad0deccfeca7",
+    "title": "My Center Is not in the Solar System",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7253/my-center-is-not-in-the-solar-system/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "4ef56cda6aa5b4193c0b5d32": {
+    "id": "4ef56cda6aa5b4193c0b5d32",
+    "title": "Solistas da Orquestra XXI: Morton Feldman",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7254/solistas-da-orquestra-xxi-morton-feldman/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "d21d5cf744bef889faffbd5a": {
+    "id": "d21d5cf744bef889faffbd5a",
+    "title": "Visitações: O Mundo às Avessas*",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7277/visitacoes-o-mundo-as-avessas-titulo-provisorio/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "950a669a52f5018cb049439b": {
+    "id": "950a669a52f5018cb049439b",
+    "title": "Clubes de Teatro",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7278/clubes-de-teatro/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
   },
   "ba3b232e55a8f618344a69ba": {
     "id": "ba3b232e55a8f618344a69ba",
@@ -3037,6 +3121,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "fcf5c5b102114af3bdee66c4": {
+    "id": "fcf5c5b102114af3bdee66c4",
+    "title": "Tatanka",
+    "link": "https://agendadopedro.pt/concertos/tatanka-porto-16346/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "e2c91f5490811f0c0d85c4da": {
     "id": "e2c91f5490811f0c0d85c4da",
     "title": "Carla Boregas ᛫ Israa Shalaby",
@@ -3585,7 +3676,7 @@
   },
   "5e6e858fdce16fc5a3517563": {
     "id": "5e6e858fdce16fc5a3517563",
-    "title": "Alpha Maid",
+    "title": "Alpha Maid ᛫ Superbronca",
     "link": "https://agendadopedro.pt/concertos/alpha-maid-porto-16289/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3814,6 +3905,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "1d265d696722da87b61e837c": {
+    "id": "1d265d696722da87b61e837c",
+    "title": "Líquen ᛫ Mafalda",
+    "link": "https://agendadopedro.pt/concertos/liquen-porto-16354/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "9251a8bd82038a5e04b26901": {
     "id": "9251a8bd82038a5e04b26901",
     "title": "Ideal Clube de Fado Homenageia Gina Santos",
@@ -3832,6 +3930,13 @@
     "id": "2595ff70b73fecc4450a2621",
     "title": "Rodrigo Cuevas",
     "link": "https://agendadopedro.pt/concertos/rodrigo-cuevas-porto-13626/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "1206756be85b442007557459": {
+    "id": "1206756be85b442007557459",
+    "title": "Em Casa d'Amália",
+    "link": "https://agendadopedro.pt/concertos/em-casa-d-amalia-porto-16344/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4682,12 +4787,12 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "79ab88b54552566cf3f4ea2d": {
-    "id": "79ab88b54552566cf3f4ea2d",
-    "title": "Warhaus",
-    "link": "https://agendadopedro.pt/concertos/warhaus-lisboa-16273/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
+  "c084988dc9c88ca5a71815e4": {
+    "id": "c084988dc9c88ca5a71815e4",
+    "title": "Todos os concertos marcados para 2026 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-15-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "dd6d7d5da5f99325e0b171e5": {
     "title": "Os dias levantados — ópera em versão de concerto",
