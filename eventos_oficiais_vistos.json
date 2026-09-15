@@ -146,6 +146,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "9e2ce8ae45d197e97cc74c8c": {
+    "id": "9e2ce8ae45d197e97cc74c8c",
+    "title": "Ensemble Estapafurdio",
+    "link": "https://casadamusica.com/event/ensemble-estapafurdio/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "7881b60f3344abb08434bbe0": {
     "id": "7881b60f3344abb08434bbe0",
     "title": "Fest Press Start",
@@ -157,6 +164,13 @@
     "id": "08fce2db53ed442ceb867b64",
     "title": "Retro Gaming Sinfonico",
     "link": "https://casadamusica.com/event/retro-gaming-sinfonico/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "9783cddfda72a6a4aec9ba61": {
+    "id": "9783cddfda72a6a4aec9ba61",
+    "title": "Insert Coin To Continue",
+    "link": "https://casadamusica.com/event/insert-coin-to-continue/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -178,6 +192,13 @@
     "id": "25399e71c9764c7677224acc",
     "title": "Grant Lee Philips",
     "link": "https://casadamusica.com/event/grant-lee-philips/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "f8282a454fe6fc93cc5a5178": {
+    "id": "f8282a454fe6fc93cc5a5178",
+    "title": "Concerto Solidario Associacao Vida Norte",
+    "link": "https://casadamusica.com/event/concerto-solidario-associacao-vida-norte/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -370,10 +391,10 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "e307bdd3d1a4abf2553ec0c2": {
-    "id": "e307bdd3d1a4abf2553ec0c2",
-    "title": "Iii Intenso Tafdup 2",
-    "link": "https://casadamusica.com/event/iii-intenso-tafdup-2/",
+  "5c07d33725beae464548af33": {
+    "id": "5c07d33725beae464548af33",
+    "title": "Iii Festival Tunas Elite",
+    "link": "https://casadamusica.com/event/iii-festival-tunas-elite/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
