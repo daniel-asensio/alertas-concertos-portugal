@@ -1,18 +1,4 @@
 {
-  "e77f2038a5af786fa5fdfa13": {
-    "id": "e77f2038a5af786fa5fdfa13",
-    "title": "Ensaios Abertos 20260914",
-    "link": "https://casadamusica.com/event/ensaios-abertos-20260914/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "01422055be20a07a91dc697a": {
-    "id": "01422055be20a07a91dc697a",
-    "title": "Sessao De Lancamento Do Livro De Homenagem A Maria Teresa De Macedo",
-    "link": "https://casadamusica.com/event/sessao-de-lancamento-do-livro-de-homenagem-a-maria-teresa-de-macedo/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "63a9362734b8ca2b7af276a6": {
     "id": "63a9362734b8ca2b7af276a6",
     "title": "Metropolis",
@@ -1767,13 +1753,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "4b47ce64ae844d058e4017af": {
-    "id": "4b47ce64ae844d058e4017af",
-    "title": "Convidado: Chanel Haynes",
-    "link": "https://everythingisnew.pt/ronnie-wood/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -4786,22 +4765,6 @@
     "link": "https://agendadopedro.pt/concertos/warhaus-lisboa-16273/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "902579a4818839b037a64884": {
-    "title": "Sigur Rós — The Orchestral Tour",
-    "date": "13 setembro 2026, 21h00",
-    "link": "https://sigurros.com/tour/",
-    "source": "Sigur Rós / Coliseu Porto Ageas",
-    "kind": "Concerto prioritário — Porto",
-    "id": "902579a4818839b037a64884"
-  },
-  "b5def3c629a0ad9c67067e50": {
-    "title": "Gala Lírica com Olga Kulchynska",
-    "date": "13 setembro 2026, 17h00",
-    "link": "https://www.europarque.pt/agenda-completa/",
-    "source": "Europarque",
-    "kind": "Ópera e música clássica — Aveiro",
-    "id": "b5def3c629a0ad9c67067e50"
   },
   "dd6d7d5da5f99325e0b171e5": {
     "title": "Os dias levantados — ópera em versão de concerto",
