@@ -20,10 +20,10 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "bc337be0b360c084b0608971": {
-    "id": "bc337be0b360c084b0608971",
-    "title": "Estacao Casa Da Musica 2026",
-    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2026/",
+  "1c5196c19fe37c8a9945c804": {
+    "id": "1c5196c19fe37c8a9945c804",
+    "title": "Estacao Casa Da Musica 2027",
+    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -94,6 +94,13 @@
     "id": "e8dc2f7dbd56beb214e41991",
     "title": "Som De Ca E De La",
     "link": "https://casadamusica.com/event/som-de-ca-e-de-la/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "a9505f2252c56f1861167b64": {
+    "id": "a9505f2252c56f1861167b64",
+    "title": "Som De La E De Ca 3",
+    "link": "https://casadamusica.com/event/som-de-la-e-de-ca-3/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -216,6 +223,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "5864e1b05099c4d0907eca3e": {
+    "id": "5864e1b05099c4d0907eca3e",
+    "title": "Viva Vivaldi 3",
+    "link": "https://casadamusica.com/event/viva-vivaldi-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "6bb5647ba9a7becb2ffa0ff4": {
     "id": "6bb5647ba9a7becb2ffa0ff4",
     "title": "Yemen Blues",
@@ -262,6 +276,13 @@
     "id": "36e81f445a599cff58e838a5",
     "title": "Mescla 2",
     "link": "https://casadamusica.com/event/mescla-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "9f8abe217772ac5235ae17ad": {
+    "id": "9f8abe217772ac5235ae17ad",
+    "title": "A Musica Antes Das Palavras",
+    "link": "https://casadamusica.com/event/a-musica-antes-das-palavras/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -328,6 +349,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "de2f2b37845633e09891870a": {
+    "id": "de2f2b37845633e09891870a",
+    "title": "Musica Popular Portuguesa",
+    "link": "https://casadamusica.com/event/musica-popular-portuguesa/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "699f9ab10c4c6f48b479e34d": {
     "id": "699f9ab10c4c6f48b479e34d",
     "title": "Daniel Casares Sexteto",
@@ -377,6 +405,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "f91a5039430935c03343c553": {
+    "id": "f91a5039430935c03343c553",
+    "title": "Cruzar Oceano 3",
+    "link": "https://casadamusica.com/event/cruzar-oceano-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "5c07d33725beae464548af33": {
     "id": "5c07d33725beae464548af33",
     "title": "Iii Festival Tunas Elite",
@@ -402,6 +437,13 @@
     "id": "7c60acd2fd16a15d4b1b5a4b",
     "title": "Concerto Solidario Liga Portuguesa Contra O Cancro 20261106",
     "link": "https://casadamusica.com/event/concerto-solidario-liga-portuguesa-contra-o-cancro-20261106/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "d84e09634d3832f5453c4628": {
+    "id": "d84e09634d3832f5453c4628",
+    "title": "Fazer Com Os Outros Estrategias Para Criar Em Conjunto",
+    "link": "https://casadamusica.com/event/fazer-com-os-outros-estrategias-para-criar-em-conjunto/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -440,10 +482,24 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "b56726cde0f99c406f14d24f": {
+    "id": "b56726cde0f99c406f14d24f",
+    "title": "A Voz Em Grupo Cancoes E Jogos",
+    "link": "https://casadamusica.com/event/a-voz-em-grupo-cancoes-e-jogos/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "b5b6736d3996df8c770d23d3": {
     "id": "b5b6736d3996df8c770d23d3",
     "title": "Amazonia",
     "link": "https://casadamusica.com/event/amazonia/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "cbaa8f241e6b5b6059d74ea5": {
+    "id": "cbaa8f241e6b5b6059d74ea5",
+    "title": "A Invencao Da Natureza 4",
+    "link": "https://casadamusica.com/event/a-invencao-da-natureza-4/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -531,6 +587,20 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "9b3a77e68d0b08a8ff857e04": {
+    "id": "9b3a77e68d0b08a8ff857e04",
+    "title": "Do Lixo Se Faz Musica 3",
+    "link": "https://casadamusica.com/event/do-lixo-se-faz-musica-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "519e763df47c8566d7d49e2f": {
+    "id": "519e763df47c8566d7d49e2f",
+    "title": "O Ultimo Canto Dos Passaros 2",
+    "link": "https://casadamusica.com/event/o-ultimo-canto-dos-passaros-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "717161ad036f44bf4ff44e23": {
     "id": "717161ad036f44bf4ff44e23",
     "title": "Javier Perianes",
@@ -580,6 +650,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "40a6bae7a032d735702ae539": {
+    "id": "40a6bae7a032d735702ae539",
+    "title": "Pijamas De Natal 4",
+    "link": "https://casadamusica.com/event/pijamas-de-natal-4/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "f390bef9672b2c1ee171f581": {
     "id": "f390bef9672b2c1ee171f581",
     "title": "A Nona De Mahler",
@@ -605,6 +682,13 @@
     "id": "222dab4e69a3a8c8c6c09de7",
     "title": "Entre Baladas",
     "link": "https://casadamusica.com/event/entre-baladas/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "506ebeca3a0dea7e9574a6d0": {
+    "id": "506ebeca3a0dea7e9574a6d0",
+    "title": "Cantar O Natal 2",
+    "link": "https://casadamusica.com/event/cantar-o-natal-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -678,10 +762,45 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "d2547974480f10a731e2b3ef": {
+    "id": "d2547974480f10a731e2b3ef",
+    "title": "Som De La E De Ca 2",
+    "link": "https://casadamusica.com/event/som-de-la-e-de-ca-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "dfb12eedec9f6b3d5cfbbcac": {
+    "id": "dfb12eedec9f6b3d5cfbbcac",
+    "title": "A Flauta Magica Do Mozart 5",
+    "link": "https://casadamusica.com/event/a-flauta-magica-do-mozart-5/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "2d1ba9ad65977a9cf44777c3": {
+    "id": "2d1ba9ad65977a9cf44777c3",
+    "title": "Future Rocks 6",
+    "link": "https://casadamusica.com/event/future-rocks-6/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "f0e0e480f6de315bce406955": {
+    "id": "f0e0e480f6de315bce406955",
+    "title": "Circulo Da Voz",
+    "link": "https://casadamusica.com/event/circulo-da-voz/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "6e744937bf3092bb1b3202f3": {
     "id": "6e744937bf3092bb1b3202f3",
     "title": "Sean Riley The Slowriders",
     "link": "https://casadamusica.com/event/sean-riley-the-slowriders/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "3259c86b4b89886217609794": {
+    "id": "3259c86b4b89886217609794",
+    "title": "Circlesinging E Improvisacao Vocal",
+    "link": "https://casadamusica.com/event/circlesinging-e-improvisacao-vocal/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -692,10 +811,45 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "6af3445c723bcc656403b1d2": {
+    "id": "6af3445c723bcc656403b1d2",
+    "title": "Future Jazz 6",
+    "link": "https://casadamusica.com/event/future-jazz-6/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "8f82182b6565871b6c5883fe": {
+    "id": "8f82182b6565871b6c5883fe",
+    "title": "O Carnaval Dos Animais 2",
+    "link": "https://casadamusica.com/event/o-carnaval-dos-animais-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "c0727f5bfd616a7ab3f37aa3": {
+    "id": "c0727f5bfd616a7ab3f37aa3",
+    "title": "Haiku",
+    "link": "https://casadamusica.com/event/haiku/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "275d5518de25e55319fa84dc": {
+    "id": "275d5518de25e55319fa84dc",
+    "title": "Carnaval Na Casa",
+    "link": "https://casadamusica.com/event/carnaval-na-casa/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "c5bdf4eb31bf8cfda372540a": {
     "id": "c5bdf4eb31bf8cfda372540a",
     "title": "Kadebostany",
     "link": "https://casadamusica.com/event/kadebostany/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "3f7d7f75d4e5da643ddaa168": {
+    "id": "3f7d7f75d4e5da643ddaa168",
+    "title": "Maratona De Clarinetes",
+    "link": "https://casadamusica.com/event/maratona-de-clarinetes/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -706,73 +860,17 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "e36cb14330db202e9946810f": {
+    "id": "e36cb14330db202e9946810f",
+    "title": "Alice No Pais Das Musicas 2",
+    "link": "https://casadamusica.com/event/alice-no-pais-das-musicas-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "a8eab233dd3fd72495a5d878": {
     "id": "a8eab233dd3fd72495a5d878",
     "title": "Nouvelle Vague 3",
     "link": "https://casadamusica.com/event/nouvelle-vague-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "efe7a27443e5197875fb85ac": {
-    "id": "efe7a27443e5197875fb85ac",
-    "title": "Elvira",
-    "link": "https://casadamusica.com/event/elvira/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "19318cc1728120dbbb39859f": {
-    "id": "19318cc1728120dbbb39859f",
-    "title": "Siloe",
-    "link": "https://casadamusica.com/event/siloe/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "b3d4780b01e2856cb69c6555": {
-    "id": "b3d4780b01e2856cb69c6555",
-    "title": "Salvador Sobral 5",
-    "link": "https://casadamusica.com/event/salvador-sobral-5/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "8b804657b53df312755eb5b4": {
-    "id": "8b804657b53df312755eb5b4",
-    "title": "Mimi Froes 3",
-    "link": "https://casadamusica.com/event/mimi-froes-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "18036bfcfbdc36c146a9a5e3": {
-    "id": "18036bfcfbdc36c146a9a5e3",
-    "title": "The Pineapple Thief",
-    "link": "https://casadamusica.com/event/the-pineapple-thief/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "329f9c575dd7e0062258b72f": {
-    "id": "329f9c575dd7e0062258b72f",
-    "title": "Miguel Carmona",
-    "link": "https://casadamusica.com/event/miguel-carmona/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "dcf3de7e02a6bc374523825f": {
-    "id": "dcf3de7e02a6bc374523825f",
-    "title": "Elba Ramalho",
-    "link": "https://casadamusica.com/event/elba-ramalho/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "7ae6aaed441599fa153c9224": {
-    "id": "7ae6aaed441599fa153c9224",
-    "title": "Rodrigo Gabriela",
-    "link": "https://casadamusica.com/event/rodrigo-gabriela/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "38fd22a0b7f8836d7b026290": {
-    "id": "38fd22a0b7f8836d7b026290",
-    "title": "Cassete Pirata",
-    "link": "https://casadamusica.com/event/cassete-pirata/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1128,7 +1226,7 @@
   },
   "5a90fbfd19639608a8c1b36c": {
     "id": "5a90fbfd19639608a8c1b36c",
-    "title": "Reabrir, Voltar a escutar",
+    "title": "Reabrir, voltar a escutar",
     "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
@@ -1270,6 +1368,13 @@
     "id": "1995e0d3bcfbce4351ab6435",
     "title": "Raphael Ghanem O Rugido Do Leao Stand Up Comedy Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/181437-raphael_ghanem_o_rugido_do_leao_stand_up_comedy-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "ccf14706cb605768fbfce661": {
+    "id": "ccf14706cb605768fbfce661",
+    "title": "Amanha Nao Esta Certo Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
     "kind": "Aveiro"
   },
@@ -1779,14 +1884,14 @@
   },
   "111ddc12f22da268b78d3c62": {
     "id": "111ddc12f22da268b78d3c62",
-    "title": "Placebo 30th Anniversary Tour",
+    "title": "1ªparte: Elisabeth Elektra",
     "link": "https://everythingisnew.pt/placebo-4/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
   "828130c4b7ef232463ed8408": {
     "id": "828130c4b7ef232463ed8408",
-    "title": "Placebo 30th Anniversary Tour",
+    "title": "1ªparte: Elisabeth Elektra",
     "link": "https://everythingisnew.pt/placebo-5/",
     "source": "Everything Is New",
     "kind": "Promotora"
@@ -2848,87 +2953,87 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "e2925f65f41a5691ea2d2a25": {
-    "id": "e2925f65f41a5691ea2d2a25",
+  "406957be93ba982e541a0356": {
+    "id": "406957be93ba982e541a0356",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "87129aa3f0f02a6481128bd5": {
-    "id": "87129aa3f0f02a6481128bd5",
+  "672422aacc1e762c4ab44eb3": {
+    "id": "672422aacc1e762c4ab44eb3",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8e1814802d02b7bfacf832f0": {
-    "id": "8e1814802d02b7bfacf832f0",
+  "dfbe99c373bf3559e0278f27": {
+    "id": "dfbe99c373bf3559e0278f27",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "08e741fc1eff708075794e13": {
-    "id": "08e741fc1eff708075794e13",
+  "4be1ca8039392791afdefbb1": {
+    "id": "4be1ca8039392791afdefbb1",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "7b744ce244d0d902e48a2a3d": {
-    "id": "7b744ce244d0d902e48a2a3d",
+  "2236c630049abe0ef1c26b46": {
+    "id": "2236c630049abe0ef1c26b46",
     "title": "Educação Inclusiva - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "fa497d9ee163d455ff98467f": {
-    "id": "fa497d9ee163d455ff98467f",
+  "140f3625b30385af42ab2a01": {
+    "id": "140f3625b30385af42ab2a01",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "34b45ace8df8c600236e9e3d": {
-    "id": "34b45ace8df8c600236e9e3d",
+  "1394caeaa7f1978ff5440fa6": {
+    "id": "1394caeaa7f1978ff5440fa6",
     "title": "Universitário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/universitario/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/universitario/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "01a2d98afece3a803ba4cc41": {
-    "id": "01a2d98afece3a803ba4cc41",
+  "c668230ccaf1efd2d9690464": {
+    "id": "c668230ccaf1efd2d9690464",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "375c8305631a72188651da5b": {
-    "id": "375c8305631a72188651da5b",
+  "d9a898ff0f48062dabdf6b28": {
+    "id": "d9a898ff0f48062dabdf6b28",
     "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "046fa844c37522b36f778814": {
-    "id": "046fa844c37522b36f778814",
+  "d38878e7119753c55fff2e7f": {
+    "id": "d38878e7119753c55fff2e7f",
     "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d88d408da59afe91eb4852e2": {
-    "id": "d88d408da59afe91eb4852e2",
+  "fea8506ddad9495829157396": {
+    "id": "fea8506ddad9495829157396",
     "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8775233b5fd080c9def3458c": {
-    "id": "8775233b5fd080c9def3458c",
+  "5f9129213f09060e7328b192": {
+    "id": "5f9129213f09060e7328b192",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-09-16/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-09-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -4283,6 +4388,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "0dd75eba6eb3c69773d8a06c": {
+    "id": "0dd75eba6eb3c69773d8a06c",
+    "title": "João Farinha & Paulo Figueiredo",
+    "link": "https://agendadopedro.pt/concertos/joao-farinha-paulo-figueiredo-porto-16379/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "8cd25fb460c9937e80554918": {
     "id": "8cd25fb460c9937e80554918",
     "title": "Worakls",
@@ -4752,26 +4864,26 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "4fb6b922859dca199254f303": {
-    "id": "4fb6b922859dca199254f303",
-    "title": "Alcest",
-    "link": "https://agendadopedro.pt/concertos/alcest-lisboa-16312/",
+  "69451b2996e8fa7161221a44": {
+    "id": "69451b2996e8fa7161221a44",
+    "title": "Epica",
+    "link": "https://agendadopedro.pt/concertos/epica-lisboa-16374/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "e244723167a2d61a27acc17a": {
-    "id": "e244723167a2d61a27acc17a",
-    "title": "Bárbara Bandeira ᛫ Soraia Ramos ᛫ Bateu Matou",
-    "link": "https://agendadopedro.pt/concertos/barbara-bandeira-lisboa-16304/",
+  "de9c2d14798226219747f4a4": {
+    "id": "de9c2d14798226219747f4a4",
+    "title": "Motionless In White",
+    "link": "https://agendadopedro.pt/concertos/motionless-in-white-lisboa-16365/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "c084988dc9c88ca5a71815e4": {
-    "id": "c084988dc9c88ca5a71815e4",
-    "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-09-15-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
+  "8f56ed0dab9c29f59b7905aa": {
+    "id": "8f56ed0dab9c29f59b7905aa",
+    "title": "Soraia Ramos",
+    "link": "https://agendadopedro.pt/concertos/soraia-ramos-lisboa-16375/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
   },
   "dd6d7d5da5f99325e0b171e5": {
     "title": "Os dias levantados — ópera em versão de concerto",
