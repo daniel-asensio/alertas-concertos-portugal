@@ -2449,13 +2449,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "73a5e7990692ef9ba546410b": {
-    "id": "73a5e7990692ef9ba546410b",
-    "title": "A Night Of Mellon Collie And Infinite Sadness Featuring Billy Corgan",
-    "link": "https://coliseulisboa.com/eventos/a-night-of-mellon-collie-and-infinite-sadness-featuring-billy-corgan/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "631da0f9968ee974ea0cb06e": {
     "id": "631da0f9968ee974ea0cb06e",
     "title": "Carmen Barcelona Flamenco Ballet",
@@ -2551,6 +2544,13 @@
     "id": "4f8f910e8647e0cca915f0b3",
     "title": "Festa Da Burra No Coliseu",
     "link": "https://coliseulisboa.com/eventos/festa-da-burra-no-coliseu/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "ddff7dd8da0b603041920759": {
+    "id": "ddff7dd8da0b603041920759",
+    "title": "Marina Sena Coisas Naturais",
+    "link": "https://coliseulisboa.com/eventos/marina-sena-coisas-naturais/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
