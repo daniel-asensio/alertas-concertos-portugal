@@ -671,6 +671,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "7c10e0d62c459b3beac646ad": {
+    "id": "7c10e0d62c459b3beac646ad",
+    "title": "Esmae Big Band 6",
+    "link": "https://casadamusica.com/event/esmae-big-band-6/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "ae421fa368c0cf5285eb8239": {
     "id": "ae421fa368c0cf5285eb8239",
     "title": "Sakamoto 1996",
@@ -804,6 +811,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "f67ac839826cb16e4c0896d1": {
+    "id": "f67ac839826cb16e4c0896d1",
+    "title": "Joep Beving 3",
+    "link": "https://casadamusica.com/event/joep-beving-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "0d6bdd53c94133a5c6d829c9": {
     "id": "0d6bdd53c94133a5c6d829c9",
     "title": "Ana Lua Caiano",
@@ -867,13 +881,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "a8eab233dd3fd72495a5d878": {
-    "id": "a8eab233dd3fd72495a5d878",
-    "title": "Nouvelle Vague 3",
-    "link": "https://casadamusica.com/event/nouvelle-vague-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "7bb4951425eb8be7e1e9d986": {
     "id": "7bb4951425eb8be7e1e9d986",
     "title": "Phonica – Marisa Monte & Orquestra Ao Vivo",
@@ -913,6 +920,13 @@
     "id": "ab80c081f489b7e15d50306e",
     "title": "RFM – Que Grandioso Espetáculo é Este?",
     "link": "https://www.superbockarena.pt/evento/rfm-que-grandioso-espetaculo-e-este-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "70ecb466ce917db58e669189": {
+    "id": "70ecb466ce917db58e669189",
+    "title": "Cê Tá Doido – Humberto & Ronaldo, Panda, Ícaro & Gilmar",
+    "link": "https://www.superbockarena.pt/evento/ce-ta-doido-humberto-ronaldo-panda-icaro-gilmar/",
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
@@ -1376,13 +1390,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "81bb336b217d6f0690aa62a3": {
-    "id": "81bb336b217d6f0690aa62a3",
-    "title": "Futuros Ecossomáticos Oficina Todos São Palco",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/futuros-ecossomaticos/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "7aef44cafebba8e47a44a1bb": {
@@ -2631,6 +2638,13 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
+  "0ef8f0ac7f37db2d7f01ee06": {
+    "id": "0ef8f0ac7f37db2d7f01ee06",
+    "title": "Mundo Du Pop Du Nothin Apresentacao Do Album De Estreia",
+    "link": "https://coliseulisboa.com/eventos/mundo-du-pop-du-nothin-apresentacao-do-album-de-estreia/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
   "4f844286f6239b65ea6ba57d": {
     "id": "4f844286f6239b65ea6ba57d",
     "title": "The Soloist Of Wiener Mozart Orchestra",
@@ -2649,13 +2663,6 @@
     "id": "4f8f910e8647e0cca915f0b3",
     "title": "Festa Da Burra No Coliseu",
     "link": "https://coliseulisboa.com/eventos/festa-da-burra-no-coliseu/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
-  "ddff7dd8da0b603041920759": {
-    "id": "ddff7dd8da0b603041920759",
-    "title": "Marina Sena Coisas Naturais",
-    "link": "https://coliseulisboa.com/eventos/marina-sena-coisas-naturais/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -2694,17 +2701,17 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "b80e87e134be704393905d4c": {
-    "id": "b80e87e134be704393905d4c",
-    "title": "Convento de São Francisco Fidelio | Ensaio aberto 19 Nov 2026 15:00 Encontro com a ópera",
-    "link": "https://www.saocarlos.pt/program/encontro-com-a-opera-1788348519711/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
   "178f1bec4f0d098706b94b8e": {
     "id": "178f1bec4f0d098706b94b8e",
     "title": "Teatro das Figuras 07 Nov 2026 18:30 Mil e uma noites",
     "link": "https://www.saocarlos.pt/program/mil-e-uma-noites/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "b80e87e134be704393905d4c": {
+    "id": "b80e87e134be704393905d4c",
+    "title": "Convento de São Francisco Mátria | Ensaio aberto 19 Nov 2026 15:00 Encontro com a ópera",
+    "link": "https://www.saocarlos.pt/program/encontro-com-a-opera-1788348519711/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -2717,7 +2724,7 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 13 Dez 2026 16:00 A bela adormecida",
+    "title": "Teatro Camões 19 Dez 2026 18:30 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -3417,7 +3424,7 @@
   },
   "9d23768d88d3ea7f526d46fb": {
     "id": "9d23768d88d3ea7f526d46fb",
-    "title": "Placebo",
+    "title": "Placebo ᛫ Elisabeth Elektra",
     "link": "https://agendadopedro.pt/concertos/placebo-porto-12316/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3786,10 +3793,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "ff0b17d8c5590e273d19bb4a": {
-    "id": "ff0b17d8c5590e273d19bb4a",
-    "title": "Titãs",
-    "link": "https://agendadopedro.pt/concertos/titas-porto-13919/",
+  "711f2e54958e9eb5a2c386ae": {
+    "id": "711f2e54958e9eb5a2c386ae",
+    "title": "Cê Tá Doido",
+    "link": "https://agendadopedro.pt/concertos/ce-ta-doido-porto-16435/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4353,6 +4360,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "2f4c69379df59c837bd1ed4d": {
+    "id": "2f4c69379df59c837bd1ed4d",
+    "title": "Smorra",
+    "link": "https://agendadopedro.pt/concertos/smorra-porto-16400/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "b37e345dee0b41a2b81b0241": {
     "id": "b37e345dee0b41a2b81b0241",
     "title": "This Will Destroy You",
@@ -4371,6 +4385,13 @@
     "id": "f3886b0196855b8a180b3393",
     "title": "Sara Correia",
     "link": "https://agendadopedro.pt/concertos/sara-correia-porto-10930/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "47b8e26ace871dca44115549": {
+    "id": "47b8e26ace871dca44115549",
+    "title": "ESMAE Big Band",
+    "link": "https://agendadopedro.pt/concertos/esmae-big-band-porto-16457/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4490,6 +4511,13 @@
     "id": "6bba272d38e51e2325df4e8c",
     "title": "Resistência",
     "link": "https://agendadopedro.pt/concertos/resistencia-porto-11320/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "696390454fd4912ffbce8540": {
+    "id": "696390454fd4912ffbce8540",
+    "title": "Joep Beving",
+    "link": "https://agendadopedro.pt/concertos/joep-beving-porto-16439/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4682,6 +4710,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "6ed21783be9c7a771fe403af": {
+    "id": "6ed21783be9c7a771fe403af",
+    "title": "Cara de Espelho",
+    "link": "https://agendadopedro.pt/concertos/cara-de-espelho-porto-16406/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "5a5febc4facf8f6630d52e57": {
     "id": "5a5febc4facf8f6630d52e57",
     "title": "Simple Minds ᛫ Level 42",
@@ -4787,6 +4822,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "82a11d8cbaaa90674827c4ee": {
+    "id": "82a11d8cbaaa90674827c4ee",
+    "title": "Steve Hackett",
+    "link": "https://agendadopedro.pt/concertos/steve-hackett-porto-16401/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "1c94dcfb8cee0f371c1364a3": {
     "id": "1c94dcfb8cee0f371c1364a3",
     "title": "Tiago Bettencourt & Toranja",
@@ -4824,7 +4866,7 @@
   },
   "2bfaff03aee745f5f0a0cea6": {
     "id": "2bfaff03aee745f5f0a0cea6",
-    "title": "Padre Guilherme ᛫ HMB ᛫ Gospel Choir Collective",
+    "title": "Padre Guilherme ᛫ HMB ᛫ Gospel Collective",
     "link": "https://agendadopedro.pt/concertos/padre-guilherme-carcavelos-16020/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -4864,17 +4906,24 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "69451b2996e8fa7161221a44": {
-    "id": "69451b2996e8fa7161221a44",
-    "title": "Epica",
-    "link": "https://agendadopedro.pt/concertos/epica-lisboa-16374/",
+  "37e2f24431ed3f0cce963601": {
+    "id": "37e2f24431ed3f0cce963601",
+    "title": "Lagwagon",
+    "link": "https://agendadopedro.pt/concertos/lagwagon-lisboa-16426/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "de9c2d14798226219747f4a4": {
-    "id": "de9c2d14798226219747f4a4",
-    "title": "Motionless In White",
-    "link": "https://agendadopedro.pt/concertos/motionless-in-white-lisboa-16365/",
+  "e862c224d4ca60c2c49d472b": {
+    "id": "e862c224d4ca60c2c49d472b",
+    "title": "Mães Solteiras",
+    "link": "https://agendadopedro.pt/concertos/maes-solteiras-lisboa-16412/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "9db72f4dfb624c42a674f2c7": {
+    "id": "9db72f4dfb624c42a674f2c7",
+    "title": "Ry X",
+    "link": "https://agendadopedro.pt/concertos/ry-x-lisboa-16403/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4884,6 +4933,27 @@
     "link": "https://agendadopedro.pt/concertos/soraia-ramos-lisboa-16375/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "12cdf2efb9f8ccd12923f3b5": {
+    "id": "12cdf2efb9f8ccd12923f3b5",
+    "title": "Steve Hackett",
+    "link": "https://agendadopedro.pt/concertos/steve-hackett-lisboa-16402/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "20d2f0bc3c36345e1f80b891": {
+    "id": "20d2f0bc3c36345e1f80b891",
+    "title": "Yard Act",
+    "link": "https://agendadopedro.pt/concertos/yard-act-lisboa-13213/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6b4d2942880da30c74da9f99": {
+    "id": "6b4d2942880da30c74da9f99",
+    "title": "Todos os concertos marcados para 2026 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-17-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "dd6d7d5da5f99325e0b171e5": {
     "title": "Os dias levantados — ópera em versão de concerto",
