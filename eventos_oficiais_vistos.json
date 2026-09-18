@@ -90,13 +90,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "a9505f2252c56f1861167b64": {
-    "id": "a9505f2252c56f1861167b64",
-    "title": "Som De La E De Ca 3",
-    "link": "https://casadamusica.com/event/som-de-la-e-de-ca-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "4db01b46b61dce6f95c7d5e9": {
     "id": "4db01b46b61dce6f95c7d5e9",
     "title": "Solistas Remix Ensemble",
@@ -762,6 +755,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "f725ace0716fd109c8a8874b": {
+    "id": "f725ace0716fd109c8a8874b",
+    "title": "Uhf Underground Outros Misterios Ao Porto",
+    "link": "https://casadamusica.com/event/uhf-underground-outros-misterios-ao-porto/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "d2547974480f10a731e2b3ef": {
     "id": "d2547974480f10a731e2b3ef",
     "title": "Som De La E De Ca 2",
@@ -871,6 +871,41 @@
     "id": "e36cb14330db202e9946810f",
     "title": "Alice No Pais Das Musicas 2",
     "link": "https://casadamusica.com/event/alice-no-pais-das-musicas-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "a8eab233dd3fd72495a5d878": {
+    "id": "a8eab233dd3fd72495a5d878",
+    "title": "Nouvelle Vague 3",
+    "link": "https://casadamusica.com/event/nouvelle-vague-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "efe7a27443e5197875fb85ac": {
+    "id": "efe7a27443e5197875fb85ac",
+    "title": "Elvira",
+    "link": "https://casadamusica.com/event/elvira/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "19318cc1728120dbbb39859f": {
+    "id": "19318cc1728120dbbb39859f",
+    "title": "Siloe",
+    "link": "https://casadamusica.com/event/siloe/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "4d2a146eab47ef0a55ff6130": {
+    "id": "4d2a146eab47ef0a55ff6130",
+    "title": "Viagem A Lua E Nao So 2",
+    "link": "https://casadamusica.com/event/viagem-a-lua-e-nao-so-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "b3d4780b01e2856cb69c6555": {
+    "id": "b3d4780b01e2856cb69c6555",
+    "title": "Salvador Sobral 5",
+    "link": "https://casadamusica.com/event/salvador-sobral-5/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2946,38 +2981,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "73cfa2b12afe2083011afcaa": {
-    "id": "73cfa2b12afe2083011afcaa",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "9a7a1c137a554827445ca877": {
-    "id": "9a7a1c137a554827445ca877",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "531f26120360db9b0dc51771": {
-    "id": "531f26120360db9b0dc51771",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "9dfee439d9a61c17b56fa851": {
-    "id": "9dfee439d9a61c17b56fa851",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "733dd79d7bdcbc3854238562": {
-    "id": "733dd79d7bdcbc3854238562",
-    "title": "Educação Inclusiva - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/2026-09-18/",
+  "c7c88a17677ca88ae22e9729": {
+    "id": "c7c88a17677ca88ae22e9729",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2985,20 +2992,6 @@
     "id": "a2bee43d19960df6ff884876",
     "title": "Primeiro Ciclo",
     "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "32e597583d6684b7bedeb054": {
-    "id": "32e597583d6684b7bedeb054",
-    "title": "Universitário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/universitario/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "c7c88a17677ca88ae22e9729": {
-    "id": "c7c88a17677ca88ae22e9729",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3023,10 +3016,45 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "21065181c704e51d6284f581": {
-    "id": "21065181c704e51d6284f581",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-09-18/",
+  "10351a65015c8933bd7f64bb": {
+    "id": "10351a65015c8933bd7f64bb",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "0e6d42b66078bb8f4006d998": {
+    "id": "0e6d42b66078bb8f4006d998",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "3dcc6b3a898f329fd089504f": {
+    "id": "3dcc6b3a898f329fd089504f",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5f6c9019647ae562410e80fc": {
+    "id": "5f6c9019647ae562410e80fc",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "3aae3d662fcac451e562fa2c": {
+    "id": "3aae3d662fcac451e562fa2c",
+    "title": "Educação Inclusiva - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8c2242d02ba94c0b97c7b868": {
+    "id": "8c2242d02ba94c0b97c7b868",
+    "title": "Universitário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/universitario/2026-09-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3034,6 +3062,13 @@
     "id": "541b2175c09437dd5f59204f",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "430e2bfd91409edfc5f02f2e": {
+    "id": "430e2bfd91409edfc5f02f2e",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-09-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -4423,6 +4458,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "f492d36388851d9f8d3940ea": {
+    "id": "f492d36388851d9f8d3940ea",
+    "title": "UHF",
+    "link": "https://agendadopedro.pt/concertos/uhf-porto-16478/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "6a8d7dcdea66aaf91e93c3f0": {
     "id": "6a8d7dcdea66aaf91e93c3f0",
     "title": "Orquestra Clássica de Espinho & Miguel Araújo",
@@ -4682,6 +4724,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "d16c0c373dc898c75aa1fd26": {
+    "id": "d16c0c373dc898c75aa1fd26",
+    "title": "Snarky Puppy",
+    "link": "https://agendadopedro.pt/concertos/snarky-puppy-porto-16473/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "6ed21783be9c7a771fe403af": {
     "id": "6ed21783be9c7a771fe403af",
     "title": "Cara de Espelho",
@@ -4770,6 +4819,13 @@
     "id": "42a39558635a0485f2064746",
     "title": "Cock Robin",
     "link": "https://agendadopedro.pt/concertos/cock-robin-porto-15281/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "eed8eaede2f573bd394fc803": {
+    "id": "eed8eaede2f573bd394fc803",
+    "title": "Ry X",
+    "link": "https://agendadopedro.pt/concertos/ry-x-porto-16472/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4885,24 +4941,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "9db72f4dfb624c42a674f2c7": {
-    "id": "9db72f4dfb624c42a674f2c7",
-    "title": "Ry X",
-    "link": "https://agendadopedro.pt/concertos/ry-x-lisboa-16403/",
+  "0c18b737107dfdeeaa86b0cc": {
+    "id": "0c18b737107dfdeeaa86b0cc",
+    "title": "Primitive Reason",
+    "link": "https://agendadopedro.pt/concertos/primitive-reason-lisboa-16481/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "8f56ed0dab9c29f59b7905aa": {
-    "id": "8f56ed0dab9c29f59b7905aa",
-    "title": "Soraia Ramos",
-    "link": "https://agendadopedro.pt/concertos/soraia-ramos-lisboa-16375/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "12cdf2efb9f8ccd12923f3b5": {
-    "id": "12cdf2efb9f8ccd12923f3b5",
-    "title": "Steve Hackett",
-    "link": "https://agendadopedro.pt/concertos/steve-hackett-lisboa-16402/",
+  "3f003076cf6a9a68812892fa": {
+    "id": "3f003076cf6a9a68812892fa",
+    "title": "Snarky Puppy",
+    "link": "https://agendadopedro.pt/concertos/snarky-puppy-lisboa-16480/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
