@@ -2547,13 +2547,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "631da0f9968ee974ea0cb06e": {
-    "id": "631da0f9968ee974ea0cb06e",
-    "title": "Carmen Barcelona Flamenco Ballet",
-    "link": "https://coliseulisboa.com/eventos/carmen-barcelona-flamenco-ballet/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "82bf8723bd8b49c2276977d7": {
     "id": "82bf8723bd8b49c2276977d7",
     "title": "Plenitude Com Camila Vieira Portugal 2026",
@@ -2649,6 +2642,13 @@
     "id": "4f8f910e8647e0cca915f0b3",
     "title": "Festa Da Burra No Coliseu",
     "link": "https://coliseulisboa.com/eventos/festa-da-burra-no-coliseu/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "ddff7dd8da0b603041920759": {
+    "id": "ddff7dd8da0b603041920759",
+    "title": "Marina Sena Coisas Naturais",
+    "link": "https://coliseulisboa.com/eventos/marina-sena-coisas-naturais/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
