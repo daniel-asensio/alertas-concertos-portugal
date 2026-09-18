@@ -1,11 +1,4 @@
 {
-  "3aab6c3fef5a39ae66d0af7c": {
-    "id": "3aab6c3fef5a39ae66d0af7c",
-    "title": "Jau",
-    "link": "https://casadamusica.com/event/jau/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "deabe3585b89f338e150a508": {
     "id": "deabe3585b89f338e150a508",
     "title": "Viagem A Italia",
@@ -1872,13 +1865,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "a5eddb0049a3fe9ddf42229a": {
-    "id": "a5eddb0049a3fe9ddf42229a",
-    "title": "Convidado: Orquestra Sinfonietta de Lisboa e Coro Ricercare",
-    "link": "https://everythingisnew.pt/sigur-ros/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
