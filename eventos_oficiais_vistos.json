@@ -1,11 +1,4 @@
 {
-  "deabe3585b89f338e150a508": {
-    "id": "deabe3585b89f338e150a508",
-    "title": "Viagem A Italia",
-    "link": "https://casadamusica.com/event/viagem-a-italia/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "d27675a2b100f8aff2d84230": {
     "id": "d27675a2b100f8aff2d84230",
     "title": "Bonds Festival",
@@ -2967,41 +2960,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c7c88a17677ca88ae22e9729": {
-    "id": "c7c88a17677ca88ae22e9729",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "a2bee43d19960df6ff884876": {
-    "id": "a2bee43d19960df6ff884876",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "46179ed98d319f6877832606": {
-    "id": "46179ed98d319f6877832606",
-    "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "e0f9871b22f546177524e668": {
-    "id": "e0f9871b22f546177524e668",
-    "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "716779af0f69ee0bf2ffd035": {
-    "id": "716779af0f69ee0bf2ffd035",
-    "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-18/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "10351a65015c8933bd7f64bb": {
     "id": "10351a65015c8933bd7f64bb",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -3037,6 +2995,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "3e70e94939bc92a71b6812ab": {
+    "id": "3e70e94939bc92a71b6812ab",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "8c2242d02ba94c0b97c7b868": {
     "id": "8c2242d02ba94c0b97c7b868",
     "title": "Universitário - Centro Cultural de Belém",
@@ -3048,6 +3013,34 @@
     "id": "541b2175c09437dd5f59204f",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "88353f37465684fee4d1a878": {
+    "id": "88353f37465684fee4d1a878",
+    "title": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "a37e052b009032762ce23c98": {
+    "id": "a37e052b009032762ce23c98",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5d8f5ad9aeaef93baedfc21b": {
+    "id": "5d8f5ad9aeaef93baedfc21b",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-09-19/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "91af1e6cc1f2d9c3beb65aad": {
+    "id": "91af1e6cc1f2d9c3beb65aad",
+    "title": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-09-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
