@@ -1203,13 +1203,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "c2d0cbbb709c7c2b3b434e8b": {
-    "id": "c2d0cbbb709c7c2b3b434e8b",
-    "title": "benito party",
-    "link": "https://www.hardclubporto.com/PT/evento/benito-party-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "b13b0ef1f9d42f71fe86a0e0": {
     "id": "b13b0ef1f9d42f71fe86a0e0",
     "title": "khaos",
@@ -1221,6 +1214,13 @@
     "id": "bd73be06fe2c0e72def44480",
     "title": "Cities Aviv",
     "link": "https://www.hardclubporto.com/PT/evento/cities-aviv-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "33c2da15f81f287ae126f499": {
+    "id": "33c2da15f81f287ae126f499",
+    "title": "Dr. Manuel Sans Segarra",
+    "link": "https://www.hardclubporto.com/PT/evento/dr-manuel-sans-segarra-a-supraconsciancia-existe-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1734,13 +1734,6 @@
     "link": "https://www.teatroaveirense.pt/index.php/evento/a-poesia-das-pequenas-coisas-estreia/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
-  },
-  "eca7a0315a5c4379ab49dd5d": {
-    "id": "eca7a0315a5c4379ab49dd5d",
-    "title": "Secret Agents | Banda Musical de Souto",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
   },
   "7c61d5f29040f8e0449935fc": {
     "id": "7c61d5f29040f8e0449935fc",
@@ -3211,27 +3204,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "43ae8eb2096e1260e1a291c2": {
-    "id": "43ae8eb2096e1260e1a291c2",
-    "title": "Filipe Karlsson ᛫ Manila ᛫ Luís Severo ᛫ Astra Vaga ᛫ Vitória Vermelho ᛫ Cris",
-    "link": "https://agendadopedro.pt/concertos/filipe-karlsson-porto-14778/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "dfe728d0e09e09ce532d88d5": {
-    "id": "dfe728d0e09e09ce532d88d5",
-    "title": "Leonor Arnaut",
-    "link": "https://agendadopedro.pt/concertos/leonor-arnaut-porto-15377/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6093b3f97f45d554f32d942a": {
-    "id": "6093b3f97f45d554f32d942a",
-    "title": "Rouxinol Faduncho",
-    "link": "https://agendadopedro.pt/concertos/rouxinol-faduncho-porto-13864/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "d9f92a84258208721d672437": {
     "id": "d9f92a84258208721d672437",
@@ -4833,13 +4805,6 @@
     "id": "1d6f502b9255d0ce087ef19a",
     "title": "Mac DeMarco",
     "link": "https://agendadopedro.pt/concertos/mac-demarco-lisboa-11107/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "2bfaff03aee745f5f0a0cea6": {
-    "id": "2bfaff03aee745f5f0a0cea6",
-    "title": "Padre Guilherme ᛫ HMB ᛫ Gospel Collective",
-    "link": "https://agendadopedro.pt/concertos/padre-guilherme-carcavelos-16020/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
