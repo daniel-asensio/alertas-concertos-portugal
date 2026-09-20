@@ -2547,13 +2547,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "82bf8723bd8b49c2276977d7": {
-    "id": "82bf8723bd8b49c2276977d7",
-    "title": "Plenitude Com Camila Vieira Portugal 2026",
-    "link": "https://coliseulisboa.com/eventos/plenitude-com-camila-vieira-portugal-2026/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "f5f7f9f292a34d8d6024225f": {
     "id": "f5f7f9f292a34d8d6024225f",
     "title": "Radio Macau",
@@ -2649,6 +2642,13 @@
     "id": "ddff7dd8da0b603041920759",
     "title": "Marina Sena Coisas Naturais",
     "link": "https://coliseulisboa.com/eventos/marina-sena-coisas-naturais/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "b02362b871985f07fa376620": {
+    "id": "b02362b871985f07fa376620",
+    "title": "Ricardo Reis Soares Daniela Galhoz 2",
+    "link": "https://coliseulisboa.com/eventos/ricardo-reis-soares-daniela-galhoz-2/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
