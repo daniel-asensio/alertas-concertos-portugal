@@ -1,25 +1,4 @@
 {
-  "1c5196c19fe37c8a9945c804": {
-    "id": "1c5196c19fe37c8a9945c804",
-    "title": "Estacao Casa Da Musica 2027",
-    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "18871869c9a868cd9ab471ec": {
-    "id": "18871869c9a868cd9ab471ec",
-    "title": "Berlioz Em Italia",
-    "link": "https://casadamusica.com/event/berlioz-em-italia/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "0347d124ebd77f78a0847737": {
-    "id": "0347d124ebd77f78a0847737",
-    "title": "Setembro Dourado Em Cena",
-    "link": "https://casadamusica.com/event/setembro-dourado-em-cena/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "111e4b7844a0d701a79f40da": {
     "id": "111e4b7844a0d701a79f40da",
     "title": "Pensar A Arte E A Cultura De T S Eliot As Industrias Criativas",
@@ -129,6 +108,13 @@
     "id": "08fce2db53ed442ceb867b64",
     "title": "Retro Gaming Sinfonico",
     "link": "https://casadamusica.com/event/retro-gaming-sinfonico/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "1c5196c19fe37c8a9945c804": {
+    "id": "1c5196c19fe37c8a9945c804",
+    "title": "Estacao Casa Da Musica 2027",
+    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -892,6 +878,20 @@
     "id": "b3d4780b01e2856cb69c6555",
     "title": "Salvador Sobral 5",
     "link": "https://casadamusica.com/event/salvador-sobral-5/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "8b804657b53df312755eb5b4": {
+    "id": "8b804657b53df312755eb5b4",
+    "title": "Mimi Froes 3",
+    "link": "https://casadamusica.com/event/mimi-froes-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "39fe321b2e03d674d2c5d6b0": {
+    "id": "39fe321b2e03d674d2c5d6b0",
+    "title": "Bebethoven 4",
+    "link": "https://casadamusica.com/event/bebethoven-4/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
