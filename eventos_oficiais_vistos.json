@@ -468,6 +468,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "50b70abeb09dc80ad4d3c6a8": {
+    "id": "50b70abeb09dc80ad4d3c6a8",
+    "title": "Vania Leal 2026 11 17",
+    "link": "https://casadamusica.com/event/vania-leal-2026-11-17/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "1bdf4b691e00f61ddf91f8bb": {
     "id": "1bdf4b691e00f61ddf91f8bb",
     "title": "Svaneborg Kardyb Vega Trails",
@@ -1279,20 +1286,6 @@
     "link": "https://www.tnsj.pt/pt/espetaculos/7278/clubes-de-teatro/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
-  },
-  "ba3b232e55a8f618344a69ba": {
-    "id": "ba3b232e55a8f618344a69ba",
-    "title": "Luciana Acuña & Alejo Moguillansky Efectos Especiales",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/luciana-acu-a-alejo-moguillansky-efectos-especiales/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
-  "6d62cb18ce633f80b3743f85": {
-    "id": "6d62cb18ce633f80b3743f85",
-    "title": "Mindy Seu A SEXUAL HISTORY OF THE INTERNET",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/mindy-seu-a-sexual-history-of-the-internet/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
   },
   "cf1f624b09e3b5a2b546c672": {
     "id": "cf1f624b09e3b5a2b546c672",
@@ -2169,6 +2162,13 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "1ff4040928b36eb277ac400f": {
+    "id": "1ff4040928b36eb277ac400f",
+    "title": "Patti Smith",
+    "link": "https://everythingisnew.pt/patti-smith/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "47398a995ff755c1ea591a69": {
     "id": "47398a995ff755c1ea591a69",
     "title": "A Nossa História",
@@ -2372,6 +2372,13 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "d84269e99b7e2870ad62e6e1": {
+    "id": "d84269e99b7e2870ad62e6e1",
+    "title": "Yumala Halloween",
+    "link": "https://arena.meo.pt/agenda/yumala-halloween_pt/16498/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "c2a6bb17afdb02c950b37cb5": {
     "id": "c2a6bb17afdb02c950b37cb5",
     "title": "Andre Rieu E A Sua Orquestra Johann Strauss",
@@ -2526,6 +2533,13 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "6e4a177ff27ff5cbcd4b33bd": {
+    "id": "6e4a177ff27ff5cbcd4b33bd",
+    "title": "Motionless In White Plus Guests",
+    "link": "https://arena.meo.pt/agenda/motionless-in-white-plus-guests_pt/16579/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "b1aab73258cebf22eefebc23": {
     "id": "b1aab73258cebf22eefebc23",
     "title": "Don Omar",
@@ -2638,13 +2652,6 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
-  "76746567232a79b7693114e8": {
-    "id": "76746567232a79b7693114e8",
-    "title": "Centro Cultural Olga Cadaval 20 Set 2026 17:00 Concerto inaugural",
-    "link": "https://www.saocarlos.pt/program/concerto-inaugural/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
   "76452d025e1baaa0b7df1109": {
     "id": "76452d025e1baaa0b7df1109",
     "title": "Teatro Micaelense 28 Nov 2026 21:30 Carmen",
@@ -2696,7 +2703,7 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 19 Dez 2026 18:30 A bela adormecida",
+    "title": "Teatro Camões 20 Dez 2026 16:00 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2705,6 +2712,13 @@
     "id": "c0e9092100283a3d0a41a903",
     "title": "Teatro Tivoli BBVA 12 Dez 2026 20:00 Natal com Mozart",
     "link": "https://www.saocarlos.pt/program/natal-com-mozart/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "4188e61bb254a44abd1cb73f": {
+    "id": "4188e61bb254a44abd1cb73f",
+    "title": "Centro Cultural de Belém 20 Dez 2026 17:00 Concerto de Natal - Missa em si menor de Bach",
+    "link": "https://www.saocarlos.pt/program/concerto-de-natal-missa-em-si-menor-de-bach/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -4885,10 +4899,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "4ede1d00726eec9f112ad192": {
-    "id": "4ede1d00726eec9f112ad192",
+  "c18cf904f285d529762ee9b2": {
+    "id": "c18cf904f285d529762ee9b2",
     "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-09-19-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-21-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
