@@ -167,6 +167,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "f3dbe7d728bb71b8d508d85f": {
+    "id": "f3dbe7d728bb71b8d508d85f",
+    "title": "Ensaio Aberto %C2%B7 Serenata De Mozart",
+    "link": "https://casadamusica.com/event/ensaio-aberto-%c2%b7-serenata-de-mozart/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "f91f85a852ec825c84d95a94": {
     "id": "f91f85a852ec825c84d95a94",
     "title": "Serenata De Mozart",
@@ -213,6 +220,13 @@
     "id": "b954e930ba362f3344c3b7d4",
     "title": "Joana Raquel Finge Azar Azar",
     "link": "https://casadamusica.com/event/joana-raquel-finge-azar-azar/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "9e163aa745f0f3a3c8d382e3": {
+    "id": "9e163aa745f0f3a3c8d382e3",
+    "title": "Ensaio Aberto %C2%B7 Jazz Sinfonico",
+    "link": "https://casadamusica.com/event/ensaio-aberto-%c2%b7-jazz-sinfonico/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -895,13 +909,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "39fe321b2e03d674d2c5d6b0": {
-    "id": "39fe321b2e03d674d2c5d6b0",
-    "title": "Bebethoven 4",
-    "link": "https://casadamusica.com/event/bebethoven-4/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "506fcec11e75a5371b0d6eea": {
     "id": "506fcec11e75a5371b0d6eea",
     "title": "Placebo",
@@ -1238,10 +1245,31 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
+  "773054cdb52d745a0f5f6e7a": {
+    "id": "773054cdb52d745a0f5f6e7a",
+    "title": "12 Nov — 13 Dez Teatro São João Auto da Barca do Inferno de Gil Vicente encenação Marta Pazos Teatro Nacional São João, Centro Dramático Galego",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7266/auto-da-barca-do-inferno/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
   "646425e496b0e5421eb28d4f": {
     "id": "646425e496b0e5421eb28d4f",
     "title": "Crime e Castigo",
     "link": "https://www.tnsj.pt/pt/espetaculos/7256/crime-e-castigo/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "e5121c2653eb197ef5460549": {
+    "id": "e5121c2653eb197ef5460549",
+    "title": "Os Miseráveis",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7257/os-miseraveis/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "d68a416d72a5bec90c4e5d5b": {
+    "id": "d68a416d72a5bec90c4e5d5b",
+    "title": "O Estado do Mundo (Quando Acordas)",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7258/o-estado-do-mundo-quando-acordas/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -2372,17 +2400,17 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "d84269e99b7e2870ad62e6e1": {
-    "id": "d84269e99b7e2870ad62e6e1",
-    "title": "Yumala Halloween",
-    "link": "https://arena.meo.pt/agenda/yumala-halloween_pt/16498/",
-    "source": "MEO Arena",
-    "kind": "Grande sala"
-  },
   "c2a6bb17afdb02c950b37cb5": {
     "id": "c2a6bb17afdb02c950b37cb5",
     "title": "Andre Rieu E A Sua Orquestra Johann Strauss",
     "link": "https://arena.meo.pt/agenda/andre-rieu-e-a-sua-orquestra-johann-strauss_pt/13193/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "d84269e99b7e2870ad62e6e1": {
+    "id": "d84269e99b7e2870ad62e6e1",
+    "title": "Yumala Halloween",
+    "link": "https://arena.meo.pt/agenda/yumala-halloween_pt/16498/",
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
@@ -2729,17 +2757,24 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "ca6335c159697d4c74ab783f": {
-    "id": "ca6335c159697d4c74ab783f",
-    "title": "A Bela Adormecida 2026",
-    "link": "https://www.cnb.pt/program/a-bela-adormecida-2026/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
   "0bbd222930d5359e75f0359b": {
     "id": "0bbd222930d5359e75f0359b",
     "title": "26 Set 2026 21:30 Os Maias",
     "link": "https://www.cnb.pt/program/os-maias-2627/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "8801cbeb349f4213457964ad": {
+    "id": "8801cbeb349f4213457964ad",
+    "title": "03 Out 2026 21:30 Only Duos",
+    "link": "https://www.cnb.pt/program/only-duos-26-27/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "ca6335c159697d4c74ab783f": {
+    "id": "ca6335c159697d4c74ab783f",
+    "title": "A Bela Adormecida 2026",
+    "link": "https://www.cnb.pt/program/a-bela-adormecida-2026/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -2754,13 +2789,6 @@
     "id": "555879e8be46907ef0d362ef",
     "title": "Atelier 11 Out 2026 15:30 Desassossegar, pôr as ideias a dançar!",
     "link": "https://www.cnb.pt/program/atelier-desassossego/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "8801cbeb349f4213457964ad": {
-    "id": "8801cbeb349f4213457964ad",
-    "title": "03 Out 2026 21:30 Only Duos",
-    "link": "https://www.cnb.pt/program/only-duos-26-27/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -4868,6 +4896,13 @@
     "id": "37e2f24431ed3f0cce963601",
     "title": "Lagwagon",
     "link": "https://agendadopedro.pt/concertos/lagwagon-lisboa-16426/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "070d638493d82bc1f1760502": {
+    "id": "070d638493d82bc1f1760502",
+    "title": "Patti Smith Quartet",
+    "link": "https://agendadopedro.pt/concertos/patti-smith-quartet-lisboa-16537/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
