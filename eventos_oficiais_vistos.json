@@ -1,11 +1,4 @@
 {
-  "111e4b7844a0d701a79f40da": {
-    "id": "111e4b7844a0d701a79f40da",
-    "title": "Pensar A Arte E A Cultura De T S Eliot As Industrias Criativas",
-    "link": "https://casadamusica.com/event/pensar-a-arte-e-a-cultura-de-t-s-eliot-as-industrias-criativas/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "26786702db7a7556b963eec4": {
     "id": "26786702db7a7556b963eec4",
     "title": "Concerto Solidario",
@@ -73,6 +66,13 @@
     "id": "e730fd1083835fd27b33cc87",
     "title": "Azymuth",
     "link": "https://casadamusica.com/event/azymuth/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "111e4b7844a0d701a79f40da": {
+    "id": "111e4b7844a0d701a79f40da",
+    "title": "Pensar A Arte E A Cultura De T S Eliot As Industrias Criativas",
+    "link": "https://casadamusica.com/event/pensar-a-arte-e-a-cultura-de-t-s-eliot-as-industrias-criativas/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -906,6 +906,13 @@
     "id": "8b804657b53df312755eb5b4",
     "title": "Mimi Froes 3",
     "link": "https://casadamusica.com/event/mimi-froes-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "39fe321b2e03d674d2c5d6b0": {
+    "id": "39fe321b2e03d674d2c5d6b0",
+    "title": "Bebethoven 4",
+    "link": "https://casadamusica.com/event/bebethoven-4/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
