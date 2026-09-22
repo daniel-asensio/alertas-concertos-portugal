@@ -2309,27 +2309,6 @@
     "source": "PEV Entertainment",
     "kind": "Promotora Porto"
   },
-  "829a09beb03f752049d9276d": {
-    "id": "829a09beb03f752049d9276d",
-    "title": "Área Imprensa",
-    "link": "https://houseoffun.pt/imprensa/",
-    "source": "House of Fun",
-    "kind": "Promotora"
-  },
-  "1285df4beca4677e5bf82b78": {
-    "id": "1285df4beca4677e5bf82b78",
-    "title": "Newsletter",
-    "link": "https://houseoffun.pt/newsletter/",
-    "source": "House of Fun",
-    "kind": "Promotora"
-  },
-  "d6a6b172cb075194440a2cd7": {
-    "id": "d6a6b172cb075194440a2cd7",
-    "title": "Contacto - House of Fun",
-    "link": "https://houseoffun.pt/contacto/",
-    "source": "House of Fun",
-    "kind": "Promotora"
-  },
   "88f9e175594c18f925ba9a62": {
     "id": "88f9e175594c18f925ba9a62",
     "title": "SOBRE NÓS",
@@ -3338,6 +3317,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "b1ffd4f8d9a712c66750db26": {
+    "id": "b1ffd4f8d9a712c66750db26",
+    "title": "Sónia Amorim",
+    "link": "https://agendadopedro.pt/concertos/sonia-amorim-porto-16592/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "8b7e36fff68fc55ed8003965": {
     "id": "8b7e36fff68fc55ed8003965",
     "title": "Spitgod ᛫ Vengeful Fate",
@@ -3412,6 +3398,13 @@
     "id": "0a57f5561f768e8d58391e70",
     "title": "Whitney Johnson & Lia Kohl & Macie Stewart",
     "link": "https://agendadopedro.pt/concertos/whitney-johnson-lia-kohl-macie-stewart-porto-13468/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "30f7781408d93a45d39cda20": {
+    "id": "30f7781408d93a45d39cda20",
+    "title": "Dynamo",
+    "link": "https://agendadopedro.pt/concertos/dynamo-porto-16586/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3503,6 +3496,13 @@
     "id": "e2f428efb6b6e6459f1ab814",
     "title": "Lau Ro ᛫ Tomé Capa",
     "link": "https://agendadopedro.pt/concertos/lau-ro-porto-16209/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "f140c694ef7e756d17aa35b0": {
+    "id": "f140c694ef7e756d17aa35b0",
+    "title": "Espama Trincana",
+    "link": "https://agendadopedro.pt/concertos/espama-trincana-porto-16585/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3681,6 +3681,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "fded53d493e2ffd2b5498fe6": {
+    "id": "fded53d493e2ffd2b5498fe6",
+    "title": "The Lemon Twigs",
+    "link": "https://agendadopedro.pt/concertos/the-lemon-twigs-porto-16584/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "6b38a9a91839d09f218d1975": {
     "id": "6b38a9a91839d09f218d1975",
     "title": "Nina Maia",
@@ -3720,6 +3727,13 @@
     "id": "58c1190ea4312e20f0106888",
     "title": "Gerardo Rodrigues",
     "link": "https://agendadopedro.pt/concertos/gerardo-rodrigues-porto-13510/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "0e3100b5526c6969192ccf8f": {
+    "id": "0e3100b5526c6969192ccf8f",
+    "title": "Nkisi ᛫ Gonçalo F. Cardoso",
+    "link": "https://agendadopedro.pt/concertos/nkisi-porto-16573/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3874,6 +3888,13 @@
     "id": "2b00d5e5297e4fbb5b34d9dc",
     "title": "Geologist",
     "link": "https://agendadopedro.pt/concertos/geologist-porto-15387/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "635629b9417eeef789b60563": {
+    "id": "635629b9417eeef789b60563",
+    "title": "Black Bombaim & Isaiah Mitchell",
+    "link": "https://agendadopedro.pt/concertos/black-bombaim-isaiah-mitchell-porto-16593/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4940,13 +4961,6 @@
     "link": "https://agendadopedro.pt/concertos/yard-act-lisboa-13213/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "c18cf904f285d529762ee9b2": {
-    "id": "c18cf904f285d529762ee9b2",
-    "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-09-21-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
   },
   "dd6d7d5da5f99325e0b171e5": {
     "title": "Os dias levantados — ópera em versão de concerto",
