@@ -1427,13 +1427,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "70d6ddc11c3ae46bd8496429": {
-    "id": "70d6ddc11c3ae46bd8496429",
-    "title": "Livros Restantes Os Filmes das Nossas Terças",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/livros-restantes/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "ed7025bfa84e2d08def0705d": {
     "id": "ed7025bfa84e2d08def0705d",
     "title": "Ponto Final, Ponto Seguido Todos São Palco",
@@ -2308,6 +2301,27 @@
     "link": "https://peventertainment.pt/politica-de-privacidade/",
     "source": "PEV Entertainment",
     "kind": "Promotora Porto"
+  },
+  "829a09beb03f752049d9276d": {
+    "id": "829a09beb03f752049d9276d",
+    "title": "Área Imprensa",
+    "link": "https://houseoffun.pt/imprensa/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "1285df4beca4677e5bf82b78": {
+    "id": "1285df4beca4677e5bf82b78",
+    "title": "Newsletter",
+    "link": "https://houseoffun.pt/newsletter/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "d6a6b172cb075194440a2cd7": {
+    "id": "d6a6b172cb075194440a2cd7",
+    "title": "Contacto - House of Fun",
+    "link": "https://houseoffun.pt/contacto/",
+    "source": "House of Fun",
+    "kind": "Promotora"
   },
   "88f9e175594c18f925ba9a62": {
     "id": "88f9e175594c18f925ba9a62",
