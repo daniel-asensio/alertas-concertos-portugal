@@ -1742,6 +1742,13 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "63b2581cf4722ae4443fa6f6": {
+    "id": "63b2581cf4722ae4443fa6f6",
+    "title": "António Zambujo Oração ao Tempo",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/antonio-zambujo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "7c61d5f29040f8e0449935fc": {
     "id": "7c61d5f29040f8e0449935fc",
     "title": "I´A´V | Curadoria Basqueiro Associação Cultural",
@@ -2386,6 +2393,13 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "288034e46841ffb7b27eb41d": {
+    "id": "288034e46841ffb7b27eb41d",
+    "title": "Startalk Live",
+    "link": "https://arena.meo.pt/agenda/startalk-live_pt/16589/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "369870fc1775d8f93620bef2": {
     "id": "369870fc1775d8f93620bef2",
     "title": "Fontaines D C",
@@ -2757,13 +2771,6 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "d3967480bf5d6525f34f6087": {
-    "id": "d3967480bf5d6525f34f6087",
-    "title": "29 Out 2026 20:00 Desassossego",
-    "link": "https://www.cnb.pt/program/desassossego-cnb/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
   "0bbd222930d5359e75f0359b": {
     "id": "0bbd222930d5359e75f0359b",
     "title": "26 Set 2026 21:30 Os Maias",
@@ -2771,31 +2778,24 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "8801cbeb349f4213457964ad": {
-    "id": "8801cbeb349f4213457964ad",
-    "title": "03 Out 2026 21:30 Only Duos",
-    "link": "https://www.cnb.pt/program/only-duos-26-27/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "ca6335c159697d4c74ab783f": {
-    "id": "ca6335c159697d4c74ab783f",
-    "title": "A Bela Adormecida 2026",
-    "link": "https://www.cnb.pt/program/a-bela-adormecida-2026/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "ab25e07a54bf7be5d456a83b": {
-    "id": "ab25e07a54bf7be5d456a83b",
-    "title": "Carmina Burana 2026",
-    "link": "https://www.cnb.pt/program/carmina-burana-2026/",
+  "d3967480bf5d6525f34f6087": {
+    "id": "d3967480bf5d6525f34f6087",
+    "title": "29 Out 2026 20:00 Desassossego",
+    "link": "https://www.cnb.pt/program/desassossego-cnb/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
   "555879e8be46907ef0d362ef": {
     "id": "555879e8be46907ef0d362ef",
-    "title": "Atelier 11 Out 2026 15:30 Desassossegar, pôr as ideias a dançar!",
+    "title": "Atelier 11 Out 2026 15:00 Desassossegar, pôr as ideias a dançar!",
     "link": "https://www.cnb.pt/program/atelier-desassossego/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "8801cbeb349f4213457964ad": {
+    "id": "8801cbeb349f4213457964ad",
+    "title": "03 Out 2026 21:30 Only Duos",
+    "link": "https://www.cnb.pt/program/only-duos-26-27/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -4045,6 +4045,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "2e181dd51db7ba3a17f57af1": {
+    "id": "2e181dd51db7ba3a17f57af1",
+    "title": "Vânia Leal",
+    "link": "https://agendadopedro.pt/concertos/vania-leal-porto-16543/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "a2f6cca7747371fcb3414c13": {
     "id": "a2f6cca7747371fcb3414c13",
     "title": "Bryan Adams",
@@ -4647,6 +4654,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "f806cc3167b4da01427a934e": {
+    "id": "f806cc3167b4da01427a934e",
+    "title": "Leo Middea",
+    "link": "https://agendadopedro.pt/concertos/leo-middea-porto-16542/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "61163361dd76715a054dd2d5": {
     "id": "61163361dd76715a054dd2d5",
     "title": "The Pineapple Thief",
@@ -4892,10 +4906,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "070d638493d82bc1f1760502": {
-    "id": "070d638493d82bc1f1760502",
-    "title": "Patti Smith Quartet",
-    "link": "https://agendadopedro.pt/concertos/patti-smith-quartet-lisboa-16537/",
+  "c08a7e6e41a2699958eadcae": {
+    "id": "c08a7e6e41a2699958eadcae",
+    "title": "Patti Smith",
+    "link": "https://agendadopedro.pt/concertos/patti-smith-lisboa-16537/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
