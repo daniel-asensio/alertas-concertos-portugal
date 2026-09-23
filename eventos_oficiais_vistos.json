@@ -363,6 +363,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "9a89eab2cea8bca0ac53791c": {
+    "id": "9a89eab2cea8bca0ac53791c",
+    "title": "Kialtera 2",
+    "link": "https://casadamusica.com/event/kialtera-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "adfed7c90dcd9ee4845102f1": {
     "id": "adfed7c90dcd9ee4845102f1",
     "title": "Schubert E Strauss",
@@ -4954,6 +4961,13 @@
     "link": "https://agendadopedro.pt/concertos/yard-act-lisboa-13213/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "a3ba1abd644a869bfed9608c": {
+    "id": "a3ba1abd644a869bfed9608c",
+    "title": "Todos os concertos marcados para 2026 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-23-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "dd6d7d5da5f99325e0b171e5": {
     "title": "Os dias levantados — ópera em versão de concerto",
