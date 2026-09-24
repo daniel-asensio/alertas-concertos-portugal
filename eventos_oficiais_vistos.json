@@ -167,6 +167,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "0d77ebb4b556170dd79ec668": {
+    "id": "0d77ebb4b556170dd79ec668",
+    "title": "Ensaio Aberto Serenata De Mozart Ospcdm",
+    "link": "https://casadamusica.com/event/ensaio-aberto-serenata-de-mozart-ospcdm/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "f91f85a852ec825c84d95a94": {
     "id": "f91f85a852ec825c84d95a94",
     "title": "Serenata De Mozart",
@@ -370,6 +377,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "5b7cde85b4ce4e3c848c97df": {
+    "id": "5b7cde85b4ce4e3c848c97df",
+    "title": "Ensaio Aberto %C2%B7 Schubert E Strauss 2",
+    "link": "https://casadamusica.com/event/ensaio-aberto-%c2%b7-schubert-e-strauss-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "adfed7c90dcd9ee4845102f1": {
     "id": "adfed7c90dcd9ee4845102f1",
     "title": "Schubert E Strauss",
@@ -402,6 +416,13 @@
     "id": "4ca92603206d1d358c16ce46",
     "title": "Irmaos Jussen",
     "link": "https://casadamusica.com/event/irmaos-jussen/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "561c1fcf5f13fe3d614d0e58": {
+    "id": "561c1fcf5f13fe3d614d0e58",
+    "title": "Ensaio Aberto %C2%B7 A Terceira De Rachmaninoff 2",
+    "link": "https://casadamusica.com/event/ensaio-aberto-%c2%b7-a-terceira-de-rachmaninoff-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -549,6 +570,13 @@
     "id": "cc5789bf5f549a9a0197b522",
     "title": "Al Di Meola",
     "link": "https://casadamusica.com/event/al-di-meola/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "ffc30100ff3f300e4218b6b1": {
+    "id": "ffc30100ff3f300e4218b6b1",
+    "title": "Ensaio Aberto %C2%B7 Pizarro Interpreta Britten 2",
+    "link": "https://casadamusica.com/event/ensaio-aberto-%c2%b7-pizarro-interpreta-britten-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -892,20 +920,6 @@
     "id": "b3d4780b01e2856cb69c6555",
     "title": "Salvador Sobral 5",
     "link": "https://casadamusica.com/event/salvador-sobral-5/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "8b804657b53df312755eb5b4": {
-    "id": "8b804657b53df312755eb5b4",
-    "title": "Mimi Froes 3",
-    "link": "https://casadamusica.com/event/mimi-froes-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "39fe321b2e03d674d2c5d6b0": {
-    "id": "39fe321b2e03d674d2c5d6b0",
-    "title": "Bebethoven 4",
-    "link": "https://casadamusica.com/event/bebethoven-4/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -3401,6 +3415,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "69134e54f22b3f23f4dd5ad6": {
+    "id": "69134e54f22b3f23f4dd5ad6",
+    "title": "Hubris.",
+    "link": "https://agendadopedro.pt/concertos/hubris-porto-16603/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "a4c2b523c1931a0729aa6f32": {
     "id": "a4c2b523c1931a0729aa6f32",
     "title": "Lisa Sereno ᛫ Vitória Vermelho",
@@ -3478,6 +3499,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "569b1782627d2230e635248e": {
+    "id": "569b1782627d2230e635248e",
+    "title": "Flippeur",
+    "link": "https://agendadopedro.pt/concertos/flippeur-porto-16602/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "4b742c806f871e28bfd6dc88": {
     "id": "4b742c806f871e28bfd6dc88",
     "title": "PC Silva",
@@ -3492,6 +3520,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "bac86d6bb942af4ab803cf2c": {
+    "id": "bac86d6bb942af4ab803cf2c",
+    "title": "Salma Jô",
+    "link": "https://agendadopedro.pt/concertos/salma-jo-porto-16601/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "d4eb0cf06e929429e6188ef9": {
     "id": "d4eb0cf06e929429e6188ef9",
     "title": "José Pinhal Post-Mortem Experience",
@@ -3503,6 +3538,13 @@
     "id": "34d13ecf10b94278c1ecf190",
     "title": "Ist Ist",
     "link": "https://agendadopedro.pt/concertos/ist-ist-porto-15321/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "c947f5d665bd2b4c579cfa32": {
+    "id": "c947f5d665bd2b4c579cfa32",
+    "title": "Xico Gaiato",
+    "link": "https://agendadopedro.pt/concertos/xico-gaiato-porto-16600/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3608,6 +3650,13 @@
     "id": "718f3ca109fb316dc411eb17",
     "title": "Terrakota",
     "link": "https://agendadopedro.pt/concertos/terrakota-porto-15356/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "2f0866552e0a76c69a53b369": {
+    "id": "2f0866552e0a76c69a53b369",
+    "title": "PMDS",
+    "link": "https://agendadopedro.pt/concertos/pmds-porto-16599/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3730,6 +3779,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "a227b91d801c57ffe1f3cf0e": {
+    "id": "a227b91d801c57ffe1f3cf0e",
+    "title": "Tickles",
+    "link": "https://agendadopedro.pt/concertos/tickles-porto-16608/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "5e6e858fdce16fc5a3517563": {
     "id": "5e6e858fdce16fc5a3517563",
     "title": "Alpha Maid ᛫ Superbronca",
@@ -3755,6 +3811,13 @@
     "id": "0e3100b5526c6969192ccf8f",
     "title": "Nkisi ᛫ Gonçalo F. Cardoso",
     "link": "https://agendadopedro.pt/concertos/nkisi-porto-16573/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "a3b61b0e9279348e5e70a92f": {
+    "id": "a3b61b0e9279348e5e70a92f",
+    "title": "Belinda Rose",
+    "link": "https://agendadopedro.pt/concertos/belinda-rose-porto-16607/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3849,6 +3912,20 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "a4ff138653cd98a9ca353a1a": {
+    "id": "a4ff138653cd98a9ca353a1a",
+    "title": "Heavy Ocean ᛫ Awaiting The Vultures",
+    "link": "https://agendadopedro.pt/concertos/heavy-ocean-porto-16606/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "9c63bc39ba493afe6408f9f6": {
+    "id": "9c63bc39ba493afe6408f9f6",
+    "title": "Humana Taranja",
+    "link": "https://agendadopedro.pt/concertos/humana-taranja-porto-16605/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "4a3c75b70e6e9969b7c448e2": {
     "id": "4a3c75b70e6e9969b7c448e2",
     "title": "Rô Rosa",
@@ -3867,6 +3944,13 @@
     "id": "2dbbb24123ff9572629cb20c",
     "title": "Moonspell ᛫ NU:N",
     "link": "https://agendadopedro.pt/concertos/moonspell-porto-13093/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "c0c1e49a4a1d23811d87c372": {
+    "id": "c0c1e49a4a1d23811d87c372",
+    "title": "Hetta ᛫ Mangualde ᛫ Tape",
+    "link": "https://agendadopedro.pt/concertos/hetta-porto-16623/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4175,13 +4259,6 @@
     "id": "944e56872ff26d470026e5a6",
     "title": "Lebanon Hanover",
     "link": "https://agendadopedro.pt/concertos/lebanon-hanover-porto-10728/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "87e4486ca72a79225d446dbe": {
-    "id": "87e4486ca72a79225d446dbe",
-    "title": "Web",
-    "link": "https://agendadopedro.pt/concertos/web-porto-14082/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4654,6 +4731,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "87e4486ca72a79225d446dbe": {
+    "id": "87e4486ca72a79225d446dbe",
+    "title": "Web ᛫ Living Tales ᛫ Pitch Black",
+    "link": "https://agendadopedro.pt/concertos/web-porto-14082/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "1b4d2249c3b349593adfd17a": {
     "id": "1b4d2249c3b349593adfd17a",
     "title": "Great Straits",
@@ -4679,6 +4763,13 @@
     "id": "0525a39e5a4e72e65a945b34",
     "title": "Mimi Froes",
     "link": "https://agendadopedro.pt/concertos/mimi-froes-porto-13924/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "b9d6cd5b64ba011f468ab9c8": {
+    "id": "b9d6cd5b64ba011f468ab9c8",
+    "title": "Oswaldo Montenegro",
+    "link": "https://agendadopedro.pt/concertos/oswaldo-montenegro-porto-16611/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4927,10 +5018,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "37e2f24431ed3f0cce963601": {
-    "id": "37e2f24431ed3f0cce963601",
-    "title": "Lagwagon",
-    "link": "https://agendadopedro.pt/concertos/lagwagon-lisboa-16426/",
+  "073e680cb6be69ccb232ccd1": {
+    "id": "073e680cb6be69ccb232ccd1",
+    "title": "Oswaldo Montenegro",
+    "link": "https://agendadopedro.pt/concertos/oswaldo-montenegro-lisboa-16621/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4959,13 +5050,6 @@
     "id": "3f003076cf6a9a68812892fa",
     "title": "Snarky Puppy",
     "link": "https://agendadopedro.pt/concertos/snarky-puppy-lisboa-16480/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "20d2f0bc3c36345e1f80b891": {
-    "id": "20d2f0bc3c36345e1f80b891",
-    "title": "Yard Act",
-    "link": "https://agendadopedro.pt/concertos/yard-act-lisboa-13213/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
