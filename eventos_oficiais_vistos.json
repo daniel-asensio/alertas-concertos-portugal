@@ -13,6 +13,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "7abc4afa49b9573d48abf6e6": {
+    "id": "7abc4afa49b9573d48abf6e6",
+    "title": "Ensaio Aberto Coracao Ferido",
+    "link": "https://casadamusica.com/event/ensaio-aberto-coracao-ferido/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "ad2b4b484bd6bbb6fdb4768d": {
     "id": "ad2b4b484bd6bbb6fdb4768d",
     "title": "Fanna Fi Allah Sufi Qawwali Ensemble",
@@ -157,13 +164,6 @@
     "id": "bc5b83c2ac1c4dfad97a8dbf",
     "title": "Pc Silva",
     "link": "https://casadamusica.com/event/pc-silva/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "f3dbe7d728bb71b8d508d85f": {
-    "id": "f3dbe7d728bb71b8d508d85f",
-    "title": "Ensaio Aberto %C2%B7 Serenata De Mozart",
-    "link": "https://casadamusica.com/event/ensaio-aberto-%c2%b7-serenata-de-mozart/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1063,6 +1063,27 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "62a2859f9c9e6f641e6cec92": {
+    "id": "62a2859f9c9e6f641e6cec92",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "0e429a05d53f2a76e4423c31": {
+    "id": "0e429a05d53f2a76e4423c31",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "4b942aa9f7ec101a92ed8067": {
+    "id": "4b942aa9f7ec101a92ed8067",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
   "8e2ce7a8bb8f0b2396ee2243": {
     "id": "8e2ce7a8bb8f0b2396ee2243",
     "title": "Cirque Du Soleil – OVO",
@@ -1282,7 +1303,7 @@
   },
   "5a90fbfd19639608a8c1b36c": {
     "id": "5a90fbfd19639608a8c1b36c",
-    "title": "Reabrir, voltar a escutar",
+    "title": "Concertos, Performances, Leituras, Exposição",
     "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
