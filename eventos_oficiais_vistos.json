@@ -1,18 +1,4 @@
 {
-  "d8b2e03aa69e7bbe8cb85b52": {
-    "id": "d8b2e03aa69e7bbe8cb85b52",
-    "title": "Janine Mathias",
-    "link": "https://casadamusica.com/event/janine-mathias/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "703ada761922d5f31c02fd0f": {
-    "id": "703ada761922d5f31c02fd0f",
-    "title": "Os Garotin",
-    "link": "https://casadamusica.com/event/os-garotin/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "7abc4afa49b9573d48abf6e6": {
     "id": "7abc4afa49b9573d48abf6e6",
     "title": "Ensaio Aberto Coracao Ferido",
@@ -920,6 +906,13 @@
     "id": "b3d4780b01e2856cb69c6555",
     "title": "Salvador Sobral 5",
     "link": "https://casadamusica.com/event/salvador-sobral-5/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "8b804657b53df312755eb5b4": {
+    "id": "8b804657b53df312755eb5b4",
+    "title": "Mimi Froes 3",
+    "link": "https://casadamusica.com/event/mimi-froes-3/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
