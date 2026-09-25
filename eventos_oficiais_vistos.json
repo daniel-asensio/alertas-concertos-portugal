@@ -2680,6 +2680,13 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
+  "662a3d1968e80c5a517c19dc": {
+    "id": "662a3d1968e80c5a517c19dc",
+    "title": "Falso Nove Nao Sonho Quase Nada",
+    "link": "https://coliseulisboa.com/eventos/falso-nove-nao-sonho-quase-nada/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
   "4f844286f6239b65ea6ba57d": {
     "id": "4f844286f6239b65ea6ba57d",
     "title": "The Soloist Of Wiener Mozart Orchestra",
@@ -2705,13 +2712,6 @@
     "id": "ddff7dd8da0b603041920759",
     "title": "Marina Sena Coisas Naturais",
     "link": "https://coliseulisboa.com/eventos/marina-sena-coisas-naturais/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
-  "b02362b871985f07fa376620": {
-    "id": "b02362b871985f07fa376620",
-    "title": "Ricardo Reis Soares Daniela Galhoz 2",
-    "link": "https://coliseulisboa.com/eventos/ricardo-reis-soares-daniela-galhoz-2/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -3216,13 +3216,6 @@
     "id": "b56445b262860d65caad17ee",
     "title": "Marisol - When Things are Just Beginning",
     "link": "https://www.ccb.pt/evento/exposicao-marisol/2026-12-17/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b222ea8f388fe94cffddc3b4": {
-    "id": "b222ea8f388fe94cffddc3b4",
-    "title": "Interespecies",
-    "link": "https://www.ccb.pt/evento/interespecies/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
