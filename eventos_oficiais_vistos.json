@@ -1413,6 +1413,13 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
+  "c0eff0cd38e275a3dde0d0bb": {
+    "id": "c0eff0cd38e275a3dde0d0bb",
+    "title": "The Scorpions Symphonic Tribute Experience Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/185788-the_scorpions_symphonic_tribute_experience-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
   "4419f630c05ede6fe76d4301": {
     "id": "4419f630c05ede6fe76d4301",
     "title": "Antonio Zambujo Oracao Ao Tempo Europarque",
@@ -1780,13 +1787,6 @@
   "bb482db406eddee686544496": {
     "id": "bb482db406eddee686544496",
     "title": "A Celebrar a Música | Orquestra Sinfónica de Jovens de Santa Maria da Feira",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "7487a4b1adba4cbbdefa56eb": {
-    "id": "7487a4b1adba4cbbdefa56eb",
-    "title": "Jorge Palma | 3 Palmas na Mão",
     "link": "https://cineteatro.cm-feira.pt/",
     "source": "Cineteatro António Lamoso",
     "kind": "Música, teatro, dança e ópera — Aveiro"
@@ -5031,6 +5031,13 @@
     "link": "https://agendadopedro.pt/concertos/snarky-puppy-lisboa-16480/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "df24a42ee8e01ad24dc5c155": {
+    "id": "df24a42ee8e01ad24dc5c155",
+    "title": "Todos os concertos marcados para 2026 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-25-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "dd6d7d5da5f99325e0b171e5": {
     "title": "Os dias levantados — ópera em versão de concerto",
