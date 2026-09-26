@@ -1238,13 +1238,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "b13b0ef1f9d42f71fe86a0e0": {
-    "id": "b13b0ef1f9d42f71fe86a0e0",
-    "title": "khaos",
-    "link": "https://www.hardclubporto.com/PT/evento/khaos-summer-closing-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "bd73be06fe2c0e72def44480": {
     "id": "bd73be06fe2c0e72def44480",
     "title": "Cities Aviv",
@@ -1259,17 +1252,17 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
+  "98f7b0f75b1dee3d0bc9f4b6": {
+    "id": "98f7b0f75b1dee3d0bc9f4b6",
+    "title": "CONQUISTADON'T",
+    "link": "https://www.hardclubporto.com/PT/evento/conquistadont-show-de-comedia-del-tercer-mundo-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
   "d42d72d1bd7a871894cf6216": {
     "id": "d42d72d1bd7a871894cf6216",
     "title": "Caravana",
     "link": "https://www.tnsj.pt/pt/espetaculos/7251/caravana/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "58ee32e2a2ba09656173a983": {
-    "id": "58ee32e2a2ba09656173a983",
-    "title": "Cantar de Galo",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7249/cantar-de-galo/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1284,6 +1277,13 @@
     "id": "773054cdb52d745a0f5f6e7a",
     "title": "12 Nov — 13 Dez Teatro São João Auto da Barca do Inferno de Gil Vicente encenação Marta Pazos Teatro Nacional São João, Centro Dramático Galego",
     "link": "https://www.tnsj.pt/pt/espetaculos/7266/auto-da-barca-do-inferno/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "58ee32e2a2ba09656173a983": {
+    "id": "58ee32e2a2ba09656173a983",
+    "title": "Cantar de Galo",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7249/cantar-de-galo/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -3239,41 +3239,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "77fa2632dc6fb6b4500bf907": {
-    "id": "77fa2632dc6fb6b4500bf907",
-    "title": "Fanna-fi-Allah",
-    "link": "https://agendadopedro.pt/concertos/fanna-fi-allah-porto-12429/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "34d06e649c892cae360d8314": {
-    "id": "34d06e649c892cae360d8314",
-    "title": "Banda Sinfónica Portuguesa & Ana Lua Caiano & Camané & Carolina Deslandes & Fernando Tordo & Paulo de Carvalho \"Cantar Ary\"",
-    "link": "https://agendadopedro.pt/concertos/banda-sinfonica-portuguesa-porto-13085/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "52967c28b4ec8f98e871d1aa": {
-    "id": "52967c28b4ec8f98e871d1aa",
-    "title": "Zangão",
-    "link": "https://agendadopedro.pt/concertos/zangao-porto-16052/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "89e60bf46c2fb78323be3efd": {
-    "id": "89e60bf46c2fb78323be3efd",
-    "title": "Maria Reis",
-    "link": "https://agendadopedro.pt/concertos/maria-reis-porto-15346/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "528b548323d88a570df61d9a": {
-    "id": "528b548323d88a570df61d9a",
-    "title": "Norberto Lobo",
-    "link": "https://agendadopedro.pt/concertos/norberto-lobo-porto-16105/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "96f9d0e1eccd9326f52a65d7": {
     "id": "96f9d0e1eccd9326f52a65d7",
