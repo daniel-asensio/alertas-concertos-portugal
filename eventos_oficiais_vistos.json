@@ -1,18 +1,4 @@
 {
-  "7abc4afa49b9573d48abf6e6": {
-    "id": "7abc4afa49b9573d48abf6e6",
-    "title": "Ensaio Aberto Coracao Ferido",
-    "link": "https://casadamusica.com/event/ensaio-aberto-coracao-ferido/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "ad2b4b484bd6bbb6fdb4768d": {
-    "id": "ad2b4b484bd6bbb6fdb4768d",
-    "title": "Fanna Fi Allah Sufi Qawwali Ensemble",
-    "link": "https://casadamusica.com/event/fanna-fi-allah-sufi-qawwali-ensemble/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "d890cda34e7725cec146bd94": {
     "id": "d890cda34e7725cec146bd94",
     "title": "Assim Falou Zaratustra",
@@ -913,6 +899,13 @@
     "id": "8b804657b53df312755eb5b4",
     "title": "Mimi Froes 3",
     "link": "https://casadamusica.com/event/mimi-froes-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "39fe321b2e03d674d2c5d6b0": {
+    "id": "39fe321b2e03d674d2c5d6b0",
+    "title": "Bebethoven 4",
+    "link": "https://casadamusica.com/event/bebethoven-4/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
