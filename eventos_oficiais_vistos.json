@@ -1245,6 +1245,13 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
+  "5a90fbfd19639608a8c1b36c": {
+    "id": "5a90fbfd19639608a8c1b36c",
+    "title": "Concertos, Performances, Leituras, Exposição",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
   "afee52e3d02837c62061e488": {
     "id": "afee52e3d02837c62061e488",
     "title": "O Pai",
@@ -1280,10 +1287,17 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "5a90fbfd19639608a8c1b36c": {
-    "id": "5a90fbfd19639608a8c1b36c",
-    "title": "Concertos, Performances, Leituras, Exposição",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
+  "e2d18cc9e5a7b6389143aa2a": {
+    "id": "e2d18cc9e5a7b6389143aa2a",
+    "title": "Vidro Pantera – Estilhaços de Heiner Müller",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7259/vidro-pantera-estilhacos-de-heiner-muller/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "3fac6efc0687f20b6293e186": {
+    "id": "3fac6efc0687f20b6293e186",
+    "title": "Festa",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7264/festa/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1308,17 +1322,17 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "d21d5cf744bef889faffbd5a": {
-    "id": "d21d5cf744bef889faffbd5a",
-    "title": "Visitações: O Mundo às Avessas*",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7277/visitacoes-o-mundo-as-avessas-titulo-provisorio/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "950a669a52f5018cb049439b": {
     "id": "950a669a52f5018cb049439b",
     "title": "Clubes de Teatro",
     "link": "https://www.tnsj.pt/pt/espetaculos/7278/clubes-de-teatro/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "71c768d50c45f9cb07144471": {
+    "id": "71c768d50c45f9cb07144471",
+    "title": "TPC: Frei Luís de Sousaaa",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
