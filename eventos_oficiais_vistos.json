@@ -902,13 +902,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "506fcec11e75a5371b0d6eea": {
-    "id": "506fcec11e75a5371b0d6eea",
-    "title": "Placebo",
-    "link": "https://www.superbockarena.pt/evento/placebo/",
-    "source": "Super Bock Arena",
-    "kind": "Porto"
-  },
   "c157c9d229cc0ecffe3a6597": {
     "id": "c157c9d229cc0ecffe3a6597",
     "title": "Simone Mendes – Tour Portugal 2026",
@@ -1469,13 +1462,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "8d86030d378ac17a88d98ff7": {
-    "id": "8d86030d378ac17a88d98ff7",
-    "title": "Schönbrunn Palace Orchestra Vienna From Strauss to Léhar - an evening through Vienna's Golden Age",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/schonbrunn-palace-orchestra-vienna/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "6c3858f283ac0d1d65564a3b": {
     "id": "6c3858f283ac0d1d65564a3b",
     "title": "Cartas Amarelas Os Filmes das Nossas Terças",
@@ -1494,6 +1480,13 @@
     "id": "c242bf4e7252f2f58e300fa9",
     "title": "O Ator Criador Oficina Todos São Palco",
     "link": "https://www.teatroaveirense.pt/index.php/evento/o-ator-criador/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "8d86030d378ac17a88d98ff7": {
+    "id": "8d86030d378ac17a88d98ff7",
+    "title": "Schönbrunn Palace Orchestra Vienna From Strauss to Léhar - an evening through Vienna's Golden Age",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/schonbrunn-palace-orchestra-vienna/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -2757,17 +2750,10 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "0bbd222930d5359e75f0359b": {
-    "id": "0bbd222930d5359e75f0359b",
-    "title": "26 Set 2026 21:30 Os Maias",
-    "link": "https://www.cnb.pt/program/os-maias-2627/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "d3967480bf5d6525f34f6087": {
-    "id": "d3967480bf5d6525f34f6087",
-    "title": "Gratuito Escolas 28 Out 2026 15:00 Desassossego",
-    "link": "https://www.cnb.pt/program/desassossego-cnb/",
+  "8801cbeb349f4213457964ad": {
+    "id": "8801cbeb349f4213457964ad",
+    "title": "03 Out 2026 21:30 Only Duos",
+    "link": "https://www.cnb.pt/program/only-duos-26-27/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -2778,10 +2764,10 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "8801cbeb349f4213457964ad": {
-    "id": "8801cbeb349f4213457964ad",
-    "title": "03 Out 2026 21:30 Only Duos",
-    "link": "https://www.cnb.pt/program/only-duos-26-27/",
+  "d3967480bf5d6525f34f6087": {
+    "id": "d3967480bf5d6525f34f6087",
+    "title": "29 Out 2026 20:00 Desassossego",
+    "link": "https://www.cnb.pt/program/desassossego-cnb/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
