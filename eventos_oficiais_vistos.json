@@ -3205,34 +3205,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2c2de22db4f109659e0ce282": {
-    "id": "2c2de22db4f109659e0ce282",
-    "title": "Azymuth",
-    "link": "https://agendadopedro.pt/concertos/azymuth-porto-12688/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "b1ffd4f8d9a712c66750db26": {
-    "id": "b1ffd4f8d9a712c66750db26",
-    "title": "Sónia Amorim",
-    "link": "https://agendadopedro.pt/concertos/sonia-amorim-porto-16592/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "8b7e36fff68fc55ed8003965": {
-    "id": "8b7e36fff68fc55ed8003965",
-    "title": "Spitgod ᛫ Vengeful Fate",
-    "link": "https://agendadopedro.pt/concertos/spitgod-porto-16051/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6f9ddc338b8102b5997401be": {
-    "id": "6f9ddc338b8102b5997401be",
-    "title": "Sophia Chablau e Uma Enorme Perda de Tempo ᛫ Manu Julian",
-    "link": "https://agendadopedro.pt/concertos/sophia-chablau-e-uma-enorme-perda-de-tempo-porto-15320/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "9d23768d88d3ea7f526d46fb": {
     "id": "9d23768d88d3ea7f526d46fb",
     "title": "Placebo ᛫ Elisabeth Elektra",
@@ -4868,6 +4840,55 @@
     "id": "0e1309cad49ef1236758df6a",
     "title": "Simone Mendes",
     "link": "https://agendadopedro.pt/concertos/simone-mendes-lisboa-12143/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "41e2d705ba991eb4bbcb42fb": {
+    "id": "41e2d705ba991eb4bbcb42fb",
+    "title": "Dire Straits Legacy",
+    "link": "https://agendadopedro.pt/concertos/dire-straits-legacy-lisboa-11900/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "12370330539623c5189d9350": {
+    "id": "12370330539623c5189d9350",
+    "title": "Djavan",
+    "link": "https://agendadopedro.pt/concertos/djavan-lisboa-10867/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e8be9c98355ad6eaf3eb7d57": {
+    "id": "e8be9c98355ad6eaf3eb7d57",
+    "title": "Gilberto Gil",
+    "link": "https://agendadopedro.pt/concertos/gilberto-gil-lisboa-13290/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e862c224d4ca60c2c49d472b": {
+    "id": "e862c224d4ca60c2c49d472b",
+    "title": "Mães Solteiras",
+    "link": "https://agendadopedro.pt/concertos/maes-solteiras-lisboa-16412/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "68b3094eef37c499a50c8f8b": {
+    "id": "68b3094eef37c499a50c8f8b",
+    "title": "Mike Stern",
+    "link": "https://agendadopedro.pt/concertos/mike-stern-lisboa-12516/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "ee3de92092598711376be313": {
+    "id": "ee3de92092598711376be313",
+    "title": "Ryan Adams",
+    "link": "https://agendadopedro.pt/concertos/ryan-adams-lisboa-12975/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "f10887ba6da2f5f4ad311af5": {
+    "id": "f10887ba6da2f5f4ad311af5",
+    "title": "Viviane",
+    "link": "https://agendadopedro.pt/concertos/viviane-lisboa-13405/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
