@@ -1,11 +1,4 @@
 {
-  "111e4b7844a0d701a79f40da": {
-    "id": "111e4b7844a0d701a79f40da",
-    "title": "Pensar A Arte E A Cultura De T S Eliot As Industrias Criativas",
-    "link": "https://casadamusica.com/event/pensar-a-arte-e-a-cultura-de-t-s-eliot-as-industrias-criativas/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "07d14e22789b98ed10114464": {
     "id": "07d14e22789b98ed10114464",
     "title": "Lise De La Salle",
@@ -122,6 +115,13 @@
     "id": "5864e1b05099c4d0907eca3e",
     "title": "Viva Vivaldi 3",
     "link": "https://casadamusica.com/event/viva-vivaldi-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "111e4b7844a0d701a79f40da": {
+    "id": "111e4b7844a0d701a79f40da",
+    "title": "Pensar A Arte E A Cultura De T S Eliot As Industrias Criativas",
+    "link": "https://casadamusica.com/event/pensar-a-arte-e-a-cultura-de-t-s-eliot-as-industrias-criativas/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -902,6 +902,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "170052334b0b373f6055a25c": {
+    "id": "170052334b0b373f6055a25c",
+    "title": "Cara De Espelho 2",
+    "link": "https://casadamusica.com/event/cara-de-espelho-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "c157c9d229cc0ecffe3a6597": {
     "id": "c157c9d229cc0ecffe3a6597",
     "title": "Simone Mendes – Tour Portugal 2026",
@@ -1217,13 +1224,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "33c2da15f81f287ae126f499": {
-    "id": "33c2da15f81f287ae126f499",
-    "title": "Dr. Manuel Sans Segarra",
-    "link": "https://www.hardclubporto.com/PT/evento/dr-manuel-sans-segarra-a-supraconsciancia-existe-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "98f7b0f75b1dee3d0bc9f4b6": {
     "id": "98f7b0f75b1dee3d0bc9f4b6",
     "title": "CONQUISTADON'T",
@@ -1235,6 +1235,13 @@
     "id": "82031acf965e8faf36abffc1",
     "title": "TRANSVISION VAMP",
     "link": "https://www.hardclubporto.com/PT/evento/transvision-vamp-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "dfb120d49169bb14746954fe": {
+    "id": "dfb120d49169bb14746954fe",
+    "title": "MERCURY REV",
+    "link": "https://www.hardclubporto.com/PT/evento/mercury-rev-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1886,13 +1893,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "111ddc12f22da268b78d3c62": {
-    "id": "111ddc12f22da268b78d3c62",
-    "title": "1ªparte: Elisabeth Elektra",
-    "link": "https://everythingisnew.pt/placebo-4/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -3211,13 +3211,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "9d23768d88d3ea7f526d46fb": {
-    "id": "9d23768d88d3ea7f526d46fb",
-    "title": "Placebo ᛫ Elisabeth Elektra",
-    "link": "https://agendadopedro.pt/concertos/placebo-porto-12316/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "0d9595c73d8507ac99013538": {
     "id": "0d9595c73d8507ac99013538",
