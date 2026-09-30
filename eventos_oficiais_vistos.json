@@ -3562,6 +3562,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "1204fe8b67bac0957bf16032": {
+    "id": "1204fe8b67bac0957bf16032",
+    "title": "Pedro Melo Alves",
+    "link": "https://agendadopedro.pt/concertos/pedro-melo-alves-porto-16705/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "9063c5c5bcc96e9adc7e3f67": {
     "id": "9063c5c5bcc96e9adc7e3f67",
     "title": "Imarhan",
@@ -3811,6 +3818,13 @@
     "id": "94869daa04f235821b029005",
     "title": "Kiss Facility",
     "link": "https://agendadopedro.pt/concertos/kiss-facility-porto-15015/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "608e8d7deaa25a5acb94ed72": {
+    "id": "608e8d7deaa25a5acb94ed72",
+    "title": "The Telescopes",
+    "link": "https://agendadopedro.pt/concertos/the-telescopes-porto-16709/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4350,6 +4364,13 @@
     "id": "7a9b9638b7185cb56b82b070",
     "title": "Ao Porto 12520",
     "link": "https://agendadopedro.pt/concertos/ao-porto-12520/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e69b2cb5ea8f7f66129ada36": {
+    "id": "e69b2cb5ea8f7f66129ada36",
+    "title": "Budda Power Blues",
+    "link": "https://agendadopedro.pt/concertos/budda-power-blues-porto-16704/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4920,13 +4941,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "0c18b737107dfdeeaa86b0cc": {
-    "id": "0c18b737107dfdeeaa86b0cc",
-    "title": "Primitive Reason ᛫ The Skints ᛫ Meryl Streek ᛫ ...",
-    "link": "https://agendadopedro.pt/concertos/primitive-reason-lisboa-16481/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "e9022629fc6862c32c698c2d": {
     "id": "e9022629fc6862c32c698c2d",
     "title": "Simply Red",
@@ -4941,6 +4955,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "6587479548bf921d6499f3b7": {
+    "id": "6587479548bf921d6499f3b7",
+    "title": "Ute Lemper",
+    "link": "https://agendadopedro.pt/concertos/ute-lemper-lisboa-16710/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "a171342b078d312a25dfa6af": {
     "id": "a171342b078d312a25dfa6af",
     "title": "Valery Meladze",
@@ -4948,10 +4969,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "00459d5092ab01a6c863d5af": {
-    "id": "00459d5092ab01a6c863d5af",
+  "21d41d7eb3db8d9d4b38938e": {
+    "id": "21d41d7eb3db8d9d4b38938e",
     "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-09-29-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-09-30-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
