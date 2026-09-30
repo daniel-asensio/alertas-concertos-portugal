@@ -1203,6 +1203,13 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "fe5b2d7d27e4a2f214700d8e": {
+    "id": "fe5b2d7d27e4a2f214700d8e",
+    "title": "The Calling",
+    "link": "https://www.superbockarena.pt/evento/the-calling/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
   "05af43a34c81b21a9c752bd9": {
     "id": "05af43a34c81b21a9c752bd9",
     "title": "50 Anos de Carreira do Toy",
@@ -1646,7 +1653,7 @@
   },
   "e0c342b4df36ef1a95afae41": {
     "id": "e0c342b4df36ef1a95afae41",
-    "title": "Som da Água: uma parceria UA / UNESCO Conversa Festivais de Outono",
+    "title": "Som da Água: uma parceria UA / Comité Nacional da Década do Oceano Conversa Festivais de Outono",
     "link": "https://www.teatroaveirense.pt/index.php/evento/som-da-agua-uma-parceria-ua-unesco/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
@@ -2946,13 +2953,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "34edef9e5857a46022a29342": {
-    "id": "34edef9e5857a46022a29342",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-09-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "79f308df2843e20f5a726b49": {
     "id": "79f308df2843e20f5a726b49",
     "title": "Visitas Guiadas Ao Edificio Centro Cultural De Belem",
@@ -2967,17 +2967,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "9735b3eee8adde74cab1d4aa": {
-    "id": "9735b3eee8adde74cab1d4aa",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-09-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "4d0cc90247afa6e37c02a75c": {
-    "id": "4d0cc90247afa6e37c02a75c",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-09-30/",
+  "f16e52904656b9928206a898": {
+    "id": "f16e52904656b9928206a898",
+    "title": "Visitas Orientadas E Tematicas Oficinas",
+    "link": "https://www.ccb.pt/evento/visitas-orientadas-e-tematicas-oficinas/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2985,34 +2978,6 @@
     "id": "b4a5a45216e58546d5a673c2",
     "title": "Primeiro Ciclo",
     "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-09-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "c1c03c2d456a88c53ef48399": {
-    "id": "c1c03c2d456a88c53ef48399",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-09-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "1666f3671de422d47a928269": {
-    "id": "1666f3671de422d47a928269",
-    "title": "Educação Inclusiva - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/2026-09-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "727fa92772c5f77083b5bd20": {
-    "id": "727fa92772c5f77083b5bd20",
-    "title": "Universitário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/universitario/2026-09-30/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f16e52904656b9928206a898": {
-    "id": "f16e52904656b9928206a898",
-    "title": "Visitas Orientadas E Tematicas Oficinas",
-    "link": "https://www.ccb.pt/evento/visitas-orientadas-e-tematicas-oficinas/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3051,10 +3016,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "464c2c95ca52ded7ecb1568d": {
-    "id": "464c2c95ca52ded7ecb1568d",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-09-30/",
+  "d59ef931f187081328a9d6cf": {
+    "id": "d59ef931f187081328a9d6cf",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "e9928aca8d60ae159ba7ef92": {
+    "id": "e9928aca8d60ae159ba7ef92",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-01/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3062,6 +3034,20 @@
     "id": "b4beecd781af4e52252d7df1",
     "title": "Programa Vincular - Serviço de Educação e Mediação",
     "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-10-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c13efad8af2652ec069f4a48": {
+    "id": "c13efad8af2652ec069f4a48",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "4bbdda77c70eace69f9872b8": {
+    "id": "4bbdda77c70eace69f9872b8",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-01/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3741,6 +3727,13 @@
     "id": "e5cb078368690c2cfada0ca6",
     "title": "Viviane",
     "link": "https://agendadopedro.pt/concertos/viviane-porto-13223/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "8cc8cec7404f4812593ccdd6": {
+    "id": "8cc8cec7404f4812593ccdd6",
+    "title": "Montes ᛫ Alga",
+    "link": "https://agendadopedro.pt/concertos/montes-porto-16725/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4745,6 +4738,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "4cd6add0c4b801a8657cbfac": {
+    "id": "4cd6add0c4b801a8657cbfac",
+    "title": "Carlão",
+    "link": "https://agendadopedro.pt/concertos/carlao-porto-16723/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "f4d1b5c859efd4199c0eed04": {
     "id": "f4d1b5c859efd4199c0eed04",
     "title": "Los Pibes Chorros",
@@ -4894,7 +4894,7 @@
   },
   "e862c224d4ca60c2c49d472b": {
     "id": "e862c224d4ca60c2c49d472b",
-    "title": "Mães Solteiras",
+    "title": "Mães Solteiras ᛫ Bonança",
     "link": "https://agendadopedro.pt/concertos/maes-solteiras-lisboa-16412/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -4927,6 +4927,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "23aafe68e03fd0c6a2a7b7ab": {
+    "id": "23aafe68e03fd0c6a2a7b7ab",
+    "title": "Carlão",
+    "link": "https://agendadopedro.pt/concertos/carlao-lisboa-16726/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "073e680cb6be69ccb232ccd1": {
     "id": "073e680cb6be69ccb232ccd1",
     "title": "Oswaldo Montenegro",
@@ -4934,17 +4941,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "c08a7e6e41a2699958eadcae": {
-    "id": "c08a7e6e41a2699958eadcae",
-    "title": "Patti Smith",
-    "link": "https://agendadopedro.pt/concertos/patti-smith-lisboa-16537/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e9022629fc6862c32c698c2d": {
-    "id": "e9022629fc6862c32c698c2d",
-    "title": "Simply Red",
-    "link": "https://agendadopedro.pt/concertos/simply-red-lisboa-16502/",
+  "e0d0d8662fc1302887a57f53": {
+    "id": "e0d0d8662fc1302887a57f53",
+    "title": "ProfJam",
+    "link": "https://agendadopedro.pt/concertos/profjam-lisboa-16727/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
