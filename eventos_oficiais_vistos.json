@@ -1,11 +1,4 @@
 {
-  "07d14e22789b98ed10114464": {
-    "id": "07d14e22789b98ed10114464",
-    "title": "Lise De La Salle",
-    "link": "https://casadamusica.com/event/lise-de-la-salle/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "e923abddb4b6c2abca328b1c": {
     "id": "e923abddb4b6c2abca328b1c",
     "title": "Mario Biondi",
@@ -906,6 +899,13 @@
     "id": "484f4c1db0348f8620bc6a7f",
     "title": "Minimal",
     "link": "https://casadamusica.com/event/minimal/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "170052334b0b373f6055a25c": {
+    "id": "170052334b0b373f6055a25c",
+    "title": "Cara De Espelho 2",
+    "link": "https://casadamusica.com/event/cara-de-espelho-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
