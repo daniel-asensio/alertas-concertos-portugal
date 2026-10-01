@@ -1497,6 +1497,13 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "517eefdd744b38dad41337cd": {
+    "id": "517eefdd744b38dad41337cd",
+    "title": "O Jacaré Os Filmes das Nossas Terças",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-jacare/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "7d0d4f93a663d4bf941c7202": {
     "id": "7d0d4f93a663d4bf941c7202",
     "title": "PRISMA 2026 Art Light Tech",
@@ -1508,6 +1515,20 @@
     "id": "39d2f3223de4ad1b123b52b9",
     "title": "Arquitetas da Liberdade Ciclo O Problema da Habitação",
     "link": "https://www.teatroaveirense.pt/index.php/evento/arquitetas-da-liberdade/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "5349b3528b0d7bd029e1791a": {
+    "id": "5349b3528b0d7bd029e1791a",
+    "title": "O problema da habitação na poesia de Ruy Belo Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-na-poesia-de-ruy-belo-ciclo-o-problema-da-habitacao/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "5d6f40dac60251fd6e28abfb": {
+    "id": "5d6f40dac60251fd6e28abfb",
+    "title": "A Casa da Rosa Os Filmes das Nossas Terças / Ciclo o Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/a-casa-da-rosa/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -1539,6 +1560,13 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "690f0d97931142998d8c78a6": {
+    "id": "690f0d97931142998d8c78a6",
+    "title": "As Águias da República Os Filmes das Nossas Terças",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/as-aguias-da-republica/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "b8ccf554922208dc7462b2ee": {
     "id": "b8ccf554922208dc7462b2ee",
     "title": "Helena Caldeira Novas Quintas",
@@ -1550,6 +1578,13 @@
     "id": "bdb5ec1c2239acaa71e31d06",
     "title": "Uma Linha de Luz na Água [ESTREIA] João Reis e Nuno Aroso",
     "link": "https://www.teatroaveirense.pt/index.php/evento/uma-linha-de-luz-na-agua/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "69ad866b20d2afd15e260e42": {
+    "id": "69ad866b20d2afd15e260e42",
+    "title": "Filho de Ninguém Os Filmes das Nossas Terças",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/filho-de-ninguem/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -1613,6 +1648,13 @@
     "id": "ef5aa999a166c0bf67bbe996",
     "title": "Entre Corpo, Voz, Memória Oficina Palcos Instáveis",
     "link": "https://www.teatroaveirense.pt/index.php/evento/entre-corpo-voz-memoria/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "209d3a393a736a1478f34de9": {
+    "id": "209d3a393a736a1478f34de9",
+    "title": "O Problema da habitação e o papel ético e social da arquitetura Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-e-o-papel-etico-e-social-da-arquitetura-ciclo-o-problema-da-habitacao/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -1697,6 +1739,13 @@
     "id": "0dee3639823b208ca7e0d7dd",
     "title": "As mais belas coisas do mundo Joana Providência",
     "link": "https://www.teatroaveirense.pt/index.php/evento/as-mais-belas/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "dec60779d09839dc52bba6cc": {
+    "id": "dec60779d09839dc52bba6cc",
+    "title": "Espaço público: uma casa para todos Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/espaco-publico-uma-casa-para-todos/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -1919,7 +1968,7 @@
   },
   "548ac3849520fa8c33f7b57b": {
     "id": "548ac3849520fa8c33f7b57b",
-    "title": "#NTK Tour",
+    "title": "1ªparte: ACROBVT",
     "link": "https://everythingisnew.pt/anastacia-lisboa-2026/",
     "source": "Everything Is New",
     "kind": "Promotora"
@@ -3114,6 +3163,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "0cfcf48e9bd739dd7a5465f2": {
+    "id": "0cfcf48e9bd739dd7a5465f2",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-12-30/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "11641b78d0ed25289f41a421": {
     "id": "11641b78d0ed25289f41a421",
     "title": "Musicas Da Revolucao Musica No Museu",
@@ -3888,6 +3944,13 @@
     "id": "1206756be85b442007557459",
     "title": "Em Casa d'Amália",
     "link": "https://agendadopedro.pt/concertos/em-casa-d-amalia-porto-16344/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "b4bfb97fd7cad81dc8570d1a": {
+    "id": "b4bfb97fd7cad81dc8570d1a",
+    "title": "Dirty Sound Magnet",
+    "link": "https://agendadopedro.pt/concertos/dirty-sound-magnet-porto-16757/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4864,6 +4927,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "870eb303994715cfc7550eac": {
+    "id": "870eb303994715cfc7550eac",
+    "title": "Aurea",
+    "link": "https://agendadopedro.pt/concertos/aurea-lisboa-16744/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "ceb6aa0a577d93d35ce839cb": {
     "id": "ceb6aa0a577d93d35ce839cb",
     "title": "Bullet For My Valentine ᛫ Pendulum ᛫ Dark Divine",
@@ -4875,13 +4945,6 @@
     "id": "23aafe68e03fd0c6a2a7b7ab",
     "title": "Carlão",
     "link": "https://agendadopedro.pt/concertos/carlao-lisboa-16726/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "073e680cb6be69ccb232ccd1": {
-    "id": "073e680cb6be69ccb232ccd1",
-    "title": "Oswaldo Montenegro",
-    "link": "https://agendadopedro.pt/concertos/oswaldo-montenegro-lisboa-16621/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
