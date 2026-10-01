@@ -1301,13 +1301,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "b8c05b9a006d9abf87ae1591": {
-    "id": "b8c05b9a006d9abf87ae1591",
-    "title": "MUSICAL-MENTE",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7302/musical-mente/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "81d6cf06f505ad0deccfeca7": {
     "id": "81d6cf06f505ad0deccfeca7",
     "title": "My Center Is not in the Solar System",
@@ -1370,13 +1363,6 @@
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/klaipeda-puppet-theatre-transport-fasten-your-seat-belts-556/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
-  },
-  "bbe19d95df06d998b0c5f84e": {
-    "id": "bbe19d95df06d998b0c5f84e",
-    "title": "Namaste Ines Aires Pereira Europarque",
-    "link": "https://www.bol.pt/Comprar/Bilhetes/183189-namaste_ines_aires_pereira-europarque/",
-    "source": "Europarque",
-    "kind": "Aveiro"
   },
   "a713802749834fe54a45d364": {
     "id": "a713802749834fe54a45d364",
@@ -1473,13 +1459,6 @@
     "id": "c242bf4e7252f2f58e300fa9",
     "title": "O Ator Criador Oficina Todos São Palco",
     "link": "https://www.teatroaveirense.pt/index.php/evento/o-ator-criador/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
-  "8d86030d378ac17a88d98ff7": {
-    "id": "8d86030d378ac17a88d98ff7",
-    "title": "Schönbrunn Palace Orchestra Vienna From Strauss to Léhar - an evening through Vienna's Golden Age",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/schonbrunn-palace-orchestra-vienna/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -3002,66 +2981,59 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d59ef931f187081328a9d6cf": {
-    "id": "d59ef931f187081328a9d6cf",
+  "b2a5a61055b762292269679b": {
+    "id": "b2a5a61055b762292269679b",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-01/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "e9928aca8d60ae159ba7ef92": {
-    "id": "e9928aca8d60ae159ba7ef92",
+  "bb1dbab69c0cbbca7acbc33d": {
+    "id": "bb1dbab69c0cbbca7acbc33d",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-01/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b1a1c84ce981ccf92683803c": {
-    "id": "b1a1c84ce981ccf92683803c",
+  "df922e2b7aeaf1a551f52a1b": {
+    "id": "df922e2b7aeaf1a551f52a1b",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-01/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c13efad8af2652ec069f4a48": {
-    "id": "c13efad8af2652ec069f4a48",
+  "f61eee66a4f749f13ad3c62b": {
+    "id": "f61eee66a4f749f13ad3c62b",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-01/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "3052db42ae2b01521d09fdf1": {
-    "id": "3052db42ae2b01521d09fdf1",
+  "390c6324d23de30e163b7b4f": {
+    "id": "390c6324d23de30e163b7b4f",
     "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-01/",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b4beecd781af4e52252d7df1": {
-    "id": "b4beecd781af4e52252d7df1",
-    "title": "Programa Vincular - Serviço de Educação e Mediação",
-    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-10-01/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "daad97bf03c5572365fa0bec": {
-    "id": "daad97bf03c5572365fa0bec",
+  "263337da27a31ee524c258e4": {
+    "id": "263337da27a31ee524c258e4",
     "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-01/",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b870fa6cfda3d7e12ca5c994": {
-    "id": "b870fa6cfda3d7e12ca5c994",
+  "a2fccfaa30133f6facabd414": {
+    "id": "a2fccfaa30133f6facabd414",
     "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-01/",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4bbdda77c70eace69f9872b8": {
-    "id": "4bbdda77c70eace69f9872b8",
+  "0833713c437107012212f217": {
+    "id": "0833713c437107012212f217",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-01/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3121,6 +3093,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "6ab88c92cd49a324de27355c": {
+    "id": "6ab88c92cd49a324de27355c",
+    "title": "Programa Vincular - Serviço de Educação e Mediação",
+    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-11-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "05d05632f466f438ca05b3a1": {
     "id": "05d05632f466f438ca05b3a1",
     "title": "PARAÍSO, HOJE.",
@@ -3153,6 +3132,13 @@
     "id": "b8ef57a832ed267af805d07e",
     "title": "Performance Mutantes Entre O Teatro E O Museu",
     "link": "https://www.ccb.pt/evento/performance-mutantes-entre-o-teatro-e-o-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "1ffcb34b2f3058fefd485366": {
+    "id": "1ffcb34b2f3058fefd485366",
+    "title": "Ferias De Natal Museu Mac Ccb",
+    "link": "https://www.ccb.pt/evento/ferias-de-natal-museu-mac-ccb/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
