@@ -1,11 +1,4 @@
 {
-  "9e2ce8ae45d197e97cc74c8c": {
-    "id": "9e2ce8ae45d197e97cc74c8c",
-    "title": "Ensemble Estapafurdio",
-    "link": "https://casadamusica.com/event/ensemble-estapafurdio/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "e0ffa8d45e653a910422b747": {
     "id": "e0ffa8d45e653a910422b747",
     "title": "Animix",
@@ -899,6 +892,13 @@
     "id": "170052334b0b373f6055a25c",
     "title": "Cara De Espelho 2",
     "link": "https://casadamusica.com/event/cara-de-espelho-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "e148286e2d3c501ee2a39124": {
+    "id": "e148286e2d3c501ee2a39124",
+    "title": "Meltwater 2",
+    "link": "https://casadamusica.com/event/meltwater-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2232,6 +2232,62 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "1211b9d15d4c884c4efbaf98": {
+    "id": "1211b9d15d4c884c4efbaf98",
+    "title": "Notícias",
+    "link": "https://peventertainment.pt/noticias/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "ffed7b623fc99abed7c0f452": {
+    "id": "ffed7b623fc99abed7c0f452",
+    "title": "Eventos - PEV Entertainment",
+    "link": "https://peventertainment.pt/eventos/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "44b0f036b39b632dab7e83e0": {
+    "id": "44b0f036b39b632dab7e83e0",
+    "title": "Festivais",
+    "link": "https://peventertainment.pt/festivais/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "fe7a48dbfc0e8cc767c0725d": {
+    "id": "fe7a48dbfc0e8cc767c0725d",
+    "title": "Meo Mares",
+    "link": "https://peventertainment.pt/meo-mares/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "50fbbc6e0c65e8a5677083ca": {
+    "id": "50fbbc6e0c65e8a5677083ca",
+    "title": "Meo Sons do Mar",
+    "link": "https://peventertainment.pt/meo-sons-do-mar/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "173f30c97a614a52d248bf6e": {
+    "id": "173f30c97a614a52d248bf6e",
+    "title": "Arquivo - PEV Entertainment",
+    "link": "https://peventertainment.pt/arquivo/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "60d15e3b33d0b761cfe7e422": {
+    "id": "60d15e3b33d0b761cfe7e422",
+    "title": "Sara Correia",
+    "link": "https://peventertainment.pt/sara-correia/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "3ed895365281700aa7276b84": {
+    "id": "3ed895365281700aa7276b84",
+    "title": "Política de Privacidade | RGPD | Cookies",
+    "link": "https://peventertainment.pt/politica-de-privacidade/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
   "829a09beb03f752049d9276d": {
     "id": "829a09beb03f752049d9276d",
     "title": "Área Imprensa",
@@ -2526,13 +2582,6 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
-  "75c3c84ec6cefc74522025ea": {
-    "id": "75c3c84ec6cefc74522025ea",
-    "title": "Deive Leonardo O Despertar Tour Mundial",
-    "link": "https://coliseulisboa.com/eventos/deive-leonardo-o-despertar-tour-mundial/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "e699d9ef7e32b4f071869c63": {
     "id": "e699d9ef7e32b4f071869c63",
     "title": "Queen Lives Forever Tributo Orquestra Nova De Guitarras",
@@ -2621,6 +2670,13 @@
     "id": "ddff7dd8da0b603041920759",
     "title": "Marina Sena Coisas Naturais",
     "link": "https://coliseulisboa.com/eventos/marina-sena-coisas-naturais/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "b02362b871985f07fa376620": {
+    "id": "b02362b871985f07fa376620",
+    "title": "Ricardo Reis Soares Daniela Galhoz 2",
+    "link": "https://coliseulisboa.com/eventos/ricardo-reis-soares-daniela-galhoz-2/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
