@@ -930,13 +930,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "70ecb466ce917db58e669189": {
-    "id": "70ecb466ce917db58e669189",
-    "title": "Cê Tá Doido – Humberto & Ronaldo, Panda, Ícaro & Gilmar",
-    "link": "https://www.superbockarena.pt/evento/ce-ta-doido-humberto-ronaldo-panda-icaro-gilmar/",
-    "source": "Super Bock Arena",
-    "kind": "Porto"
-  },
   "56fb943d448defe9fcb74977": {
     "id": "56fb943d448defe9fcb74977",
     "title": "Titãs",
@@ -1453,13 +1446,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "c242bf4e7252f2f58e300fa9": {
-    "id": "c242bf4e7252f2f58e300fa9",
-    "title": "O Ator Criador Oficina Todos São Palco",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/o-ator-criador/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "a52284352b6b8f6c7e630d09": {
@@ -2316,13 +2302,6 @@
     "source": "Música no Coração",
     "kind": "Promotora"
   },
-  "e1ab3953aefa86734efea898": {
-    "id": "e1ab3953aefa86734efea898",
-    "title": "VER DETALHES",
-    "link": "https://musicanocoracao.com/events/marisa-monte-2026/",
-    "source": "Música no Coração",
-    "kind": "Promotora"
-  },
   "7d45defa687e79e9200840d7": {
     "id": "7d45defa687e79e9200840d7",
     "title": "VER DETALHES",
@@ -2334,6 +2313,13 @@
     "id": "9de2c7462a965fe1041f240a",
     "title": "VER DETALHES",
     "link": "https://musicanocoracao.com/events/djavan-2026/",
+    "source": "Música no Coração",
+    "kind": "Promotora"
+  },
+  "15d0823167cd095f692637cd": {
+    "id": "15d0823167cd095f692637cd",
+    "title": "VER DETALHES",
+    "link": "https://musicanocoracao.com/events/nuno-da-camara-pereira-2027/",
     "source": "Música no Coração",
     "kind": "Promotora"
   },
@@ -2981,31 +2967,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b2a5a61055b762292269679b": {
-    "id": "b2a5a61055b762292269679b",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "bb1dbab69c0cbbca7acbc33d": {
-    "id": "bb1dbab69c0cbbca7acbc33d",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "df922e2b7aeaf1a551f52a1b": {
     "id": "df922e2b7aeaf1a551f52a1b",
     "title": "Primeiro Ciclo",
     "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f61eee66a4f749f13ad3c62b": {
-    "id": "f61eee66a4f749f13ad3c62b",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-02/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3030,10 +2995,24 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "0833713c437107012212f217": {
-    "id": "0833713c437107012212f217",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-02/",
+  "625c3aca961ef865b7c5417b": {
+    "id": "625c3aca961ef865b7c5417b",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "210e79269b0811199489825b": {
+    "id": "210e79269b0811199489825b",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b17df862379207ec467d4e7e": {
+    "id": "b17df862379207ec467d4e7e",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-03/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3041,6 +3020,13 @@
     "id": "5f6aba849c77a40b5ace3c89",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8c3f189c03fef630f5609614": {
+    "id": "8c3f189c03fef630f5609614",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-03/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
