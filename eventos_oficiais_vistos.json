@@ -1224,24 +1224,24 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "98f7b0f75b1dee3d0bc9f4b6": {
-    "id": "98f7b0f75b1dee3d0bc9f4b6",
-    "title": "CONQUISTADON'T",
-    "link": "https://www.hardclubporto.com/PT/evento/conquistadont-show-de-comedia-del-tercer-mundo-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
-  "82031acf965e8faf36abffc1": {
-    "id": "82031acf965e8faf36abffc1",
-    "title": "TRANSVISION VAMP",
-    "link": "https://www.hardclubporto.com/PT/evento/transvision-vamp-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "dfb120d49169bb14746954fe": {
     "id": "dfb120d49169bb14746954fe",
     "title": "MERCURY REV",
     "link": "https://www.hardclubporto.com/PT/evento/mercury-rev-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "1f2e65aebe410b72e0de7191": {
+    "id": "1f2e65aebe410b72e0de7191",
+    "title": "Remember 90vs00 - Porto Edition",
+    "link": "https://www.hardclubporto.com/PT/evento/remember-90vs00-porto-edition-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "7c9a107616db2c954600f5af": {
+    "id": "7c9a107616db2c954600f5af",
+    "title": "IRA",
+    "link": "https://www.hardclubporto.com/PT/evento/ira-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -2232,62 +2232,6 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "1211b9d15d4c884c4efbaf98": {
-    "id": "1211b9d15d4c884c4efbaf98",
-    "title": "Notícias",
-    "link": "https://peventertainment.pt/noticias/",
-    "source": "PEV Entertainment",
-    "kind": "Promotora Porto"
-  },
-  "ffed7b623fc99abed7c0f452": {
-    "id": "ffed7b623fc99abed7c0f452",
-    "title": "Eventos - PEV Entertainment",
-    "link": "https://peventertainment.pt/eventos/",
-    "source": "PEV Entertainment",
-    "kind": "Promotora Porto"
-  },
-  "44b0f036b39b632dab7e83e0": {
-    "id": "44b0f036b39b632dab7e83e0",
-    "title": "Festivais",
-    "link": "https://peventertainment.pt/festivais/",
-    "source": "PEV Entertainment",
-    "kind": "Promotora Porto"
-  },
-  "fe7a48dbfc0e8cc767c0725d": {
-    "id": "fe7a48dbfc0e8cc767c0725d",
-    "title": "Meo Mares",
-    "link": "https://peventertainment.pt/meo-mares/",
-    "source": "PEV Entertainment",
-    "kind": "Promotora Porto"
-  },
-  "50fbbc6e0c65e8a5677083ca": {
-    "id": "50fbbc6e0c65e8a5677083ca",
-    "title": "Meo Sons do Mar",
-    "link": "https://peventertainment.pt/meo-sons-do-mar/",
-    "source": "PEV Entertainment",
-    "kind": "Promotora Porto"
-  },
-  "173f30c97a614a52d248bf6e": {
-    "id": "173f30c97a614a52d248bf6e",
-    "title": "Arquivo - PEV Entertainment",
-    "link": "https://peventertainment.pt/arquivo/",
-    "source": "PEV Entertainment",
-    "kind": "Promotora Porto"
-  },
-  "60d15e3b33d0b761cfe7e422": {
-    "id": "60d15e3b33d0b761cfe7e422",
-    "title": "Sara Correia",
-    "link": "https://peventertainment.pt/sara-correia/",
-    "source": "PEV Entertainment",
-    "kind": "Promotora Porto"
-  },
-  "3ed895365281700aa7276b84": {
-    "id": "3ed895365281700aa7276b84",
-    "title": "Política de Privacidade | RGPD | Cookies",
-    "link": "https://peventertainment.pt/politica-de-privacidade/",
-    "source": "PEV Entertainment",
-    "kind": "Promotora Porto"
-  },
   "829a09beb03f752049d9276d": {
     "id": "829a09beb03f752049d9276d",
     "title": "Área Imprensa",
@@ -3190,41 +3134,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "5946e78b4fd2b3af8b969d7f": {
-    "id": "5946e78b4fd2b3af8b969d7f",
-    "title": "João Gonçalves",
-    "link": "https://agendadopedro.pt/concertos/joao-goncalves-porto-15518/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "c0e240f7f627e59208a22307": {
-    "id": "c0e240f7f627e59208a22307",
-    "title": "Transvision Vamp",
-    "link": "https://agendadopedro.pt/concertos/transvision-vamp-porto-11767/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "7cf0fe767b5c9414e1ea89fe": {
-    "id": "7cf0fe767b5c9414e1ea89fe",
-    "title": "Senyawa",
-    "link": "https://agendadopedro.pt/concertos/senyawa-porto-15196/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "69134e54f22b3f23f4dd5ad6": {
-    "id": "69134e54f22b3f23f4dd5ad6",
-    "title": "Hubris.",
-    "link": "https://agendadopedro.pt/concertos/hubris-porto-16603/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "a4c2b523c1931a0729aa6f32": {
-    "id": "a4c2b523c1931a0729aa6f32",
-    "title": "Lisa Sereno ᛫ Vitória Vermelho",
-    "link": "https://agendadopedro.pt/concertos/lisa-sereno-porto-16210/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "a28b9fb11b7c761fd96227e4": {
     "id": "a28b9fb11b7c761fd96227e4",
@@ -4850,13 +4759,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "b19ee3d67b65a5532ec4de89": {
-    "id": "b19ee3d67b65a5532ec4de89",
-    "title": "Mercury Rev",
-    "link": "https://agendadopedro.pt/concertos/mercury-rev-lisboa-15249/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "0e1309cad49ef1236758df6a": {
     "id": "0e1309cad49ef1236758df6a",
     "title": "Simone Mendes",
@@ -4961,13 +4863,6 @@
     "link": "https://agendadopedro.pt/concertos/valery-meladze-lisboa-16632/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "964643f9e8dcd78a86d8dfef": {
-    "id": "964643f9e8dcd78a86d8dfef",
-    "title": "Todos os concertos marcados para 2026 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-10-01-todos-os-concertos-marcados-para-2026-em-portugal-53436cea/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
   },
   "dd6d7d5da5f99325e0b171e5": {
     "title": "Os dias levantados — ópera em versão de concerto",
