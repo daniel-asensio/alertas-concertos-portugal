@@ -1,11 +1,4 @@
 {
-  "e0ffa8d45e653a910422b747": {
-    "id": "e0ffa8d45e653a910422b747",
-    "title": "Animix",
-    "link": "https://casadamusica.com/event/animix/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "08fce2db53ed442ceb867b64": {
     "id": "08fce2db53ed442ceb867b64",
     "title": "Retro Gaming Sinfonico",
@@ -899,6 +892,13 @@
     "id": "e148286e2d3c501ee2a39124",
     "title": "Meltwater 2",
     "link": "https://casadamusica.com/event/meltwater-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "22d9df6d7b4ebedf96ea3b00": {
+    "id": "22d9df6d7b4ebedf96ea3b00",
+    "title": "Bom Dia Beethoven",
+    "link": "https://casadamusica.com/event/bom-dia-beethoven/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2561,13 +2561,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "f5f7f9f292a34d8d6024225f": {
-    "id": "f5f7f9f292a34d8d6024225f",
-    "title": "Radio Macau",
-    "link": "https://coliseulisboa.com/eventos/radio-macau/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "e699d9ef7e32b4f071869c63": {
     "id": "e699d9ef7e32b4f071869c63",
     "title": "Queen Lives Forever Tributo Orquestra Nova De Guitarras",
@@ -2663,6 +2656,13 @@
     "id": "b02362b871985f07fa376620",
     "title": "Ricardo Reis Soares Daniela Galhoz 2",
     "link": "https://coliseulisboa.com/eventos/ricardo-reis-soares-daniela-galhoz-2/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "d43589422dcb1b6597589c7d": {
+    "id": "d43589422dcb1b6597589c7d",
+    "title": "Meo Commedia A La Carte Fest26 Herman Octeto",
+    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-herman-octeto/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
