@@ -1294,13 +1294,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "81d6cf06f505ad0deccfeca7": {
-    "id": "81d6cf06f505ad0deccfeca7",
-    "title": "My Center Is not in the Solar System",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7253/my-center-is-not-in-the-solar-system/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "4ef56cda6aa5b4193c0b5d32": {
     "id": "4ef56cda6aa5b4193c0b5d32",
     "title": "Solistas da Orquestra XXI: Morton Feldman",
@@ -3275,6 +3268,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "d6f7dba337c8d84da082d7f2": {
+    "id": "d6f7dba337c8d84da082d7f2",
+    "title": "Yasmine",
+    "link": "https://agendadopedro.pt/concertos/yasmine-porto-16810/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "34d13ecf10b94278c1ecf190": {
     "id": "34d13ecf10b94278c1ecf190",
     "title": "Ist Ist",
@@ -3557,7 +3557,7 @@
   },
   "858e6a269bcfb1c6704d0ed2": {
     "id": "858e6a269bcfb1c6704d0ed2",
-    "title": "The Black Wizards",
+    "title": "The Black Wizards ᛫ Manga Cava",
     "link": "https://agendadopedro.pt/concertos/the-black-wizards-porto-16288/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
