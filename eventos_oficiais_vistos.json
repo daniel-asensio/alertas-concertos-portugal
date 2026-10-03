@@ -1217,24 +1217,24 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "dfb120d49169bb14746954fe": {
-    "id": "dfb120d49169bb14746954fe",
-    "title": "MERCURY REV",
-    "link": "https://www.hardclubporto.com/PT/evento/mercury-rev-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
-  "1f2e65aebe410b72e0de7191": {
-    "id": "1f2e65aebe410b72e0de7191",
-    "title": "Remember 90vs00 - Porto Edition",
-    "link": "https://www.hardclubporto.com/PT/evento/remember-90vs00-porto-edition-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "7c9a107616db2c954600f5af": {
     "id": "7c9a107616db2c954600f5af",
     "title": "IRA",
     "link": "https://www.hardclubporto.com/PT/evento/ira-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "76862c66eeaeee86140df24e": {
+    "id": "76862c66eeaeee86140df24e",
+    "title": "Dynamo & Friends",
+    "link": "https://www.hardclubporto.com/PT/evento/dynamo-friends-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "342c327fba22ce78f77c4437": {
+    "id": "342c327fba22ce78f77c4437",
+    "title": "Back To The Old School #1",
+    "link": "https://www.hardclubporto.com/PT/evento/back-to-the-old-school-1-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -2967,34 +2967,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "df922e2b7aeaf1a551f52a1b": {
-    "id": "df922e2b7aeaf1a551f52a1b",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "390c6324d23de30e163b7b4f": {
-    "id": "390c6324d23de30e163b7b4f",
-    "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "263337da27a31ee524c258e4": {
-    "id": "263337da27a31ee524c258e4",
-    "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "a2fccfaa30133f6facabd414": {
-    "id": "a2fccfaa30133f6facabd414",
-    "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-02/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "625c3aca961ef865b7c5417b": {
     "id": "625c3aca961ef865b7c5417b",
     "title": "Primeira Infância - Centro Cultural de Belém",
@@ -3009,6 +2981,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "9a05dbb68992a74acf502542": {
+    "id": "9a05dbb68992a74acf502542",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "b17df862379207ec467d4e7e": {
     "id": "b17df862379207ec467d4e7e",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
@@ -3020,6 +2999,27 @@
     "id": "5f6aba849c77a40b5ace3c89",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d88b7ee17535b3621ba04f32": {
+    "id": "d88b7ee17535b3621ba04f32",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "2fd8d763d068f9d7bb6014ad": {
+    "id": "2fd8d763d068f9d7bb6014ad",
+    "title": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "6581243e93212747eaab20e2": {
+    "id": "6581243e93212747eaab20e2",
+    "title": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-03/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3176,20 +3176,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "a28b9fb11b7c761fd96227e4": {
-    "id": "a28b9fb11b7c761fd96227e4",
-    "title": "Mercury Rev",
-    "link": "https://agendadopedro.pt/concertos/mercury-rev-porto-15247/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "0a57f5561f768e8d58391e70": {
-    "id": "0a57f5561f768e8d58391e70",
-    "title": "Whitney Johnson & Lia Kohl & Macie Stewart",
-    "link": "https://agendadopedro.pt/concertos/whitney-johnson-lia-kohl-macie-stewart-porto-13468/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "30f7781408d93a45d39cda20": {
     "id": "30f7781408d93a45d39cda20",
@@ -4819,13 +4805,6 @@
     "id": "66231fe0988631ae13e9cf9d",
     "title": "Evanescence ᛫ Nova Twins ᛫ Poppy",
     "link": "https://agendadopedro.pt/concertos/evanescence-lisboa-10759/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "0e1309cad49ef1236758df6a": {
-    "id": "0e1309cad49ef1236758df6a",
-    "title": "Simone Mendes",
-    "link": "https://agendadopedro.pt/concertos/simone-mendes-lisboa-12143/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
