@@ -1336,13 +1336,6 @@
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
-  "a713802749834fe54a45d364": {
-    "id": "a713802749834fe54a45d364",
-    "title": "Feiranoivos Europarque",
-    "link": "https://www.bol.pt/Comprar/Bilhetes/182831-feiranoivos-europarque/",
-    "source": "Europarque",
-    "kind": "Aveiro"
-  },
   "0ccc3c847f3b12f86682e349": {
     "id": "0ccc3c847f3b12f86682e349",
     "title": "One Vision Tributo A Queen Europarque",
@@ -2295,13 +2288,6 @@
     "source": "Música no Coração",
     "kind": "Promotora"
   },
-  "cc7ada33ffd1715684ff7bd2": {
-    "id": "cc7ada33ffd1715684ff7bd2",
-    "title": "Evanescence 2026 World Tour",
-    "link": "https://arena.meo.pt/agenda/evanescence-2026-world-tour_pt/15722/",
-    "source": "MEO Arena",
-    "kind": "Grande sala"
-  },
   "609f773c5c077a73dd627394": {
     "id": "609f773c5c077a73dd627394",
     "title": "Game Changers Forum 2026 Barack Obama",
@@ -2918,73 +2904,52 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8d368d3912072a8d9c44a34d": {
-    "id": "8d368d3912072a8d9c44a34d",
+  "7125fa8b0868f168226e281b": {
+    "id": "7125fa8b0868f168226e281b",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-04/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "5c708e0d4ee7057dd1a75816": {
-    "id": "5c708e0d4ee7057dd1a75816",
+  "c65b27de0502cf6f59323fe9": {
+    "id": "c65b27de0502cf6f59323fe9",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-04/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "245d5c805ba7146e72fba08d": {
-    "id": "245d5c805ba7146e72fba08d",
+  "6ec253027599db44a1bbbed2": {
+    "id": "6ec253027599db44a1bbbed2",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-04/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ee18eabe4d4d5896971f1615": {
-    "id": "ee18eabe4d4d5896971f1615",
+  "117cbcb61255dc1ab7a2a92c": {
+    "id": "117cbcb61255dc1ab7a2a92c",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-04/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ce2f5f575203d51c857076d9": {
-    "id": "ce2f5f575203d51c857076d9",
-    "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
-    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-04/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "d63f43b71c3e8df3d2f0094d": {
-    "id": "d63f43b71c3e8df3d2f0094d",
+  "4f9e60cbe7a1e916da94b373": {
+    "id": "4f9e60cbe7a1e916da94b373",
     "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-04/",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "610f20bd32c1c0188ee8d85c": {
-    "id": "610f20bd32c1c0188ee8d85c",
+  "d6aa1836c50dce1993fab72d": {
+    "id": "d6aa1836c50dce1993fab72d",
     "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-04/",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "004fc241091606b29a18bc76": {
-    "id": "004fc241091606b29a18bc76",
+  "8e1d0bcda34f5f1837f05732": {
+    "id": "8e1d0bcda34f5f1837f05732",
     "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-04/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "94a42bd7a00de30739ffd91a": {
-    "id": "94a42bd7a00de30739ffd91a",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-04/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "3036b1706d541fb0e0b62b14": {
-    "id": "3036b1706d541fb0e0b62b14",
-    "title": "Visitas Guiadas",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-10-04/",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2992,6 +2957,20 @@
     "id": "a5347f4c1fbf55c85ee9854c",
     "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
     "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-10-06/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "39afa409f3e6ef8e6008c561": {
+    "id": "39afa409f3e6ef8e6008c561",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-06/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "93796a7c8dbe8d93b6a047a6": {
+    "id": "93796a7c8dbe8d93b6a047a6",
+    "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
+    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3006,6 +2985,13 @@
     "id": "cbb5e77cc95d6ce4c4039b8d",
     "title": "Programa Público das exposições",
     "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/2026-10-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "7acb94e63db9d82c31cd0a7a": {
+    "id": "7acb94e63db9d82c31cd0a7a",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-10-11/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
