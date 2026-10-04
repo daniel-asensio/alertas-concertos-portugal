@@ -1,11 +1,4 @@
 {
-  "08fce2db53ed442ceb867b64": {
-    "id": "08fce2db53ed442ceb867b64",
-    "title": "Retro Gaming Sinfonico",
-    "link": "https://casadamusica.com/event/retro-gaming-sinfonico/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "1c5196c19fe37c8a9945c804": {
     "id": "1c5196c19fe37c8a9945c804",
     "title": "Estacao Casa Da Musica 2027",
@@ -1210,33 +1203,26 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "7c9a107616db2c954600f5af": {
-    "id": "7c9a107616db2c954600f5af",
-    "title": "IRA",
-    "link": "https://www.hardclubporto.com/PT/evento/ira-2026/",
+  "cb1059317f617702451d2f57": {
+    "id": "cb1059317f617702451d2f57",
+    "title": "MORGENSHTERN",
+    "link": "https://www.hardclubporto.com/PT/evento/morgenshtern-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "76862c66eeaeee86140df24e": {
-    "id": "76862c66eeaeee86140df24e",
-    "title": "Dynamo & Friends",
-    "link": "https://www.hardclubporto.com/PT/evento/dynamo-friends-2026/",
+  "6971bf70ac9820b04a57d649": {
+    "id": "6971bf70ac9820b04a57d649",
+    "title": "IST IST",
+    "link": "https://www.hardclubporto.com/PT/evento/ist-ist-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "342c327fba22ce78f77c4437": {
-    "id": "342c327fba22ce78f77c4437",
-    "title": "Back To The Old School #1",
-    "link": "https://www.hardclubporto.com/PT/evento/back-to-the-old-school-1-2026/",
+  "dd0a8f42987ef0fe2fa94fe8": {
+    "id": "dd0a8f42987ef0fe2fa94fe8",
+    "title": "ESPAMA TRINCANA",
+    "link": "https://www.hardclubporto.com/PT/evento/espama-trincana-2026/",
     "source": "Hard Club",
     "kind": "Porto"
-  },
-  "5a90fbfd19639608a8c1b36c": {
-    "id": "5a90fbfd19639608a8c1b36c",
-    "title": "Concertos, Performances, Leituras, Exposição",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
   },
   "afee52e3d02837c62061e488": {
     "id": "afee52e3d02837c62061e488",
@@ -1284,6 +1270,13 @@
     "id": "3fac6efc0687f20b6293e186",
     "title": "Festa",
     "link": "https://www.tnsj.pt/pt/espetaculos/7264/festa/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "5a90fbfd19639608a8c1b36c": {
+    "id": "5a90fbfd19639608a8c1b36c",
+    "title": "Concertos, Performances, Leituras, Exposição",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1734,13 +1727,6 @@
     "link": "https://www.teatroaveirense.pt/index.php/evento/antonio-zambujo/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
-  },
-  "bb482db406eddee686544496": {
-    "id": "bb482db406eddee686544496",
-    "title": "A Celebrar a Música | Orquestra Sinfónica de Jovens de Santa Maria da Feira",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
   },
   "4505941ec0d06da7a63df984": {
     "id": "4505941ec0d06da7a63df984",
@@ -3155,27 +3141,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "30f7781408d93a45d39cda20": {
-    "id": "30f7781408d93a45d39cda20",
-    "title": "Dynamo",
-    "link": "https://agendadopedro.pt/concertos/dynamo-porto-16586/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "25975692d392020cbc7c3dc6": {
-    "id": "25975692d392020cbc7c3dc6",
-    "title": "Ira!",
-    "link": "https://agendadopedro.pt/concertos/ira-porto-11142/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "db7de82a4e5cdd440243bfb4": {
-    "id": "db7de82a4e5cdd440243bfb4",
-    "title": "Simone Mendes",
-    "link": "https://agendadopedro.pt/concertos/simone-mendes-porto-12142/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "05b4d4745a74ad8890ae8043": {
     "id": "05b4d4745a74ad8890ae8043",
@@ -4770,20 +4735,6 @@
     "id": "cf5df6f81a1dd72ac80b3c91",
     "title": "D'zrt",
     "link": "https://agendadopedro.pt/concertos/d-zrt-porto-15566/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e244723167a2d61a27acc17a": {
-    "id": "e244723167a2d61a27acc17a",
-    "title": "Bárbara Bandeira ᛫ Soraia Ramos ᛫ Bateu Matou",
-    "link": "https://agendadopedro.pt/concertos/barbara-bandeira-lisboa-16304/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "37ed0c4701bfb6fc70b23355": {
-    "id": "37ed0c4701bfb6fc70b23355",
-    "title": "C4 Pedro",
-    "link": "https://agendadopedro.pt/concertos/c4-pedro-lisboa-13684/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
