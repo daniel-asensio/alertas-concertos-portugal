@@ -1273,20 +1273,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "5a90fbfd19639608a8c1b36c": {
-    "id": "5a90fbfd19639608a8c1b36c",
-    "title": "Concertos, Performances, Leituras, Exposição",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7299/de-regresso-ao-mosteiro-reabrir-voltar-a-escutar/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "4ef56cda6aa5b4193c0b5d32": {
-    "id": "4ef56cda6aa5b4193c0b5d32",
-    "title": "Solistas da Orquestra XXI: Morton Feldman",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7254/solistas-da-orquestra-xxi-morton-feldman/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "950a669a52f5018cb049439b": {
     "id": "950a669a52f5018cb049439b",
     "title": "Clubes de Teatro",
@@ -1301,17 +1287,24 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "08e37df858dd8ce97931e102": {
-    "id": "08e37df858dd8ce97931e102",
-    "title": "Né Barros Zonas de Sombra",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/n-barros-zonas-de-sombra/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
   "f323d17b74724f788d0a923a": {
     "id": "f323d17b74724f788d0a923a",
     "title": "Phia Ménard / Compagnie Non Nova Nocturne (Parade) [Noturno (Desfile)]",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/phia-m-nard-compagnie-non-nova-nocturne-parade-noturno-desfile/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "22989900665ea1c9e2fc9f9e": {
+    "id": "22989900665ea1c9e2fc9f9e",
+    "title": "Mariana Leite Soares ABSOLUTO",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/mariana-leite-soares-absoluto/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "f4574c41883969b1f31967e5": {
+    "id": "f4574c41883969b1f31967e5",
+    "title": "Luisa Fernanda Alfonso Masterpiece",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/luisa-fernanda-alfonso-masterpiece/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
@@ -1336,17 +1329,17 @@
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
+  "9cfd98ffad2e84280af88157": {
+    "id": "9cfd98ffad2e84280af88157",
+    "title": "Teatro de Marionetas do Porto Mulher Luz",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/teatro-de-marionetas-do-porto-mulher-luz/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
   "a713802749834fe54a45d364": {
     "id": "a713802749834fe54a45d364",
     "title": "Feiranoivos Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182831-feiranoivos-europarque/",
-    "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "44c73b40c59a8af3a903d58e": {
-    "id": "44c73b40c59a8af3a903d58e",
-    "title": "Cinderela O Musical Europarque",
-    "link": "https://www.bol.pt/Comprar/Bilhetes/182405-cinderela_o_musical-europarque/",
     "source": "Europarque",
     "kind": "Aveiro"
   },
