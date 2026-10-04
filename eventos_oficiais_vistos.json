@@ -2526,13 +2526,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "e699d9ef7e32b4f071869c63": {
-    "id": "e699d9ef7e32b4f071869c63",
-    "title": "Queen Lives Forever Tributo Orquestra Nova De Guitarras",
-    "link": "https://coliseulisboa.com/eventos/queen-lives-forever-tributo-orquestra-nova-de-guitarras/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "2f0eb48fe74db4b308c11b26": {
     "id": "2f0eb48fe74db4b308c11b26",
     "title": "Puto Bacoco X Beware Jack Convidados New Max X Da Chick",
@@ -2628,6 +2621,13 @@
     "id": "d43589422dcb1b6597589c7d",
     "title": "Meo Commedia A La Carte Fest26 Herman Octeto",
     "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-herman-octeto/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "ce05454fde14acd0d7264492": {
+    "id": "ce05454fde14acd0d7264492",
+    "title": "Meo Commedia A La Carte Fest26 Ines Aires Pereira Namaste",
+    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-ines-aires-pereira-namaste/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
