@@ -1,18 +1,4 @@
 {
-  "1c5196c19fe37c8a9945c804": {
-    "id": "1c5196c19fe37c8a9945c804",
-    "title": "Estacao Casa Da Musica 2027",
-    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "9783cddfda72a6a4aec9ba61": {
-    "id": "9783cddfda72a6a4aec9ba61",
-    "title": "Insert Coin To Continue",
-    "link": "https://casadamusica.com/event/insert-coin-to-continue/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "562d15e682905901bcfe2a8c": {
     "id": "562d15e682905901bcfe2a8c",
     "title": "Kodu Percussion Group",
@@ -171,6 +157,13 @@
     "id": "fd36655f240287e91049a1f6",
     "title": "Joe Jackson Band",
     "link": "https://casadamusica.com/event/joe-jackson-band/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "1c5196c19fe37c8a9945c804": {
+    "id": "1c5196c19fe37c8a9945c804",
+    "title": "Estacao Casa Da Musica 2027",
+    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -892,6 +885,20 @@
     "id": "22d9df6d7b4ebedf96ea3b00",
     "title": "Bom Dia Beethoven",
     "link": "https://casadamusica.com/event/bom-dia-beethoven/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "329f9c575dd7e0062258b72f": {
+    "id": "329f9c575dd7e0062258b72f",
+    "title": "Miguel Carmona",
+    "link": "https://casadamusica.com/event/miguel-carmona/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "8c9723d4ec47c6d1c6910ef3": {
+    "id": "8c9723d4ec47c6d1c6910ef3",
+    "title": "Disomnario 5",
+    "link": "https://casadamusica.com/event/disomnario-5/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
