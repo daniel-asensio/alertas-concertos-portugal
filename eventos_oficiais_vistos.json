@@ -3114,13 +3114,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "05b4d4745a74ad8890ae8043": {
-    "id": "05b4d4745a74ad8890ae8043",
-    "title": "Douro Project",
-    "link": "https://agendadopedro.pt/concertos/douro-project-porto-16182/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "9e49e93eb6551ee8115bf657": {
     "id": "9e49e93eb6551ee8115bf657",
     "title": "Maya Ongaku",
@@ -3375,7 +3368,7 @@
   },
   "bf6c3e7987878cd8ed35ce03": {
     "id": "bf6c3e7987878cd8ed35ce03",
-    "title": "Os Quatro e Meia ᛫ David Fonseca ᛫ Miguel Araújo ᛫ Átoa ᛫ Luís Trigacheiro ᛫ Fernando Daniel ᛫ Syro ᛫ Elisa",
+    "title": "Os Quatro e Meia ᛫ David Fonseca ᛫ Miguel Araújo ᛫ ...",
     "link": "https://agendadopedro.pt/concertos/os-quatro-e-meia-porto-14062/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -4710,13 +4703,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "66231fe0988631ae13e9cf9d": {
-    "id": "66231fe0988631ae13e9cf9d",
-    "title": "Evanescence ᛫ Nova Twins ᛫ Poppy",
-    "link": "https://agendadopedro.pt/concertos/evanescence-lisboa-10759/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "41e2d705ba991eb4bbcb42fb": {
     "id": "41e2d705ba991eb4bbcb42fb",
     "title": "Dire Straits Legacy",
@@ -4763,6 +4749,62 @@
     "id": "f10887ba6da2f5f4ad311af5",
     "title": "Viviane",
     "link": "https://agendadopedro.pt/concertos/viviane-lisboa-13405/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "26fec917277d443a7bcc9a42": {
+    "id": "26fec917277d443a7bcc9a42",
+    "title": "Alphaville",
+    "link": "https://agendadopedro.pt/concertos/alphaville-guimaraes-10249/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "dd7a85b51b9859d8b3359489": {
+    "id": "dd7a85b51b9859d8b3359489",
+    "title": "Alphaville",
+    "link": "https://agendadopedro.pt/concertos/alphaville-lisboa-10469/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "014b8f0e6b4e93dfccaddc4c": {
+    "id": "014b8f0e6b4e93dfccaddc4c",
+    "title": "Boca Livre & Edu Lobo",
+    "link": "https://agendadopedro.pt/concertos/boca-livre-edu-lobo-lisboa-15544/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "a23dacf3117aeb2b72d4b0af": {
+    "id": "a23dacf3117aeb2b72d4b0af",
+    "title": "Gilsons",
+    "link": "https://agendadopedro.pt/concertos/gilsons-lisboa-13445/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "7f5fdea52fb5140485ad7df3": {
+    "id": "7f5fdea52fb5140485ad7df3",
+    "title": "Joe Jackson",
+    "link": "https://agendadopedro.pt/concertos/joe-jackson-lisboa-10013/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "aabfca4725bc4a1fe526fc0a": {
+    "id": "aabfca4725bc4a1fe526fc0a",
+    "title": "Mateus Asato",
+    "link": "https://agendadopedro.pt/concertos/mateus-asato-lisboa-16009/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "704944db8d28c683f1a950ac": {
+    "id": "704944db8d28c683f1a950ac",
+    "title": "Roupa Nova",
+    "link": "https://agendadopedro.pt/concertos/roupa-nova-lisboa-14816/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "506b3b14feaab21cd2d41fc3": {
+    "id": "506b3b14feaab21cd2d41fc3",
+    "title": "Rui Veloso",
+    "link": "https://agendadopedro.pt/concertos/rui-veloso-lisboa-11781/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
