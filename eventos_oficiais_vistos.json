@@ -1427,13 +1427,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "517eefdd744b38dad41337cd": {
-    "id": "517eefdd744b38dad41337cd",
-    "title": "O Jacaré Os Filmes das Nossas Terças",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/o-jacare/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "7d0d4f93a663d4bf941c7202": {
     "id": "7d0d4f93a663d4bf941c7202",
     "title": "PRISMA 2026 Art Light Tech",
@@ -1441,17 +1434,17 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
-  "5349b3528b0d7bd029e1791a": {
-    "id": "5349b3528b0d7bd029e1791a",
-    "title": "O problema da habitação na poesia de Ruy Belo Ciclo O Problema da Habitação",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-na-poesia-de-ruy-belo-ciclo-o-problema-da-habitacao/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "39d2f3223de4ad1b123b52b9": {
     "id": "39d2f3223de4ad1b123b52b9",
     "title": "Arquitetas da Liberdade Ciclo O Problema da Habitação",
     "link": "https://www.teatroaveirense.pt/index.php/evento/arquitetas-da-liberdade/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "5349b3528b0d7bd029e1791a": {
+    "id": "5349b3528b0d7bd029e1791a",
+    "title": "O problema da habitação na poesia de Ruy Belo Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-na-poesia-de-ruy-belo-ciclo-o-problema-da-habitacao/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -2222,6 +2215,13 @@
     "id": "173f30c97a614a52d248bf6e",
     "title": "Arquivo - PEV Entertainment",
     "link": "https://peventertainment.pt/arquivo/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "6c08fa337794d9c4a1b80462": {
+    "id": "6c08fa337794d9c4a1b80462",
+    "title": "Rod Stewart",
+    "link": "https://peventertainment.pt/rod-stewart/",
     "source": "PEV Entertainment",
     "kind": "Promotora Porto"
   },
