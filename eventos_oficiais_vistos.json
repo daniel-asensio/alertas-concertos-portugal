@@ -1441,17 +1441,17 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
-  "39d2f3223de4ad1b123b52b9": {
-    "id": "39d2f3223de4ad1b123b52b9",
-    "title": "Arquitetas da Liberdade Ciclo O Problema da Habitação",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/arquitetas-da-liberdade/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "5349b3528b0d7bd029e1791a": {
     "id": "5349b3528b0d7bd029e1791a",
     "title": "O problema da habitação na poesia de Ruy Belo Ciclo O Problema da Habitação",
     "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-na-poesia-de-ruy-belo-ciclo-o-problema-da-habitacao/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "39d2f3223de4ad1b123b52b9": {
+    "id": "39d2f3223de4ad1b123b52b9",
+    "title": "Arquitetas da Liberdade Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/arquitetas-da-liberdade/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -1718,6 +1718,13 @@
     "id": "63b2581cf4722ae4443fa6f6",
     "title": "António Zambujo Oração ao Tempo",
     "link": "https://www.teatroaveirense.pt/index.php/evento/antonio-zambujo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "0670a2b54499f3bb2d9e4270": {
+    "id": "0670a2b54499f3bb2d9e4270",
+    "title": "Cristina Branco Menina, Branco, Eva",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/cristina/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -2673,13 +2680,6 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "314f13d05a4069929a25586b": {
-    "id": "314f13d05a4069929a25586b",
-    "title": "04 Out 2026 16:00 Entanglement",
-    "link": "https://www.cnb.pt/program/entanglement-2026/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
   "d3967480bf5d6525f34f6087": {
     "id": "d3967480bf5d6525f34f6087",
     "title": "01 Nov 2026 16:00 Desassossego",
@@ -2696,14 +2696,14 @@
   },
   "8801cbeb349f4213457964ad": {
     "id": "8801cbeb349f4213457964ad",
-    "title": "Only Duos 26 27",
+    "title": "13 Nov 2026 21:30 Only Duos",
     "link": "https://www.cnb.pt/program/only-duos-26-27/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
   "16c5b772f5f61d8dc50ae498": {
     "id": "16c5b772f5f61d8dc50ae498",
-    "title": "19 Out 2026 19:00 Clube de Leituras Dançadas",
+    "title": "16 Nov 2026 19:00 Clube de Leituras Dançadas",
     "link": "https://www.cnb.pt/program/clube-de-leituras-dancadas-2627/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
@@ -2876,41 +2876,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "a00d1bd5dbcf0a19fa394bff": {
-    "id": "a00d1bd5dbcf0a19fa394bff",
-    "title": "Mostra Espanha 2026 Obras Convidadas",
-    "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "79f308df2843e20f5a726b49": {
-    "id": "79f308df2843e20f5a726b49",
-    "title": "Visitas Guiadas Ao Edificio Centro Cultural De Belem",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-ao-edificio-centro-cultural-de-belem/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "5fa814d556e5d1f6d2c1b386": {
-    "id": "5fa814d556e5d1f6d2c1b386",
-    "title": "Instalacao James Webb",
-    "link": "https://www.ccb.pt/evento/instalacao-james-webb/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f16e52904656b9928206a898": {
-    "id": "f16e52904656b9928206a898",
-    "title": "Visitas Orientadas E Tematicas Oficinas",
-    "link": "https://www.ccb.pt/evento/visitas-orientadas-e-tematicas-oficinas/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "ea91c6621b0a5231499c2070": {
-    "id": "ea91c6621b0a5231499c2070",
-    "title": "Exposicao Terra Crua",
-    "link": "https://www.ccb.pt/evento/exposicao-terra-crua/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "7125fa8b0868f168226e281b": {
     "id": "7125fa8b0868f168226e281b",
     "title": "Primeira Infância - Centro Cultural de Belém",
@@ -2922,13 +2887,6 @@
     "id": "c65b27de0502cf6f59323fe9",
     "title": "Pré-escolar - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-06/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "6ec253027599db44a1bbbed2": {
-    "id": "6ec253027599db44a1bbbed2",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2950,6 +2908,13 @@
     "id": "d6aa1836c50dce1993fab72d",
     "title": "Olhos Múltiplos",
     "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-06/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "6ec253027599db44a1bbbed2": {
+    "id": "6ec253027599db44a1bbbed2",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3020,6 +2985,41 @@
     "id": "8c38606b3e7506c2ae3eb43b",
     "title": "Ângela Ferreira",
     "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-10-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5fa814d556e5d1f6d2c1b386": {
+    "id": "5fa814d556e5d1f6d2c1b386",
+    "title": "Instalacao James Webb",
+    "link": "https://www.ccb.pt/evento/instalacao-james-webb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "79f308df2843e20f5a726b49": {
+    "id": "79f308df2843e20f5a726b49",
+    "title": "Visitas Guiadas Ao Edificio Centro Cultural De Belem",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-ao-edificio-centro-cultural-de-belem/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "f16e52904656b9928206a898": {
+    "id": "f16e52904656b9928206a898",
+    "title": "Visitas Orientadas E Tematicas Oficinas",
+    "link": "https://www.ccb.pt/evento/visitas-orientadas-e-tematicas-oficinas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ea91c6621b0a5231499c2070": {
+    "id": "ea91c6621b0a5231499c2070",
+    "title": "Exposicao Terra Crua",
+    "link": "https://www.ccb.pt/evento/exposicao-terra-crua/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "a00d1bd5dbcf0a19fa394bff": {
+    "id": "a00d1bd5dbcf0a19fa394bff",
+    "title": "Mostra Espanha 2026 Obras Convidadas",
+    "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -4297,6 +4297,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "cbb0557525a0f6a5062b534e": {
+    "id": "cbb0557525a0f6a5062b534e",
+    "title": "Diego El Cigala",
+    "link": "https://agendadopedro.pt/concertos/diego-el-cigala-porto-16824/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "4a01b0f2c9f757f1e4b1d634": {
     "id": "4a01b0f2c9f757f1e4b1d634",
     "title": "Sean Riley & The Slowriders",
@@ -4808,10 +4815,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "23aafe68e03fd0c6a2a7b7ab": {
-    "id": "23aafe68e03fd0c6a2a7b7ab",
-    "title": "Carlão",
-    "link": "https://agendadopedro.pt/concertos/carlao-lisboa-16726/",
+  "f36849f4ee1b9388c3d2d78c": {
+    "id": "f36849f4ee1b9388c3d2d78c",
+    "title": "Calema",
+    "link": "https://agendadopedro.pt/concertos/calema-lisboa-16823/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "519cf0c314fce291b021f89e": {
+    "id": "519cf0c314fce291b021f89e",
+    "title": "Diego El Cigala",
+    "link": "https://agendadopedro.pt/concertos/diego-el-cigala-lisboa-16826/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4826,13 +4840,6 @@
     "id": "0a5da9ab4bd2236b13b5b7f8",
     "title": "Muse",
     "link": "https://agendadopedro.pt/concertos/muse-lisboa-16762/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e0d0d8662fc1302887a57f53": {
-    "id": "e0d0d8662fc1302887a57f53",
-    "title": "ProfJam",
-    "link": "https://agendadopedro.pt/concertos/profjam-lisboa-16727/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
