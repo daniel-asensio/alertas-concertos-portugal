@@ -398,6 +398,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "43362da46ad79c30a3ac9977": {
+    "id": "43362da46ad79c30a3ac9977",
+    "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
+    "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "3b5108ea295f3eb7f669dd8f": {
     "id": "3b5108ea295f3eb7f669dd8f",
     "title": "Alan Stivell",
@@ -612,6 +619,13 @@
     "id": "4f579f796d88f44467e8bc77",
     "title": "Banda Sinfonica Portuguesa 20261213",
     "link": "https://casadamusica.com/event/banda-sinfonica-portuguesa-20261213/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "5df416bccc9e83368f295d9b": {
+    "id": "5df416bccc9e83368f295d9b",
+    "title": "Jose El Marques Flamenco",
+    "link": "https://casadamusica.com/event/jose-el-marques-flamenco/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2869,27 +2883,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "034cdd72748e8c261c93f355": {
-    "id": "034cdd72748e8c261c93f355",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-07/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "414af60a0ac655165124abba": {
-    "id": "414af60a0ac655165124abba",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-07/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b10737068f708bc9d2917b18": {
-    "id": "b10737068f708bc9d2917b18",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-07/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "f32d1b5fd7b54da365d6b5a9": {
     "id": "f32d1b5fd7b54da365d6b5a9",
     "title": "Frida Orupabo - Cloud of Confusion",
@@ -2904,13 +2897,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "37916d1a53d0c2ea42171368": {
-    "id": "37916d1a53d0c2ea42171368",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-07/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "6b3eeb7fb1678e41d12f9f9b": {
     "id": "6b3eeb7fb1678e41d12f9f9b",
     "title": "May I Help You? Posso ajudar?",
@@ -2918,10 +2904,38 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2c3abd3b16f5d465fde55a27": {
-    "id": "2c3abd3b16f5d465fde55a27",
+  "1a4962b5c096f61e70b61978": {
+    "id": "1a4962b5c096f61e70b61978",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-08/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "abb0d63525ec04ea073bc730": {
+    "id": "abb0d63525ec04ea073bc730",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-08/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ac128f148f2b0aabf7ea3bb1": {
+    "id": "ac128f148f2b0aabf7ea3bb1",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-07/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-08/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8b0d41d8a2ec4863fe0d90b2": {
+    "id": "8b0d41d8a2ec4863fe0d90b2",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-09/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9e4978d429dfb17edb038ecd": {
+    "id": "9e4978d429dfb17edb038ecd",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-09/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
