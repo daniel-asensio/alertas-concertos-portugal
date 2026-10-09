@@ -895,13 +895,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "0a98d5c85f559709f66d5070": {
-    "id": "0a98d5c85f559709f66d5070",
-    "title": "Rui Veloso – Trio",
-    "link": "https://www.superbockarena.pt/evento/rui-veloso-trio/",
-    "source": "Super Bock Arena",
-    "kind": "Porto"
-  },
   "cc06c89f2f5ccb7ecee73fd7": {
     "id": "cc06c89f2f5ccb7ecee73fd7",
     "title": "Roupa Nova Tour 2026",
@@ -1203,13 +1196,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "6971bf70ac9820b04a57d649": {
-    "id": "6971bf70ac9820b04a57d649",
-    "title": "IST IST",
-    "link": "https://www.hardclubporto.com/PT/evento/ist-ist-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "dd0a8f42987ef0fe2fa94fe8": {
     "id": "dd0a8f42987ef0fe2fa94fe8",
     "title": "ESPAMA TRINCANA",
@@ -1221,6 +1207,13 @@
     "id": "3bc90eb825094a44d6ea353e",
     "title": "Deep Motion X Ornella All Night Long",
     "link": "https://www.hardclubporto.com/PT/evento/deep-motion-x-ornella-all-night-long-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "84755ad31b10b7c6e1f65697": {
+    "id": "84755ad31b10b7c6e1f65697",
+    "title": "Terrakota",
+    "link": "https://www.hardclubporto.com/PT/evento/terrakota-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -2883,59 +2876,24 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8b0d41d8a2ec4863fe0d90b2": {
-    "id": "8b0d41d8a2ec4863fe0d90b2",
+  "2722354c2e42c3eb33336ace": {
+    "id": "2722354c2e42c3eb33336ace",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-09/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "9e4978d429dfb17edb038ecd": {
-    "id": "9e4978d429dfb17edb038ecd",
+  "017108437c70fb6ffa690bfd": {
+    "id": "017108437c70fb6ffa690bfd",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-09/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "58fd9c5ee3234b8aecea2d3e": {
-    "id": "58fd9c5ee3234b8aecea2d3e",
+  "71fdaa586f59918f1f516e70": {
+    "id": "71fdaa586f59918f1f516e70",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-09/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "2d2669553296222642e99a37": {
-    "id": "2d2669553296222642e99a37",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-09/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "0b1ecde9f83f6430cbfcead1": {
-    "id": "0b1ecde9f83f6430cbfcead1",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-09/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "91a5f83e3d0ce282398e2cad": {
-    "id": "91a5f83e3d0ce282398e2cad",
-    "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-09/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "7e143751d5918f61e9c20e1c": {
-    "id": "7e143751d5918f61e9c20e1c",
-    "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-09/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "9d6128287dbf4b1c48d8a2d7": {
-    "id": "9d6128287dbf4b1c48d8a2d7",
-    "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-09/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2943,6 +2901,41 @@
     "id": "93796a7c8dbe8d93b6a047a6",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-10/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "0e876ed8bb9de9a6dd14635e": {
+    "id": "0e876ed8bb9de9a6dd14635e",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-10/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "78367fb219bd5b2b474da7dc": {
+    "id": "78367fb219bd5b2b474da7dc",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-10/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d5f73b4db0457c74bbaa3627": {
+    "id": "d5f73b4db0457c74bbaa3627",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-10/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "450e24b7c359181459f8397d": {
+    "id": "450e24b7c359181459f8397d",
+    "title": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-10/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "a53beaa299c22d6c70a9dcbc": {
+    "id": "a53beaa299c22d6c70a9dcbc",
+    "title": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3023,17 +3016,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ea91c6621b0a5231499c2070": {
-    "id": "ea91c6621b0a5231499c2070",
-    "title": "Exposicao Terra Crua",
-    "link": "https://www.ccb.pt/evento/exposicao-terra-crua/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "a00d1bd5dbcf0a19fa394bff": {
     "id": "a00d1bd5dbcf0a19fa394bff",
     "title": "Mostra Espanha 2026 Obras Convidadas",
     "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ea91c6621b0a5231499c2070": {
+    "id": "ea91c6621b0a5231499c2070",
+    "title": "Exposicao Terra Crua",
+    "link": "https://www.ccb.pt/evento/exposicao-terra-crua/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3134,48 +3127,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "d4eb0cf06e929429e6188ef9": {
-    "id": "d4eb0cf06e929429e6188ef9",
-    "title": "José Pinhal Post-Mortem Experience",
-    "link": "https://agendadopedro.pt/concertos/jose-pinhal-post-mortem-experience-porto-10798/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "d6f7dba337c8d84da082d7f2": {
-    "id": "d6f7dba337c8d84da082d7f2",
-    "title": "Yasmine",
-    "link": "https://agendadopedro.pt/concertos/yasmine-porto-16810/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "34d13ecf10b94278c1ecf190": {
-    "id": "34d13ecf10b94278c1ecf190",
-    "title": "Ist Ist",
-    "link": "https://agendadopedro.pt/concertos/ist-ist-porto-15321/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "c947f5d665bd2b4c579cfa32": {
-    "id": "c947f5d665bd2b4c579cfa32",
-    "title": "Xico Gaiato",
-    "link": "https://agendadopedro.pt/concertos/xico-gaiato-porto-16600/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "4ff68f5d59da7fd9b9df5b4a": {
-    "id": "4ff68f5d59da7fd9b9df5b4a",
-    "title": "Rui Veloso",
-    "link": "https://agendadopedro.pt/concertos/rui-veloso-porto-11086/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e2f428efb6b6e6459f1ab814": {
-    "id": "e2f428efb6b6e6459f1ab814",
-    "title": "Lau Ro ᛫ Tomé Capa",
-    "link": "https://agendadopedro.pt/concertos/lau-ro-porto-16209/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "f140c694ef7e756d17aa35b0": {
     "id": "f140c694ef7e756d17aa35b0",
