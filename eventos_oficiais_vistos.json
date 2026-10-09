@@ -1203,13 +1203,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "cb1059317f617702451d2f57": {
-    "id": "cb1059317f617702451d2f57",
-    "title": "MORGENSHTERN",
-    "link": "https://www.hardclubporto.com/PT/evento/morgenshtern-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "6971bf70ac9820b04a57d649": {
     "id": "6971bf70ac9820b04a57d649",
     "title": "IST IST",
@@ -1221,6 +1214,13 @@
     "id": "dd0a8f42987ef0fe2fa94fe8",
     "title": "ESPAMA TRINCANA",
     "link": "https://www.hardclubporto.com/PT/evento/espama-trincana-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "3bc90eb825094a44d6ea353e": {
+    "id": "3bc90eb825094a44d6ea353e",
+    "title": "Deep Motion X Ornella All Night Long",
+    "link": "https://www.hardclubporto.com/PT/evento/deep-motion-x-ornella-all-night-long-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -3128,34 +3128,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4b742c806f871e28bfd6dc88": {
-    "id": "4b742c806f871e28bfd6dc88",
-    "title": "PC Silva",
-    "link": "https://agendadopedro.pt/concertos/pc-silva-porto-16306/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "73273283b84e52bc0d0fece5": {
-    "id": "73273283b84e52bc0d0fece5",
-    "title": "Hate Moss",
-    "link": "https://agendadopedro.pt/concertos/hate-moss-porto-16839/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "79a611a3c9041f624fb18d9a": {
-    "id": "79a611a3c9041f624fb18d9a",
-    "title": "Morgenshtern",
-    "link": "https://agendadopedro.pt/concertos/morgenshtern-porto-15506/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "bac86d6bb942af4ab803cf2c": {
-    "id": "bac86d6bb942af4ab803cf2c",
-    "title": "Salma Jô",
-    "link": "https://agendadopedro.pt/concertos/salma-jo-porto-16601/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "d4eb0cf06e929429e6188ef9": {
     "id": "d4eb0cf06e929429e6188ef9",
     "title": "José Pinhal Post-Mortem Experience",
@@ -4724,20 +4696,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "e862c224d4ca60c2c49d472b": {
-    "id": "e862c224d4ca60c2c49d472b",
-    "title": "Mães Solteiras ᛫ Bonança",
-    "link": "https://agendadopedro.pt/concertos/maes-solteiras-lisboa-16412/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "68b3094eef37c499a50c8f8b": {
-    "id": "68b3094eef37c499a50c8f8b",
-    "title": "Mike Stern",
-    "link": "https://agendadopedro.pt/concertos/mike-stern-lisboa-12516/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "ee3de92092598711376be313": {
     "id": "ee3de92092598711376be313",
     "title": "Ryan Adams",
@@ -4835,14 +4793,6 @@
     "link": "https://agendadopedro.pt/concertos/muse-lisboa-16762/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "dd6d7d5da5f99325e0b171e5": {
-    "title": "Os dias levantados — ópera em versão de concerto",
-    "date": "7 outubro 2026, 21h00",
-    "link": "https://www.saocarlos.pt/calendar/",
-    "source": "Coliseu Porto Ageas / São Carlos",
-    "kind": "Ópera — Porto",
-    "id": "dd6d7d5da5f99325e0b171e5"
   },
   "5d06539c6d6e890cc7449956": {
     "title": "Turandot, de Giacomo Puccini",
