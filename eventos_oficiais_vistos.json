@@ -1315,13 +1315,6 @@
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
-  "905ae1f5a5c30ba713af0ea9": {
-    "id": "905ae1f5a5c30ba713af0ea9",
-    "title": "Maribor Puppet Theatre Transport: Cargo",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/maribor-puppet-theatre-transport-cargo/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
   "05cb3a1d7667ba71b858e8d3": {
     "id": "05cb3a1d7667ba71b858e8d3",
     "title": "Klaipeda Puppet Theatre Transport: Fasten Your Seat Belts!",
@@ -1333,6 +1326,13 @@
     "id": "9cfd98ffad2e84280af88157",
     "title": "Teatro de Marionetas do Porto Mulher Luz",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/teatro-de-marionetas-do-porto-mulher-luz/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "8f0edb7de5bcf9db1961c837": {
+    "id": "8f0edb7de5bcf9db1961c837",
+    "title": "Macarena Recuerda Shepherd Se fosse um filme",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/macarena-recuerda-shepherd-se-fosse-um-filme/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
@@ -2698,6 +2698,13 @@
     "id": "8801cbeb349f4213457964ad",
     "title": "13 Nov 2026 21:30 Only Duos",
     "link": "https://www.cnb.pt/program/only-duos-26-27/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "ca6335c159697d4c74ab783f": {
+    "id": "ca6335c159697d4c74ab783f",
+    "title": "A Bela Adormecida 2026",
+    "link": "https://www.cnb.pt/program/a-bela-adormecida-2026/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
