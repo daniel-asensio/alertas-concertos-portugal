@@ -1434,17 +1434,17 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
-  "5349b3528b0d7bd029e1791a": {
-    "id": "5349b3528b0d7bd029e1791a",
-    "title": "O problema da habitação na poesia de Ruy Belo Ciclo O Problema da Habitação",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-na-poesia-de-ruy-belo-ciclo-o-problema-da-habitacao/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "5d6f40dac60251fd6e28abfb": {
     "id": "5d6f40dac60251fd6e28abfb",
     "title": "A Casa da Rosa Os Filmes das Nossas Terças / Ciclo o Problema da Habitação",
     "link": "https://www.teatroaveirense.pt/index.php/evento/a-casa-da-rosa/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "5349b3528b0d7bd029e1791a": {
+    "id": "5349b3528b0d7bd029e1791a",
+    "title": "O problema da habitação na poesia de Ruy Belo Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-na-poesia-de-ruy-belo-ciclo-o-problema-da-habitacao/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -2064,6 +2064,13 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "dd5a176a8a8750cc5981f1eb": {
+    "id": "dd5a176a8a8750cc5981f1eb",
+    "title": "EU 2027",
+    "link": "https://everythingisnew.pt/royal-blood-2027/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "9b22f894184c6b0cfa44ce63": {
     "id": "9b22f894184c6b0cfa44ce63",
     "title": "Europe 2027",
@@ -2512,13 +2519,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "2f0eb48fe74db4b308c11b26": {
-    "id": "2f0eb48fe74db4b308c11b26",
-    "title": "Puto Bacoco X Beware Jack Convidados New Max X Da Chick",
-    "link": "https://coliseulisboa.com/eventos/puto-bacoco-x-beware-jack-convidados-new-max-x-da-chick/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "bc95d2d06b9aecd7996136f5": {
     "id": "bc95d2d06b9aecd7996136f5",
     "title": "Gilberto Gil Amor Azul",
@@ -2617,6 +2617,13 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
+  "2cda288ced217d43e254a8ac": {
+    "id": "2cda288ced217d43e254a8ac",
+    "title": "Alceu Valenca 80 Girassois",
+    "link": "https://coliseulisboa.com/eventos/alceu-valenca-80-girassois/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
   "76452d025e1baaa0b7df1109": {
     "id": "76452d025e1baaa0b7df1109",
     "title": "Teatro Micaelense 28 Nov 2026 21:30 Carmen",
@@ -2628,13 +2635,6 @@
     "id": "9ac4c9c90eaa7756476c2479",
     "title": "Centro Cultural Olga Cadaval 15 Nov 2026 17:00 Claude Debussy: La mer",
     "link": "https://www.saocarlos.pt/program/claude-debussy-la-mer/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
-  "b37b80935b48aae7e7f28d74": {
-    "id": "b37b80935b48aae7e7f28d74",
-    "title": "Coliseu Porto Ageas 07 Out 2026 21:00 Os dias levantados",
-    "link": "https://www.saocarlos.pt/program/os-dias-levantados-1776856196441/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -2661,7 +2661,7 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 22 Dez 2026 20:00 A bela adormecida",
+    "title": "Teatro Camões 23 Dez 2026 20:00 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -3870,6 +3870,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "2a7331f15b87a93ec05d3723": {
+    "id": "2a7331f15b87a93ec05d3723",
+    "title": "Bruno Pernadas \"Steamboat Bill, Jr.\"",
+    "link": "https://agendadopedro.pt/concertos/bruno-pernadas-porto-16865/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "5cc3fff85b1d7ae54b66f2d2": {
     "id": "5cc3fff85b1d7ae54b66f2d2",
     "title": "Imarhan",
@@ -4045,6 +4052,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "d9e2a65711632a84794339cd": {
+    "id": "d9e2a65711632a84794339cd",
+    "title": "Onceim",
+    "link": "https://agendadopedro.pt/concertos/onceim-porto-16869/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "3d3fbce3e3a9ee692bcbda9e": {
     "id": "3d3fbce3e3a9ee692bcbda9e",
     "title": "Eliana Glass ᛫ Mammal Hands ᛫ Anne Paceo",
@@ -4168,6 +4182,13 @@
     "id": "15a7dd032d56f43fac5941c8",
     "title": "Black Heritage Choir",
     "link": "https://agendadopedro.pt/concertos/black-heritage-choir-porto-12980/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "c39651691caccf3f2640fc0c": {
+    "id": "c39651691caccf3f2640fc0c",
+    "title": "José El Marqués",
+    "link": "https://agendadopedro.pt/concertos/jose-el-marques-porto-16864/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4759,13 +4780,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "870eb303994715cfc7550eac": {
-    "id": "870eb303994715cfc7550eac",
-    "title": "Aurea",
-    "link": "https://agendadopedro.pt/concertos/aurea-lisboa-16744/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "f36849f4ee1b9388c3d2d78c": {
     "id": "f36849f4ee1b9388c3d2d78c",
     "title": "Calema",
@@ -4791,6 +4805,13 @@
     "id": "0a5da9ab4bd2236b13b5b7f8",
     "title": "Muse",
     "link": "https://agendadopedro.pt/concertos/muse-lisboa-16762/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "f97d6254c06831a40fd9a768": {
+    "id": "f97d6254c06831a40fd9a768",
+    "title": "The Ocean ᛫ A.A. Williams",
+    "link": "https://agendadopedro.pt/concertos/the-ocean-lisboa-16862/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
