@@ -1,18 +1,4 @@
 {
-  "b0d8c3617199ff7ed2afea16": {
-    "id": "b0d8c3617199ff7ed2afea16",
-    "title": "Quarteto De Cordas De Matosinhos 20261008",
-    "link": "https://casadamusica.com/event/quarteto-de-cordas-de-matosinhos-20261008/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "bc5b83c2ac1c4dfad97a8dbf": {
-    "id": "bc5b83c2ac1c4dfad97a8dbf",
-    "title": "Pc Silva",
-    "link": "https://casadamusica.com/event/pc-silva/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "0d77ebb4b556170dd79ec668": {
     "id": "0d77ebb4b556170dd79ec668",
     "title": "Ensaio Aberto Serenata De Mozart Ospcdm",
@@ -892,6 +878,20 @@
     "id": "8c9723d4ec47c6d1c6910ef3",
     "title": "Disomnario 5",
     "link": "https://casadamusica.com/event/disomnario-5/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "b9e96937c92ce0a7afe08834": {
+    "id": "b9e96937c92ce0a7afe08834",
+    "title": "Carlao 2027 04 29",
+    "link": "https://casadamusica.com/event/carlao-2027-04-29/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "dcf3de7e02a6bc374523825f": {
+    "id": "dcf3de7e02a6bc374523825f",
+    "title": "Elba Ramalho",
+    "link": "https://casadamusica.com/event/elba-ramalho/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2876,38 +2876,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "39a88a32f0ee979d4b8d47f8": {
-    "id": "39a88a32f0ee979d4b8d47f8",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-08/",
+  "8b0d41d8a2ec4863fe0d90b2": {
+    "id": "8b0d41d8a2ec4863fe0d90b2",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-09/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2c2a22138a131ce23b02e6a0": {
-    "id": "2c2a22138a131ce23b02e6a0",
-    "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-08/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "abb0d63525ec04ea073bc730": {
-    "id": "abb0d63525ec04ea073bc730",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-08/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "a4094608c48cab9b8fbf26ee": {
-    "id": "a4094608c48cab9b8fbf26ee",
-    "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-08/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "409b61ffe872cf371f641530": {
-    "id": "409b61ffe872cf371f641530",
-    "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-08/",
+  "9e4978d429dfb17edb038ecd": {
+    "id": "9e4978d429dfb17edb038ecd",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-09/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2918,24 +2897,38 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "514615078b3fca09f54a5cb6": {
-    "id": "514615078b3fca09f54a5cb6",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-09/",
+  "2d2669553296222642e99a37": {
+    "id": "2d2669553296222642e99a37",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-09/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2722354c2e42c3eb33336ace": {
-    "id": "2722354c2e42c3eb33336ace",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-10/",
+  "0b1ecde9f83f6430cbfcead1": {
+    "id": "0b1ecde9f83f6430cbfcead1",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-09/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "017108437c70fb6ffa690bfd": {
-    "id": "017108437c70fb6ffa690bfd",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-10/",
+  "91a5f83e3d0ce282398e2cad": {
+    "id": "91a5f83e3d0ce282398e2cad",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-09/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "7e143751d5918f61e9c20e1c": {
+    "id": "7e143751d5918f61e9c20e1c",
+    "title": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-09/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9d6128287dbf4b1c48d8a2d7": {
+    "id": "9d6128287dbf4b1c48d8a2d7",
+    "title": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-09/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2943,6 +2936,13 @@
     "id": "93796a7c8dbe8d93b6a047a6",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-10/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "7919b6acd26df528c627950c": {
+    "id": "7919b6acd26df528c627950c",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
