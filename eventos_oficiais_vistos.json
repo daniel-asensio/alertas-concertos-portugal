@@ -2652,17 +2652,10 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "555879e8be46907ef0d362ef": {
-    "id": "555879e8be46907ef0d362ef",
-    "title": "Atelier 11 Out 2026 15:00 Desassossegar, pôr as ideias a dançar!",
-    "link": "https://www.cnb.pt/program/atelier-desassossego/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "8801cbeb349f4213457964ad": {
-    "id": "8801cbeb349f4213457964ad",
-    "title": "13 Nov 2026 21:30 Only Duos",
-    "link": "https://www.cnb.pt/program/only-duos-26-27/",
+  "4637cac639c7c56db0f342cf": {
+    "id": "4637cac639c7c56db0f342cf",
+    "title": "Gratuito Conversa pré-espetáculo 24 Out 2026 17:00 Vamos Falar de Dança",
+    "link": "https://www.cnb.pt/program/vamos-falar-de-danca-2627/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -2680,6 +2673,20 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
+  "8801cbeb349f4213457964ad": {
+    "id": "8801cbeb349f4213457964ad",
+    "title": "13 Nov 2026 21:30 Only Duos",
+    "link": "https://www.cnb.pt/program/only-duos-26-27/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "555879e8be46907ef0d362ef": {
+    "id": "555879e8be46907ef0d362ef",
+    "title": "Atelier 11 Out 2026 15:00 Desassossegar, pôr as ideias a dançar!",
+    "link": "https://www.cnb.pt/program/atelier-desassossego/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
   "06afb6bd3e735ce8ffb8404f": {
     "id": "06afb6bd3e735ce8ffb8404f",
     "title": "Ensaio Geral Solidário 21 Out 2026 20:00 Desassossego",
@@ -2687,17 +2694,17 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "4637cac639c7c56db0f342cf": {
-    "id": "4637cac639c7c56db0f342cf",
-    "title": "Gratuito Conversa pré-espetáculo 24 Out 2026 17:00 Vamos Falar de Dança",
-    "link": "https://www.cnb.pt/program/vamos-falar-de-danca-2627/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
   "ab049ce8f14998d8f1218ddf": {
     "id": "ab049ce8f14998d8f1218ddf",
     "title": "Gratuito Conversa pós-espetáculo 25 Out 2026 18:00 No Final, Falamos",
     "link": "https://www.cnb.pt/program/no-final-falamos-2627/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "0f1cec674e3a94aaffd9db8c": {
+    "id": "0f1cec674e3a94aaffd9db8c",
+    "title": "Atelier 28 Nov 2026 15:00 Quem me acordar, cem anos irá dançar!",
+    "link": "https://www.cnb.pt/program/atelier-a-bela-adormecida/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
