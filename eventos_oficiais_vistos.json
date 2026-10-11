@@ -2484,13 +2484,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "bc95d2d06b9aecd7996136f5": {
-    "id": "bc95d2d06b9aecd7996136f5",
-    "title": "Gilberto Gil Amor Azul",
-    "link": "https://coliseulisboa.com/eventos/gilberto-gil-amor-azul/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "44c979ca9d448bb3dbaad8f1": {
     "id": "44c979ca9d448bb3dbaad8f1",
     "title": "Alma De Coimbra Lusofonias 20 Anos De Musica",
@@ -2586,6 +2579,13 @@
     "id": "2cda288ced217d43e254a8ac",
     "title": "Alceu Valenca 80 Girassois",
     "link": "https://coliseulisboa.com/eventos/alceu-valenca-80-girassois/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "ee86bbd31d81a045b1ba9ceb": {
+    "id": "ee86bbd31d81a045b1ba9ceb",
+    "title": "Meo Commedia A La Carte Fest26 Imagina",
+    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-imagina/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
