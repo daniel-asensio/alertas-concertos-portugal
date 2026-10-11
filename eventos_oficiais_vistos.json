@@ -1,11 +1,4 @@
 {
-  "2ba7d3ca988a86bf16bd22bc": {
-    "id": "2ba7d3ca988a86bf16bd22bc",
-    "title": "10 Anos Coro Crescendi Coro Da Pausa",
-    "link": "https://casadamusica.com/event/10-anos-coro-crescendi-coro-da-pausa/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "5864e1b05099c4d0907eca3e": {
     "id": "5864e1b05099c4d0907eca3e",
     "title": "Viva Vivaldi 3",
@@ -878,6 +871,13 @@
     "id": "dcf3de7e02a6bc374523825f",
     "title": "Elba Ramalho",
     "link": "https://casadamusica.com/event/elba-ramalho/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "0452d71ac0ce42fcc1b0573d": {
+    "id": "0452d71ac0ce42fcc1b0573d",
+    "title": "Ha Fisica No Som 5",
+    "link": "https://casadamusica.com/event/ha-fisica-no-som-5/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
