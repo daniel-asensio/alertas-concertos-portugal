@@ -1,11 +1,4 @@
 {
-  "5864e1b05099c4d0907eca3e": {
-    "id": "5864e1b05099c4d0907eca3e",
-    "title": "Viva Vivaldi 3",
-    "link": "https://casadamusica.com/event/viva-vivaldi-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "111e4b7844a0d701a79f40da": {
     "id": "111e4b7844a0d701a79f40da",
     "title": "Pensar A Arte E A Cultura De T S Eliot As Industrias Criativas",
@@ -2477,13 +2470,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "44c979ca9d448bb3dbaad8f1": {
-    "id": "44c979ca9d448bb3dbaad8f1",
-    "title": "Alma De Coimbra Lusofonias 20 Anos De Musica",
-    "link": "https://coliseulisboa.com/eventos/alma-de-coimbra-lusofonias-20-anos-de-musica/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "4328907c432ebaa59b1aee1b": {
     "id": "4328907c432ebaa59b1aee1b",
     "title": "Judit Nedderman Apresenta Brota Em Duo Com Dario Barroso",
@@ -2579,6 +2565,13 @@
     "id": "ee86bbd31d81a045b1ba9ceb",
     "title": "Meo Commedia A La Carte Fest26 Imagina",
     "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-imagina/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "b8fca410c55a528e596d5618": {
+    "id": "b8fca410c55a528e596d5618",
+    "title": "Bashment Halloween Special Edition",
+    "link": "https://coliseulisboa.com/eventos/bashment-halloween-special-edition/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -2848,41 +2841,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4dcdfc424bf80c7839348c40": {
-    "id": "4dcdfc424bf80c7839348c40",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-11/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "2b9bc7eba8f2af0eaf090843": {
-    "id": "2b9bc7eba8f2af0eaf090843",
-    "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-11/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "817ee952b1763128fbded868": {
-    "id": "817ee952b1763128fbded868",
-    "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-11/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "6db7c6d51e66f7bb5d827529": {
-    "id": "6db7c6d51e66f7bb5d827529",
-    "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-11/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "cbb5e77cc95d6ce4c4039b8d": {
-    "id": "cbb5e77cc95d6ce4c4039b8d",
-    "title": "Programa Público das exposições",
-    "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/2026-10-11/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "4aa709be96a8aba54c60d862": {
     "id": "4aa709be96a8aba54c60d862",
     "title": "Primeira Infância - Centro Cultural de Belém",
@@ -2897,6 +2855,20 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "d136bef2f6b8b59fe985de4a": {
+    "id": "d136bef2f6b8b59fe985de4a",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b15dd932e00887af9b97befd": {
+    "id": "b15dd932e00887af9b97befd",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "bbb0d7b6354588224e3375dc": {
     "id": "bbb0d7b6354588224e3375dc",
     "title": "Primeiro Ciclo",
@@ -2904,10 +2876,24 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d136bef2f6b8b59fe985de4a": {
-    "id": "d136bef2f6b8b59fe985de4a",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-13/",
+  "b889e8bd963b2b6c23bd338f": {
+    "id": "b889e8bd963b2b6c23bd338f",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9206b26ae69d7c91cdf53f64": {
+    "id": "9206b26ae69d7c91cdf53f64",
+    "title": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "6faee114b1489d6d24f81574": {
+    "id": "6faee114b1489d6d24f81574",
+    "title": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-13/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2999,6 +2985,13 @@
     "id": "6ab88c92cd49a324de27355c",
     "title": "Programa Vincular - Serviço de Educação e Mediação",
     "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-11-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "3fc6464370354a7a4a87531e": {
+    "id": "3fc6464370354a7a4a87531e",
+    "title": "Programa Público das exposições",
+    "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/2026-11-04/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
