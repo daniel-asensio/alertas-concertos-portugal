@@ -1091,6 +1091,13 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "a0d45f44e62e8a322ded8ce3": {
+    "id": "a0d45f44e62e8a322ded8ce3",
+    "title": "Optimista Céptico",
+    "link": "https://www.superbockarena.pt/evento/optimista-ceptico-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
   "3e868855b1427ab918706440": {
     "id": "3e868855b1427ab918706440",
     "title": "Optimista Céptico",
@@ -1275,15 +1282,8 @@
   },
   "8c29b9a8fb941bc39a9536c2": {
     "id": "8c29b9a8fb941bc39a9536c2",
-    "title": "Norberto Lobo Atlas, mapeamento poético",
+    "title": "Joana Providência / Teatro do Bolhão Atlas, mapeamento poético",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/joana-provid-ncia-teatro-do-bolh-o-atlas-mapeamento-po-tico/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
-  "05cb3a1d7667ba71b858e8d3": {
-    "id": "05cb3a1d7667ba71b858e8d3",
-    "title": "Klaipeda Puppet Theatre Transport: Fasten Your Seat Belts!",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/klaipeda-puppet-theatre-transport-fasten-your-seat-belts-556/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
@@ -1291,13 +1291,6 @@
     "id": "9cfd98ffad2e84280af88157",
     "title": "Teatro de Marionetas do Porto Mulher Luz",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/teatro-de-marionetas-do-porto-mulher-luz/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
-  "8f0edb7de5bcf9db1961c837": {
-    "id": "8f0edb7de5bcf9db1961c837",
-    "title": "Macarena Recuerda Shepherd Se fosse um filme",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/macarena-recuerda-shepherd-se-fosse-um-filme/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
@@ -2001,6 +1994,13 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "5c01c6323a309638611327f2": {
+    "id": "5c01c6323a309638611327f2",
+    "title": "NATAL AO VIVO",
+    "link": "https://everythingisnew.pt/natal-ao-vivo-2026-lisboa/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "ec4036a16e71fc6777273c17": {
     "id": "ec4036a16e71fc6777273c17",
     "title": "IOLANDA",
@@ -2012,6 +2012,13 @@
     "id": "c14be605a359e2ce04bbfc5b",
     "title": "Elephant In The Room",
     "link": "https://everythingisnew.pt/richie-campbell-2/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "73159e680dd3cadff0468a62": {
+    "id": "73159e680dd3cadff0468a62",
+    "title": "NATAL AO VIVO",
+    "link": "https://everythingisnew.pt/natal-ao-vivo-2026-porto/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2386,6 +2393,13 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "dc31d7f5c0e5d89cf65af5a3": {
+    "id": "dc31d7f5c0e5d89cf65af5a3",
+    "title": "Muse The Wow Signal Europa Tour",
+    "link": "https://arena.meo.pt/agenda/muse-the-wow-signal-europa-tour_pt/16648/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "14718db8d32ebb4ef37ed46c": {
     "id": "14718db8d32ebb4ef37ed46c",
     "title": "Amanha Nao Esta Certo Pedro Teixeira Da Mota",
@@ -2619,7 +2633,7 @@
   },
   "c0e9092100283a3d0a41a903": {
     "id": "c0e9092100283a3d0a41a903",
-    "title": "Teatro Tivoli BBVA 12 Dez 2026 20:00 Natal com Mozart",
+    "title": "Teatro Tivoli BBVA 12 Dez 2026 20:30 Natal com Mozart",
     "link": "https://www.saocarlos.pt/program/natal-com-mozart/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2971,13 +2985,6 @@
     "id": "a00d1bd5dbcf0a19fa394bff",
     "title": "Mostra Espanha 2026 Obras Convidadas",
     "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "ea91c6621b0a5231499c2070": {
-    "id": "ea91c6621b0a5231499c2070",
-    "title": "Exposicao Terra Crua",
-    "link": "https://www.ccb.pt/evento/exposicao-terra-crua/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3564,7 +3571,7 @@
   },
   "d178d9e001099bd051c11ccc": {
     "id": "d178d9e001099bd051c11ccc",
-    "title": "Pedro Abrunhosa ᛫ GNR ᛫ Três Tristes Tigres ᛫ ...",
+    "title": "Pedro Abrunhosa ᛫ GNR ᛫ Três Tristes Tigres ᛫ Pedro Burmester",
     "link": "https://agendadopedro.pt/concertos/pedro-abrunhosa-porto-16761/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3685,6 +3692,13 @@
     "id": "78e149498aac1c05aeb8940d",
     "title": "Interceptor",
     "link": "https://agendadopedro.pt/concertos/interceptor-porto-16841/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "35062dcf46dbef2b22b2defd": {
+    "id": "35062dcf46dbef2b22b2defd",
+    "title": "José Cid",
+    "link": "https://agendadopedro.pt/concertos/jose-cid-porto-16878/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4325,6 +4339,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "f79344f1377f4de256300391": {
+    "id": "f79344f1377f4de256300391",
+    "title": "Mariza",
+    "link": "https://agendadopedro.pt/concertos/mariza-porto-16881/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "d601be378b9840240832617f": {
     "id": "d601be378b9840240832617f",
     "title": "Elvira",
@@ -4696,31 +4717,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "f36849f4ee1b9388c3d2d78c": {
-    "id": "f36849f4ee1b9388c3d2d78c",
-    "title": "Calema",
-    "link": "https://agendadopedro.pt/concertos/calema-lisboa-16823/",
+  "c8d5d454435597581794a8c6": {
+    "id": "c8d5d454435597581794a8c6",
+    "title": "Mariza",
+    "link": "https://agendadopedro.pt/concertos/mariza-lisboa-16896/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "519cf0c314fce291b021f89e": {
-    "id": "519cf0c314fce291b021f89e",
-    "title": "Diego El Cigala",
-    "link": "https://agendadopedro.pt/concertos/diego-el-cigala-lisboa-16826/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "4006aff407ba50a5bb6b8d99": {
-    "id": "4006aff407ba50a5bb6b8d99",
-    "title": "Jão",
-    "link": "https://agendadopedro.pt/concertos/jao-lisboa-16765/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "0a5da9ab4bd2236b13b5b7f8": {
-    "id": "0a5da9ab4bd2236b13b5b7f8",
-    "title": "Muse",
-    "link": "https://agendadopedro.pt/concertos/muse-lisboa-16762/",
+  "265b9eda90ec9cecd742ac49": {
+    "id": "265b9eda90ec9cecd742ac49",
+    "title": "Royal Blood",
+    "link": "https://agendadopedro.pt/concertos/royal-blood-lisboa-16875/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
