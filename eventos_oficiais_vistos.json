@@ -2274,13 +2274,6 @@
     "source": "Música no Coração",
     "kind": "Promotora"
   },
-  "35998c81e00cae215d96d8e4": {
-    "id": "35998c81e00cae215d96d8e4",
-    "title": "Djavanear 50 Anos So Sucessos",
-    "link": "https://arena.meo.pt/agenda/djavanear-50-anos-so-sucessos_pt/15740/",
-    "source": "MEO Arena",
-    "kind": "Grande sala"
-  },
   "288034e46841ffb7b27eb41d": {
     "id": "288034e46841ffb7b27eb41d",
     "title": "Startalk Live",
@@ -4612,13 +4605,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "12370330539623c5189d9350": {
-    "id": "12370330539623c5189d9350",
-    "title": "Djavan",
-    "link": "https://agendadopedro.pt/concertos/djavan-lisboa-10867/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "26fec917277d443a7bcc9a42": {
     "id": "26fec917277d443a7bcc9a42",
     "title": "Alphaville",
@@ -4672,6 +4658,48 @@
     "id": "506b3b14feaab21cd2d41fc3",
     "title": "Rui Veloso",
     "link": "https://agendadopedro.pt/concertos/rui-veloso-lisboa-11781/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "9216de8dd3a751cc82522bf7": {
+    "id": "9216de8dd3a751cc82522bf7",
+    "title": "Adriana Calcanhotto",
+    "link": "https://agendadopedro.pt/concertos/adriana-calcanhotto-coimbra-13417/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6110d3872505adfd84740d3a": {
+    "id": "6110d3872505adfd84740d3a",
+    "title": "Fontaines D.C. ᛫ Chalk",
+    "link": "https://agendadopedro.pt/concertos/fontaines-d-c-lisboa-16026/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "ff393e931ed8fa76e0ffa2cd": {
+    "id": "ff393e931ed8fa76e0ffa2cd",
+    "title": "Jungle ᛫ Rio Kosta",
+    "link": "https://agendadopedro.pt/concertos/jungle-lisboa-12512/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "fa4dd16f18c802473c66cfb4": {
+    "id": "fa4dd16f18c802473c66cfb4",
+    "title": "Laura Pausini",
+    "link": "https://agendadopedro.pt/concertos/laura-pausini-lisboa-10011/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "cc4c17c2c1b75c62f78d4152": {
+    "id": "cc4c17c2c1b75c62f78d4152",
+    "title": "Marina Sena",
+    "link": "https://agendadopedro.pt/concertos/marina-sena-lisboa-14132/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "20d2f0bc3c36345e1f80b891": {
+    "id": "20d2f0bc3c36345e1f80b891",
+    "title": "Yard Act",
+    "link": "https://agendadopedro.pt/concertos/yard-act-lisboa-13213/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
