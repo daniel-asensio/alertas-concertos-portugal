@@ -1217,13 +1217,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "e5121c2653eb197ef5460549": {
-    "id": "e5121c2653eb197ef5460549",
-    "title": "Os Miseráveis",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7257/os-miseraveis/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "d68a416d72a5bec90c4e5d5b": {
     "id": "d68a416d72a5bec90c4e5d5b",
     "title": "O Estado do Mundo (Quando Acordas)",
@@ -1245,17 +1238,17 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "950a669a52f5018cb049439b": {
-    "id": "950a669a52f5018cb049439b",
-    "title": "Clubes de Teatro",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7278/clubes-de-teatro/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "71c768d50c45f9cb07144471": {
     "id": "71c768d50c45f9cb07144471",
     "title": "TPC: Frei Luís de Sousaaa",
     "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "950a669a52f5018cb049439b": {
+    "id": "950a669a52f5018cb049439b",
+    "title": "Clubes de Teatro",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7278/clubes-de-teatro/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1376,13 +1369,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "39d2f3223de4ad1b123b52b9": {
-    "id": "39d2f3223de4ad1b123b52b9",
-    "title": "Arquitetas da Liberdade Ciclo O Problema da Habitação",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/arquitetas-da-liberdade/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "5d6f40dac60251fd6e28abfb": {
@@ -1634,6 +1620,13 @@
     "id": "1e1e07527150bfb6c6ba9d0b",
     "title": "Concerto Coral - Cantar o Natal Conservatório de Música de Aveiro Calouste Gulbenkian",
     "link": "https://www.teatroaveirense.pt/index.php/evento/concerto-coral-cantar-o-natal/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "39d2f3223de4ad1b123b52b9": {
+    "id": "39d2f3223de4ad1b123b52b9",
+    "title": "Arquitetas da Liberdade Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/arquitetas-da-liberdade/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -2876,27 +2869,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4aa709be96a8aba54c60d862": {
-    "id": "4aa709be96a8aba54c60d862",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-13/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "01102df582d3a5b71b9abc44": {
-    "id": "01102df582d3a5b71b9abc44",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-13/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "d136bef2f6b8b59fe985de4a": {
-    "id": "d136bef2f6b8b59fe985de4a",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-13/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "b15dd932e00887af9b97befd": {
     "id": "b15dd932e00887af9b97befd",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
@@ -2904,17 +2876,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "bbb0d7b6354588224e3375dc": {
-    "id": "bbb0d7b6354588224e3375dc",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-13/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "b889e8bd963b2b6c23bd338f": {
     "id": "b889e8bd963b2b6c23bd338f",
     "title": "Frida Orupabo - Cloud of Confusion",
     "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "bbb0d7b6354588224e3375dc": {
+    "id": "bbb0d7b6354588224e3375dc",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-13/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2939,10 +2911,31 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d59a82e5e222f112ff99d901": {
-    "id": "d59a82e5e222f112ff99d901",
+  "a5c2f76fde1f68a52c32b6c5": {
+    "id": "a5c2f76fde1f68a52c32b6c5",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "fec7c77808771f4b49ef6e05": {
+    "id": "fec7c77808771f4b49ef6e05",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "77229008a1a91af26ce4d3e2": {
+    "id": "77229008a1a91af26ce4d3e2",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "53a1685dd01481ff9a6d7e39": {
+    "id": "53a1685dd01481ff9a6d7e39",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-13/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-14/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
