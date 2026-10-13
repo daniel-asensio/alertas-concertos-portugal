@@ -2029,6 +2029,13 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "c79fce4275cbd91ab596578a": {
+    "id": "c79fce4275cbd91ab596578a",
+    "title": "If I Don't Love You, Who Will? Tour",
+    "link": "https://everythingisnew.pt/master-peace-2027/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "dd5a176a8a8750cc5981f1eb": {
     "id": "dd5a176a8a8750cc5981f1eb",
     "title": "EU 2027",
@@ -2470,6 +2477,20 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "512a078b488618ca2727d56f": {
+    "id": "512a078b488618ca2727d56f",
+    "title": "Calema Raizes 360 Tour",
+    "link": "https://arena.meo.pt/agenda/calema-raizes-360-tour_pt/16703/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "5574ee25109955516764006e": {
+    "id": "5574ee25109955516764006e",
+    "title": "Simply Red Summer Funk27",
+    "link": "https://arena.meo.pt/agenda/simply-red-summer-funk27_pt/16596/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "6e4a177ff27ff5cbcd4b33bd": {
     "id": "6e4a177ff27ff5cbcd4b33bd",
     "title": "Motionless In White Plus Guests",
@@ -2482,13 +2503,6 @@
     "title": "Don Omar",
     "link": "https://arena.meo.pt/agenda/don-omar_pt/16497/",
     "source": "MEO Arena",
-    "kind": "Grande sala"
-  },
-  "4328907c432ebaa59b1aee1b": {
-    "id": "4328907c432ebaa59b1aee1b",
-    "title": "Judit Nedderman Apresenta Brota Em Duo Com Dario Barroso",
-    "link": "https://coliseulisboa.com/eventos/judit-nedderman-apresenta-brota-em-duo-com-dario-barroso/",
-    "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
   "4ee855a6516df7cc9e4d0a5d": {
@@ -2586,6 +2600,13 @@
     "id": "b8fca410c55a528e596d5618",
     "title": "Bashment Halloween Special Edition",
     "link": "https://coliseulisboa.com/eventos/bashment-halloween-special-edition/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "0fd1410b750284ed832d51e3": {
+    "id": "0fd1410b750284ed832d51e3",
+    "title": "Special Comedy Show Jerry Sienfeld His Best Friends",
+    "link": "https://coliseulisboa.com/eventos/special-comedy-show-jerry-sienfeld-his-best-friends/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -3298,7 +3319,7 @@
   },
   "c11978e699769c73a0142d3e": {
     "id": "c11978e699769c73a0142d3e",
-    "title": "Curbside Lambsear",
+    "title": "Curbside Lambsear ᛫ Sús",
     "link": "https://agendadopedro.pt/concertos/curbside-lambsear-porto-15379/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3543,7 +3564,7 @@
   },
   "29048b1032f21c3c04a7ff9e": {
     "id": "29048b1032f21c3c04a7ff9e",
-    "title": "Penelope Isles",
+    "title": "Penelope Isles ᛫ Silentide",
     "link": "https://agendadopedro.pt/concertos/penelope-isles-porto-14774/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3578,7 +3599,7 @@
   },
   "79d1345b70e54788cd2cac60": {
     "id": "79d1345b70e54788cd2cac60",
-    "title": "Fears",
+    "title": "Fears ᛫ Laura Olim",
     "link": "https://agendadopedro.pt/concertos/fears-porto-14348/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -4182,6 +4203,13 @@
     "id": "d8552d4336e873fd31e95c16",
     "title": "António Zambujo & Miguel Araújo",
     "link": "https://agendadopedro.pt/concertos/antonio-zambujo-miguel-araujo-porto-14240/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "0365324d116e96efd1ad6daf": {
+    "id": "0365324d116e96efd1ad6daf",
+    "title": "Ignite",
+    "link": "https://agendadopedro.pt/concertos/ignite-porto-16919/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
