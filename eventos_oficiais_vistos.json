@@ -1231,6 +1231,20 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
+  "b3062e94a434a26224bf0cd6": {
+    "id": "b3062e94a434a26224bf0cd6",
+    "title": "O Conceito Inútil",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "bfd294a9db80ce6148e37140": {
+    "id": "bfd294a9db80ce6148e37140",
+    "title": "Residência",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7269/residencia/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
   "71c768d50c45f9cb07144471": {
     "id": "71c768d50c45f9cb07144471",
     "title": "TPC: Frei Luís de Sousaaa",
@@ -1749,8 +1763,8 @@
     "source": "Casa da Criatividade",
     "kind": "São João da Madeira"
   },
-  "e3b0c44298fc1c149afbf4c8": {
-    "id": "e3b0c44298fc1c149afbf4c8",
+  "33518ad17d23d7b59b0b6b60": {
+    "id": "33518ad17d23d7b59b0b6b60",
     "title": "Programação atualizada — Casa da Criatividade (Somos Nos)",
     "link": "https://www.casadacriatividade.com/somos-nos/",
     "source": "Casa da Criatividade",
@@ -2225,13 +2239,6 @@
     "source": "Música no Coração",
     "kind": "Promotora"
   },
-  "9de2c7462a965fe1041f240a": {
-    "id": "9de2c7462a965fe1041f240a",
-    "title": "VER DETALHES",
-    "link": "https://musicanocoracao.com/events/djavan-2026/",
-    "source": "Música no Coração",
-    "kind": "Promotora"
-  },
   "15d0823167cd095f692637cd": {
     "id": "15d0823167cd095f692637cd",
     "title": "VER DETALHES",
@@ -2680,13 +2687,6 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "555879e8be46907ef0d362ef": {
-    "id": "555879e8be46907ef0d362ef",
-    "title": "Atelier 11 Out 2026 15:00 Desassossegar, pôr as ideias a dançar!",
-    "link": "https://www.cnb.pt/program/atelier-desassossego/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
   "06afb6bd3e735ce8ffb8404f": {
     "id": "06afb6bd3e735ce8ffb8404f",
     "title": "Ensaio Geral Solidário 21 Out 2026 20:00 Desassossego",
@@ -2703,7 +2703,7 @@
   },
   "0f1cec674e3a94aaffd9db8c": {
     "id": "0f1cec674e3a94aaffd9db8c",
-    "title": "Atelier 28 Nov 2026 15:00 Quem me acordar, cem anos irá dançar!",
+    "title": "Atelier 29 Nov 2026 15:00 Quem me acordar, cem anos irá dançar!",
     "link": "https://www.cnb.pt/program/atelier-a-bela-adormecida/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
@@ -4035,6 +4035,13 @@
     "id": "f3886b0196855b8a180b3393",
     "title": "Sara Correia",
     "link": "https://agendadopedro.pt/concertos/sara-correia-porto-10930/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "44101b03f7358f96b950d30a": {
+    "id": "44101b03f7358f96b950d30a",
+    "title": "Apollo Brown & Skyzoo",
+    "link": "https://agendadopedro.pt/concertos/apollo-brown-skyzoo-porto-16933/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
