@@ -181,6 +181,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "73a4ab61c2622864697cf042": {
+    "id": "73a4ab61c2622864697cf042",
+    "title": "Orquestra Sinfonica Esmae",
+    "link": "https://casadamusica.com/event/orquestra-sinfonica-esmae/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "9a89eab2cea8bca0ac53791c": {
     "id": "9a89eab2cea8bca0ac53791c",
     "title": "Kialtera 2",
@@ -276,6 +283,13 @@
     "id": "230ca697530ba52ad35af371",
     "title": "Rodrigo Cuevas",
     "link": "https://casadamusica.com/event/rodrigo-cuevas/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "9b73a5021bce14737e2e28b9": {
+    "id": "9b73a5021bce14737e2e28b9",
+    "title": "Cordeiro Convida Euterpe Curcumbia",
+    "link": "https://casadamusica.com/event/cordeiro-convida-euterpe-curcumbia/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -860,13 +874,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "0f94a05a21e35499b54d3176": {
-    "id": "0f94a05a21e35499b54d3176",
-    "title": "Babar E Outras Historias 2",
-    "link": "https://casadamusica.com/event/babar-e-outras-historias-2/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "cc06c89f2f5ccb7ecee73fd7": {
     "id": "cc06c89f2f5ccb7ecee73fd7",
     "title": "Roupa Nova Tour 2026",
@@ -1210,6 +1217,13 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
+  "71c768d50c45f9cb07144471": {
+    "id": "71c768d50c45f9cb07144471",
+    "title": "TPC: Frei Luís de Sousaaa",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
   "d68a416d72a5bec90c4e5d5b": {
     "id": "d68a416d72a5bec90c4e5d5b",
     "title": "O Estado do Mundo (Quando Acordas)",
@@ -1242,13 +1256,6 @@
     "id": "bfd294a9db80ce6148e37140",
     "title": "Residência",
     "link": "https://www.tnsj.pt/pt/espetaculos/7269/residencia/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "71c768d50c45f9cb07144471": {
-    "id": "71c768d50c45f9cb07144471",
-    "title": "TPC: Frei Luís de Sousaaa",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -2855,66 +2862,66 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "a5c2f76fde1f68a52c32b6c5": {
-    "id": "a5c2f76fde1f68a52c32b6c5",
+  "05cfd547755ca83d0a15d40b": {
+    "id": "05cfd547755ca83d0a15d40b",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "fec7c77808771f4b49ef6e05": {
-    "id": "fec7c77808771f4b49ef6e05",
+  "c971e8465871923f1904d23a": {
+    "id": "c971e8465871923f1904d23a",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "77229008a1a91af26ce4d3e2": {
-    "id": "77229008a1a91af26ce4d3e2",
+  "f4477afc8b6276fac812be40": {
+    "id": "f4477afc8b6276fac812be40",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "65a5835fbc65eb28df51a985": {
-    "id": "65a5835fbc65eb28df51a985",
+  "25face1f6c595a83bb74430e": {
+    "id": "25face1f6c595a83bb74430e",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d14d20e9825b19c95d510a3c": {
-    "id": "d14d20e9825b19c95d510a3c",
+  "7245cb06b8ab4123a0a7b081": {
+    "id": "7245cb06b8ab4123a0a7b081",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "884963f85047e7cf6421b12f": {
-    "id": "884963f85047e7cf6421b12f",
+  "71dba05d3a44d28a8702f21f": {
+    "id": "71dba05d3a44d28a8702f21f",
     "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "652c638d17c8fb1b2c76bb50": {
-    "id": "652c638d17c8fb1b2c76bb50",
+  "5662878f99fca745c1dc1c15": {
+    "id": "5662878f99fca745c1dc1c15",
     "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "a43ff3c2c9c7b52d4ad3846f": {
-    "id": "a43ff3c2c9c7b52d4ad3846f",
+  "689c754b71f4ca400d5972d4": {
+    "id": "689c754b71f4ca400d5972d4",
     "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "53a1685dd01481ff9a6d7e39": {
-    "id": "53a1685dd01481ff9a6d7e39",
+  "4a0097decdcc08561c82107f": {
+    "id": "4a0097decdcc08561c82107f",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-14/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-15/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
