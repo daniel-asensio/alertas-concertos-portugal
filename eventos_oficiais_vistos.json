@@ -867,6 +867,314 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "cc06c89f2f5ccb7ecee73fd7": {
+    "id": "cc06c89f2f5ccb7ecee73fd7",
+    "title": "Roupa Nova Tour 2026",
+    "link": "https://www.superbockarena.pt/evento/roupa-nova-tour-2026/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "ab80c081f489b7e15d50306e": {
+    "id": "ab80c081f489b7e15d50306e",
+    "title": "RFM – Que Grandioso Espetáculo é Este?",
+    "link": "https://www.superbockarena.pt/evento/rfm-que-grandioso-espetaculo-e-este-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "56fb943d448defe9fcb74977": {
+    "id": "56fb943d448defe9fcb74977",
+    "title": "Titãs",
+    "link": "https://www.superbockarena.pt/evento/titas/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d855dd4b533a669c99032fec": {
+    "id": "d855dd4b533a669c99032fec",
+    "title": "Némanus",
+    "link": "https://www.superbockarena.pt/evento/nemanus/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "4bc3e2c5c491f78b49fd9de7": {
+    "id": "4bc3e2c5c491f78b49fd9de7",
+    "title": "Eros Prado | O Pagode da Ofensa – Auditório Super Bock Arena",
+    "link": "https://www.superbockarena.pt/evento/eros-prado-o-pagode-da-ofensa-auditorio-super-bock-arena/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "7ab822aec5f63daaec774e9d": {
+    "id": "7ab822aec5f63daaec774e9d",
+    "title": "Fingertips",
+    "link": "https://www.superbockarena.pt/evento/fingertips/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "78e127ee0b9e393019708171": {
+    "id": "78e127ee0b9e393019708171",
+    "title": "Canta-me uma História – ao vivo",
+    "link": "https://www.superbockarena.pt/evento/canta-me-uma-historia-ao-vivo/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "a3c02d3ead7afcfd04405ebb": {
+    "id": "a3c02d3ead7afcfd04405ebb",
+    "title": "Tony Carreira",
+    "link": "https://www.superbockarena.pt/evento/tony-carreira-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "bc168e63d25ed8450574213d": {
+    "id": "bc168e63d25ed8450574213d",
+    "title": "Music Circus Show on Ice with Highlights of FROZEN 1&2",
+    "link": "https://www.superbockarena.pt/evento/music-circus-show-on-ice-with-highlights-of-frozen-12/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "6c8a1d6e39d7365d439ce627": {
+    "id": "6c8a1d6e39d7365d439ce627",
+    "title": "Bryan Adams",
+    "link": "https://www.superbockarena.pt/evento/bryan-adams/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "78e0f7c05286d7c77a0a1b7a": {
+    "id": "78e0f7c05286d7c77a0a1b7a",
+    "title": "Bryan Adams",
+    "link": "https://www.superbockarena.pt/evento/bryan-adams-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "e8a78dc4632096bf920d8835": {
+    "id": "e8a78dc4632096bf920d8835",
+    "title": "David Fonseca",
+    "link": "https://www.superbockarena.pt/evento/david-fonseca/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d1960b6b93e72b401a5ed86d": {
+    "id": "d1960b6b93e72b401a5ed86d",
+    "title": "Outworld",
+    "link": "https://www.superbockarena.pt/evento/outworld/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "e451b0c64165d616a8401a63": {
+    "id": "e451b0c64165d616a8401a63",
+    "title": "Patrulha Pata ao Vivo – Heróis Unidos",
+    "link": "https://www.superbockarena.pt/evento/patrulha-pata-ao-vivo-herois-unidos/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "61ba780540a9ad1c65aac6bf": {
+    "id": "61ba780540a9ad1c65aac6bf",
+    "title": "Sara Correia",
+    "link": "https://www.superbockarena.pt/evento/sara-correia/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "e3cf4ce4b93a9f7f363cb6b0": {
+    "id": "e3cf4ce4b93a9f7f363cb6b0",
+    "title": "Sara Correia",
+    "link": "https://www.superbockarena.pt/evento/sara-correia-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d25a73edffef25b185c3f680": {
+    "id": "d25a73edffef25b185c3f680",
+    "title": "Pocahontas – Auditório Super Bock Arena",
+    "link": "https://www.superbockarena.pt/evento/pocahontas-auditorio-super-bock-arena/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "8903830a5c7856902278c023": {
+    "id": "8903830a5c7856902278c023",
+    "title": "PORTÁTIL com Bumba na Fofinha",
+    "link": "https://www.superbockarena.pt/evento/portatil-com-bumba-na-fofinha/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "62a2859f9c9e6f641e6cec92": {
+    "id": "62a2859f9c9e6f641e6cec92",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "0e429a05d53f2a76e4423c31": {
+    "id": "0e429a05d53f2a76e4423c31",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "4b942aa9f7ec101a92ed8067": {
+    "id": "4b942aa9f7ec101a92ed8067",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "8e2ce7a8bb8f0b2396ee2243": {
+    "id": "8e2ce7a8bb8f0b2396ee2243",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "269335f7acb3474d88167460": {
+    "id": "269335f7acb3474d88167460",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-4/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "60beb6372865e001edf0037c": {
+    "id": "60beb6372865e001edf0037c",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-5/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "caff9d2919ccd34e6b208540": {
+    "id": "caff9d2919ccd34e6b208540",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-6/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "7556dc0fa5329693cfec270a": {
+    "id": "7556dc0fa5329693cfec270a",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-7/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "9132f0d55005996f7bf645bb": {
+    "id": "9132f0d55005996f7bf645bb",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "b9ec408be2e4a1748c7a10b6": {
+    "id": "b9ec408be2e4a1748c7a10b6",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d176e481e3ef2c9345b016d7": {
+    "id": "d176e481e3ef2c9345b016d7",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-9/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d44505943ac64a828a332146": {
+    "id": "d44505943ac64a828a332146",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-8/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "b075dd21005aa4022931ff35": {
+    "id": "b075dd21005aa4022931ff35",
+    "title": "Lisbon Film Orchestra – Our Stories",
+    "link": "https://www.superbockarena.pt/evento/lisbon-film-orchestra-our-stories/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "a0d45f44e62e8a322ded8ce3": {
+    "id": "a0d45f44e62e8a322ded8ce3",
+    "title": "Optimista Céptico",
+    "link": "https://www.superbockarena.pt/evento/optimista-ceptico-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "3e868855b1427ab918706440": {
+    "id": "3e868855b1427ab918706440",
+    "title": "Optimista Céptico",
+    "link": "https://www.superbockarena.pt/evento/optimista-ceptico/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "2fca801bb38cb7772e779bb3": {
+    "id": "2fca801bb38cb7772e779bb3",
+    "title": "AMANHÃ NÃO ESTÁ CERTO – Pedro Teixeira da Mota",
+    "link": "https://www.superbockarena.pt/evento/amanha-nao-esta-certo-pedro-teixeira-da-mota/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "ee4085666e46762cef9ab52c": {
+    "id": "ee4085666e46762cef9ab52c",
+    "title": "AMANHÃ NÃO ESTÁ CERTO – Pedro Teixeira da Mota",
+    "link": "https://www.superbockarena.pt/evento/amanha-nao-esta-certo-pedro-teixeira-da-mota-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "5475f7c7f57374bee463e076": {
+    "id": "5475f7c7f57374bee463e076",
+    "title": "AMANHÃ NÃO ESTÁ CERTO – Pedro Teixeira da Mota",
+    "link": "https://www.superbockarena.pt/evento/amanha-nao-esta-certo-pedro-teixeira-da-mota-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "22dd15d4710f6bfe45c06421": {
+    "id": "22dd15d4710f6bfe45c06421",
+    "title": "Dominguinho",
+    "link": "https://www.superbockarena.pt/evento/dominguinho/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "61728579ea6819a9bde618f6": {
+    "id": "61728579ea6819a9bde618f6",
+    "title": "Nena",
+    "link": "https://www.superbockarena.pt/evento/nena-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "5850f47948ad9bda3fa9d6dc": {
+    "id": "5850f47948ad9bda3fa9d6dc",
+    "title": "Simple Minds",
+    "link": "https://www.superbockarena.pt/evento/simple-minds-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "4d545d070aa59a9d7185dbf8": {
+    "id": "4d545d070aa59a9d7185dbf8",
+    "title": "Luísa Sonza – Brutal Paraíso Tour",
+    "link": "https://www.superbockarena.pt/evento/luisa-sonza-brutal-paraiso-tour/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "fe5b2d7d27e4a2f214700d8e": {
+    "id": "fe5b2d7d27e4a2f214700d8e",
+    "title": "The Calling",
+    "link": "https://www.superbockarena.pt/evento/the-calling/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "05af43a34c81b21a9c752bd9": {
+    "id": "05af43a34c81b21a9c752bd9",
+    "title": "50 Anos de Carreira do Toy",
+    "link": "https://www.superbockarena.pt/evento/50-anos-de-carreira-do-toy/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "831535b468a5dfaaebdb211b": {
+    "id": "831535b468a5dfaaebdb211b",
+    "title": "Il Volo",
+    "link": "https://www.superbockarena.pt/evento/il-volo/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "41f9fb4b46333357fdd16479": {
+    "id": "41f9fb4b46333357fdd16479",
+    "title": "Tiago Bettencourt",
+    "link": "https://www.superbockarena.pt/evento/tiago-bettencourt-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
   "84755ad31b10b7c6e1f65697": {
     "id": "84755ad31b10b7c6e1f65697",
     "title": "Terrakota",
@@ -1441,8 +1749,8 @@
     "source": "Casa da Criatividade",
     "kind": "São João da Madeira"
   },
-  "33518ad17d23d7b59b0b6b60": {
-    "id": "33518ad17d23d7b59b0b6b60",
+  "e3b0c44298fc1c149afbf4c8": {
+    "id": "e3b0c44298fc1c149afbf4c8",
     "title": "Programação atualizada — Casa da Criatividade (Somos Nos)",
     "link": "https://www.casadacriatividade.com/somos-nos/",
     "source": "Casa da Criatividade",
