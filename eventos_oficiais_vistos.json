@@ -1,11 +1,4 @@
 {
-  "85e39bcdcbd3080f6c9aca52": {
-    "id": "85e39bcdcbd3080f6c9aca52",
-    "title": "Boca Livre Convida Edu Lobo",
-    "link": "https://casadamusica.com/event/boca-livre-convida-edu-lobo/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "73719c9b6db13ef2398c5a5c": {
     "id": "73719c9b6db13ef2398c5a5c",
     "title": "Joao Paulo Esteves Da Silva",
@@ -874,6 +867,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "0f94a05a21e35499b54d3176": {
+    "id": "0f94a05a21e35499b54d3176",
+    "title": "Babar E Outras Historias 2",
+    "link": "https://casadamusica.com/event/babar-e-outras-historias-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "cc06c89f2f5ccb7ecee73fd7": {
     "id": "cc06c89f2f5ccb7ecee73fd7",
     "title": "Roupa Nova Tour 2026",
@@ -1664,13 +1664,6 @@
     "link": "https://www.teatroaveirense.pt/index.php/evento/cristina/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
-  },
-  "4505941ec0d06da7a63df984": {
-    "id": "4505941ec0d06da7a63df984",
-    "title": "Nós e o Mundo que nos Acolhe",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
   },
   "3d6b95df2afad64825a0223f": {
     "id": "3d6b95df2afad64825a0223f",
@@ -3106,13 +3099,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "b8aa2bd468643d76c0bbdebc": {
-    "id": "b8aa2bd468643d76c0bbdebc",
-    "title": "Boca Livre & Edu Lobo",
-    "link": "https://agendadopedro.pt/concertos/boca-livre-edu-lobo-porto-15538/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "04a6b01af3bbfe714aaf59f6": {
     "id": "04a6b01af3bbfe714aaf59f6",
