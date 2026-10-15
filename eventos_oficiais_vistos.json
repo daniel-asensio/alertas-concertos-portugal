@@ -286,6 +286,20 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "8840436d91ccde3bb7122c21": {
+    "id": "8840436d91ccde3bb7122c21",
+    "title": "Will Love Dj Waldo Squash B2B Djs Gang Do Electro",
+    "link": "https://casadamusica.com/event/will-love-dj-waldo-squash-b2b-djs-gang-do-electro/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "70b67762ea8e2eded8491071": {
+    "id": "70b67762ea8e2eded8491071",
+    "title": "Clubbing Amazonico",
+    "link": "https://casadamusica.com/event/clubbing-amazonico/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "b56726cde0f99c406f14d24f": {
     "id": "b56726cde0f99c406f14d24f",
     "title": "A Voz Em Grupo Cancoes E Jogos",
@@ -304,6 +318,20 @@
     "id": "cbaa8f241e6b5b6059d74ea5",
     "title": "A Invencao Da Natureza 4",
     "link": "https://casadamusica.com/event/a-invencao-da-natureza-4/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "8cfd26359738bcfdba3d8519": {
+    "id": "8cfd26359738bcfdba3d8519",
+    "title": "Conferencia Musica E Amazonia",
+    "link": "https://casadamusica.com/event/conferencia-musica-e-amazonia/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "e715347347d22a798a1d5f2c": {
+    "id": "e715347347d22a798a1d5f2c",
+    "title": "Zaynara Fafa De Belem",
+    "link": "https://casadamusica.com/event/zaynara-fafa-de-belem/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -860,20 +888,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "7ae6aaed441599fa153c9224": {
-    "id": "7ae6aaed441599fa153c9224",
-    "title": "Rodrigo Gabriela",
-    "link": "https://casadamusica.com/event/rodrigo-gabriela/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "0f94a05a21e35499b54d3176": {
-    "id": "0f94a05a21e35499b54d3176",
-    "title": "Babar E Outras Historias 2",
-    "link": "https://casadamusica.com/event/babar-e-outras-historias-2/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "cc06c89f2f5ccb7ecee73fd7": {
     "id": "cc06c89f2f5ccb7ecee73fd7",
     "title": "Roupa Nova Tour 2026",
@@ -1266,6 +1280,20 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
+  "3a9edc84427a5826360a53a6": {
+    "id": "3a9edc84427a5826360a53a6",
+    "title": "Maiúscula",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7304/maiuscula/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "a127132638edf71e4c9c2231": {
+    "id": "a127132638edf71e4c9c2231",
+    "title": "Maiúscula",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7305/maiuscula/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
   "f323d17b74724f788d0a923a": {
     "id": "f323d17b74724f788d0a923a",
     "title": "Phia Ménard / Compagnie Non Nova Nocturne (Parade) [Noturno (Desfile)]",
@@ -1291,13 +1319,6 @@
     "id": "8c29b9a8fb941bc39a9536c2",
     "title": "Joana Providência / Teatro do Bolhão Atlas, mapeamento poético",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/joana-provid-ncia-teatro-do-bolh-o-atlas-mapeamento-po-tico/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
-  "9cfd98ffad2e84280af88157": {
-    "id": "9cfd98ffad2e84280af88157",
-    "title": "Teatro de Marionetas do Porto Mulher Luz",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/teatro-de-marionetas-do-porto-mulher-luz/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
@@ -1383,13 +1404,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "5349b3528b0d7bd029e1791a": {
-    "id": "5349b3528b0d7bd029e1791a",
-    "title": "O problema da habitação na poesia de Ruy Belo Ciclo O Problema da Habitação",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-na-poesia-de-ruy-belo-ciclo-o-problema-da-habitacao/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "706338145ed67458712e5456": {
