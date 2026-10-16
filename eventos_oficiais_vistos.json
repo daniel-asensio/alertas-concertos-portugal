@@ -2638,6 +2638,13 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
+  "06afb6bd3e735ce8ffb8404f": {
+    "id": "06afb6bd3e735ce8ffb8404f",
+    "title": "Ensaio Geral Solidário 21 Out 2026 20:00 Desassossego",
+    "link": "https://www.cnb.pt/program/egs-desassossego/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
   "d3967480bf5d6525f34f6087": {
     "id": "d3967480bf5d6525f34f6087",
     "title": "01 Nov 2026 16:00 Desassossego",
@@ -2666,24 +2673,17 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "8801cbeb349f4213457964ad": {
-    "id": "8801cbeb349f4213457964ad",
-    "title": "13 Nov 2026 21:30 Only Duos",
-    "link": "https://www.cnb.pt/program/only-duos-26-27/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "06afb6bd3e735ce8ffb8404f": {
-    "id": "06afb6bd3e735ce8ffb8404f",
-    "title": "Ensaio Geral Solidário 21 Out 2026 20:00 Desassossego",
-    "link": "https://www.cnb.pt/program/egs-desassossego/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
   "ab049ce8f14998d8f1218ddf": {
     "id": "ab049ce8f14998d8f1218ddf",
     "title": "Gratuito Conversa pós-espetáculo 25 Out 2026 18:00 No Final, Falamos",
     "link": "https://www.cnb.pt/program/no-final-falamos-2627/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "8801cbeb349f4213457964ad": {
+    "id": "8801cbeb349f4213457964ad",
+    "title": "13 Nov 2026 21:30 Only Duos",
+    "link": "https://www.cnb.pt/program/only-duos-26-27/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
