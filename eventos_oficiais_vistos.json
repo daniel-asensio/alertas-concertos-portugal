@@ -874,13 +874,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "cc06c89f2f5ccb7ecee73fd7": {
-    "id": "cc06c89f2f5ccb7ecee73fd7",
-    "title": "Roupa Nova Tour 2026",
-    "link": "https://www.superbockarena.pt/evento/roupa-nova-tour-2026/",
-    "source": "Super Bock Arena",
-    "kind": "Porto"
-  },
   "ab80c081f489b7e15d50306e": {
     "id": "ab80c081f489b7e15d50306e",
     "title": "RFM – Que Grandioso Espetáculo é Este?",
@@ -1273,13 +1266,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "f323d17b74724f788d0a923a": {
-    "id": "f323d17b74724f788d0a923a",
-    "title": "Phia Ménard / Compagnie Non Nova Nocturne (Parade) [Noturno (Desfile)]",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/phia-m-nard-compagnie-non-nova-nocturne-parade-noturno-desfile/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
   "22989900665ea1c9e2fc9f9e": {
     "id": "22989900665ea1c9e2fc9f9e",
     "title": "Mariana Leite Soares ABSOLUTO",
@@ -1298,6 +1284,13 @@
     "id": "8c29b9a8fb941bc39a9536c2",
     "title": "Joana Providência / Teatro do Bolhão Atlas, mapeamento poético",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/joana-provid-ncia-teatro-do-bolh-o-atlas-mapeamento-po-tico/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "f8eafb3f9a63e126f2758da8": {
+    "id": "f8eafb3f9a63e126f2758da8",
+    "title": "Tō Yō Understage",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/t-y/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
