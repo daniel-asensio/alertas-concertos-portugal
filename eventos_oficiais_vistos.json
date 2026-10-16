@@ -1175,24 +1175,24 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "84755ad31b10b7c6e1f65697": {
-    "id": "84755ad31b10b7c6e1f65697",
-    "title": "Terrakota",
-    "link": "https://www.hardclubporto.com/PT/evento/terrakota-2026/",
+  "a0f08322802938650a36f7c2": {
+    "id": "a0f08322802938650a36f7c2",
+    "title": "Hard Bounce",
+    "link": "https://www.hardclubporto.com/PT/evento/hard-bounce-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "cae36738820e59822b65671c": {
-    "id": "cae36738820e59822b65671c",
-    "title": "RODOX ORIGINALS TOUR",
-    "link": "https://www.hardclubporto.com/PT/evento/rodox-originals-tour-2026/",
+  "2b8bb3b05ce1efb94a15cb5b": {
+    "id": "2b8bb3b05ce1efb94a15cb5b",
+    "title": "THE LEMON TWIGS",
+    "link": "https://www.hardclubporto.com/PT/evento/the-lemon-twigs-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "602dfc9a0d6998ad5db63fef": {
-    "id": "602dfc9a0d6998ad5db63fef",
-    "title": "KHAOS 2ND EDITION",
-    "link": "https://www.hardclubporto.com/PT/evento/khaos-2nd-edition-2026/",
+  "5ed7d0ba01a2091f6a6044ce": {
+    "id": "5ed7d0ba01a2091f6a6044ce",
+    "title": "ISA BUZZI TOUR",
+    "link": "https://www.hardclubporto.com/PT/evento/isa-buzzi-tour-clube-dos-coracoes-partidos-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1376,13 +1376,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "64194276c8fe4c6df16c7b2a": {
-    "id": "64194276c8fe4c6df16c7b2a",
-    "title": "Do Terreiro ao Mundo De Clara Andermatt para a Companhia Instável",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/do-terreiro-ao-mundo/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "78c2a7d37be6ff7c7678273f": {
@@ -3079,76 +3072,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b77a195014bb3a8027969c52": {
-    "id": "b77a195014bb3a8027969c52",
-    "title": "Jazzanova ᛫ Knobil",
-    "link": "https://agendadopedro.pt/concertos/jazzanova-porto-15537/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "33a779751b8ac6d69284bd5d": {
-    "id": "33a779751b8ac6d69284bd5d",
-    "title": "Nuno Côrte-Real & Orquestra Sinfónica do Porto Casa da Música & Orquestra Jazz de Matosinhos",
-    "link": "https://agendadopedro.pt/concertos/nuno-corte-real-porto-10487/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "49f77c42084095fca9a5bf4b": {
-    "id": "49f77c42084095fca9a5bf4b",
-    "title": "Rodox",
-    "link": "https://agendadopedro.pt/concertos/rodox-porto-15505/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "718f3ca109fb316dc411eb17": {
-    "id": "718f3ca109fb316dc411eb17",
-    "title": "Terrakota",
-    "link": "https://agendadopedro.pt/concertos/terrakota-porto-15356/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "2f0866552e0a76c69a53b369": {
-    "id": "2f0866552e0a76c69a53b369",
-    "title": "PMDS",
-    "link": "https://agendadopedro.pt/concertos/pmds-porto-16599/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e883d21688fc1ca814ca67fa": {
-    "id": "e883d21688fc1ca814ca67fa",
-    "title": "Laura Misch",
-    "link": "https://agendadopedro.pt/concertos/laura-misch-porto-13233/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "2a6dc175d42567b33d1af9a5": {
-    "id": "2a6dc175d42567b33d1af9a5",
-    "title": "Sofia Ribeiro",
-    "link": "https://agendadopedro.pt/concertos/sofia-ribeiro-porto-16203/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "fe4ab8fa483ad5bafaad8dc3": {
-    "id": "fe4ab8fa483ad5bafaad8dc3",
-    "title": "Roupa Nova",
-    "link": "https://agendadopedro.pt/concertos/roupa-nova-porto-14812/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "a8b6c554bbe483dbe868dc57": {
-    "id": "a8b6c554bbe483dbe868dc57",
-    "title": "Alpha Maid",
-    "link": "https://agendadopedro.pt/concertos/alpha-maid-porto-16207/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "323d8813db4e1109deca5df3": {
-    "id": "323d8813db4e1109deca5df3",
-    "title": "Brux ᛫ Fuck It!",
-    "link": "https://agendadopedro.pt/concertos/brux-porto-16021/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "60314eea68ee91ad385518fb": {
     "id": "60314eea68ee91ad385518fb",
     "title": "Joe Jackson",
@@ -4574,20 +4497,6 @@
     "id": "26fec917277d443a7bcc9a42",
     "title": "Alphaville",
     "link": "https://agendadopedro.pt/concertos/alphaville-guimaraes-10249/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "dd7a85b51b9859d8b3359489": {
-    "id": "dd7a85b51b9859d8b3359489",
-    "title": "Alphaville",
-    "link": "https://agendadopedro.pt/concertos/alphaville-lisboa-10469/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "014b8f0e6b4e93dfccaddc4c": {
-    "id": "014b8f0e6b4e93dfccaddc4c",
-    "title": "Boca Livre & Edu Lobo",
-    "link": "https://agendadopedro.pt/concertos/boca-livre-edu-lobo-lisboa-15544/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
