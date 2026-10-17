@@ -1161,13 +1161,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "a0f08322802938650a36f7c2": {
-    "id": "a0f08322802938650a36f7c2",
-    "title": "Hard Bounce",
-    "link": "https://www.hardclubporto.com/PT/evento/hard-bounce-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "2b8bb3b05ce1efb94a15cb5b": {
     "id": "2b8bb3b05ce1efb94a15cb5b",
     "title": "THE LEMON TWIGS",
@@ -1179,6 +1172,13 @@
     "id": "5ed7d0ba01a2091f6a6044ce",
     "title": "ISA BUZZI TOUR",
     "link": "https://www.hardclubporto.com/PT/evento/isa-buzzi-tour-clube-dos-coracoes-partidos-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "bcb1aa3f1e3a6e3a00480b71": {
+    "id": "bcb1aa3f1e3a6e3a00480b71",
+    "title": "Conejo Loco World",
+    "link": "https://www.hardclubporto.com/PT/evento/conejo-loco-world-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1615,13 +1615,6 @@
     "link": "https://www.teatroaveirense.pt/index.php/evento/cristina/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
-  },
-  "3d6b95df2afad64825a0223f": {
-    "id": "3d6b95df2afad64825a0223f",
-    "title": "Salut Salon | \"Heimat - Céu que Trazemos Dentro de Nós\"",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
   },
   "5ee4dcec022517e08e08b1d1": {
     "id": "5ee4dcec022517e08e08b1d1",
@@ -3043,34 +3036,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "60314eea68ee91ad385518fb": {
-    "id": "60314eea68ee91ad385518fb",
-    "title": "Joe Jackson",
-    "link": "https://agendadopedro.pt/concertos/joe-jackson-porto-10792/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "bf6c3e7987878cd8ed35ce03": {
-    "id": "bf6c3e7987878cd8ed35ce03",
-    "title": "Os Quatro e Meia ᛫ David Fonseca ᛫ Miguel Araújo ᛫ ...",
-    "link": "https://agendadopedro.pt/concertos/os-quatro-e-meia-porto-14062/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "02c208fe50655c18fc689a3e": {
-    "id": "02c208fe50655c18fc689a3e",
-    "title": "Capela Mortuária ᛫ Cat Soup ᛫ Conferência Inferno ᛫ Criatura-Dança ᛫ Donaranha ᛫ Frederica Vieira Campos ᛫ Holocausto Canibal ᛫ Jardim de Cinzas ᛫ Manga Cava ᛫ Mangualde ᛫ Moira...",
-    "link": "https://agendadopedro.pt/concertos/capela-mortuaria-porto-16646/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "be83dbd4b2c0dd82a1fcee54": {
-    "id": "be83dbd4b2c0dd82a1fcee54",
-    "title": "Humberto ᛫ Bar Aberto",
-    "link": "https://agendadopedro.pt/concertos/humberto-porto-15380/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "6c0509482c23d59805ba8ac1": {
     "id": "6c0509482c23d59805ba8ac1",
@@ -4521,31 +4486,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "26fec917277d443a7bcc9a42": {
-    "id": "26fec917277d443a7bcc9a42",
-    "title": "Alphaville",
-    "link": "https://agendadopedro.pt/concertos/alphaville-guimaraes-10249/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "a23dacf3117aeb2b72d4b0af": {
-    "id": "a23dacf3117aeb2b72d4b0af",
-    "title": "Gilsons",
-    "link": "https://agendadopedro.pt/concertos/gilsons-lisboa-13445/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "7f5fdea52fb5140485ad7df3": {
     "id": "7f5fdea52fb5140485ad7df3",
     "title": "Joe Jackson",
     "link": "https://agendadopedro.pt/concertos/joe-jackson-lisboa-10013/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "506b3b14feaab21cd2d41fc3": {
-    "id": "506b3b14feaab21cd2d41fc3",
-    "title": "Rui Veloso",
-    "link": "https://agendadopedro.pt/concertos/rui-veloso-lisboa-11781/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
