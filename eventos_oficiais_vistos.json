@@ -1,11 +1,4 @@
 {
-  "36e81f445a599cff58e838a5": {
-    "id": "36e81f445a599cff58e838a5",
-    "title": "Mescla 2",
-    "link": "https://casadamusica.com/event/mescla-2/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "9f8abe217772ac5235ae17ad": {
     "id": "9f8abe217772ac5235ae17ad",
     "title": "A Musica Antes Das Palavras",
@@ -17,6 +10,13 @@
     "id": "fd36655f240287e91049a1f6",
     "title": "Joe Jackson Band",
     "link": "https://casadamusica.com/event/joe-jackson-band/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "36e81f445a599cff58e838a5": {
+    "id": "36e81f445a599cff58e838a5",
+    "title": "Mescla 2",
+    "link": "https://casadamusica.com/event/mescla-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2813,80 +2813,73 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4b0167d6dfb93ac79776c879": {
-    "id": "4b0167d6dfb93ac79776c879",
+  "07aba9d19282fdb81924244c": {
+    "id": "07aba9d19282fdb81924244c",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c60088f063b0bfce663ed58e": {
-    "id": "c60088f063b0bfce663ed58e",
+  "82de4b5785579a78e6ea82ad": {
+    "id": "82de4b5785579a78e6ea82ad",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "6967c071984784cc6688effe": {
-    "id": "6967c071984784cc6688effe",
+  "31ea45965974d59027cd1f00": {
+    "id": "31ea45965974d59027cd1f00",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4d0370275f9af72d3ed8b66a": {
-    "id": "4d0370275f9af72d3ed8b66a",
+  "63ebd6f3ef2e42456cf5d3d7": {
+    "id": "63ebd6f3ef2e42456cf5d3d7",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
-    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "97feb522a5781c3cdcccc027": {
-    "id": "97feb522a5781c3cdcccc027",
+  "fceca508e292703b6996cd63": {
+    "id": "fceca508e292703b6996cd63",
     "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "98aaf34d8f875c66f968a5a7": {
-    "id": "98aaf34d8f875c66f968a5a7",
+  "a2f701f20cf82d289cc3d5c0": {
+    "id": "a2f701f20cf82d289cc3d5c0",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "3f9d2d4081d64545c0363219": {
-    "id": "3f9d2d4081d64545c0363219",
+  "5b45f61af4ae43e3159f0283": {
+    "id": "5b45f61af4ae43e3159f0283",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "0eea440ebb079dfc6a5f3c37": {
-    "id": "0eea440ebb079dfc6a5f3c37",
+  "39bd9489ed02d3110efd8b13": {
+    "id": "39bd9489ed02d3110efd8b13",
     "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "13800273a950f81f93dcdd2a": {
-    "id": "13800273a950f81f93dcdd2a",
-    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
-    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-17/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "44b254162d6b9f5092b886a5": {
-    "id": "44b254162d6b9f5092b886a5",
+  "3252aa0f76138171adf8d250": {
+    "id": "3252aa0f76138171adf8d250",
     "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "5fba83dcd36d0f997f3af143": {
-    "id": "5fba83dcd36d0f997f3af143",
+  "2e909dc8ec12e7c5cc30766f": {
+    "id": "2e909dc8ec12e7c5cc30766f",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-17/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2915,6 +2908,13 @@
     "id": "8c38606b3e7506c2ae3eb43b",
     "title": "Ângela Ferreira",
     "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-10-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "42ba9df973e3398ab1db0ca7": {
+    "id": "42ba9df973e3398ab1db0ca7",
+    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
+    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-24/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3527,6 +3527,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "4b0bead2741351ecb15909a3": {
+    "id": "4b0bead2741351ecb15909a3",
+    "title": "Gang do Eletro ᛫ Ayahuasca Detectives ᛫ Mind ᛫ Puwewere Puyanawa",
+    "link": "https://agendadopedro.pt/concertos/gang-do-eletro-porto-16974/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "7a5200170aa4e26070131911": {
     "id": "7a5200170aa4e26070131911",
     "title": "Em Casa d'Amália",
@@ -3587,6 +3594,13 @@
     "id": "6a53d4702eab172901c01aa3",
     "title": "Geordie Greep",
     "link": "https://agendadopedro.pt/concertos/geordie-greep-porto-15319/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "ece0dbfec391a9b299b4b70d": {
+    "id": "ece0dbfec391a9b299b4b70d",
+    "title": "Fafá de Belém ᛫ Zaynara",
+    "link": "https://agendadopedro.pt/concertos/fafa-de-belem-porto-16973/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3678,6 +3692,13 @@
     "id": "f60edb3ead11e4853d19bcbc",
     "title": "Carla Prata",
     "link": "https://agendadopedro.pt/concertos/carla-prata-porto-15801/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "3e501a987aa917a6f1cac25a": {
+    "id": "3e501a987aa917a6f1cac25a",
+    "title": "Chek1 ᛫ Redoma",
+    "link": "https://agendadopedro.pt/concertos/chek1-porto-16985/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3835,6 +3856,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "4a823c88a25a68a2fbb4c6ff": {
+    "id": "4a823c88a25a68a2fbb4c6ff",
+    "title": "François J. Bonnet & Stephen O'Malley",
+    "link": "https://agendadopedro.pt/concertos/francois-j-bonnet-stephen-o-malley-porto-16993/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "2438b1545d2c9d4d0ff1258d": {
     "id": "2438b1545d2c9d4d0ff1258d",
     "title": "Chico Chico",
@@ -3947,6 +3975,20 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "49dc645bcd2f4660c0a3b750": {
+    "id": "49dc645bcd2f4660c0a3b750",
+    "title": "Icaro & Púrpura",
+    "link": "https://agendadopedro.pt/concertos/icaro-purpura-porto-16995/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "4ac7086e251de87452d95d0d": {
+    "id": "4ac7086e251de87452d95d0d",
+    "title": "Tota",
+    "link": "https://agendadopedro.pt/concertos/tota-porto-16994/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "8cd25fb460c9937e80554918": {
     "id": "8cd25fb460c9937e80554918",
     "title": "Worakls",
@@ -3972,6 +4014,13 @@
     "id": "74c89d780603c31b8e31de9a",
     "title": "The Glenn Miller Orchestra",
     "link": "https://agendadopedro.pt/concertos/the-glenn-miller-orchestra-porto-12293/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "886d2a2da2c8b146afbd60a5": {
+    "id": "886d2a2da2c8b146afbd60a5",
+    "title": "Pz Porto 16996",
+    "link": "https://agendadopedro.pt/concertos/pz-porto-16996/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4556,6 +4605,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "4465b92df35be6afd3117013": {
+    "id": "4465b92df35be6afd3117013",
+    "title": "Damien Rice",
+    "link": "https://agendadopedro.pt/concertos/damien-rice-lisboa-16970/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "c8d5d454435597581794a8c6": {
     "id": "c8d5d454435597581794a8c6",
     "title": "Mariza",
@@ -4563,10 +4619,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "265b9eda90ec9cecd742ac49": {
-    "id": "265b9eda90ec9cecd742ac49",
-    "title": "Royal Blood",
-    "link": "https://agendadopedro.pt/concertos/royal-blood-lisboa-16875/",
+  "4f6757d23bb4a9394f5ea820": {
+    "id": "4f6757d23bb4a9394f5ea820",
+    "title": "Pz Lisboa 16997",
+    "link": "https://agendadopedro.pt/concertos/pz-lisboa-16997/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4574,13 +4630,6 @@
     "id": "add9f85a8d6025a4b0935d30",
     "title": "The Jesus and Mary Chain ᛫ Jalen Ngonda ᛫ Linda Martini \"Olhos de Mongol\"",
     "link": "https://agendadopedro.pt/concertos/the-jesus-and-mary-chain-lisboa-16967/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "f97d6254c06831a40fd9a768": {
-    "id": "f97d6254c06831a40fd9a768",
-    "title": "The Ocean ᛫ A.A. Williams",
-    "link": "https://agendadopedro.pt/concertos/the-ocean-lisboa-16862/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
