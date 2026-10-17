@@ -2442,13 +2442,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "4ee855a6516df7cc9e4d0a5d": {
-    "id": "4ee855a6516df7cc9e4d0a5d",
-    "title": "Asi Contest Best Sommelier Of The World 2026",
-    "link": "https://coliseulisboa.com/eventos/asi-contest-best-sommelier-of-the-world-2026/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "7c35ae9b806f46a6811e8d3c": {
     "id": "7c35ae9b806f46a6811e8d3c",
     "title": "Gilsons",
@@ -2544,6 +2537,13 @@
     "id": "0fd1410b750284ed832d51e3",
     "title": "Special Comedy Show Jerry Sienfeld His Best Friends",
     "link": "https://coliseulisboa.com/eventos/special-comedy-show-jerry-sienfeld-his-best-friends/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "4d1dbd19829c9c20c7204cd9": {
+    "id": "4d1dbd19829c9c20c7204cd9",
+    "title": "Jose Gonzales Misty Fest",
+    "link": "https://coliseulisboa.com/eventos/jose-gonzales-misty-fest/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
