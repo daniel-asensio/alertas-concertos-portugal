@@ -979,6 +979,13 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "095b7f015debd984d9dfc624": {
+    "id": "095b7f015debd984d9dfc624",
+    "title": "Natal ao Vivo",
+    "link": "https://www.superbockarena.pt/evento/natal-ao-vivo-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
   "62a2859f9c9e6f641e6cec92": {
     "id": "62a2859f9c9e6f641e6cec92",
     "title": "Panda e os Caricas – Mundo da Magia",
@@ -3557,7 +3564,7 @@
   },
   "465160b440a9430c830bbb7b": {
     "id": "465160b440a9430c830bbb7b",
-    "title": "The Twilight Sad",
+    "title": "The Twilight Sad Cancelado",
     "link": "https://agendadopedro.pt/concertos/the-twilight-sad-porto-12687/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3825,6 +3832,13 @@
     "id": "e45663db7420f62c5f86a1c5",
     "title": "Chico Chico",
     "link": "https://agendadopedro.pt/concertos/chico-chico-porto-12567/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "2438b1545d2c9d4d0ff1258d": {
+    "id": "2438b1545d2c9d4d0ff1258d",
+    "title": "Chico Chico",
+    "link": "https://agendadopedro.pt/concertos/chico-chico-porto-16969/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
