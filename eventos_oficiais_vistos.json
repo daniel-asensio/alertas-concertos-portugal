@@ -2407,13 +2407,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "7c35ae9b806f46a6811e8d3c": {
-    "id": "7c35ae9b806f46a6811e8d3c",
-    "title": "Gilsons",
-    "link": "https://coliseulisboa.com/eventos/gilsons/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "0ef8f0ac7f37db2d7f01ee06": {
     "id": "0ef8f0ac7f37db2d7f01ee06",
     "title": "Mundo Du Pop Du Nothin Apresentacao Do Album De Estreia",
@@ -2509,6 +2502,13 @@
     "id": "4d1dbd19829c9c20c7204cd9",
     "title": "Jose Gonzales Misty Fest",
     "link": "https://coliseulisboa.com/eventos/jose-gonzales-misty-fest/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "f2c4137f8fa64f5b28bb6956": {
+    "id": "f2c4137f8fa64f5b28bb6956",
+    "title": "Nina Pastori Turne Camino 2025 Lisboa",
+    "link": "https://coliseulisboa.com/eventos/nina-pastori-turne-camino-2025-lisboa/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
