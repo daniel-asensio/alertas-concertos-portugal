@@ -1,25 +1,4 @@
 {
-  "9f8abe217772ac5235ae17ad": {
-    "id": "9f8abe217772ac5235ae17ad",
-    "title": "A Musica Antes Das Palavras",
-    "link": "https://casadamusica.com/event/a-musica-antes-das-palavras/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "fd36655f240287e91049a1f6": {
-    "id": "fd36655f240287e91049a1f6",
-    "title": "Joe Jackson Band",
-    "link": "https://casadamusica.com/event/joe-jackson-band/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "36e81f445a599cff58e838a5": {
-    "id": "36e81f445a599cff58e838a5",
-    "title": "Mescla 2",
-    "link": "https://casadamusica.com/event/mescla-2/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "1c5196c19fe37c8a9945c804": {
     "id": "1c5196c19fe37c8a9945c804",
     "title": "Estacao Casa Da Musica 2027",
@@ -1182,13 +1161,6 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "afee52e3d02837c62061e488": {
-    "id": "afee52e3d02837c62061e488",
-    "title": "O Pai",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7255/o-pai/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "773054cdb52d745a0f5f6e7a": {
     "id": "773054cdb52d745a0f5f6e7a",
     "title": "Auto da Barca do Inferno",
@@ -1200,6 +1172,13 @@
     "id": "71c768d50c45f9cb07144471",
     "title": "TPC: Frei Luís de Sousaaa",
     "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "afee52e3d02837c62061e488": {
+    "id": "afee52e3d02837c62061e488",
+    "title": "O Pai",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7255/o-pai/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
