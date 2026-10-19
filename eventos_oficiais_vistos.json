@@ -1168,6 +1168,13 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
+  "448ec5bfb73b5786e1a12eb8": {
+    "id": "448ec5bfb73b5786e1a12eb8",
+    "title": "Auto da Casa",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7273/auto-da-casa/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
   "b3062e94a434a26224bf0cd6": {
     "id": "b3062e94a434a26224bf0cd6",
     "title": "O Conceito Inútil",
@@ -1179,6 +1186,13 @@
     "id": "bfd294a9db80ce6148e37140",
     "title": "Residência",
     "link": "https://www.tnsj.pt/pt/espetaculos/7269/residencia/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "ff26a20420fb970831771a96": {
+    "id": "ff26a20420fb970831771a96",
+    "title": "Dez palavras do Inferno",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7267/dez-palavras-do-auto-da-barca-do-inferno/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1228,6 +1242,20 @@
     "id": "f8eafb3f9a63e126f2758da8",
     "title": "Tō Yō Understage",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/t-y/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "140996f2389544a2158c0ec4": {
+    "id": "140996f2389544a2158c0ec4",
+    "title": "Isabél Zuaa AFRO SALOYÁ",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/isab-l-zuaa-afro-sal-oy/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "a9e3faabf38945de113a6b64": {
+    "id": "a9e3faabf38945de113a6b64",
+    "title": "Idio Chichava Dzudza",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/idio-chichava-dzudza/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
