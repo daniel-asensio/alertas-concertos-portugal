@@ -2365,13 +2365,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "0ef8f0ac7f37db2d7f01ee06": {
-    "id": "0ef8f0ac7f37db2d7f01ee06",
-    "title": "Mundo Du Pop Du Nothin Apresentacao Do Album De Estreia",
-    "link": "https://coliseulisboa.com/eventos/mundo-du-pop-du-nothin-apresentacao-do-album-de-estreia/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "662a3d1968e80c5a517c19dc": {
     "id": "662a3d1968e80c5a517c19dc",
     "title": "Falso Nove Nao Sonho Quase Nada",
@@ -2467,6 +2460,13 @@
     "id": "f2c4137f8fa64f5b28bb6956",
     "title": "Nina Pastori Turne Camino 2025 Lisboa",
     "link": "https://coliseulisboa.com/eventos/nina-pastori-turne-camino-2025-lisboa/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "e54d7570ea281322a88bdfb8": {
+    "id": "e54d7570ea281322a88bdfb8",
+    "title": "Eros Prado O Pagode Da Ofensa",
+    "link": "https://coliseulisboa.com/eventos/eros-prado-o-pagode-da-ofensa/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
