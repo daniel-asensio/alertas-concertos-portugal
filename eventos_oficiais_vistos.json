@@ -1,39 +1,4 @@
 {
-  "1c5196c19fe37c8a9945c804": {
-    "id": "1c5196c19fe37c8a9945c804",
-    "title": "Estacao Casa Da Musica 2027",
-    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "18fc94fd4016b36236752590": {
-    "id": "18fc94fd4016b36236752590",
-    "title": "Kohelet Ricardo Coelho 5Tet",
-    "link": "https://casadamusica.com/event/kohelet-ricardo-coelho-5tet/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "ae562eaaaf534a2c103ac479": {
-    "id": "ae562eaaaf534a2c103ac479",
-    "title": "Banda Sinfonica Portuguesa 15",
-    "link": "https://casadamusica.com/event/banda-sinfonica-portuguesa-15/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "c432063ce1c9c83722a0a582": {
-    "id": "c432063ce1c9c83722a0a582",
-    "title": "O Swing De Bach De Leipzig Ao Jazz",
-    "link": "https://casadamusica.com/event/o-swing-de-bach-de-leipzig-ao-jazz/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "b2bb30a389bea5032c74439d": {
-    "id": "b2bb30a389bea5032c74439d",
-    "title": "Tomoki Sanders Flat Earth Society The Coltrane Mutations",
-    "link": "https://casadamusica.com/event/tomoki-sanders-flat-earth-society-the-coltrane-mutations/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "88ab68ba9d50d6606f80ce5d": {
     "id": "88ab68ba9d50d6606f80ce5d",
     "title": "Imarhan",
@@ -80,6 +45,13 @@
     "id": "0a69ad5f9463f750413ba61a",
     "title": "Rita Redshoes",
     "link": "https://casadamusica.com/event/rita-redshoes/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "1c5196c19fe37c8a9945c804": {
+    "id": "1c5196c19fe37c8a9945c804",
+    "title": "Estacao Casa Da Musica 2027",
+    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -839,6 +811,20 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "b7de42ec3e00f0859ffbfadb": {
+    "id": "b7de42ec3e00f0859ffbfadb",
+    "title": "Escola A Cantar 10 Anos",
+    "link": "https://casadamusica.com/event/escola-a-cantar-10-anos/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "b880a2359cdea6c2cb2155d1": {
+    "id": "b880a2359cdea6c2cb2155d1",
+    "title": "Chouchou 4",
+    "link": "https://casadamusica.com/event/chouchou-4/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "56fb943d448defe9fcb74977": {
     "id": "56fb943d448defe9fcb74977",
     "title": "Titãs",
@@ -1244,13 +1230,6 @@
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/t-y/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
-  },
-  "0ccc3c847f3b12f86682e349": {
-    "id": "0ccc3c847f3b12f86682e349",
-    "title": "One Vision Tributo A Queen Europarque",
-    "link": "https://www.bol.pt/Comprar/Bilhetes/184109-one_vision_tributo_a_queen-europarque/",
-    "source": "Europarque",
-    "kind": "Aveiro"
   },
   "86b43aa5becb07098b114397": {
     "id": "86b43aa5becb07098b114397",
@@ -2603,33 +2582,390 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "6c0509482c23d59805ba8ac1": {
-    "id": "6c0509482c23d59805ba8ac1",
-    "title": "Ricardo Coelho Quinteto",
-    "link": "https://agendadopedro.pt/concertos/ricardo-coelho-quinteto-porto-15570/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
+  "cc0bdf1bf8713dc671a5b343": {
+    "id": "cc0bdf1bf8713dc671a5b343",
+    "title": "Exposições Atuais",
+    "link": "https://www.ccb.pt/evento/exposicoes-atuais-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
   },
-  "6d37bbe1103796647a3c5a3f": {
-    "id": "6d37bbe1103796647a3c5a3f",
-    "title": "Tomoki Sanders ᛫ Flat Earth Society",
-    "link": "https://agendadopedro.pt/concertos/tomoki-sanders-porto-15560/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
+  "28fb45ac45e105be3a784352": {
+    "id": "28fb45ac45e105be3a784352",
+    "title": "Exposições Futuras",
+    "link": "https://www.ccb.pt/evento/exposicoes-futuras-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
   },
-  "2bbe5f32ce5e16a1c8534eda": {
-    "id": "2bbe5f32ce5e16a1c8534eda",
-    "title": "Gilsons",
-    "link": "https://agendadopedro.pt/concertos/gilsons-porto-13754/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
+  "ebc7cb3983583d09d676ac62": {
+    "id": "ebc7cb3983583d09d676ac62",
+    "title": "Exposições Passadas",
+    "link": "https://www.ccb.pt/evento/exposicoes-passadas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
   },
-  "1204fe8b67bac0957bf16032": {
-    "id": "1204fe8b67bac0957bf16032",
-    "title": "Pedro Melo Alves",
-    "link": "https://agendadopedro.pt/concertos/pedro-melo-alves-porto-16705/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
+  "dbb741d992a214ac9a9462cb": {
+    "id": "dbb741d992a214ac9a9462cb",
+    "title": "Programa Educativo",
+    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "17d2643a29170a774cb44424": {
+    "id": "17d2643a29170a774cb44424",
+    "title": "Programa Ludico Servico Educativo Museu Macccb",
+    "link": "https://www.ccb.pt/evento/programa-ludico-servico-educativo-museu-macccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "62b4ec219b2b812b7642fe2d": {
+    "id": "62b4ec219b2b812b7642fe2d",
+    "title": "Primeira Infância",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c26c03b3cff948cc5d231b07": {
+    "id": "c26c03b3cff948cc5d231b07",
+    "title": "Pré-escolar",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "220de9bd324c6a74292d85b9": {
+    "id": "220de9bd324c6a74292d85b9",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b7c890886dff3260cfea7580": {
+    "id": "b7c890886dff3260cfea7580",
+    "title": "Segundo Ciclo",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "06f6df80231248e145d888fd": {
+    "id": "06f6df80231248e145d888fd",
+    "title": "Terceiro Ciclo e Secundário",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "31e79d76701feeeb216743c9": {
+    "id": "31e79d76701feeeb216743c9",
+    "title": "Universitário",
+    "link": "https://www.ccb.pt/evento/universitario/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "413567f1d8b493809ae75e7b": {
+    "id": "413567f1d8b493809ae75e7b",
+    "title": "Educação Inclusiva",
+    "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c33a03dc45acfe9d22ea29cf": {
+    "id": "c33a03dc45acfe9d22ea29cf",
+    "title": "Atividades Para Familias Museu Mac Ccb",
+    "link": "https://www.ccb.pt/evento/atividades-para-familias-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "cf2372f24d06e0a9a2ad3b7c": {
+    "id": "cf2372f24d06e0a9a2ad3b7c",
+    "title": "Oficinas de Férias no MAC/CCB",
+    "link": "https://www.ccb.pt/evento/oficinas-de-ferias-no-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "23ac50dcdbbf947b8242ab17": {
+    "id": "23ac50dcdbbf947b8242ab17",
+    "title": "Aniversários",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "46e377b8a06832ace2995759": {
+    "id": "46e377b8a06832ace2995759",
+    "title": "Programas Públicos",
+    "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5258f913ff426266cfc992e6": {
+    "id": "5258f913ff426266cfc992e6",
+    "title": "Curso",
+    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "6593f8ceac90b61fa130b55b": {
+    "id": "6593f8ceac90b61fa130b55b",
+    "title": "Museu em Partilha",
+    "link": "https://www.ccb.pt/evento/museu-em-partilha/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "4b7eb5c106eb588023ce31b9": {
+    "id": "4b7eb5c106eb588023ce31b9",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "cf1b714368da3f0c8ec44f89": {
+    "id": "cf1b714368da3f0c8ec44f89",
+    "title": "A Abertura",
+    "link": "https://www.ccb.pt/evento/abertura-do-museu-de-arte-contemporanea-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "08024d93362f874fd6d62d79": {
+    "id": "08024d93362f874fd6d62d79",
+    "title": "Mercado CCB",
+    "link": "https://www.ccb.pt/evento/mercado-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "cd7a68b7b901e5024181a8f3": {
+    "id": "cd7a68b7b901e5024181a8f3",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "0766892484f02ddef085b62f": {
+    "id": "0766892484f02ddef085b62f",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9ff48f78de320bbf97cd5ef5": {
+    "id": "9ff48f78de320bbf97cd5ef5",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "3d6e548fd89747b5673932b2": {
+    "id": "3d6e548fd89747b5673932b2",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "2921aad92079ff6caedd4c55": {
+    "id": "2921aad92079ff6caedd4c55",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "569d336686cee71f0c8b3bf5": {
+    "id": "569d336686cee71f0c8b3bf5",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "63f19468c1df919ddf3f2a62": {
+    "id": "63f19468c1df919ddf3f2a62",
+    "title": "Olhos Múltiplos",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c728fae578f5903afbf38fb9": {
+    "id": "c728fae578f5903afbf38fb9",
+    "title": "May I Help You? Posso ajudar?",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8ec542e8e4b9da53104523f4": {
+    "id": "8ec542e8e4b9da53104523f4",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "7f08f185a7d8f13645de00e7": {
+    "id": "7f08f185a7d8f13645de00e7",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ff5361ad6a811b84c9cdbb9b": {
+    "id": "ff5361ad6a811b84c9cdbb9b",
+    "title": "3.º Aniversário MAC/CCB - Entrada livre",
+    "link": "https://www.ccb.pt/evento/3-o-aniversario-do-mac-ccb/2026-10-23/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9e027699e4ba12b9eccceebd": {
+    "id": "9e027699e4ba12b9eccceebd",
+    "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
+    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8c38606b3e7506c2ae3eb43b": {
+    "id": "8c38606b3e7506c2ae3eb43b",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-10-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "42ba9df973e3398ab1db0ca7": {
+    "id": "42ba9df973e3398ab1db0ca7",
+    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
+    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5fa814d556e5d1f6d2c1b386": {
+    "id": "5fa814d556e5d1f6d2c1b386",
+    "title": "Instalacao James Webb",
+    "link": "https://www.ccb.pt/evento/instalacao-james-webb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "79f308df2843e20f5a726b49": {
+    "id": "79f308df2843e20f5a726b49",
+    "title": "Visitas Guiadas Ao Edificio Centro Cultural De Belem",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-ao-edificio-centro-cultural-de-belem/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "f16e52904656b9928206a898": {
+    "id": "f16e52904656b9928206a898",
+    "title": "Visitas Orientadas E Tematicas Oficinas",
+    "link": "https://www.ccb.pt/evento/visitas-orientadas-e-tematicas-oficinas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "a00d1bd5dbcf0a19fa394bff": {
+    "id": "a00d1bd5dbcf0a19fa394bff",
+    "title": "Mostra Espanha 2026 Obras Convidadas",
+    "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "6ab88c92cd49a324de27355c": {
+    "id": "6ab88c92cd49a324de27355c",
+    "title": "Programa Vincular - Serviço de Educação e Mediação",
+    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-11-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "3fc6464370354a7a4a87531e": {
+    "id": "3fc6464370354a7a4a87531e",
+    "title": "Programa Público das exposições",
+    "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "05d05632f466f438ca05b3a1": {
+    "id": "05d05632f466f438ca05b3a1",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-05/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "da9d1d21d0e0ed0f6b58148e": {
+    "id": "da9d1d21d0e0ed0f6b58148e",
+    "title": "Museu em Partilha - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/museu-em-partilha/2026-11-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "cfcede362fb17b364e6e5e9a": {
+    "id": "cfcede362fb17b364e6e5e9a",
+    "title": "Neïl Beloufa",
+    "link": "https://www.ccb.pt/evento/exposicao-neil-beloufa/2026-12-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8fb7a045a418f278c7c065d2": {
+    "id": "8fb7a045a418f278c7c065d2",
+    "title": "Francisca Carvalho",
+    "link": "https://www.ccb.pt/evento/exposicao-francisca-carvalho/2026-12-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "055e25a146d77f02476ff179": {
+    "id": "055e25a146d77f02476ff179",
+    "title": "May I Help You?",
+    "link": "https://www.ccb.pt/evento/exhibition-may-i-help-you-posso-ajudar/2026-12-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b8ef57a832ed267af805d07e": {
+    "id": "b8ef57a832ed267af805d07e",
+    "title": "Performance Mutantes Entre O Teatro E O Museu",
+    "link": "https://www.ccb.pt/evento/performance-mutantes-entre-o-teatro-e-o-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "1ffcb34b2f3058fefd485366": {
+    "id": "1ffcb34b2f3058fefd485366",
+    "title": "Ferias De Natal Museu Mac Ccb",
+    "link": "https://www.ccb.pt/evento/ferias-de-natal-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b56445b262860d65caad17ee": {
+    "id": "b56445b262860d65caad17ee",
+    "title": "Marisol - When Things are Just Beginning",
+    "link": "https://www.ccb.pt/evento/exposicao-marisol/2026-12-17/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "0cfcf48e9bd739dd7a5465f2": {
+    "id": "0cfcf48e9bd739dd7a5465f2",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-12-30/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "11641b78d0ed25289f41a421": {
+    "id": "11641b78d0ed25289f41a421",
+    "title": "Musicas Da Revolucao Musica No Museu",
+    "link": "https://www.ccb.pt/evento/musicas-da-revolucao-musica-no-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "64fde51d76387ce5b801cc4d": {
+    "id": "64fde51d76387ce5b801cc4d",
+    "title": "Filamentos Da Voz Musica No Museu",
+    "link": "https://www.ccb.pt/evento/filamentos-da-voz-musica-no-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "74cd6eea1af3550eaf298fa2": {
+    "id": "74cd6eea1af3550eaf298fa2",
+    "title": "Arquiteturas Do Som",
+    "link": "https://www.ccb.pt/evento/arquiteturas-do-som/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "446d6dec50622c7453617806": {
+    "id": "446d6dec50622c7453617806",
+    "title": "Linhas De Escuta",
+    "link": "https://www.ccb.pt/evento/linhas-de-escuta/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b498c7f0d25cfd1a251beb60": {
+    "id": "b498c7f0d25cfd1a251beb60",
+    "title": "Tramas Sonoras Musica No Museu",
+    "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
   },
   "9063c5c5bcc96e9adc7e3f67": {
     "id": "9063c5c5bcc96e9adc7e3f67",
@@ -4052,13 +4388,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "7f5fdea52fb5140485ad7df3": {
-    "id": "7f5fdea52fb5140485ad7df3",
-    "title": "Joe Jackson",
-    "link": "https://agendadopedro.pt/concertos/joe-jackson-lisboa-10013/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "9216de8dd3a751cc82522bf7": {
     "id": "9216de8dd3a751cc82522bf7",
     "title": "Adriana Calcanhotto",
@@ -4098,6 +4427,55 @@
     "id": "20d2f0bc3c36345e1f80b891",
     "title": "Yard Act",
     "link": "https://agendadopedro.pt/concertos/yard-act-lisboa-13213/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "4dec754af4b417336baa7c66": {
+    "id": "4dec754af4b417336baa7c66",
+    "title": "Adriana Calcanhotto",
+    "link": "https://agendadopedro.pt/concertos/adriana-calcanhotto-lisboa-13434/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "a7ea6dba028b91e4bfa84e05": {
+    "id": "a7ea6dba028b91e4bfa84e05",
+    "title": "Alceu Valença",
+    "link": "https://agendadopedro.pt/concertos/alceu-valenca-lisboa-10779/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "b457c739dca798843ef3d8f4": {
+    "id": "b457c739dca798843ef3d8f4",
+    "title": "Anastacia ᛫ Acrobvt",
+    "link": "https://agendadopedro.pt/concertos/anastacia-lisboa-10119/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "78a82089c7c1f5191de9ecba": {
+    "id": "78a82089c7c1f5191de9ecba",
+    "title": "André Henriques",
+    "link": "https://agendadopedro.pt/concertos/andre-henriques-lisboa-13973/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "1b40f45f027bc14e1a3022a7": {
+    "id": "1b40f45f027bc14e1a3022a7",
+    "title": "André Rieu & The Johann Strauss Orchestra",
+    "link": "https://agendadopedro.pt/concertos/andre-rieu-the-johann-strauss-orchestra-lisboa-10133/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "ba5caf5744ae3f46702a0c38": {
+    "id": "ba5caf5744ae3f46702a0c38",
+    "title": "Herman José",
+    "link": "https://agendadopedro.pt/concertos/herman-jose-lisboa-13248/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "7c26c1a205acd54d368f3fbb": {
+    "id": "7c26c1a205acd54d368f3fbb",
+    "title": "José González",
+    "link": "https://agendadopedro.pt/concertos/jose-gonzalez-lisboa-11949/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
