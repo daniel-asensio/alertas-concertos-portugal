@@ -1329,13 +1329,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "690f0d97931142998d8c78a6": {
-    "id": "690f0d97931142998d8c78a6",
-    "title": "As Águias da República Os Filmes das Nossas Terças",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/as-aguias-da-republica/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "b8ccf554922208dc7462b2ee": {
     "id": "b8ccf554922208dc7462b2ee",
     "title": "Helena Caldeira Novas Quintas",
@@ -2771,73 +2764,66 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "cd7a68b7b901e5024181a8f3": {
-    "id": "cd7a68b7b901e5024181a8f3",
+  "3a949e5f93b43d5f6f836404": {
+    "id": "3a949e5f93b43d5f6f836404",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "0766892484f02ddef085b62f": {
-    "id": "0766892484f02ddef085b62f",
+  "8a6b9f1a85d4b5baad082b72": {
+    "id": "8a6b9f1a85d4b5baad082b72",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "9ff48f78de320bbf97cd5ef5": {
-    "id": "9ff48f78de320bbf97cd5ef5",
+  "fa6e6bbf6fad43445777b8f7": {
+    "id": "fa6e6bbf6fad43445777b8f7",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "3d6e548fd89747b5673932b2": {
-    "id": "3d6e548fd89747b5673932b2",
+  "320177e10dfb14c96d8e3c4b": {
+    "id": "320177e10dfb14c96d8e3c4b",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2921aad92079ff6caedd4c55": {
-    "id": "2921aad92079ff6caedd4c55",
+  "5d9c8dde916eaa636db6eb63": {
+    "id": "5d9c8dde916eaa636db6eb63",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "569d336686cee71f0c8b3bf5": {
-    "id": "569d336686cee71f0c8b3bf5",
+  "2f483d6464fd5cae9db83b80": {
+    "id": "2f483d6464fd5cae9db83b80",
     "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "63f19468c1df919ddf3f2a62": {
-    "id": "63f19468c1df919ddf3f2a62",
+  "b195bbbc5cf0486b24a12ac5": {
+    "id": "b195bbbc5cf0486b24a12ac5",
     "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c728fae578f5903afbf38fb9": {
-    "id": "c728fae578f5903afbf38fb9",
+  "28969c4cbeeb2372fbd9c4f4": {
+    "id": "28969c4cbeeb2372fbd9c4f4",
     "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8ec542e8e4b9da53104523f4": {
-    "id": "8ec542e8e4b9da53104523f4",
-    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
-    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-10-20/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "7f08f185a7d8f13645de00e7": {
-    "id": "7f08f185a7d8f13645de00e7",
+  "6bff4460df537f7238756312": {
+    "id": "6bff4460df537f7238756312",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-20/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2866,6 +2852,20 @@
     "id": "42ba9df973e3398ab1db0ca7",
     "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
     "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "f4c681fe85f7d5fd541aad17": {
+    "id": "f4c681fe85f7d5fd541aad17",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-10-25/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "58388b923f0a7dafed4496cd": {
+    "id": "58388b923f0a7dafed4496cd",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-10-27/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
