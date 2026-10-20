@@ -1070,6 +1070,13 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "9c2b74592f5f007e0c32ffbc": {
+    "id": "9c2b74592f5f007e0c32ffbc",
+    "title": "Fernando Daniel",
+    "link": "https://www.superbockarena.pt/evento/fernando-daniel-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
   "5850f47948ad9bda3fa9d6dc": {
     "id": "5850f47948ad9bda3fa9d6dc",
     "title": "Simple Minds",
@@ -1924,10 +1931,10 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "667086b39ccc36e7dc9bae9b": {
-    "id": "667086b39ccc36e7dc9bae9b",
+  "a6bfec32e07249a7bb975680": {
+    "id": "a6bfec32e07249a7bb975680",
     "title": "'O' | 25TH ANNIVERSARY TOUR",
-    "link": "https://everythingisnew.pt/damien-rice-2/",
+    "link": "https://everythingisnew.pt/damien-rice-2027/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -1970,6 +1977,13 @@
     "id": "c243029adeb3f5c6f4698349",
     "title": "Live 2027",
     "link": "https://everythingisnew.pt/simple-minds-2027/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "60a0611c60fcfd5abca5e2cc": {
+    "id": "60a0611c60fcfd5abca5e2cc",
+    "title": "Tour Norte-Sul 27",
+    "link": "https://everythingisnew.pt/nuno-ribeiro-2027/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2591,7 +2605,7 @@
   },
   "0f1cec674e3a94aaffd9db8c": {
     "id": "0f1cec674e3a94aaffd9db8c",
-    "title": "Atelier 29 Nov 2026 15:00 Quem me acordar, cem anos irá dançar!",
+    "title": "Atelier 05 Dez 2026 10:30 Quem me acordar, cem anos irá dançar!",
     "link": "https://www.cnb.pt/program/atelier-a-bela-adormecida/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
@@ -3023,13 +3037,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "5e6e858fdce16fc5a3517563": {
-    "id": "5e6e858fdce16fc5a3517563",
-    "title": "Alpha Maid ᛫ Superbronca",
-    "link": "https://agendadopedro.pt/concertos/alpha-maid-porto-16289/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "858e6a269bcfb1c6704d0ed2": {
     "id": "858e6a269bcfb1c6704d0ed2",
     "title": "The Black Wizards ᛫ Manga Cava",
@@ -3419,6 +3426,13 @@
     "id": "e27fc486a360e1ed8b88d2d8",
     "title": "Miaw",
     "link": "https://agendadopedro.pt/concertos/miaw-porto-15017/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "207a6cf625a58c95a4b9b165": {
+    "id": "207a6cf625a58c95a4b9b165",
+    "title": "Cris",
+    "link": "https://agendadopedro.pt/concertos/cris-porto-17008/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3968,6 +3982,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "d530fab5f673a82d7e20179f": {
+    "id": "d530fab5f673a82d7e20179f",
+    "title": "Generation Abba",
+    "link": "https://agendadopedro.pt/concertos/generation-abba-porto-17004/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "752cd2eb14f632b2429005a1": {
     "id": "752cd2eb14f632b2429005a1",
     "title": "Lisbon Film Orchestra",
@@ -4210,6 +4231,13 @@
     "id": "61163361dd76715a054dd2d5",
     "title": "The Pineapple Thief",
     "link": "https://agendadopedro.pt/concertos/the-pineapple-thief-porto-16264/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "9cf0fb39a708f666008c1600": {
+    "id": "9cf0fb39a708f666008c1600",
+    "title": "Fernando Daniel",
+    "link": "https://agendadopedro.pt/concertos/fernando-daniel-porto-17013/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4486,10 +4514,24 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "c8d5d454435597581794a8c6": {
-    "id": "c8d5d454435597581794a8c6",
-    "title": "Mariza",
-    "link": "https://agendadopedro.pt/concertos/mariza-lisboa-16896/",
+  "19d605bd5b63ff8ff2c97e22": {
+    "id": "19d605bd5b63ff8ff2c97e22",
+    "title": "Fernando Daniel",
+    "link": "https://agendadopedro.pt/concertos/fernando-daniel-lisboa-17017/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "09345355942e31193a615df3": {
+    "id": "09345355942e31193a615df3",
+    "title": "Nuno Ribeiro",
+    "link": "https://agendadopedro.pt/concertos/nuno-ribeiro-lisboa-17016/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "87c48db59086ac0ce6ab131f": {
+    "id": "87c48db59086ac0ce6ab131f",
+    "title": "ProfJam",
+    "link": "https://agendadopedro.pt/concertos/profjam-lisboa-16998/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4497,13 +4539,6 @@
     "id": "4f6757d23bb4a9394f5ea820",
     "title": "Pz Lisboa 16997",
     "link": "https://agendadopedro.pt/concertos/pz-lisboa-16997/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "add9f85a8d6025a4b0935d30": {
-    "id": "add9f85a8d6025a4b0935d30",
-    "title": "The Jesus and Mary Chain ᛫ Jalen Ngonda ᛫ Linda Martini \"Olhos de Mongol\"",
-    "link": "https://agendadopedro.pt/concertos/the-jesus-and-mary-chain-lisboa-16967/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
