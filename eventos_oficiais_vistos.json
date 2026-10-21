@@ -489,6 +489,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "0def33133b66832d60ccb78a": {
+    "id": "0def33133b66832d60ccb78a",
+    "title": "Gnr Ao Vivo",
+    "link": "https://casadamusica.com/event/gnr-ao-vivo/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "589c836e56cec701fb04fed4": {
     "id": "589c836e56cec701fb04fed4",
     "title": "O Quebra Nozes 20261218",
@@ -822,6 +829,13 @@
     "id": "d855dd4b533a669c99032fec",
     "title": "Némanus",
     "link": "https://www.superbockarena.pt/evento/nemanus/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "cefa547bceda9141837c7940": {
+    "id": "cefa547bceda9141837c7940",
+    "title": "Euro Cup – Portugal x Suiça",
+    "link": "https://www.superbockarena.pt/evento/euro-cup-portugal-x-suica/",
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
@@ -1574,16 +1588,16 @@
     "source": "Cineteatro António Lamoso",
     "kind": "Música, teatro, dança e ópera — Aveiro"
   },
-  "5c5459223afab3f709938e84": {
-    "id": "5c5459223afab3f709938e84",
-    "title": "Penumbra - Música entre Luz e Sombra | Banda Marcial do Vale",
+  "43f386bee6bd6985b46583fd": {
+    "id": "43f386bee6bd6985b46583fd",
+    "title": "Ópera Turandot - Giacomo Puccini",
     "link": "https://cineteatro.cm-feira.pt/",
     "source": "Cineteatro António Lamoso",
     "kind": "Música, teatro, dança e ópera — Aveiro"
   },
-  "43f386bee6bd6985b46583fd": {
-    "id": "43f386bee6bd6985b46583fd",
-    "title": "Ópera Turandot - Giacomo Puccini",
+  "5c5459223afab3f709938e84": {
+    "id": "5c5459223afab3f709938e84",
+    "title": "Penumbra - Música entre Luz e Sombra | Banda Marcial do Vale",
     "link": "https://cineteatro.cm-feira.pt/",
     "source": "Cineteatro António Lamoso",
     "kind": "Música, teatro, dança e ópera — Aveiro"
