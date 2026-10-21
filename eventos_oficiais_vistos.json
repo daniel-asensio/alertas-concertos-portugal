@@ -2932,6 +2932,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "f4319bdd179ae0d362e323f4": {
+    "id": "f4319bdd179ae0d362e323f4",
+    "title": "Memórias, Silêncios E Disputas No Espaço Público Em Duas Cidades Da Península Ibérica - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/memorias-silencios-e-disputas-no-espaco-publico-em-duas-cidades-da-peninsula-iberica/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "cfcede362fb17b364e6e5e9a": {
     "id": "cfcede362fb17b364e6e5e9a",
     "title": "Neïl Beloufa",
@@ -3459,7 +3466,7 @@
   },
   "6a53d4702eab172901c01aa3": {
     "id": "6a53d4702eab172901c01aa3",
-    "title": "Geordie Greep",
+    "title": "Geordie Greep Cancelado",
     "link": "https://agendadopedro.pt/concertos/geordie-greep-porto-15319/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -4507,10 +4514,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "4465b92df35be6afd3117013": {
-    "id": "4465b92df35be6afd3117013",
-    "title": "Damien Rice",
-    "link": "https://agendadopedro.pt/concertos/damien-rice-lisboa-16970/",
+  "50227745c6a421c10195208f": {
+    "id": "50227745c6a421c10195208f",
+    "title": "Alex Warren",
+    "link": "https://agendadopedro.pt/concertos/alex-warren-figueira-da-foz-17019/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
