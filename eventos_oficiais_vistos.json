@@ -1,11 +1,4 @@
 {
-  "929df6ff218540e6f1a042c9": {
-    "id": "929df6ff218540e6f1a042c9",
-    "title": "Rodrigo Correia E Joao Barradas",
-    "link": "https://casadamusica.com/event/rodrigo-correia-e-joao-barradas/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "871b5dcce6cedcf003f32356": {
     "id": "871b5dcce6cedcf003f32356",
     "title": "Bonanca 2",
@@ -1119,13 +1112,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "2b8bb3b05ce1efb94a15cb5b": {
-    "id": "2b8bb3b05ce1efb94a15cb5b",
-    "title": "THE LEMON TWIGS",
-    "link": "https://www.hardclubporto.com/PT/evento/the-lemon-twigs-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "5ed7d0ba01a2091f6a6044ce": {
     "id": "5ed7d0ba01a2091f6a6044ce",
     "title": "ISA BUZZI TOUR",
@@ -1137,6 +1123,13 @@
     "id": "bcb1aa3f1e3a6e3a00480b71",
     "title": "Conejo Loco World",
     "link": "https://www.hardclubporto.com/PT/evento/conejo-loco-world-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "8535911f1eea032d6ff13c16": {
+    "id": "8535911f1eea032d6ff13c16",
+    "title": "Kasta",
+    "link": "https://www.hardclubporto.com/PT/evento/kasta-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -3008,27 +3001,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "7b8ab4b788210096c3891fad": {
-    "id": "7b8ab4b788210096c3891fad",
-    "title": "Rodrigo Correia & João Barradas",
-    "link": "https://agendadopedro.pt/concertos/rodrigo-correia-joao-barradas-porto-15559/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "fded53d493e2ffd2b5498fe6": {
-    "id": "fded53d493e2ffd2b5498fe6",
-    "title": "The Lemon Twigs",
-    "link": "https://agendadopedro.pt/concertos/the-lemon-twigs-porto-16584/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6b38a9a91839d09f218d1975": {
-    "id": "6b38a9a91839d09f218d1975",
-    "title": "Nina Maia",
-    "link": "https://agendadopedro.pt/concertos/nina-maia-porto-15446/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "a3d63a0e969862d6b1934338": {
     "id": "a3d63a0e969862d6b1934338",
