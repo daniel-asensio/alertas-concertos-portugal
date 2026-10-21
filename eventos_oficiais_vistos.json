@@ -2393,13 +2393,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "662a3d1968e80c5a517c19dc": {
-    "id": "662a3d1968e80c5a517c19dc",
-    "title": "Falso Nove Nao Sonho Quase Nada",
-    "link": "https://coliseulisboa.com/eventos/falso-nove-nao-sonho-quase-nada/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "4f844286f6239b65ea6ba57d": {
     "id": "4f844286f6239b65ea6ba57d",
     "title": "The Soloist Of Wiener Mozart Orchestra",
@@ -2495,6 +2488,13 @@
     "id": "e54d7570ea281322a88bdfb8",
     "title": "Eros Prado O Pagode Da Ofensa",
     "link": "https://coliseulisboa.com/eventos/eros-prado-o-pagode-da-ofensa/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "e646ba8a771eea984c9b9bd9": {
+    "id": "e646ba8a771eea984c9b9bd9",
+    "title": "Super Bock Em Stock 2026",
+    "link": "https://coliseulisboa.com/eventos/super-bock-em-stock-2026/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
