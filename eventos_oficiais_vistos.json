@@ -1126,6 +1126,13 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "53ab937573f07dad2e619a72": {
+    "id": "53ab937573f07dad2e619a72",
+    "title": "Radio Bemba Festa Latina",
+    "link": "https://www.hardclubporto.com/PT/evento/radio-bemba-festa-latina-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
   "5ed7d0ba01a2091f6a6044ce": {
     "id": "5ed7d0ba01a2091f6a6044ce",
     "title": "ISA BUZZI TOUR",
@@ -1137,13 +1144,6 @@
     "id": "bcb1aa3f1e3a6e3a00480b71",
     "title": "Conejo Loco World",
     "link": "https://www.hardclubporto.com/PT/evento/conejo-loco-world-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
-  "8535911f1eea032d6ff13c16": {
-    "id": "8535911f1eea032d6ff13c16",
-    "title": "Kasta",
-    "link": "https://www.hardclubporto.com/PT/evento/kasta-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1683,13 +1683,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "2680b4a6fa8898c7d587e411": {
-    "id": "2680b4a6fa8898c7d587e411",
-    "title": "1ªparte: Chalk",
-    "link": "https://everythingisnew.pt/fontaines-d-c/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -3835,6 +3828,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "cae38ff4958517b16d8ae878": {
+    "id": "cae38ff4958517b16d8ae878",
+    "title": "Evols ᛫ Calcutá",
+    "link": "https://agendadopedro.pt/concertos/evols-porto-17060/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "4ac7086e251de87452d95d0d": {
     "id": "4ac7086e251de87452d95d0d",
     "title": "Tota",
@@ -3888,6 +3888,20 @@
     "id": "1764da96e88567a9929c4050",
     "title": "Day Trippers",
     "link": "https://agendadopedro.pt/concertos/day-trippers-porto-16221/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "ae62630dbaf62ced4071864c": {
+    "id": "ae62630dbaf62ced4071864c",
+    "title": "GNR \"In Vivo\"",
+    "link": "https://agendadopedro.pt/concertos/gnr-porto-17037/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "fc6c17140693dbbdc528c9e2": {
+    "id": "fc6c17140693dbbdc528c9e2",
+    "title": "GNR \"In Vivo\"",
+    "link": "https://agendadopedro.pt/concertos/gnr-porto-17038/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
