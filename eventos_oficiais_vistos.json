@@ -55,6 +55,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "e5276e2cdcaac5c7af7f00ab": {
+    "id": "e5276e2cdcaac5c7af7f00ab",
+    "title": "Porto 2001 2026 Arquitetura Cultura E Cidade 25 Anos Depois",
+    "link": "https://casadamusica.com/event/porto-2001-2026-arquitetura-cultura-e-cidade-25-anos-depois/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "6f8932413d029f41a9a14f32": {
     "id": "6f8932413d029f41a9a14f32",
     "title": "Adriana Calcanhotto",
@@ -1168,10 +1175,10 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "448ec5bfb73b5786e1a12eb8": {
-    "id": "448ec5bfb73b5786e1a12eb8",
-    "title": "Auto da Casa",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7273/auto-da-casa/",
+  "c60c6c3b1a1d561ec64105a4": {
+    "id": "c60c6c3b1a1d561ec64105a4",
+    "title": "ABC da Guerra",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7306/abc-da-guerra/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -2554,13 +2561,6 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "06afb6bd3e735ce8ffb8404f": {
-    "id": "06afb6bd3e735ce8ffb8404f",
-    "title": "Ensaio Geral Solidário 21 Out 2026 20:00 Desassossego",
-    "link": "https://www.cnb.pt/program/egs-desassossego/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
   "d3967480bf5d6525f34f6087": {
     "id": "d3967480bf5d6525f34f6087",
     "title": "01 Nov 2026 16:00 Desassossego",
@@ -2605,7 +2605,7 @@
   },
   "0f1cec674e3a94aaffd9db8c": {
     "id": "0f1cec674e3a94aaffd9db8c",
-    "title": "Atelier 05 Dez 2026 10:30 Quem me acordar, cem anos irá dançar!",
+    "title": "Atelier 05 Dez 2026 15:00 Quem me acordar, cem anos irá dançar!",
     "link": "https://www.cnb.pt/program/atelier-a-bela-adormecida/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
@@ -2757,38 +2757,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "0615c6a6b6b303178740256d": {
-    "id": "0615c6a6b6b303178740256d",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "a359d10ff537a185a4e450cd": {
-    "id": "a359d10ff537a185a4e450cd",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "cb5bbe7a22728ad6f1e0453a": {
-    "id": "cb5bbe7a22728ad6f1e0453a",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "6059101728bc57a935398be0": {
     "id": "6059101728bc57a935398be0",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
     "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "72c5ada41b596999619fb9b3": {
-    "id": "72c5ada41b596999619fb9b3",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-22/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2813,10 +2785,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "5039504b2a251a08f8bff55f": {
-    "id": "5039504b2a251a08f8bff55f",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-22/",
+  "9dbab6837b8c071abb93e5cd": {
+    "id": "9dbab6837b8c071abb93e5cd",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-23/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b9272fb17e3d50f43cbdd4e5": {
+    "id": "b9272fb17e3d50f43cbdd4e5",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-23/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2824,6 +2803,27 @@
     "id": "ff5361ad6a811b84c9cdbb9b",
     "title": "3.º Aniversário MAC/CCB - Entrada livre",
     "link": "https://www.ccb.pt/evento/3-o-aniversario-do-mac-ccb/2026-10-23/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "10aa3380d80a06f429797c4d": {
+    "id": "10aa3380d80a06f429797c4d",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-23/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "02b88337a550976d9edad519": {
+    "id": "02b88337a550976d9edad519",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-23/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "59fa6e17b9c9351dd33864d2": {
+    "id": "59fa6e17b9c9351dd33864d2",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-23/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
