@@ -1,11 +1,4 @@
 {
-  "871b5dcce6cedcf003f32356": {
-    "id": "871b5dcce6cedcf003f32356",
-    "title": "Bonanca 2",
-    "link": "https://casadamusica.com/event/bonanca-2/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "aae7d80c46793947768f9565": {
     "id": "aae7d80c46793947768f9565",
     "title": "Inscape",
@@ -2988,20 +2981,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "a227b91d801c57ffe1f3cf0e": {
-    "id": "a227b91d801c57ffe1f3cf0e",
-    "title": "Tickles",
-    "link": "https://agendadopedro.pt/concertos/tickles-porto-16608/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "858e6a269bcfb1c6704d0ed2": {
-    "id": "858e6a269bcfb1c6704d0ed2",
-    "title": "The Black Wizards ᛫ Manga Cava",
-    "link": "https://agendadopedro.pt/concertos/the-black-wizards-porto-16288/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "58c1190ea4312e20f0106888": {
     "id": "58c1190ea4312e20f0106888",
     "title": "Gerardo Rodrigues",
@@ -4395,13 +4374,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "9216de8dd3a751cc82522bf7": {
-    "id": "9216de8dd3a751cc82522bf7",
-    "title": "Adriana Calcanhotto",
-    "link": "https://agendadopedro.pt/concertos/adriana-calcanhotto-coimbra-13417/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "ff393e931ed8fa76e0ffa2cd": {
     "id": "ff393e931ed8fa76e0ffa2cd",
     "title": "Jungle ᛫ Rio Kosta",
@@ -4409,24 +4381,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "fa4dd16f18c802473c66cfb4": {
-    "id": "fa4dd16f18c802473c66cfb4",
-    "title": "Laura Pausini",
-    "link": "https://agendadopedro.pt/concertos/laura-pausini-lisboa-10011/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "cc4c17c2c1b75c62f78d4152": {
     "id": "cc4c17c2c1b75c62f78d4152",
     "title": "Marina Sena",
     "link": "https://agendadopedro.pt/concertos/marina-sena-lisboa-14132/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "20d2f0bc3c36345e1f80b891": {
-    "id": "20d2f0bc3c36345e1f80b891",
-    "title": "Yard Act",
-    "link": "https://agendadopedro.pt/concertos/yard-act-lisboa-13213/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
