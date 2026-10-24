@@ -1,11 +1,4 @@
 {
-  "aae7d80c46793947768f9565": {
-    "id": "aae7d80c46793947768f9565",
-    "title": "Inscape",
-    "link": "https://casadamusica.com/event/inscape/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "de2f2b37845633e09891870a": {
     "id": "de2f2b37845633e09891870a",
     "title": "Musica Popular Portuguesa",
@@ -1676,13 +1669,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "690c157ca2af9321fbf55017": {
-    "id": "690c157ca2af9321fbf55017",
-    "title": "Io Canto World Tour",
-    "link": "https://everythingisnew.pt/laura-pausini-lisboa-2026/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
