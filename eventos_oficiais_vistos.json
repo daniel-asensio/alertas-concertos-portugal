@@ -2549,7 +2549,7 @@
   },
   "0f1cec674e3a94aaffd9db8c": {
     "id": "0f1cec674e3a94aaffd9db8c",
-    "title": "Atelier 05 Dez 2026 15:00 Quem me acordar, cem anos irá dançar!",
+    "title": "Atelier 06 Dez 2026 15:00 Quem me acordar, cem anos irá dançar!",
     "link": "https://www.cnb.pt/program/atelier-a-bela-adormecida/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
@@ -2778,13 +2778,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "42ba9df973e3398ab1db0ca7": {
-    "id": "42ba9df973e3398ab1db0ca7",
-    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
-    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-24/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "f771812660bcc0b1a6118961": {
     "id": "f771812660bcc0b1a6118961",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
@@ -2831,6 +2824,13 @@
     "id": "a00d1bd5dbcf0a19fa394bff",
     "title": "Mostra Espanha 2026 Obras Convidadas",
     "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "46e1dab7aa190486e7df9030": {
+    "id": "46e1dab7aa190486e7df9030",
+    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
+    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-31/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3419,6 +3419,13 @@
     "id": "9dc8f64ee25fdf3dcf40e90e",
     "title": "Rubel",
     "link": "https://agendadopedro.pt/concertos/rubel-porto-11155/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "661d4491b3e267604ff0e26b": {
+    "id": "661d4491b3e267604ff0e26b",
+    "title": "Mansion's Cellar",
+    "link": "https://agendadopedro.pt/concertos/mansion-s-cellar-porto-17090/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4409,17 +4416,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "37908256f539040634fc755a": {
+    "id": "37908256f539040634fc755a",
+    "title": "David Carreira",
+    "link": "https://agendadopedro.pt/concertos/david-carreira-lisboa-17089/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "19d605bd5b63ff8ff2c97e22": {
     "id": "19d605bd5b63ff8ff2c97e22",
     "title": "Fernando Daniel",
     "link": "https://agendadopedro.pt/concertos/fernando-daniel-lisboa-17017/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "09345355942e31193a615df3": {
-    "id": "09345355942e31193a615df3",
-    "title": "Nuno Ribeiro",
-    "link": "https://agendadopedro.pt/concertos/nuno-ribeiro-lisboa-17016/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
