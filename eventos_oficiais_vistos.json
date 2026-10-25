@@ -2309,13 +2309,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "4f8f910e8647e0cca915f0b3": {
-    "id": "4f8f910e8647e0cca915f0b3",
-    "title": "Festa Da Burra No Coliseu",
-    "link": "https://coliseulisboa.com/eventos/festa-da-burra-no-coliseu/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "ddff7dd8da0b603041920759": {
     "id": "ddff7dd8da0b603041920759",
     "title": "Marina Sena Coisas Naturais",
@@ -2411,6 +2404,13 @@
     "id": "3fc636db6ec89332fd5472e0",
     "title": "Virgem Suta Sala De Estar",
     "link": "https://coliseulisboa.com/eventos/virgem-suta-sala-de-estar/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "8ff43842f53e595ee797ae11": {
+    "id": "8ff43842f53e595ee797ae11",
+    "title": "O Barbeiro De Sevilha Opera De Gioachino Rossini",
+    "link": "https://coliseulisboa.com/eventos/o-barbeiro-de-sevilha-opera-de-gioachino-rossini/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
