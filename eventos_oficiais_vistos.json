@@ -1,25 +1,4 @@
 {
-  "de2f2b37845633e09891870a": {
-    "id": "de2f2b37845633e09891870a",
-    "title": "Musica Popular Portuguesa",
-    "link": "https://casadamusica.com/event/musica-popular-portuguesa/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "699f9ab10c4c6f48b479e34d": {
-    "id": "699f9ab10c4c6f48b479e34d",
-    "title": "Daniel Casares Sexteto",
-    "link": "https://casadamusica.com/event/daniel-casares-sexteto/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "0a69ad5f9463f750413ba61a": {
-    "id": "0a69ad5f9463f750413ba61a",
-    "title": "Rita Redshoes",
-    "link": "https://casadamusica.com/event/rita-redshoes/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "1c5196c19fe37c8a9945c804": {
     "id": "1c5196c19fe37c8a9945c804",
     "title": "Estacao Casa Da Musica 2027",
@@ -818,6 +797,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "4149c86d859443bf1bad3692": {
+    "id": "4149c86d859443bf1bad3692",
+    "title": "Ute Lemper 3",
+    "link": "https://casadamusica.com/event/ute-lemper-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "cefa547bceda9141837c7940": {
     "id": "cefa547bceda9141837c7940",
     "title": "Euro Cup – Portugal x Suiça",
@@ -1112,24 +1098,24 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "5ed7d0ba01a2091f6a6044ce": {
-    "id": "5ed7d0ba01a2091f6a6044ce",
-    "title": "ISA BUZZI TOUR",
-    "link": "https://www.hardclubporto.com/PT/evento/isa-buzzi-tour-clube-dos-coracoes-partidos-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
-  "bcb1aa3f1e3a6e3a00480b71": {
-    "id": "bcb1aa3f1e3a6e3a00480b71",
-    "title": "Conejo Loco World",
-    "link": "https://www.hardclubporto.com/PT/evento/conejo-loco-world-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "8535911f1eea032d6ff13c16": {
     "id": "8535911f1eea032d6ff13c16",
     "title": "Kasta",
     "link": "https://www.hardclubporto.com/PT/evento/kasta-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "b489e1b38491c4505a0fc9ae": {
+    "id": "b489e1b38491c4505a0fc9ae",
+    "title": "MOONSPELL",
+    "link": "https://www.hardclubporto.com/PT/evento/moonspell-invicta-halloween-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "e569fe2a91e7a51cf694a319": {
+    "id": "e569fe2a91e7a51cf694a319",
+    "title": "Scary Groove Quest",
+    "link": "https://www.hardclubporto.com/PT/evento/scary-groove-quest-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1545,13 +1531,6 @@
     "link": "https://www.teatroaveirense.pt/index.php/evento/cristina/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
-  },
-  "5ee4dcec022517e08e08b1d1": {
-    "id": "5ee4dcec022517e08e08b1d1",
-    "title": "O Salvado | Companhia Olga Roriz",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
   },
   "1d38152b5dd0e61d013ddfd9": {
     "id": "1d38152b5dd0e61d013ddfd9",
@@ -2687,87 +2666,80 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d02ae57b180a47ed0b61af73": {
-    "id": "d02ae57b180a47ed0b61af73",
+  "804631afb5e2a662505a0ae0": {
+    "id": "804631afb5e2a662505a0ae0",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2421909cfce5432852b4651e": {
-    "id": "2421909cfce5432852b4651e",
+  "c8a63c06f5aff90d6d63637a": {
+    "id": "c8a63c06f5aff90d6d63637a",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4e265916021453811d24f64a": {
-    "id": "4e265916021453811d24f64a",
+  "d9f974c383a84c5feb0d5179": {
+    "id": "d9f974c383a84c5feb0d5179",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "9e027699e4ba12b9eccceebd": {
-    "id": "9e027699e4ba12b9eccceebd",
+  "1139741f5da969fe60d8b451": {
+    "id": "1139741f5da969fe60d8b451",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
-    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "835197711ace18dfeb9b8008": {
-    "id": "835197711ace18dfeb9b8008",
+  "b544ba38e76c85fea56ea91f": {
+    "id": "b544ba38e76c85fea56ea91f",
     "title": "3.º Aniversário MAC/CCB - Entrada livre",
-    "link": "https://www.ccb.pt/evento/3-o-aniversario-do-mac-ccb/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/3-o-aniversario-do-mac-ccb/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8c38606b3e7506c2ae3eb43b": {
-    "id": "8c38606b3e7506c2ae3eb43b",
+  "c30c84b000dbbc03f8808eee": {
+    "id": "c30c84b000dbbc03f8808eee",
     "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ef2df368e418b5f09a2c70fd": {
-    "id": "ef2df368e418b5f09a2c70fd",
+  "5b1320cbfd14a35d4978de6d": {
+    "id": "5b1320cbfd14a35d4978de6d",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ab9f48487a33317aae068991": {
-    "id": "ab9f48487a33317aae068991",
+  "cffc42515b55d7880ee6a6d7": {
+    "id": "cffc42515b55d7880ee6a6d7",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "6cd5a79efa96cbaa5c29adc3": {
-    "id": "6cd5a79efa96cbaa5c29adc3",
+  "e85ca2af8ca79839beaba5e0": {
+    "id": "e85ca2af8ca79839beaba5e0",
     "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2a1d4efc3023809f9ad728ce": {
-    "id": "2a1d4efc3023809f9ad728ce",
+  "fdae61b092eb4309529c4746": {
+    "id": "fdae61b092eb4309529c4746",
     "title": "Olhos Múltiplos",
-    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/exposicao-olhos-multiplos/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b7b34de3d5633f581fbc2740": {
-    "id": "b7b34de3d5633f581fbc2740",
+  "ffddf76a6a445b3acc710161": {
+    "id": "ffddf76a6a445b3acc710161",
     "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-24/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f771812660bcc0b1a6118961": {
-    "id": "f771812660bcc0b1a6118961",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-24/",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2775,6 +2747,13 @@
     "id": "f4c681fe85f7d5fd541aad17",
     "title": "Visitas Guiadas",
     "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-10-25/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b7ef07d8d5bc72ff3c69f7c2": {
+    "id": "b7ef07d8d5bc72ff3c69f7c2",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2938,48 +2917,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "8f52cf2143cabace2c860a38": {
-    "id": "8f52cf2143cabace2c860a38",
-    "title": "Daniel Casares Sexteto",
-    "link": "https://agendadopedro.pt/concertos/daniel-casares-sexteto-porto-15376/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "a82f61e975d265bd1ab6aee8": {
-    "id": "a82f61e975d265bd1ab6aee8",
-    "title": "Rita Redshoes",
-    "link": "https://agendadopedro.pt/concertos/rita-redshoes-porto-13548/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "d4d13f34318a2af9751314a3": {
-    "id": "d4d13f34318a2af9751314a3",
-    "title": "Marina Sena",
-    "link": "https://agendadopedro.pt/concertos/marina-sena-porto-14113/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "bd257e3a62bdcae7d1627363": {
-    "id": "bd257e3a62bdcae7d1627363",
-    "title": "Isa Buzzi",
-    "link": "https://agendadopedro.pt/concertos/isa-buzzi-porto-12234/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "c2a9cc17f2af39d71f1bd76a": {
-    "id": "c2a9cc17f2af39d71f1bd76a",
-    "title": "Némanus",
-    "link": "https://agendadopedro.pt/concertos/nemanus-porto-10868/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "1b958f05b3b6a7f0578aa83a": {
-    "id": "1b958f05b3b6a7f0578aa83a",
-    "title": "Victoria ᛫ Parque Império",
-    "link": "https://agendadopedro.pt/concertos/victoria-porto-15345/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "53dd1aaebae2a25c082194bf": {
     "id": "53dd1aaebae2a25c082194bf",
@@ -4329,13 +4266,6 @@
     "id": "cf5df6f81a1dd72ac80b3c91",
     "title": "D'zrt",
     "link": "https://agendadopedro.pt/concertos/d-zrt-porto-15566/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "ff393e931ed8fa76e0ffa2cd": {
-    "id": "ff393e931ed8fa76e0ffa2cd",
-    "title": "Jungle ᛫ Rio Kosta",
-    "link": "https://agendadopedro.pt/concertos/jungle-lisboa-12512/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
