@@ -1,18 +1,4 @@
 {
-  "1c5196c19fe37c8a9945c804": {
-    "id": "1c5196c19fe37c8a9945c804",
-    "title": "Estacao Casa Da Musica 2027",
-    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "8247b501e8674f0800d156f1": {
-    "id": "8247b501e8674f0800d156f1",
-    "title": "Imagens",
-    "link": "https://casadamusica.com/event/imagens/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "e94ad95bef1d937c284c12fb": {
     "id": "e94ad95bef1d937c284c12fb",
     "title": "A Arte Da Composicao Da Historia A Modernidade",
@@ -80,6 +66,13 @@
     "id": "5c07d33725beae464548af33",
     "title": "Iii Festival Tunas Elite",
     "link": "https://casadamusica.com/event/iii-festival-tunas-elite/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "1c5196c19fe37c8a9945c804": {
+    "id": "1c5196c19fe37c8a9945c804",
+    "title": "Estacao Casa Da Musica 2027",
+    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1630,27 +1623,6 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "c1c03693eb28a4d83d4d7d08": {
-    "id": "c1c03693eb28a4d83d4d7d08",
-    "title": "1ªparte: Rio Kosta",
-    "link": "https://everythingisnew.pt/jungle/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "5d038bc0c5d6a61b0159cf56": {
-    "id": "5d038bc0c5d6a61b0159cf56",
-    "title": "SARA CORREIA – FESTIVAL FADO SEVILLA",
-    "link": "https://everythingisnew.pt/sara-correia-festival-fado-sevilla/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "d4b991b219637608740efd4d": {
-    "id": "d4b991b219637608740efd4d",
-    "title": "BEATRIZ FELÍCIO – FESTIVAL FADO SEVILLA",
-    "link": "https://everythingisnew.pt/beatriz-felicio-festival-fado-sevilla/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
   "548ac3849520fa8c33f7b57b": {
     "id": "548ac3849520fa8c33f7b57b",
     "title": "1ªparte: ACROBVT",
@@ -2974,20 +2946,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "53dd1aaebae2a25c082194bf": {
-    "id": "53dd1aaebae2a25c082194bf",
-    "title": "Heith & Tarawangsawelas",
-    "link": "https://agendadopedro.pt/concertos/heith-tarawangsawelas-porto-14540/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "5ded2dd1a43d20410047b206": {
-    "id": "5ded2dd1a43d20410047b206",
-    "title": "Benziê",
-    "link": "https://agendadopedro.pt/concertos/benzie-porto-16220/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "5b51920f6ab3a5f8d301600f": {
     "id": "5b51920f6ab3a5f8d301600f",
     "title": "Kasta",
@@ -3137,7 +3095,7 @@
   },
   "d178d9e001099bd051c11ccc": {
     "id": "d178d9e001099bd051c11ccc",
-    "title": "Pedro Abrunhosa ᛫ GNR ᛫ Três Tristes Tigres ᛫ Pedro Burmester",
+    "title": "Pedro Abrunhosa ᛫ GNR ᛫ Três Tristes Tigres ᛫ ...",
     "link": "https://agendadopedro.pt/concertos/pedro-abrunhosa-porto-16761/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -4325,13 +4283,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "cc4c17c2c1b75c62f78d4152": {
-    "id": "cc4c17c2c1b75c62f78d4152",
-    "title": "Marina Sena",
-    "link": "https://agendadopedro.pt/concertos/marina-sena-lisboa-14132/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "4dec754af4b417336baa7c66": {
     "id": "4dec754af4b417336baa7c66",
     "title": "Adriana Calcanhotto",
@@ -4378,6 +4329,41 @@
     "id": "7c26c1a205acd54d368f3fbb",
     "title": "José González",
     "link": "https://agendadopedro.pt/concertos/jose-gonzalez-lisboa-11949/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "96a9c211a92a7a78ebdec276": {
+    "id": "96a9c211a92a7a78ebdec276",
+    "title": "Duran Duran",
+    "link": "https://agendadopedro.pt/concertos/duran-duran-lisboa-14518/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "b8f8b16c5f2b98a7850c0e28": {
+    "id": "b8f8b16c5f2b98a7850c0e28",
+    "title": "José Pinhal Post-Mortem Experience",
+    "link": "https://agendadopedro.pt/concertos/jose-pinhal-post-mortem-experience-lisboa-10073/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "17c80e94076db7c8c8e72614": {
+    "id": "17c80e94076db7c8c8e72614",
+    "title": "Niña Pastori",
+    "link": "https://agendadopedro.pt/concertos/nina-pastori-lisboa-10093/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "85b3dbc5f06606768184db1d": {
+    "id": "85b3dbc5f06606768184db1d",
+    "title": "Pitbull ᛫ Lil Jon",
+    "link": "https://agendadopedro.pt/concertos/pitbull-lisboa-12007/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "add9f85a8d6025a4b0935d30": {
+    "id": "add9f85a8d6025a4b0935d30",
+    "title": "The Jesus and Mary Chain ᛫ Jalen Ngonda ᛫ Linda Martini \"Olhos de Mongol\"",
+    "link": "https://agendadopedro.pt/concertos/the-jesus-and-mary-chain-lisboa-16967/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
