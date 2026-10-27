@@ -2365,6 +2365,13 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "9a1fad2a169af2ab18c21965": {
+    "id": "9a1fad2a169af2ab18c21965",
+    "title": "David Carreira Reencontro 2027",
+    "link": "https://arena.meo.pt/agenda/david-carreira-reencontro-2027_pt/16721/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "b02362b871985f07fa376620": {
     "id": "b02362b871985f07fa376620",
     "title": "Ricardo Reis Soares Daniela Galhoz 2",
@@ -4423,10 +4430,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "142c6edcbe0ada4e91ad5c82": {
-    "id": "142c6edcbe0ada4e91ad5c82",
+  "914196799767e250a2fa7adc": {
+    "id": "914196799767e250a2fa7adc",
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-10-26-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-10-27-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
