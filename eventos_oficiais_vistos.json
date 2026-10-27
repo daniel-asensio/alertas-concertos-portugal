@@ -1,11 +1,4 @@
 {
-  "e94ad95bef1d937c284c12fb": {
-    "id": "e94ad95bef1d937c284c12fb",
-    "title": "A Arte Da Composicao Da Historia A Modernidade",
-    "link": "https://casadamusica.com/event/a-arte-da-composicao-da-historia-a-modernidade/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "e5276e2cdcaac5c7af7f00ab": {
     "id": "e5276e2cdcaac5c7af7f00ab",
     "title": "Porto 2001 2026 Arquitetura Cultura E Cidade 25 Anos Depois",
@@ -80,6 +73,13 @@
     "id": "2703261fb6526e84bf845d7c",
     "title": "De Profundis",
     "link": "https://casadamusica.com/event/de-profundis/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "e94ad95bef1d937c284c12fb": {
+    "id": "e94ad95bef1d937c284c12fb",
+    "title": "A Arte Da Composicao Da Historia A Modernidade",
+    "link": "https://casadamusica.com/event/a-arte-da-composicao-da-historia-a-modernidade/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1098,13 +1098,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "8535911f1eea032d6ff13c16": {
-    "id": "8535911f1eea032d6ff13c16",
-    "title": "Kasta",
-    "link": "https://www.hardclubporto.com/PT/evento/kasta-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "b489e1b38491c4505a0fc9ae": {
     "id": "b489e1b38491c4505a0fc9ae",
     "title": "MOONSPELL",
@@ -1116,6 +1109,13 @@
     "id": "e569fe2a91e7a51cf694a319",
     "title": "Scary Groove Quest",
     "link": "https://www.hardclubporto.com/PT/evento/scary-groove-quest-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "e4504e7c041eb7ead0957570": {
+    "id": "e4504e7c041eb7ead0957570",
+    "title": "MOONSPELL",
+    "link": "https://www.hardclubporto.com/PT/evento/moonspell-invicta-halloween-2026-parte-ii-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -2960,13 +2960,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "5b51920f6ab3a5f8d301600f": {
-    "id": "5b51920f6ab3a5f8d301600f",
-    "title": "Kasta",
-    "link": "https://agendadopedro.pt/concertos/kasta-porto-15504/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "588cc04e0c69b5630b41daa3": {
     "id": "588cc04e0c69b5630b41daa3",
     "title": "Adriana Calcanhotto",
@@ -4315,13 +4308,6 @@
     "id": "cf5df6f81a1dd72ac80b3c91",
     "title": "D'zrt",
     "link": "https://agendadopedro.pt/concertos/d-zrt-porto-15566/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "4dec754af4b417336baa7c66": {
-    "id": "4dec754af4b417336baa7c66",
-    "title": "Adriana Calcanhotto",
-    "link": "https://agendadopedro.pt/concertos/adriana-calcanhotto-lisboa-13434/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
