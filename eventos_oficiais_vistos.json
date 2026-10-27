@@ -125,6 +125,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "0854fecd18cb4b3c04ed4ab9": {
+    "id": "0854fecd18cb4b3c04ed4ab9",
+    "title": "Comemoracoes 150 Anos Da Caixa Geral De Depositos",
+    "link": "https://casadamusica.com/event/comemoracoes-150-anos-da-caixa-geral-de-depositos/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "2fa06507bbb8ce71a4cbf4e0": {
     "id": "2fa06507bbb8ce71a4cbf4e0",
     "title": "Regresso Ao Barroco",
@@ -2878,7 +2885,7 @@
   },
   "f4319bdd179ae0d362e323f4": {
     "id": "f4319bdd179ae0d362e323f4",
-    "title": "Memórias, Silêncios E Disputas No Espaço Público Em Duas Cidades Da Península Ibérica - Centro Cultural de Belém",
+    "title": "Memórias, Silêncios e Disputas no Espaço Público em Duas Cidades da Península Ibérica",
     "link": "https://www.ccb.pt/evento/memorias-silencios-e-disputas-no-espaco-publico-em-duas-cidades-da-peninsula-iberica/2026-11-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
@@ -3079,6 +3086,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "efc29b675541e0c34a6e606b": {
+    "id": "efc29b675541e0c34a6e606b",
+    "title": "Skryabin",
+    "link": "https://agendadopedro.pt/concertos/skryabin-porto-17114/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "635629b9417eeef789b60563": {
     "id": "635629b9417eeef789b60563",
     "title": "Black Bombaim & Isaiah Mitchell",
@@ -3195,6 +3209,13 @@
     "id": "2595ff70b73fecc4450a2621",
     "title": "Rodrigo Cuevas",
     "link": "https://agendadopedro.pt/concertos/rodrigo-cuevas-porto-13626/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "365b0869643aca9fbf31e726": {
+    "id": "365b0869643aca9fbf31e726",
+    "title": "Monstro",
+    "link": "https://agendadopedro.pt/concertos/monstro-porto-17121/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4420,6 +4441,13 @@
     "id": "7c621e44474608fc987df975",
     "title": "James Blunt",
     "link": "https://agendadopedro.pt/concertos/james-blunt-douro-porto-wine-festival-lamego-17061/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "80168c9a4d98f9e611e9608e": {
+    "id": "80168c9a4d98f9e611e9608e",
+    "title": "Saint Etienne",
+    "link": "https://agendadopedro.pt/concertos/saint-etienne-lisboa-17117/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
