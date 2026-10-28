@@ -41,6 +41,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "f5d675d74774b1ac4e8f5ac1": {
+    "id": "f5d675d74774b1ac4e8f5ac1",
+    "title": "Tiago Manuel Soares Apresenta Nativo",
+    "link": "https://casadamusica.com/event/tiago-manuel-soares-apresenta-nativo/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "5c07d33725beae464548af33": {
     "id": "5c07d33725beae464548af33",
     "title": "Iii Festival Tunas Elite",
@@ -290,6 +297,13 @@
     "id": "cc5789bf5f549a9a0197b522",
     "title": "Al Di Meola",
     "link": "https://casadamusica.com/event/al-di-meola/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "3e39e80eeba50d047e522d47": {
+    "id": "3e39e80eeba50d047e522d47",
+    "title": "Luan Sodre Quarteto",
+    "link": "https://casadamusica.com/event/luan-sodre-quarteto/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -794,13 +808,6 @@
     "id": "4149c86d859443bf1bad3692",
     "title": "Ute Lemper 3",
     "link": "https://casadamusica.com/event/ute-lemper-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "c610bf5ced5f73e680b0c22a": {
-    "id": "c610bf5ced5f73e680b0c22a",
-    "title": "Sonopolis 3",
-    "link": "https://casadamusica.com/event/sonopolis-3/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1623,13 +1630,6 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "548ac3849520fa8c33f7b57b": {
-    "id": "548ac3849520fa8c33f7b57b",
-    "title": "1ªparte: ACROBVT",
-    "link": "https://everythingisnew.pt/anastacia-lisboa-2026/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
   "26569a4077755614caef7350": {
     "id": "26569a4077755614caef7350",
     "title": "1ªparte: KT Tunstall",
@@ -2197,6 +2197,13 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "ce43b5f3a8816b680cbba3bf": {
+    "id": "ce43b5f3a8816b680cbba3bf",
+    "title": "Mais Pesados Da Capital",
+    "link": "https://arena.meo.pt/agenda/mais-pesados-da-capital_pt/16057/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "a5114c70cee5e847021d6347": {
     "id": "a5114c70cee5e847021d6347",
     "title": "Amon Amarth",
@@ -2500,7 +2507,7 @@
   },
   "f687c71cc1ced13066817c0d": {
     "id": "f687c71cc1ced13066817c0d",
-    "title": "Convento de São Francisco 20 Nov 2026 21:00 Mátria",
+    "title": "Convento São Francisco 20 Nov 2026 21:00 Mátria",
     "link": "https://www.saocarlos.pt/program/matria-1776856565404/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2540,6 +2547,13 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
+  "0f1cec674e3a94aaffd9db8c": {
+    "id": "0f1cec674e3a94aaffd9db8c",
+    "title": "Atelier 06 Dez 2026 15:00 Quem me acordar, cem anos irá dançar!",
+    "link": "https://www.cnb.pt/program/atelier-a-bela-adormecida/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
   "d3967480bf5d6525f34f6087": {
     "id": "d3967480bf5d6525f34f6087",
     "title": "01 Nov 2026 16:00 Desassossego",
@@ -2558,13 +2572,6 @@
     "id": "16c5b772f5f61d8dc50ae498",
     "title": "16 Nov 2026 19:00 Clube de Leituras Dançadas",
     "link": "https://www.cnb.pt/program/clube-de-leituras-dancadas-2627/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "0f1cec674e3a94aaffd9db8c": {
-    "id": "0f1cec674e3a94aaffd9db8c",
-    "title": "Atelier 06 Dez 2026 15:00 Quem me acordar, cem anos irá dançar!",
-    "link": "https://www.cnb.pt/program/atelier-a-bela-adormecida/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -2771,10 +2778,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "1f3877e743e223c3fc3dbf22": {
-    "id": "1f3877e743e223c3fc3dbf22",
-    "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-28/",
+  "d5e0965bec8f22343f563abf": {
+    "id": "d5e0965bec8f22343f563abf",
+    "title": "Exposicao May I Help You Posso Ajudar",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3709,6 +3716,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "006aab249782e5e8d51911e9": {
+    "id": "006aab249782e5e8d51911e9",
+    "title": "Manel Cruz & Peixe",
+    "link": "https://agendadopedro.pt/concertos/manel-cruz-peixe-porto-17129/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "cae38ff4958517b16d8ae878": {
     "id": "cae38ff4958517b16d8ae878",
     "title": "Evols ᛫ Calcutá",
@@ -4024,6 +4038,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "d927fccf7f29b00d73c7c4d0": {
+    "id": "d927fccf7f29b00d73c7c4d0",
+    "title": "Night in Athens ᛫ She Can't Afford Mascara",
+    "link": "https://agendadopedro.pt/concertos/night-in-athens-porto-17140/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "b9dd6530cfea5166b381a923": {
     "id": "b9dd6530cfea5166b381a923",
     "title": "Siloé",
@@ -4311,6 +4332,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "b82afe67ea20444860ca9089": {
+    "id": "b82afe67ea20444860ca9089",
+    "title": "Tindersticks",
+    "link": "https://agendadopedro.pt/concertos/tindersticks-porto-17141/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "cf5df6f81a1dd72ac80b3c91": {
     "id": "cf5df6f81a1dd72ac80b3c91",
     "title": "D'zrt",
@@ -4395,24 +4423,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "f72cab32e1dbe49fc1ba0caa": {
-    "id": "f72cab32e1dbe49fc1ba0caa",
-    "title": "Capitão Fausto",
-    "link": "https://agendadopedro.pt/concertos/capitao-fausto-lisboa-17107/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "37908256f539040634fc755a": {
-    "id": "37908256f539040634fc755a",
-    "title": "David Carreira",
-    "link": "https://agendadopedro.pt/concertos/david-carreira-lisboa-17089/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "7c621e44474608fc987df975": {
-    "id": "7c621e44474608fc987df975",
-    "title": "James Blunt",
-    "link": "https://agendadopedro.pt/concertos/james-blunt-douro-porto-wine-festival-lamego-17061/",
+  "b64215a1b42fcb5822eacdf2": {
+    "id": "b64215a1b42fcb5822eacdf2",
+    "title": "Calema",
+    "link": "https://agendadopedro.pt/concertos/calema-lisboa-17142/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4429,6 +4443,20 @@
     "link": "https://agendadopedro.pt/concertos/till-lindemann-lisboa-17109/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "015d39ec1d4c52c9129b8128": {
+    "id": "015d39ec1d4c52c9129b8128",
+    "title": "Tindersticks",
+    "link": "https://agendadopedro.pt/concertos/tindersticks-lisboa-17143/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "fe4041947ec2d714cc37a59d": {
+    "id": "fe4041947ec2d714cc37a59d",
+    "title": "O menu do Misty Fest: dos melhores anos de Cat Power ao jazz intemporal de Al Di Meola",
+    "link": "https://expresso.pt/blitz/agenda/2026-10-28-o-menu-do-misty-fest-dos-melhores-anos-de-cat-power-ao-jazz-intemporal-de-al-di-meola-a517e8fd/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "935ba75b22678dab506e35e9": {
     "id": "935ba75b22678dab506e35e9",
