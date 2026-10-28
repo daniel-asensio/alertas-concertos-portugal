@@ -1,18 +1,4 @@
 {
-  "e5276e2cdcaac5c7af7f00ab": {
-    "id": "e5276e2cdcaac5c7af7f00ab",
-    "title": "Porto 2001 2026 Arquitetura Cultura E Cidade 25 Anos Depois",
-    "link": "https://casadamusica.com/event/porto-2001-2026-arquitetura-cultura-e-cidade-25-anos-depois/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "6f8932413d029f41a9a14f32": {
-    "id": "6f8932413d029f41a9a14f32",
-    "title": "Adriana Calcanhotto",
-    "link": "https://casadamusica.com/event/adriana-calcanhotto/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "df0b7011f76373dbdbc7e372": {
     "id": "df0b7011f76373dbdbc7e372",
     "title": "Viviane Elas",
@@ -808,6 +794,13 @@
     "id": "4149c86d859443bf1bad3692",
     "title": "Ute Lemper 3",
     "link": "https://casadamusica.com/event/ute-lemper-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "c610bf5ced5f73e680b0c22a": {
+    "id": "c610bf5ced5f73e680b0c22a",
+    "title": "Sonopolis 3",
+    "link": "https://casadamusica.com/event/sonopolis-3/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2729,73 +2722,66 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c673064080bf51b0279ac425": {
-    "id": "c673064080bf51b0279ac425",
+  "366d181e3f8a8118b4aaaa24": {
+    "id": "366d181e3f8a8118b4aaaa24",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "03514abf4805ef5fa3894ca8": {
-    "id": "03514abf4805ef5fa3894ca8",
+  "9bb4bb73ca19dffcbb610514": {
+    "id": "9bb4bb73ca19dffcbb610514",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b2efc45a7c4a465e87c2266d": {
-    "id": "b2efc45a7c4a465e87c2266d",
+  "e50bddb0758f47383aede4a4": {
+    "id": "e50bddb0758f47383aede4a4",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2931541a166dd42859afecab": {
-    "id": "2931541a166dd42859afecab",
+  "a48fc50576131fee26064ff0": {
+    "id": "a48fc50576131fee26064ff0",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4fba602180e0f0f8b0126197": {
-    "id": "4fba602180e0f0f8b0126197",
+  "51388d034d4352e2976a7306": {
+    "id": "51388d034d4352e2976a7306",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "825a512d73c8fa00da61f052": {
-    "id": "825a512d73c8fa00da61f052",
+  "329be9fb084b138ec0e18a2d": {
+    "id": "329be9fb084b138ec0e18a2d",
     "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "1f2d17466842f29b856d0809": {
-    "id": "1f2d17466842f29b856d0809",
+  "9a4972b5be2826fb1450d576": {
+    "id": "9a4972b5be2826fb1450d576",
     "title": "Frida Orupabo - Cloud of Confusion",
-    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "03fff99c4f861fe4b113059d": {
-    "id": "03fff99c4f861fe4b113059d",
+  "1f3877e743e223c3fc3dbf22": {
+    "id": "1f3877e743e223c3fc3dbf22",
     "title": "May I Help You? Posso ajudar?",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "58388b923f0a7dafed4496cd": {
-    "id": "58388b923f0a7dafed4496cd",
-    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
-    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-10-27/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b91076985c522c788a2e3c70": {
-    "id": "b91076985c522c788a2e3c70",
+  "23653fe5cc9cd22287511709": {
+    "id": "23653fe5cc9cd22287511709",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-27/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2852,6 +2838,13 @@
     "id": "f48cafae361d59ac06c89083",
     "title": "Visitas Guiadas",
     "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "aa0a218ebe8881ae2e47bda2": {
+    "id": "aa0a218ebe8881ae2e47bda2",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-03/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2966,13 +2959,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "588cc04e0c69b5630b41daa3": {
-    "id": "588cc04e0c69b5630b41daa3",
-    "title": "Adriana Calcanhotto",
-    "link": "https://agendadopedro.pt/concertos/adriana-calcanhotto-porto-13431/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "e5cb078368690c2cfada0ca6": {
     "id": "e5cb078368690c2cfada0ca6",
@@ -4336,13 +4322,6 @@
     "id": "a7ea6dba028b91e4bfa84e05",
     "title": "Alceu Valença",
     "link": "https://agendadopedro.pt/concertos/alceu-valenca-lisboa-10779/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "b457c739dca798843ef3d8f4": {
-    "id": "b457c739dca798843ef3d8f4",
-    "title": "Anastacia ᛫ Acrobvt",
-    "link": "https://agendadopedro.pt/concertos/anastacia-lisboa-10119/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
