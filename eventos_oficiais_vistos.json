@@ -2365,13 +2365,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "b02362b871985f07fa376620": {
-    "id": "b02362b871985f07fa376620",
-    "title": "Ricardo Reis Soares Daniela Galhoz 2",
-    "link": "https://coliseulisboa.com/eventos/ricardo-reis-soares-daniela-galhoz-2/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "d43589422dcb1b6597589c7d": {
     "id": "d43589422dcb1b6597589c7d",
     "title": "Meo Commedia A La Carte Fest26 Herman Octeto",
@@ -2467,6 +2460,13 @@
     "id": "8ae26a091b047056cbc5f363",
     "title": "Al Bano 60 Anos De Carreira",
     "link": "https://coliseulisboa.com/eventos/al-bano-60-anos-de-carreira/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "7e4f5adc2a6e4e8b93469c54": {
+    "id": "7e4f5adc2a6e4e8b93469c54",
+    "title": "Carlos Araujo E Beduet Convidados 113",
+    "link": "https://coliseulisboa.com/eventos/carlos-araujo-e-beduet-convidados-113/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -2574,6 +2574,391 @@
     "link": "https://www.cnb.pt/program/egs-a-bela-adormecida/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "cc0bdf1bf8713dc671a5b343": {
+    "id": "cc0bdf1bf8713dc671a5b343",
+    "title": "Exposições Atuais",
+    "link": "https://www.ccb.pt/evento/exposicoes-atuais-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "28fb45ac45e105be3a784352": {
+    "id": "28fb45ac45e105be3a784352",
+    "title": "Exposições Futuras",
+    "link": "https://www.ccb.pt/evento/exposicoes-futuras-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ebc7cb3983583d09d676ac62": {
+    "id": "ebc7cb3983583d09d676ac62",
+    "title": "Exposições Passadas",
+    "link": "https://www.ccb.pt/evento/exposicoes-passadas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "dbb741d992a214ac9a9462cb": {
+    "id": "dbb741d992a214ac9a9462cb",
+    "title": "Programa Educativo",
+    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "17d2643a29170a774cb44424": {
+    "id": "17d2643a29170a774cb44424",
+    "title": "Programa Ludico Servico Educativo Museu Macccb",
+    "link": "https://www.ccb.pt/evento/programa-ludico-servico-educativo-museu-macccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "62b4ec219b2b812b7642fe2d": {
+    "id": "62b4ec219b2b812b7642fe2d",
+    "title": "Primeira Infância",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c26c03b3cff948cc5d231b07": {
+    "id": "c26c03b3cff948cc5d231b07",
+    "title": "Pré-escolar",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "220de9bd324c6a74292d85b9": {
+    "id": "220de9bd324c6a74292d85b9",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b7c890886dff3260cfea7580": {
+    "id": "b7c890886dff3260cfea7580",
+    "title": "Segundo Ciclo",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "06f6df80231248e145d888fd": {
+    "id": "06f6df80231248e145d888fd",
+    "title": "Terceiro Ciclo e Secundário",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "31e79d76701feeeb216743c9": {
+    "id": "31e79d76701feeeb216743c9",
+    "title": "Universitário",
+    "link": "https://www.ccb.pt/evento/universitario/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "413567f1d8b493809ae75e7b": {
+    "id": "413567f1d8b493809ae75e7b",
+    "title": "Educação Inclusiva",
+    "link": "https://www.ccb.pt/evento/educacao-inclusiva-escolas-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c33a03dc45acfe9d22ea29cf": {
+    "id": "c33a03dc45acfe9d22ea29cf",
+    "title": "Atividades Para Familias Museu Mac Ccb",
+    "link": "https://www.ccb.pt/evento/atividades-para-familias-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "cf2372f24d06e0a9a2ad3b7c": {
+    "id": "cf2372f24d06e0a9a2ad3b7c",
+    "title": "Oficinas de Férias no MAC/CCB",
+    "link": "https://www.ccb.pt/evento/oficinas-de-ferias-no-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "23ac50dcdbbf947b8242ab17": {
+    "id": "23ac50dcdbbf947b8242ab17",
+    "title": "Aniversários",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "46e377b8a06832ace2995759": {
+    "id": "46e377b8a06832ace2995759",
+    "title": "Programas Públicos",
+    "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5258f913ff426266cfc992e6": {
+    "id": "5258f913ff426266cfc992e6",
+    "title": "Curso",
+    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "6593f8ceac90b61fa130b55b": {
+    "id": "6593f8ceac90b61fa130b55b",
+    "title": "Museu em Partilha",
+    "link": "https://www.ccb.pt/evento/museu-em-partilha/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "4b7eb5c106eb588023ce31b9": {
+    "id": "4b7eb5c106eb588023ce31b9",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "cf1b714368da3f0c8ec44f89": {
+    "id": "cf1b714368da3f0c8ec44f89",
+    "title": "A Abertura",
+    "link": "https://www.ccb.pt/evento/abertura-do-museu-de-arte-contemporanea-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "08024d93362f874fd6d62d79": {
+    "id": "08024d93362f874fd6d62d79",
+    "title": "Mercado CCB",
+    "link": "https://www.ccb.pt/evento/mercado-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d5e0965bec8f22343f563abf": {
+    "id": "d5e0965bec8f22343f563abf",
+    "title": "Exposicao May I Help You Posso Ajudar",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5f1a0fbb971b6d3629beaff3": {
+    "id": "5f1a0fbb971b6d3629beaff3",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-10-29/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ddbcd568f3e7859406386648": {
+    "id": "ddbcd568f3e7859406386648",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-10-29/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5e76673b9ed203f59e51bad5": {
+    "id": "5e76673b9ed203f59e51bad5",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-10-29/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "2bbfafd057f3709ef14283e3": {
+    "id": "2bbfafd057f3709ef14283e3",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-10-29/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b9cbbd8862a35e51adc7f901": {
+    "id": "b9cbbd8862a35e51adc7f901",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-10-29/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9338c2b1573407370221585f": {
+    "id": "9338c2b1573407370221585f",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-10-29/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b1a3483a13ea6d82b680f245": {
+    "id": "b1a3483a13ea6d82b680f245",
+    "title": "Frida Orupabo - Cloud of Confusion",
+    "link": "https://www.ccb.pt/evento/exposicao-frida-orupabo/2026-10-29/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d54a00f5b2bd8df6d03d4bc5": {
+    "id": "d54a00f5b2bd8df6d03d4bc5",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-10-29/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5fa814d556e5d1f6d2c1b386": {
+    "id": "5fa814d556e5d1f6d2c1b386",
+    "title": "Instalacao James Webb",
+    "link": "https://www.ccb.pt/evento/instalacao-james-webb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "79f308df2843e20f5a726b49": {
+    "id": "79f308df2843e20f5a726b49",
+    "title": "Visitas Guiadas Ao Edificio Centro Cultural De Belem",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-ao-edificio-centro-cultural-de-belem/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "f16e52904656b9928206a898": {
+    "id": "f16e52904656b9928206a898",
+    "title": "Visitas Orientadas E Tematicas Oficinas",
+    "link": "https://www.ccb.pt/evento/visitas-orientadas-e-tematicas-oficinas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "a00d1bd5dbcf0a19fa394bff": {
+    "id": "a00d1bd5dbcf0a19fa394bff",
+    "title": "Mostra Espanha 2026 Obras Convidadas",
+    "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8e45e1091cf9058c3790cbf6": {
+    "id": "8e45e1091cf9058c3790cbf6",
+    "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
+    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-10-31/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "46e1dab7aa190486e7df9030": {
+    "id": "46e1dab7aa190486e7df9030",
+    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
+    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-31/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "6ab88c92cd49a324de27355c": {
+    "id": "6ab88c92cd49a324de27355c",
+    "title": "Programa Vincular - Serviço de Educação e Mediação",
+    "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-11-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "f48cafae361d59ac06c89083": {
+    "id": "f48cafae361d59ac06c89083",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "aa0a218ebe8881ae2e47bda2": {
+    "id": "aa0a218ebe8881ae2e47bda2",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "3fc6464370354a7a4a87531e": {
+    "id": "3fc6464370354a7a4a87531e",
+    "title": "Programa Público das exposições",
+    "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "05d05632f466f438ca05b3a1": {
+    "id": "05d05632f466f438ca05b3a1",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-05/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "da9d1d21d0e0ed0f6b58148e": {
+    "id": "da9d1d21d0e0ed0f6b58148e",
+    "title": "Museu em Partilha - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/museu-em-partilha/2026-11-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "f4319bdd179ae0d362e323f4": {
+    "id": "f4319bdd179ae0d362e323f4",
+    "title": "Memórias, Silêncios e Disputas no Espaço Público em Duas Cidades da Península Ibérica",
+    "link": "https://www.ccb.pt/evento/memorias-silencios-e-disputas-no-espaco-publico-em-duas-cidades-da-peninsula-iberica/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "cfcede362fb17b364e6e5e9a": {
+    "id": "cfcede362fb17b364e6e5e9a",
+    "title": "Neïl Beloufa",
+    "link": "https://www.ccb.pt/evento/exposicao-neil-beloufa/2026-12-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8fb7a045a418f278c7c065d2": {
+    "id": "8fb7a045a418f278c7c065d2",
+    "title": "Francisca Carvalho",
+    "link": "https://www.ccb.pt/evento/exposicao-francisca-carvalho/2026-12-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "055e25a146d77f02476ff179": {
+    "id": "055e25a146d77f02476ff179",
+    "title": "May I Help You?",
+    "link": "https://www.ccb.pt/evento/exhibition-may-i-help-you-posso-ajudar/2026-12-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b8ef57a832ed267af805d07e": {
+    "id": "b8ef57a832ed267af805d07e",
+    "title": "Performance Mutantes Entre O Teatro E O Museu",
+    "link": "https://www.ccb.pt/evento/performance-mutantes-entre-o-teatro-e-o-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "1ffcb34b2f3058fefd485366": {
+    "id": "1ffcb34b2f3058fefd485366",
+    "title": "Ferias De Natal Museu Mac Ccb",
+    "link": "https://www.ccb.pt/evento/ferias-de-natal-museu-mac-ccb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b56445b262860d65caad17ee": {
+    "id": "b56445b262860d65caad17ee",
+    "title": "Marisol - When Things are Just Beginning",
+    "link": "https://www.ccb.pt/evento/exposicao-marisol/2026-12-17/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "0cfcf48e9bd739dd7a5465f2": {
+    "id": "0cfcf48e9bd739dd7a5465f2",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-12-30/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "11641b78d0ed25289f41a421": {
+    "id": "11641b78d0ed25289f41a421",
+    "title": "Musicas Da Revolucao Musica No Museu",
+    "link": "https://www.ccb.pt/evento/musicas-da-revolucao-musica-no-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "64fde51d76387ce5b801cc4d": {
+    "id": "64fde51d76387ce5b801cc4d",
+    "title": "Filamentos Da Voz Musica No Museu",
+    "link": "https://www.ccb.pt/evento/filamentos-da-voz-musica-no-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "74cd6eea1af3550eaf298fa2": {
+    "id": "74cd6eea1af3550eaf298fa2",
+    "title": "Arquiteturas Do Som",
+    "link": "https://www.ccb.pt/evento/arquiteturas-do-som/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "446d6dec50622c7453617806": {
+    "id": "446d6dec50622c7453617806",
+    "title": "Linhas De Escuta",
+    "link": "https://www.ccb.pt/evento/linhas-de-escuta/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b498c7f0d25cfd1a251beb60": {
+    "id": "b498c7f0d25cfd1a251beb60",
+    "title": "Tramas Sonoras Musica No Museu",
+    "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
   },
   "a4ff138653cd98a9ca353a1a": {
     "id": "a4ff138653cd98a9ca353a1a",
