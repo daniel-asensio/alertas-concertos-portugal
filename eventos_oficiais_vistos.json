@@ -811,6 +811,720 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "cefa547bceda9141837c7940": {
+    "id": "cefa547bceda9141837c7940",
+    "title": "Euro Cup – Portugal x Suiça",
+    "link": "https://www.superbockarena.pt/evento/euro-cup-portugal-x-suica/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "7ab822aec5f63daaec774e9d": {
+    "id": "7ab822aec5f63daaec774e9d",
+    "title": "Fingertips",
+    "link": "https://www.superbockarena.pt/evento/fingertips/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "78e127ee0b9e393019708171": {
+    "id": "78e127ee0b9e393019708171",
+    "title": "Canta-me uma História – ao vivo",
+    "link": "https://www.superbockarena.pt/evento/canta-me-uma-historia-ao-vivo/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "a3c02d3ead7afcfd04405ebb": {
+    "id": "a3c02d3ead7afcfd04405ebb",
+    "title": "Tony Carreira",
+    "link": "https://www.superbockarena.pt/evento/tony-carreira-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "bc168e63d25ed8450574213d": {
+    "id": "bc168e63d25ed8450574213d",
+    "title": "Music Circus Show on Ice with Highlights of FROZEN 1&2",
+    "link": "https://www.superbockarena.pt/evento/music-circus-show-on-ice-with-highlights-of-frozen-12/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "6c8a1d6e39d7365d439ce627": {
+    "id": "6c8a1d6e39d7365d439ce627",
+    "title": "Bryan Adams",
+    "link": "https://www.superbockarena.pt/evento/bryan-adams/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "78e0f7c05286d7c77a0a1b7a": {
+    "id": "78e0f7c05286d7c77a0a1b7a",
+    "title": "Bryan Adams",
+    "link": "https://www.superbockarena.pt/evento/bryan-adams-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "e8a78dc4632096bf920d8835": {
+    "id": "e8a78dc4632096bf920d8835",
+    "title": "David Fonseca",
+    "link": "https://www.superbockarena.pt/evento/david-fonseca/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d1960b6b93e72b401a5ed86d": {
+    "id": "d1960b6b93e72b401a5ed86d",
+    "title": "Outworld",
+    "link": "https://www.superbockarena.pt/evento/outworld/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "e451b0c64165d616a8401a63": {
+    "id": "e451b0c64165d616a8401a63",
+    "title": "Patrulha Pata ao Vivo – Heróis Unidos",
+    "link": "https://www.superbockarena.pt/evento/patrulha-pata-ao-vivo-herois-unidos/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "61ba780540a9ad1c65aac6bf": {
+    "id": "61ba780540a9ad1c65aac6bf",
+    "title": "Sara Correia",
+    "link": "https://www.superbockarena.pt/evento/sara-correia/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "e3cf4ce4b93a9f7f363cb6b0": {
+    "id": "e3cf4ce4b93a9f7f363cb6b0",
+    "title": "Sara Correia",
+    "link": "https://www.superbockarena.pt/evento/sara-correia-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "72d95c82157d7e575159b68b": {
+    "id": "72d95c82157d7e575159b68b",
+    "title": "Pocahontas – Auditório Super Bock Arena",
+    "link": "https://www.superbockarena.pt/evento/pocahontas-auditorio-super-bock-arena-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d25a73edffef25b185c3f680": {
+    "id": "d25a73edffef25b185c3f680",
+    "title": "Pocahontas – Auditório Super Bock Arena",
+    "link": "https://www.superbockarena.pt/evento/pocahontas-auditorio-super-bock-arena/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "8903830a5c7856902278c023": {
+    "id": "8903830a5c7856902278c023",
+    "title": "PORTÁTIL com Bumba na Fofinha",
+    "link": "https://www.superbockarena.pt/evento/portatil-com-bumba-na-fofinha/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "095b7f015debd984d9dfc624": {
+    "id": "095b7f015debd984d9dfc624",
+    "title": "Natal ao Vivo",
+    "link": "https://www.superbockarena.pt/evento/natal-ao-vivo-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "62a2859f9c9e6f641e6cec92": {
+    "id": "62a2859f9c9e6f641e6cec92",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "0e429a05d53f2a76e4423c31": {
+    "id": "0e429a05d53f2a76e4423c31",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "4b942aa9f7ec101a92ed8067": {
+    "id": "4b942aa9f7ec101a92ed8067",
+    "title": "Panda e os Caricas – Mundo da Magia",
+    "link": "https://www.superbockarena.pt/evento/panda-e-os-caricas-mundo-da-magia-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "8e2ce7a8bb8f0b2396ee2243": {
+    "id": "8e2ce7a8bb8f0b2396ee2243",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "269335f7acb3474d88167460": {
+    "id": "269335f7acb3474d88167460",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-4/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "60beb6372865e001edf0037c": {
+    "id": "60beb6372865e001edf0037c",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-5/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "caff9d2919ccd34e6b208540": {
+    "id": "caff9d2919ccd34e6b208540",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-6/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "7556dc0fa5329693cfec270a": {
+    "id": "7556dc0fa5329693cfec270a",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-7/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "9132f0d55005996f7bf645bb": {
+    "id": "9132f0d55005996f7bf645bb",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "b9ec408be2e4a1748c7a10b6": {
+    "id": "b9ec408be2e4a1748c7a10b6",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d176e481e3ef2c9345b016d7": {
+    "id": "d176e481e3ef2c9345b016d7",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-9/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "d44505943ac64a828a332146": {
+    "id": "d44505943ac64a828a332146",
+    "title": "Cirque Du Soleil – OVO",
+    "link": "https://www.superbockarena.pt/evento/cirque-du-soleil-ovo-8/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "b075dd21005aa4022931ff35": {
+    "id": "b075dd21005aa4022931ff35",
+    "title": "Lisbon Film Orchestra – Our Stories",
+    "link": "https://www.superbockarena.pt/evento/lisbon-film-orchestra-our-stories/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "a0d45f44e62e8a322ded8ce3": {
+    "id": "a0d45f44e62e8a322ded8ce3",
+    "title": "Optimista Céptico",
+    "link": "https://www.superbockarena.pt/evento/optimista-ceptico-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "3e868855b1427ab918706440": {
+    "id": "3e868855b1427ab918706440",
+    "title": "Optimista Céptico",
+    "link": "https://www.superbockarena.pt/evento/optimista-ceptico/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "2fca801bb38cb7772e779bb3": {
+    "id": "2fca801bb38cb7772e779bb3",
+    "title": "AMANHÃ NÃO ESTÁ CERTO – Pedro Teixeira da Mota",
+    "link": "https://www.superbockarena.pt/evento/amanha-nao-esta-certo-pedro-teixeira-da-mota/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "ee4085666e46762cef9ab52c": {
+    "id": "ee4085666e46762cef9ab52c",
+    "title": "AMANHÃ NÃO ESTÁ CERTO – Pedro Teixeira da Mota",
+    "link": "https://www.superbockarena.pt/evento/amanha-nao-esta-certo-pedro-teixeira-da-mota-3/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "5475f7c7f57374bee463e076": {
+    "id": "5475f7c7f57374bee463e076",
+    "title": "AMANHÃ NÃO ESTÁ CERTO – Pedro Teixeira da Mota",
+    "link": "https://www.superbockarena.pt/evento/amanha-nao-esta-certo-pedro-teixeira-da-mota-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "22dd15d4710f6bfe45c06421": {
+    "id": "22dd15d4710f6bfe45c06421",
+    "title": "Dominguinho",
+    "link": "https://www.superbockarena.pt/evento/dominguinho/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "61728579ea6819a9bde618f6": {
+    "id": "61728579ea6819a9bde618f6",
+    "title": "Nena",
+    "link": "https://www.superbockarena.pt/evento/nena-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "9c2b74592f5f007e0c32ffbc": {
+    "id": "9c2b74592f5f007e0c32ffbc",
+    "title": "Fernando Daniel",
+    "link": "https://www.superbockarena.pt/evento/fernando-daniel-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "5850f47948ad9bda3fa9d6dc": {
+    "id": "5850f47948ad9bda3fa9d6dc",
+    "title": "Simple Minds",
+    "link": "https://www.superbockarena.pt/evento/simple-minds-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "4d545d070aa59a9d7185dbf8": {
+    "id": "4d545d070aa59a9d7185dbf8",
+    "title": "Luísa Sonza – Brutal Paraíso Tour",
+    "link": "https://www.superbockarena.pt/evento/luisa-sonza-brutal-paraiso-tour/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "fe5b2d7d27e4a2f214700d8e": {
+    "id": "fe5b2d7d27e4a2f214700d8e",
+    "title": "The Calling",
+    "link": "https://www.superbockarena.pt/evento/the-calling/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "05af43a34c81b21a9c752bd9": {
+    "id": "05af43a34c81b21a9c752bd9",
+    "title": "50 Anos de Carreira do Toy",
+    "link": "https://www.superbockarena.pt/evento/50-anos-de-carreira-do-toy/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "831535b468a5dfaaebdb211b": {
+    "id": "831535b468a5dfaaebdb211b",
+    "title": "Il Volo",
+    "link": "https://www.superbockarena.pt/evento/il-volo/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "41f9fb4b46333357fdd16479": {
+    "id": "41f9fb4b46333357fdd16479",
+    "title": "Tiago Bettencourt",
+    "link": "https://www.superbockarena.pt/evento/tiago-bettencourt-2/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
+  "b489e1b38491c4505a0fc9ae": {
+    "id": "b489e1b38491c4505a0fc9ae",
+    "title": "MOONSPELL",
+    "link": "https://www.hardclubporto.com/PT/evento/moonspell-invicta-halloween-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "e569fe2a91e7a51cf694a319": {
+    "id": "e569fe2a91e7a51cf694a319",
+    "title": "Scary Groove Quest",
+    "link": "https://www.hardclubporto.com/PT/evento/scary-groove-quest-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "e4504e7c041eb7ead0957570": {
+    "id": "e4504e7c041eb7ead0957570",
+    "title": "MOONSPELL",
+    "link": "https://www.hardclubporto.com/PT/evento/moonspell-invicta-halloween-2026-parte-ii-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "773054cdb52d745a0f5f6e7a": {
+    "id": "773054cdb52d745a0f5f6e7a",
+    "title": "Auto da Barca do Inferno",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7266/auto-da-barca-do-inferno/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "71c768d50c45f9cb07144471": {
+    "id": "71c768d50c45f9cb07144471",
+    "title": "TPC: Frei Luís de Sousaaa",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "3fac6efc0687f20b6293e186": {
+    "id": "3fac6efc0687f20b6293e186",
+    "title": "Festa",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7264/festa/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "c60c6c3b1a1d561ec64105a4": {
+    "id": "c60c6c3b1a1d561ec64105a4",
+    "title": "ABC da Guerra",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7306/abc-da-guerra/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "b3062e94a434a26224bf0cd6": {
+    "id": "b3062e94a434a26224bf0cd6",
+    "title": "O Conceito Inútil",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "bfd294a9db80ce6148e37140": {
+    "id": "bfd294a9db80ce6148e37140",
+    "title": "Residência",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7269/residencia/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "ff26a20420fb970831771a96": {
+    "id": "ff26a20420fb970831771a96",
+    "title": "Dez palavras do Inferno",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7267/dez-palavras-do-auto-da-barca-do-inferno/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "950a669a52f5018cb049439b": {
+    "id": "950a669a52f5018cb049439b",
+    "title": "Clubes de Teatro",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7278/clubes-de-teatro/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "3a9edc84427a5826360a53a6": {
+    "id": "3a9edc84427a5826360a53a6",
+    "title": "Maiúscula",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7304/maiuscula/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "a127132638edf71e4c9c2231": {
+    "id": "a127132638edf71e4c9c2231",
+    "title": "Maiúscula",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7305/maiuscula/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "8c29b9a8fb941bc39a9536c2": {
+    "id": "8c29b9a8fb941bc39a9536c2",
+    "title": "Joana Providência / Teatro do Bolhão Atlas, mapeamento poético",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/joana-provid-ncia-teatro-do-bolh-o-atlas-mapeamento-po-tico/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "f8eafb3f9a63e126f2758da8": {
+    "id": "f8eafb3f9a63e126f2758da8",
+    "title": "Tō Yō Understage",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/t-y/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "140996f2389544a2158c0ec4": {
+    "id": "140996f2389544a2158c0ec4",
+    "title": "Isabél Zuaa AFRO SALOYÁ",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/isab-l-zuaa-afro-sal-oy/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "a9e3faabf38945de113a6b64": {
+    "id": "a9e3faabf38945de113a6b64",
+    "title": "Idio Chichava Dzudza",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/idio-chichava-dzudza/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "a47dfae3aa76ea9d14d156c9": {
+    "id": "a47dfae3aa76ea9d14d156c9",
+    "title": "Teatro de Marionetas do Porto & Joana Magalhães #Não somos cactos#",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/teatro-de-marionetas-do-porto-joana-magalh-es-n-o-somos-cactos/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "5419efb7879357bf293d5935": {
+    "id": "5419efb7879357bf293d5935",
+    "title": "Marina Herlop Dja Dja",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/marina-herlop-dja-dja/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "24f870f7b481f12000aa2549": {
+    "id": "24f870f7b481f12000aa2549",
+    "title": "Os Quatro E Meia Tour Interior Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/173755-os_quatro_e_meia_tour_interior-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "d5b545b586b593ed8d7fc436": {
+    "id": "d5b545b586b593ed8d7fc436",
+    "title": "Aladino O Musical Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/186578-aladino_o_musical-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "76f0934a74e0965fa3f18a45": {
+    "id": "76f0934a74e0965fa3f18a45",
+    "title": "Concerto Solidario Orquestra Ligeira Do Exercito Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/186022-concerto_solidario_orquestra_ligeira_do_exercito-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "4419f630c05ede6fe76d4301": {
+    "id": "4419f630c05ede6fe76d4301",
+    "title": "Antonio Zambujo Oracao Ao Tempo Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/176604-antonio_zambujo_oracao_ao_tempo-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "5f92825197cef4590e7cf74f": {
+    "id": "5f92825197cef4590e7cf74f",
+    "title": "Sessoes",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/184979-o_amor_e_assim-europarque/Sessoes/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "80cc643c090dd87e4cb070fe": {
+    "id": "80cc643c090dd87e4cb070fe",
+    "title": "O Quebra Nozes Imperial Heritage Ballet Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/182854-o_quebra_nozes_imperial_heritage_ballet-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "aa3cbf78fb6feb020395e76d": {
+    "id": "aa3cbf78fb6feb020395e76d",
+    "title": "Pedro Abrunhosa Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/176578-pedro_abrunhosa-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "1995e0d3bcfbce4351ab6435": {
+    "id": "1995e0d3bcfbce4351ab6435",
+    "title": "Raphael Ghanem O Rugido Do Leao Stand Up Comedy Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/181437-raphael_ghanem_o_rugido_do_leao_stand_up_comedy-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "ccf14706cb605768fbfce661": {
+    "id": "ccf14706cb605768fbfce661",
+    "title": "Amanha Nao Esta Certo Europarque",
+    "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
+    "source": "Europarque",
+    "kind": "Aveiro"
+  },
+  "ffd527c18df22669e163273f": {
+    "id": "ffd527c18df22669e163273f",
+    "title": "Woyzeck a partir de Georg Büchner",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/woyzeck/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "2cda50bc082ea563d0f67d87": {
+    "id": "2cda50bc082ea563d0f67d87",
+    "title": "Coelho Radioactivo Apresenta ANTI-ONTEM",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/coelho-radioactivo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "078d7f669f1c19c35725431c": {
+    "id": "078d7f669f1c19c35725431c",
+    "title": "Ensemble Inverspace [ESTREIA NACIONAL] Tubo de Ensaio #14",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/ensemble-inverspace-estreia-nacional/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "ab914a735a2a5c67734ec576": {
+    "id": "ab914a735a2a5c67734ec576",
+    "title": "Home Francisco Sassetti / Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/home-francisco-sassetti-ciclo-o-problema-da-habitacao/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "3ea6dbd914209bcbc3af76c7": {
+    "id": "3ea6dbd914209bcbc3af76c7",
+    "title": "Cantar-o-Lar [ESTREIA] Projeto de Arte Comunitária",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/cantar-o-lar-estreia/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "62831604610b945a8e30ff0e": {
+    "id": "62831604610b945a8e30ff0e",
+    "title": "Bastien e Bastienne de W. A. Mozart Uma ópera em marionetas e em português",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/bastien-e-bastienne-escolas/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "5ad91e5aba341e46af3d1a10": {
+    "id": "5ad91e5aba341e46af3d1a10",
+    "title": "Sondre Lerche Apresentação do disco 'Acrobat'",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/sondre-lerche/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "628f55ba84182e8646e02754": {
+    "id": "628f55ba84182e8646e02754",
+    "title": "Bastien e Bastienne de W. A. Mozart Uma ópera em marionetas e em português",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/bastien-e-bastienne-de-w-a-mozart/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "ef5aa999a166c0bf67bbe996": {
+    "id": "ef5aa999a166c0bf67bbe996",
+    "title": "Entre Corpo, Voz, Memória Oficina Palcos Instáveis",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/entre-corpo-voz-memoria/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "209d3a393a736a1478f34de9": {
+    "id": "209d3a393a736a1478f34de9",
+    "title": "O Problema da habitação e o papel ético e social da arquitetura Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-e-o-papel-etico-e-social-da-arquitetura-ciclo-o-problema-da-habitacao/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "2e49cebc10bb5bfce5919dc0": {
+    "id": "2e49cebc10bb5bfce5919dc0",
+    "title": "Songs of Ascencion Beatriz Moreira, Iris Auguste e Giulia Miceli / Palcos Instáveis - Segunda Casa",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/songs-of-ascencion/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "1d23bea799fc2626c25a078c": {
+    "id": "1d23bea799fc2626c25a078c",
+    "title": "O Problema da Habitação [ESTREIA] Direção de Jorge Louraço Figueira",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "28b714cd7f0b3b4a5140184b": {
+    "id": "28b714cd7f0b3b4a5140184b",
+    "title": "Todos os sons vão dar à UA Ensemble Efémero Internacional / Festivais de Outono 2026",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/todos-os-sons-vao-dar-a-ua/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "e0c342b4df36ef1a95afae41": {
+    "id": "e0c342b4df36ef1a95afae41",
+    "title": "Som da Água: uma parceria UA / Comité Nacional para a Década do Oceano Conversa Festivais de Outono",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/som-da-agua-uma-parceria-ua-unesco/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "d92e24e1728667377cb1d270": {
+    "id": "d92e24e1728667377cb1d270",
+    "title": "O Som da Água: Música em estado líquido Concerto de encerramento dos Festivais de Outono 2026",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/o-som-da-agua-musica-em-estado-liquido/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "07570ba7ff1ebb569908b3c5": {
+    "id": "07570ba7ff1ebb569908b3c5",
+    "title": "Carolina Deslandes Voz, Guitarra & Violoncelo",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/carolina-deslandes/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "14ca497c27b7157902671f49": {
+    "id": "14ca497c27b7157902671f49",
+    "title": "Axiom Casino Jonathan Uliel Saldanha",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/axiom-casino/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "c9e3b3ba6f8658a91435cb89": {
+    "id": "c9e3b3ba6f8658a91435cb89",
+    "title": "en.tre.nar.ra.ti.vas [ESTREIA] Red Cloud Teatro de Marionetas",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/en-tre/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "3a47b52cde33f81f08e56003": {
+    "id": "3a47b52cde33f81f08e56003",
+    "title": "Fabulando no Escuro Conversa Red Cloud",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/fabulando-no-escuro/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "9c2cb3f9437d98df1d8b093f": {
+    "id": "9c2cb3f9437d98df1d8b093f",
+    "title": "en.tre.nar.ra.ti.vas [ESTREIA] Red Cloud Teatro de Marionetas",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/en-tre-nar-ra-ti-vas-estreia/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "ee9ad36d5194b8b9619f06d8": {
+    "id": "ee9ad36d5194b8b9619f06d8",
+    "title": "As mais belas coisas do mundo Joana Providência",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/as-mais-belas-coisas-do-mundo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "0dee3639823b208ca7e0d7dd": {
+    "id": "0dee3639823b208ca7e0d7dd",
+    "title": "As mais belas coisas do mundo Joana Providência",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/as-mais-belas/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "dec60779d09839dc52bba6cc": {
+    "id": "dec60779d09839dc52bba6cc",
+    "title": "Espaço público: uma casa para todos Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/espaco-publico-uma-casa-para-todos/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "2a24913c3adf0aa6c6d016c7": {
+    "id": "2a24913c3adf0aa6c6d016c7",
+    "title": "Baleia Baleia Baleia Novas Quintas",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/baleia-baleia-baleia/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "b111b2e8aaea1504078f791c": {
+    "id": "b111b2e8aaea1504078f791c",
+    "title": "Flamingo Remy Tiburg",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/flamingo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "1e1e07527150bfb6c6ba9d0b": {
+    "id": "1e1e07527150bfb6c6ba9d0b",
+    "title": "Concerto Coral - Cantar o Natal Conservatório de Música de Aveiro Calouste Gulbenkian",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/concerto-coral-cantar-o-natal/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "39d2f3223de4ad1b123b52b9": {
+    "id": "39d2f3223de4ad1b123b52b9",
+    "title": "Arquitetas da Liberdade Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/arquitetas-da-liberdade/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "5ec21eacfacab5c6d8745257": {
+    "id": "5ec21eacfacab5c6d8745257",
+    "title": "Começar tudo outra vez Tonan Quito",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/comecar-tudo-outra-vez/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "d19e27bda0a43db888e5adb5": {
+    "id": "d19e27bda0a43db888e5adb5",
+    "title": "A Poesia das Pequenas Coisas [ESTREIA] Arte no Tempo",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/a-poesia-das-pequenas-coisas-estreia/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "63b2581cf4722ae4443fa6f6": {
+    "id": "63b2581cf4722ae4443fa6f6",
+    "title": "António Zambujo Oração ao Tempo",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/antonio-zambujo/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "0670a2b54499f3bb2d9e4270": {
+    "id": "0670a2b54499f3bb2d9e4270",
+    "title": "Cristina Branco Menina, Branco, Eva",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/cristina/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "43f386bee6bd6985b46583fd": {
     "id": "43f386bee6bd6985b46583fd",
     "title": "Ópera Turandot - Giacomo Puccini",
@@ -1243,6 +1957,160 @@
     "title": "Termos e Condições",
     "link": "https://everythingisnew.pt/termos-e-condicoes/",
     "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "1211b9d15d4c884c4efbaf98": {
+    "id": "1211b9d15d4c884c4efbaf98",
+    "title": "Notícias",
+    "link": "https://peventertainment.pt/noticias/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "ffed7b623fc99abed7c0f452": {
+    "id": "ffed7b623fc99abed7c0f452",
+    "title": "Eventos - PEV Entertainment",
+    "link": "https://peventertainment.pt/eventos/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "44b0f036b39b632dab7e83e0": {
+    "id": "44b0f036b39b632dab7e83e0",
+    "title": "Festivais",
+    "link": "https://peventertainment.pt/festivais/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "fe7a48dbfc0e8cc767c0725d": {
+    "id": "fe7a48dbfc0e8cc767c0725d",
+    "title": "Meo Mares",
+    "link": "https://peventertainment.pt/meo-mares/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "50fbbc6e0c65e8a5677083ca": {
+    "id": "50fbbc6e0c65e8a5677083ca",
+    "title": "Meo Sons do Mar",
+    "link": "https://peventertainment.pt/meo-sons-do-mar/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "173f30c97a614a52d248bf6e": {
+    "id": "173f30c97a614a52d248bf6e",
+    "title": "Arquivo - PEV Entertainment",
+    "link": "https://peventertainment.pt/arquivo/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "0d6c99243e5277535801a2eb": {
+    "id": "0d6c99243e5277535801a2eb",
+    "title": "Buraka Som Sistema",
+    "link": "https://peventertainment.pt/buraka-som-sistema/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "7be2d59348a3a477ba9bb063": {
+    "id": "7be2d59348a3a477ba9bb063",
+    "title": "Fernando Daniel",
+    "link": "https://peventertainment.pt/fernando-daniel/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "6c08fa337794d9c4a1b80462": {
+    "id": "6c08fa337794d9c4a1b80462",
+    "title": "Rod Stewart",
+    "link": "https://peventertainment.pt/rod-stewart/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "60d15e3b33d0b761cfe7e422": {
+    "id": "60d15e3b33d0b761cfe7e422",
+    "title": "Sara Correia",
+    "link": "https://peventertainment.pt/sara-correia/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "3ed895365281700aa7276b84": {
+    "id": "3ed895365281700aa7276b84",
+    "title": "Política de Privacidade | RGPD | Cookies",
+    "link": "https://peventertainment.pt/politica-de-privacidade/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "829a09beb03f752049d9276d": {
+    "id": "829a09beb03f752049d9276d",
+    "title": "Pedidos de Acreditação",
+    "link": "https://houseoffun.pt/imprensa/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "1285df4beca4677e5bf82b78": {
+    "id": "1285df4beca4677e5bf82b78",
+    "title": "Newsletter",
+    "link": "https://houseoffun.pt/newsletter/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "d6a6b172cb075194440a2cd7": {
+    "id": "d6a6b172cb075194440a2cd7",
+    "title": "Contacto",
+    "link": "https://houseoffun.pt/contacto/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "26182bc75aaec3ee3205deae": {
+    "id": "26182bc75aaec3ee3205deae",
+    "title": "Jacob Banks 13 fevereiro — LAV - Lisboa ao Vivo",
+    "link": "https://houseoffun.pt/concertos/jacob-banks-lisboa-2026/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "8258adfcdecbd8e6763842fe": {
+    "id": "8258adfcdecbd8e6763842fe",
+    "title": "Almost Monday 20 fevereiro — LAV - Lisboa ao Vivo",
+    "link": "https://houseoffun.pt/concertos/almost-monday-lx-2027/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "d9422c5a14ed556300956b40": {
+    "id": "d9422c5a14ed556300956b40",
+    "title": "The Mission 28 abril — Coliseu do Porto AGEAS",
+    "link": "https://houseoffun.pt/concertos/the-mission-porto-2027/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "2817fedc1ea3a1869a3eede8": {
+    "id": "2817fedc1ea3a1869a3eede8",
+    "title": "The Mission 29 abril — LAV - Lisboa ao Vivo",
+    "link": "https://houseoffun.pt/concertos/the-mission-lisboa-2027/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "43dbaface9221e437ea1c122": {
+    "id": "43dbaface9221e437ea1c122",
+    "title": "Artistas",
+    "link": "https://houseoffun.pt/artistas/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "763fd1fb2bc8a51799658e37": {
+    "id": "763fd1fb2bc8a51799658e37",
+    "title": "Salas",
+    "link": "https://houseoffun.pt/salas/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "ae485d56917cee7e508ec26f": {
+    "id": "ae485d56917cee7e508ec26f",
+    "title": "Agenda.Ics",
+    "link": "https://houseoffun.pt/agenda.ics/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "f2feb35eceff939cad092bd3": {
+    "id": "f2feb35eceff939cad092bd3",
+    "title": "Privacidade e Cookies",
+    "link": "https://houseoffun.pt/privacidade/",
+    "source": "House of Fun",
     "kind": "Promotora"
   },
   "88f9e175594c18f925ba9a62": {
@@ -3463,13 +4331,6 @@
     "link": "https://agendadopedro.pt/concertos/toto-oeiras-17154/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "26ba6723218cdacb3e7cc542": {
-    "id": "26ba6723218cdacb3e7cc542",
-    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-10-29-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
   },
   "5d06539c6d6e890cc7449956": {
     "title": "Turandot, de Giacomo Puccini",
