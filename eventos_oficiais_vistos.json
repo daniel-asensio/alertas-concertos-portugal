@@ -734,6 +734,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "e223247c2a58cd9766acb93e": {
+    "id": "e223247c2a58cd9766acb93e",
+    "title": "Milhanas 3",
+    "link": "https://casadamusica.com/event/milhanas-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "329f9c575dd7e0062258b72f": {
     "id": "329f9c575dd7e0062258b72f",
     "title": "Miguel Carmona",
@@ -1786,7 +1793,7 @@
   },
   "ec4036a16e71fc6777273c17": {
     "id": "ec4036a16e71fc6777273c17",
-    "title": "IOLANDA",
+    "title": "Convidado: Carolina Deslandes, Karetus, Vitorina & xtinto",
     "link": "https://everythingisnew.pt/iolanda-lisboa-2026-2/",
     "source": "Everything Is New",
     "kind": "Promotora"
@@ -2061,13 +2068,6 @@
     "id": "26182bc75aaec3ee3205deae",
     "title": "Jacob Banks 13 fevereiro — LAV - Lisboa ao Vivo",
     "link": "https://houseoffun.pt/concertos/jacob-banks-lisboa-2026/",
-    "source": "House of Fun",
-    "kind": "Promotora"
-  },
-  "8d860721842a573dad432bf5": {
-    "id": "8d860721842a573dad432bf5",
-    "title": "à venda 29 out, 09:00",
-    "link": "https://houseoffun.pt/concertos/jacob-banks-lisboa-2026/lembrete.ics/",
     "source": "House of Fun",
     "kind": "Promotora"
   },
@@ -2507,7 +2507,7 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 23 Dez 2026 20:00 A bela adormecida",
+    "title": "Teatro Camões 26 Dez 2026 18:30 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2535,7 +2535,7 @@
   },
   "ca6335c159697d4c74ab783f": {
     "id": "ca6335c159697d4c74ab783f",
-    "title": "Com orquestra 12 Dez 2026 18:30 A Bela Adormecida",
+    "title": "Com orquestra 13 Dez 2026 16:00 A Bela Adormecida",
     "link": "https://www.cnb.pt/program/a-bela-adormecida-2026/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
@@ -3716,6 +3716,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "28092041b240510809f3998f": {
+    "id": "28092041b240510809f3998f",
+    "title": "Coelho Radioactivo",
+    "link": "https://agendadopedro.pt/concertos/coelho-radioactivo-porto-17157/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "8cd25fb460c9937e80554918": {
     "id": "8cd25fb460c9937e80554918",
     "title": "Worakls",
@@ -3776,6 +3783,13 @@
     "id": "fc6c17140693dbbdc528c9e2",
     "title": "GNR \"In Vivo\"",
     "link": "https://agendadopedro.pt/concertos/gnr-porto-17038/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e0516cf599a7769bc9e322f5": {
+    "id": "e0516cf599a7769bc9e322f5",
+    "title": "De Oliveira",
+    "link": "https://agendadopedro.pt/concertos/de-oliveira-porto-17155/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4416,13 +4430,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "1dcd9052b856b3065a8d2093": {
-    "id": "1dcd9052b856b3065a8d2093",
-    "title": "Till Lindemann",
-    "link": "https://agendadopedro.pt/concertos/till-lindemann-lisboa-17109/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "015d39ec1d4c52c9129b8128": {
     "id": "015d39ec1d4c52c9129b8128",
     "title": "Tindersticks",
@@ -4430,17 +4437,24 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "0f64033f3cc75b63e648a4b4": {
+    "id": "0f64033f3cc75b63e648a4b4",
+    "title": "Toto ᛫ Todd Rundgren",
+    "link": "https://agendadopedro.pt/concertos/toto-oeiras-17154/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "26ba6723218cdacb3e7cc542": {
+    "id": "26ba6723218cdacb3e7cc542",
+    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-10-29-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
+  },
   "fe4041947ec2d714cc37a59d": {
     "id": "fe4041947ec2d714cc37a59d",
     "title": "O menu do Misty Fest: dos melhores anos de Cat Power ao jazz intemporal de Al Di Meola",
     "link": "https://expresso.pt/blitz/agenda/2026-10-28-o-menu-do-misty-fest-dos-melhores-anos-de-cat-power-ao-jazz-intemporal-de-al-di-meola-a517e8fd/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
-  },
-  "935ba75b22678dab506e35e9": {
-    "id": "935ba75b22678dab506e35e9",
-    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-10-28-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
