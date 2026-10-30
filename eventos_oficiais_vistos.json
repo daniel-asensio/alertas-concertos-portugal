@@ -1819,6 +1819,13 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "76ba9a06e43a16692f7f15c4": {
+    "id": "76ba9a06e43a16692f7f15c4",
+    "title": "The Nonstop Flight Tour",
+    "link": "https://everythingisnew.pt/alex-sampson/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "dd5a176a8a8750cc5981f1eb": {
     "id": "dd5a176a8a8750cc5981f1eb",
     "title": "EU 2027",
@@ -2351,13 +2358,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "d43589422dcb1b6597589c7d": {
-    "id": "d43589422dcb1b6597589c7d",
-    "title": "Meo Commedia A La Carte Fest26 Herman Octeto",
-    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-herman-octeto/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "ce05454fde14acd0d7264492": {
     "id": "ce05454fde14acd0d7264492",
     "title": "Meo Commedia A La Carte Fest26 Ines Aires Pereira Namaste",
@@ -2453,6 +2453,13 @@
     "id": "7e4f5adc2a6e4e8b93469c54",
     "title": "Carlos Araujo E Beduet Convidados 113",
     "link": "https://coliseulisboa.com/eventos/carlos-araujo-e-beduet-convidados-113/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "b281022c5491201479283b28": {
+    "id": "b281022c5491201479283b28",
+    "title": "Rubel Beleza Rubel Violao",
+    "link": "https://coliseulisboa.com/eventos/rubel-beleza-rubel-violao/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
