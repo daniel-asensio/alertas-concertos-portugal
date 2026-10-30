@@ -146,6 +146,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "062c31c330d592d38f9661f3": {
+    "id": "062c31c330d592d38f9661f3",
+    "title": "Conversa Com Bianca Dacosta",
+    "link": "https://casadamusica.com/event/conversa-com-bianca-dacosta/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "b5b6736d3996df8c770d23d3": {
     "id": "b5b6736d3996df8c770d23d3",
     "title": "Amazonia",
@@ -797,13 +804,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "c610bf5ced5f73e680b0c22a": {
-    "id": "c610bf5ced5f73e680b0c22a",
-    "title": "Sonopolis 3",
-    "link": "https://casadamusica.com/event/sonopolis-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "cefa547bceda9141837c7940": {
     "id": "cefa547bceda9141837c7940",
     "title": "Euro Cup – Portugal x Suiça",
@@ -1315,6 +1315,13 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "ad65b6da28eb9a4cf9608c3d": {
+    "id": "ad65b6da28eb9a4cf9608c3d",
+    "title": "Três Andares Os Filmes das Nossas Terças / Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/tres-andares/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "078d7f669f1c19c35725431c": {
     "id": "078d7f669f1c19c35725431c",
     "title": "Ensemble Inverspace [ESTREIA NACIONAL] Tubo de Ensaio #14",
@@ -1333,6 +1340,13 @@
     "id": "3ea6dbd914209bcbc3af76c7",
     "title": "Cantar-o-Lar [ESTREIA] Projeto de Arte Comunitária",
     "link": "https://www.teatroaveirense.pt/index.php/evento/cantar-o-lar-estreia/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "c719b2bc35464930d5d1c002": {
+    "id": "c719b2bc35464930d5d1c002",
+    "title": "Memórias do Cárcere Os Filmes das Nossas Terças",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/memorias-do-carcere/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -1364,6 +1378,13 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
+  "0502451e782d1b6fe1772f39": {
+    "id": "0502451e782d1b6fe1772f39",
+    "title": "Reflexo de um Diamante Morto Os Filmes das Nossas Terças",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/reflexo-de-um-diamante-morto/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
   "209d3a393a736a1478f34de9": {
     "id": "209d3a393a736a1478f34de9",
     "title": "O Problema da habitação e o papel ético e social da arquitetura Ciclo O Problema da Habitação",
@@ -1382,6 +1403,13 @@
     "id": "1d23bea799fc2626c25a078c",
     "title": "O Problema da Habitação [ESTREIA] Direção de Jorge Louraço Figueira",
     "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao/",
+    "source": "Teatro Aveirense",
+    "kind": "Aveiro"
+  },
+  "33cd958d2b02922022b46d5e": {
+    "id": "33cd958d2b02922022b46d5e",
+    "title": "Siza Vieira, o Arquitecto e a Cidade Velha Os Filmes das Nossas Terças / Ciclo O Problema da Habitação",
+    "link": "https://www.teatroaveirense.pt/index.php/evento/siza-vieira-o-arquitecto-e-a-cidade-velha/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
@@ -2358,13 +2386,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "ce05454fde14acd0d7264492": {
-    "id": "ce05454fde14acd0d7264492",
-    "title": "Meo Commedia A La Carte Fest26 Ines Aires Pereira Namaste",
-    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-ines-aires-pereira-namaste/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "2cda288ced217d43e254a8ac": {
     "id": "2cda288ced217d43e254a8ac",
     "title": "Alceu Valenca 80 Girassois",
@@ -2460,6 +2481,13 @@
     "id": "b281022c5491201479283b28",
     "title": "Rubel Beleza Rubel Violao",
     "link": "https://coliseulisboa.com/eventos/rubel-beleza-rubel-violao/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "196ff6a120bba7010891f64f": {
+    "id": "196ff6a120bba7010891f64f",
+    "title": "Royal Film Orchestra Dj Symphonic Royal Film Orchestra 2",
+    "link": "https://coliseulisboa.com/eventos/royal-film-orchestra-dj-symphonic-royal-film-orchestra-2/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -3132,6 +3160,13 @@
     "id": "1d265d696722da87b61e837c",
     "title": "Líquen ᛫ Mafalda",
     "link": "https://agendadopedro.pt/concertos/liquen-porto-16354/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "45ef93b4561fed68057316a4": {
+    "id": "45ef93b4561fed68057316a4",
+    "title": "Passo Real",
+    "link": "https://agendadopedro.pt/concertos/passo-real-porto-17179/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4185,6 +4220,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "1787ac10201d1f3e3c79b73b": {
+    "id": "1787ac10201d1f3e3c79b73b",
+    "title": "Milhanas",
+    "link": "https://agendadopedro.pt/concertos/milhanas-porto-17164/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "e2bd7bbb647ebd2f08faa902": {
     "id": "e2bd7bbb647ebd2f08faa902",
     "title": "Luísa Sonza",
@@ -4374,27 +4416,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "d1de31d1a83dc5fd9939aa76": {
-    "id": "d1de31d1a83dc5fd9939aa76",
-    "title": "Blasted Mechanism",
-    "link": "https://agendadopedro.pt/concertos/blasted-mechanism-lisboa-17110/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "b64215a1b42fcb5822eacdf2": {
-    "id": "b64215a1b42fcb5822eacdf2",
-    "title": "Calema",
-    "link": "https://agendadopedro.pt/concertos/calema-lisboa-17142/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "80168c9a4d98f9e611e9608e": {
-    "id": "80168c9a4d98f9e611e9608e",
-    "title": "Saint Etienne",
-    "link": "https://agendadopedro.pt/concertos/saint-etienne-lisboa-17117/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "015d39ec1d4c52c9129b8128": {
     "id": "015d39ec1d4c52c9129b8128",
     "title": "Tindersticks",
@@ -4406,6 +4427,13 @@
     "id": "0f64033f3cc75b63e648a4b4",
     "title": "Toto ᛫ Todd Rundgren",
     "link": "https://agendadopedro.pt/concertos/toto-oeiras-17154/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "42bf8da828988df760680a5c": {
+    "id": "42bf8da828988df760680a5c",
+    "title": "U2 ᛫ Wolf Alice",
+    "link": "https://agendadopedro.pt/concertos/u2-lisboa-17161/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
