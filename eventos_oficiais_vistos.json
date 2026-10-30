@@ -1,18 +1,4 @@
 {
-  "4935a4354f24cad973347eea": {
-    "id": "4935a4354f24cad973347eea",
-    "title": "Conversa A Mudar A Imagem De Uma Cidade",
-    "link": "https://casadamusica.com/event/conversa-a-mudar-a-imagem-de-uma-cidade/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "9a89eab2cea8bca0ac53791c": {
-    "id": "9a89eab2cea8bca0ac53791c",
-    "title": "Kialtera 2",
-    "link": "https://casadamusica.com/event/kialtera-2/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "5b7cde85b4ce4e3c848c97df": {
     "id": "5b7cde85b4ce4e3c848c97df",
     "title": "Ensaio Aberto %C2%B7 Schubert E Strauss 2",
@@ -808,6 +794,13 @@
     "id": "4149c86d859443bf1bad3692",
     "title": "Ute Lemper 3",
     "link": "https://casadamusica.com/event/ute-lemper-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "c610bf5ced5f73e680b0c22a": {
+    "id": "c610bf5ced5f73e680b0c22a",
+    "title": "Sonopolis 3",
+    "link": "https://casadamusica.com/event/sonopolis-3/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2358,6 +2351,111 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "d43589422dcb1b6597589c7d": {
+    "id": "d43589422dcb1b6597589c7d",
+    "title": "Meo Commedia A La Carte Fest26 Herman Octeto",
+    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-herman-octeto/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "ce05454fde14acd0d7264492": {
+    "id": "ce05454fde14acd0d7264492",
+    "title": "Meo Commedia A La Carte Fest26 Ines Aires Pereira Namaste",
+    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-ines-aires-pereira-namaste/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "2cda288ced217d43e254a8ac": {
+    "id": "2cda288ced217d43e254a8ac",
+    "title": "Alceu Valenca 80 Girassois",
+    "link": "https://coliseulisboa.com/eventos/alceu-valenca-80-girassois/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "ee86bbd31d81a045b1ba9ceb": {
+    "id": "ee86bbd31d81a045b1ba9ceb",
+    "title": "Meo Commedia A La Carte Fest26 Imagina",
+    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-imagina/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "b8fca410c55a528e596d5618": {
+    "id": "b8fca410c55a528e596d5618",
+    "title": "Bashment Halloween Special Edition",
+    "link": "https://coliseulisboa.com/eventos/bashment-halloween-special-edition/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "0fd1410b750284ed832d51e3": {
+    "id": "0fd1410b750284ed832d51e3",
+    "title": "Special Comedy Show Jerry Sienfeld His Best Friends",
+    "link": "https://coliseulisboa.com/eventos/special-comedy-show-jerry-sienfeld-his-best-friends/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "4d1dbd19829c9c20c7204cd9": {
+    "id": "4d1dbd19829c9c20c7204cd9",
+    "title": "Jose Gonzales Misty Fest",
+    "link": "https://coliseulisboa.com/eventos/jose-gonzales-misty-fest/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "f2c4137f8fa64f5b28bb6956": {
+    "id": "f2c4137f8fa64f5b28bb6956",
+    "title": "Nina Pastori Turne Camino 2025 Lisboa",
+    "link": "https://coliseulisboa.com/eventos/nina-pastori-turne-camino-2025-lisboa/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "e54d7570ea281322a88bdfb8": {
+    "id": "e54d7570ea281322a88bdfb8",
+    "title": "Eros Prado O Pagode Da Ofensa",
+    "link": "https://coliseulisboa.com/eventos/eros-prado-o-pagode-da-ofensa/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "e646ba8a771eea984c9b9bd9": {
+    "id": "e646ba8a771eea984c9b9bd9",
+    "title": "Super Bock Em Stock 2026",
+    "link": "https://coliseulisboa.com/eventos/super-bock-em-stock-2026/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "ac9ccf42355fbbf1f0be15dd": {
+    "id": "ac9ccf42355fbbf1f0be15dd",
+    "title": "Jose Pinhal Post Mortem Experience",
+    "link": "https://coliseulisboa.com/eventos/jose-pinhal-post-mortem-experience/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "3fc636db6ec89332fd5472e0": {
+    "id": "3fc636db6ec89332fd5472e0",
+    "title": "Virgem Suta Sala De Estar",
+    "link": "https://coliseulisboa.com/eventos/virgem-suta-sala-de-estar/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "8ff43842f53e595ee797ae11": {
+    "id": "8ff43842f53e595ee797ae11",
+    "title": "O Barbeiro De Sevilha Opera De Gioachino Rossini",
+    "link": "https://coliseulisboa.com/eventos/o-barbeiro-de-sevilha-opera-de-gioachino-rossini/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "8ae26a091b047056cbc5f363": {
+    "id": "8ae26a091b047056cbc5f363",
+    "title": "Al Bano 60 Anos De Carreira",
+    "link": "https://coliseulisboa.com/eventos/al-bano-60-anos-de-carreira/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "7e4f5adc2a6e4e8b93469c54": {
+    "id": "7e4f5adc2a6e4e8b93469c54",
+    "title": "Carlos Araujo E Beduet Convidados 113",
+    "link": "https://coliseulisboa.com/eventos/carlos-araujo-e-beduet-convidados-113/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
   "76452d025e1baaa0b7df1109": {
     "id": "76452d025e1baaa0b7df1109",
     "title": "Teatro Micaelense 28 Nov 2026 21:30 Carmen",
@@ -2847,13 +2945,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "a4ff138653cd98a9ca353a1a": {
-    "id": "a4ff138653cd98a9ca353a1a",
-    "title": "Heavy Ocean ᛫ Awaiting The Vultures",
-    "link": "https://agendadopedro.pt/concertos/heavy-ocean-porto-16606/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "9c63bc39ba493afe6408f9f6": {
     "id": "9c63bc39ba493afe6408f9f6",
@@ -4231,27 +4322,6 @@
     "id": "a7ea6dba028b91e4bfa84e05",
     "title": "Alceu Valença",
     "link": "https://agendadopedro.pt/concertos/alceu-valenca-lisboa-10779/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "78a82089c7c1f5191de9ecba": {
-    "id": "78a82089c7c1f5191de9ecba",
-    "title": "André Henriques",
-    "link": "https://agendadopedro.pt/concertos/andre-henriques-lisboa-13973/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "1b40f45f027bc14e1a3022a7": {
-    "id": "1b40f45f027bc14e1a3022a7",
-    "title": "André Rieu & The Johann Strauss Orchestra",
-    "link": "https://agendadopedro.pt/concertos/andre-rieu-the-johann-strauss-orchestra-lisboa-10133/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "ba5caf5744ae3f46702a0c38": {
-    "id": "ba5caf5744ae3f46702a0c38",
-    "title": "Herman José",
-    "link": "https://agendadopedro.pt/concertos/herman-jose-lisboa-13248/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
