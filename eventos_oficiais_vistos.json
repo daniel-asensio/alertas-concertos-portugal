@@ -2386,13 +2386,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "2cda288ced217d43e254a8ac": {
-    "id": "2cda288ced217d43e254a8ac",
-    "title": "Alceu Valenca 80 Girassois",
-    "link": "https://coliseulisboa.com/eventos/alceu-valenca-80-girassois/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "ee86bbd31d81a045b1ba9ceb": {
     "id": "ee86bbd31d81a045b1ba9ceb",
     "title": "Meo Commedia A La Carte Fest26 Imagina",
@@ -2488,6 +2481,13 @@
     "id": "196ff6a120bba7010891f64f",
     "title": "Royal Film Orchestra Dj Symphonic Royal Film Orchestra 2",
     "link": "https://coliseulisboa.com/eventos/royal-film-orchestra-dj-symphonic-royal-film-orchestra-2/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "5d8242dad09c83ee2eb799a0": {
+    "id": "5d8242dad09c83ee2eb799a0",
+    "title": "Royal Film Orchestra Morricone Zimmer Williams 2",
+    "link": "https://coliseulisboa.com/eventos/royal-film-orchestra-morricone-zimmer-williams-2/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
