@@ -2834,13 +2834,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "46e1dab7aa190486e7df9030": {
-    "id": "46e1dab7aa190486e7df9030",
-    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
-    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-10-31/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "13bc7b318dd9c945bda1e60b": {
     "id": "13bc7b318dd9c945bda1e60b",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
@@ -2880,6 +2873,13 @@
     "id": "05d05632f466f438ca05b3a1",
     "title": "PARAÍSO, HOJE.",
     "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-05/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5f9368dbb69eccbee0d45596": {
+    "id": "5f9368dbb69eccbee0d45596",
+    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
+    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-11-07/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3478,6 +3478,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "6a7a72cb18ed45cd7922dd6c": {
+    "id": "6a7a72cb18ed45cd7922dd6c",
+    "title": "Tédio FC",
+    "link": "https://agendadopedro.pt/concertos/tedio-fc-porto-17214/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "ef721a1f7cd4ebcf613d8b20": {
     "id": "ef721a1f7cd4ebcf613d8b20",
     "title": "Rodrigo Leão \"Alma Mater\"",
@@ -3485,10 +3492,24 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "4b665df77e41cb9a09581d36": {
+    "id": "4b665df77e41cb9a09581d36",
+    "title": "Bastonada",
+    "link": "https://agendadopedro.pt/concertos/bastonada-porto-17213/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "cb16d6fd64cf967403683b26": {
     "id": "cb16d6fd64cf967403683b26",
     "title": "Christian Löffler",
     "link": "https://agendadopedro.pt/concertos/christian-loffler-porto-12660/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "69c54cbf777b3ca6d9eb6861": {
+    "id": "69c54cbf777b3ca6d9eb6861",
+    "title": "Manga Cava",
+    "link": "https://agendadopedro.pt/concertos/manga-cava-porto-17212/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3503,6 +3524,13 @@
     "id": "949c61cef366dd873580f4f0",
     "title": "Besta ᛫ Equaleft",
     "link": "https://agendadopedro.pt/concertos/besta-porto-17101/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "932a59d55d6d91afc158853e": {
+    "id": "932a59d55d6d91afc158853e",
+    "title": "Fuck It!",
+    "link": "https://agendadopedro.pt/concertos/fuck-it-porto-17211/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4395,10 +4423,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "015d39ec1d4c52c9129b8128": {
-    "id": "015d39ec1d4c52c9129b8128",
-    "title": "Tindersticks",
-    "link": "https://agendadopedro.pt/concertos/tindersticks-lisboa-17143/",
+  "121d89cd454f5d6131926da7": {
+    "id": "121d89cd454f5d6131926da7",
+    "title": "Chico da Tina",
+    "link": "https://agendadopedro.pt/concertos/chico-da-tina-lisboa-17208/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "27b86ef075b474c1f82b4be0": {
+    "id": "27b86ef075b474c1f82b4be0",
+    "title": "Maninho",
+    "link": "https://agendadopedro.pt/concertos/maninho-lisboa-17202/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
