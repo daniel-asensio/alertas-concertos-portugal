@@ -1168,20 +1168,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "8c29b9a8fb941bc39a9536c2": {
-    "id": "8c29b9a8fb941bc39a9536c2",
-    "title": "Joana Providência / Teatro do Bolhão Atlas, mapeamento poético",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/joana-provid-ncia-teatro-do-bolh-o-atlas-mapeamento-po-tico/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
-  "f8eafb3f9a63e126f2758da8": {
-    "id": "f8eafb3f9a63e126f2758da8",
-    "title": "Tō Yō Understage",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/t-y/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
   "140996f2389544a2158c0ec4": {
     "id": "140996f2389544a2158c0ec4",
     "title": "Isabél Zuaa AFRO SALOYÁ",
@@ -1207,6 +1193,13 @@
     "id": "5419efb7879357bf293d5935",
     "title": "Marina Herlop Dja Dja",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/marina-herlop-dja-dja/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "fe9c21b723f5b440250626f1": {
+    "id": "fe9c21b723f5b440250626f1",
+    "title": "Carolina Bianchi Y Cara de Cavalo The Brotherhood TRILOGIA CADELA FORÇA – Capítulo II",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/carolina-bianchi-y-cara-de-cavalo-the-brotherhood-trilogia-cadela-for-a-cap-tulo-ii/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
@@ -2323,13 +2316,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "ee86bbd31d81a045b1ba9ceb": {
-    "id": "ee86bbd31d81a045b1ba9ceb",
-    "title": "Meo Commedia A La Carte Fest26 Imagina",
-    "link": "https://coliseulisboa.com/eventos/meo-commedia-a-la-carte-fest26-imagina/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "4d1dbd19829c9c20c7204cd9": {
     "id": "4d1dbd19829c9c20c7204cd9",
     "title": "Jose Gonzales Misty Fest",
@@ -2425,6 +2411,13 @@
     "id": "b45f8b62d47da6d83a86cd7a",
     "title": "Torajo Uma Viagem Ao Mundo Das Frutas",
     "link": "https://coliseulisboa.com/eventos/torajo-uma-viagem-ao-mundo-das-frutas/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "85797cb4c89d58f10c2f3a68": {
+    "id": "85797cb4c89d58f10c2f3a68",
+    "title": "Janeiro Reticencias Uma Nova Versao De Nos",
+    "link": "https://coliseulisboa.com/eventos/janeiro-reticencias-uma-nova-versao-de-nos/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
