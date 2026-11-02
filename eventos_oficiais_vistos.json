@@ -1574,13 +1574,6 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "26569a4077755614caef7350": {
-    "id": "26569a4077755614caef7350",
-    "title": "1ªparte: KT Tunstall",
-    "link": "https://everythingisnew.pt/brandi-carlile-lisboa-2026-2/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
   "356de15297aa4ecae2d15662": {
     "id": "356de15297aa4ecae2d15662",
     "title": "SARA CORREIA – FESTIVAL FADO SÃO PAULO",
@@ -2302,13 +2295,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "4d1dbd19829c9c20c7204cd9": {
-    "id": "4d1dbd19829c9c20c7204cd9",
-    "title": "Jose Gonzales Misty Fest",
-    "link": "https://coliseulisboa.com/eventos/jose-gonzales-misty-fest/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "f2c4137f8fa64f5b28bb6956": {
     "id": "f2c4137f8fa64f5b28bb6956",
     "title": "Nina Pastori Turne Camino 2025 Lisboa",
@@ -2407,17 +2393,24 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
-  "76452d025e1baaa0b7df1109": {
-    "id": "76452d025e1baaa0b7df1109",
-    "title": "Teatro Micaelense 28 Nov 2026 21:30 Carmen",
-    "link": "https://www.saocarlos.pt/program/carmen-1776857160664/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
+  "e882321e5eccff011bc64aea": {
+    "id": "e882321e5eccff011bc64aea",
+    "title": "Bate Papo Com Theo",
+    "link": "https://coliseulisboa.com/eventos/bate-papo-com-theo/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
   },
   "9ac4c9c90eaa7756476c2479": {
     "id": "9ac4c9c90eaa7756476c2479",
     "title": "Centro Cultural Olga Cadaval 15 Nov 2026 17:00 Claude Debussy: La mer",
     "link": "https://www.saocarlos.pt/program/claude-debussy-la-mer/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "f687c71cc1ced13066817c0d": {
+    "id": "f687c71cc1ced13066817c0d",
+    "title": "Convento São Francisco 20 Nov 2026 21:00 Mátria",
+    "link": "https://www.saocarlos.pt/program/matria-1776856565404/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -2430,21 +2423,21 @@
   },
   "b80e87e134be704393905d4c": {
     "id": "b80e87e134be704393905d4c",
-    "title": "Convento de São Francisco Mátria | Ensaio aberto 19 Nov 2026 15:00 Encontro com a ópera",
+    "title": "Convento São Francisco Mátria | Ensaio aberto 19 Nov 2026 15:00 Encontro com a ópera",
     "link": "https://www.saocarlos.pt/program/encontro-com-a-opera-1788348519711/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "f687c71cc1ced13066817c0d": {
-    "id": "f687c71cc1ced13066817c0d",
-    "title": "Convento São Francisco 20 Nov 2026 21:00 Mátria",
-    "link": "https://www.saocarlos.pt/program/matria-1776856565404/",
+  "76452d025e1baaa0b7df1109": {
+    "id": "76452d025e1baaa0b7df1109",
+    "title": "Teatro Micaelense 28 Nov 2026 21:30 Carmen",
+    "link": "https://www.saocarlos.pt/program/carmen-1776857160664/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 26 Dez 2026 18:30 A bela adormecida",
+    "title": "Teatro Camões 27 Dez 2026 16:00 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2460,6 +2453,13 @@
     "id": "4188e61bb254a44abd1cb73f",
     "title": "Centro Cultural de Belém 20 Dez 2026 17:00 Concerto de Natal - Missa em si menor de Bach",
     "link": "https://www.saocarlos.pt/program/concerto-de-natal-missa-em-si-menor-de-bach/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "804e9f6585c670e419fa6457": {
+    "id": "804e9f6585c670e419fa6457",
+    "title": "Centro Cultural Olga Cadaval 03 Jan 2027 17:00 Concerto de Ano Novo",
+    "link": "https://www.saocarlos.pt/program/2627-concerto-de-ano-novo/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -4401,6 +4401,13 @@
     "link": "https://agendadopedro.pt/concertos/u2-lisboa-17161/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "b0f799dba811960f73fe30c0": {
+    "id": "b0f799dba811960f73fe30c0",
+    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-02-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "0e47e16a8ee03a46167ab86d": {
     "title": "O Quebra-Nozes — Imperial Heritage Ballet",
