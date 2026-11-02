@@ -1,18 +1,4 @@
 {
-  "1c5196c19fe37c8a9945c804": {
-    "id": "1c5196c19fe37c8a9945c804",
-    "title": "Estacao Casa Da Musica 2027",
-    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "2703261fb6526e84bf845d7c": {
-    "id": "2703261fb6526e84bf845d7c",
-    "title": "De Profundis",
-    "link": "https://casadamusica.com/event/de-profundis/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "e94ad95bef1d937c284c12fb": {
     "id": "e94ad95bef1d937c284c12fb",
     "title": "A Arte Da Composicao Da Historia A Modernidade",
@@ -52,6 +38,13 @@
     "id": "a707d57eb41814ecd78e1a0c",
     "title": "A Terceira De Rachmaninoff",
     "link": "https://casadamusica.com/event/a-terceira-de-rachmaninoff/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "1c5196c19fe37c8a9945c804": {
+    "id": "1c5196c19fe37c8a9945c804",
+    "title": "Estacao Casa Da Musica 2027",
+    "link": "https://casadamusica.com/event/estacao-casa-da-musica-2027/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1084,13 +1077,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "e4504e7c041eb7ead0957570": {
-    "id": "e4504e7c041eb7ead0957570",
-    "title": "MOONSPELL",
-    "link": "https://www.hardclubporto.com/PT/evento/moonspell-invicta-halloween-2026-parte-ii-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "1b7807fb08d7da75e4a5db71": {
     "id": "1b7807fb08d7da75e4a5db71",
     "title": "Skryabin",
@@ -1102,6 +1088,13 @@
     "id": "383ccc9e17a00c9d8c65a040",
     "title": "Max Cooper",
     "link": "https://www.hardclubporto.com/PT/evento/max-cooper-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "a3fd328148ab17ada6ba3d33": {
+    "id": "a3fd328148ab17ada6ba3d33",
+    "title": "Nevermind 35. Anniversary",
+    "link": "https://www.hardclubporto.com/PT/evento/nevermind-35-anniversary-seattle-supersonics-tribute-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -2897,27 +2890,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "572868c377f95f22c9b7c61b": {
-    "id": "572868c377f95f22c9b7c61b",
-    "title": "Alceu Valença",
-    "link": "https://agendadopedro.pt/concertos/alceu-valenca-porto-10772/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "d867f9ee365dc52d37fd8d54": {
-    "id": "d867f9ee365dc52d37fd8d54",
-    "title": "Moonspell ᛫ NU:N",
-    "link": "https://agendadopedro.pt/concertos/moonspell-porto-15776/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "f3a5bb55198d80dc1ef9ff7e": {
-    "id": "f3a5bb55198d80dc1ef9ff7e",
-    "title": "The Vintage Caravan",
-    "link": "https://agendadopedro.pt/concertos/the-vintage-caravan-porto-15841/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "5247185d498aca2d20c789bb": {
     "id": "5247185d498aca2d20c789bb",
     "title": "José González",
@@ -4283,13 +4255,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "7c26c1a205acd54d368f3fbb": {
-    "id": "7c26c1a205acd54d368f3fbb",
-    "title": "José González",
-    "link": "https://agendadopedro.pt/concertos/jose-gonzalez-lisboa-11949/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "96a9c211a92a7a78ebdec276": {
     "id": "96a9c211a92a7a78ebdec276",
     "title": "Duran Duran",
@@ -4325,6 +4290,90 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "29c5a7d7e6746ebe4c19dfa9": {
+    "id": "29c5a7d7e6746ebe4c19dfa9",
+    "title": "Amon Amarth ᛫ Orbit Culture ᛫ Soilwork",
+    "link": "https://agendadopedro.pt/concertos/amon-amarth-lisboa-10416/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "3d8d21ec867c5ddeaf15ab81": {
+    "id": "3d8d21ec867c5ddeaf15ab81",
+    "title": "Arlo Parks ᛫ Baird",
+    "link": "https://agendadopedro.pt/concertos/arlo-parks-lisboa-12017/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "a8c0c055bfc04eda95cfd86d": {
+    "id": "a8c0c055bfc04eda95cfd86d",
+    "title": "Cat Power \"The Greatest\"",
+    "link": "https://agendadopedro.pt/concertos/cat-power-lisboa-12772/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6739a11722b1604e3e8ac6b0": {
+    "id": "6739a11722b1604e3e8ac6b0",
+    "title": "DJ Symphonic & Royal Film Concert Orchestra",
+    "link": "https://agendadopedro.pt/concertos/dj-symphonic-lisboa-11442/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "3953ae5f1b16043a3ac6fb3d": {
+    "id": "3953ae5f1b16043a3ac6fb3d",
+    "title": "Gipsy Kings by Diego Baliardo",
+    "link": "https://agendadopedro.pt/concertos/gipsy-kings-by-diego-baliardo-guimaraes-15285/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "ffb5d465583240fdfa99e8e9": {
+    "id": "ffb5d465583240fdfa99e8e9",
+    "title": "Os Quatro e Meia",
+    "link": "https://agendadopedro.pt/concertos/os-quatro-e-meia-guimaraes-10572/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "1fb639f74c33aaddcc24ac4f": {
+    "id": "1fb639f74c33aaddcc24ac4f",
+    "title": "Pedro Abrunhosa",
+    "link": "https://agendadopedro.pt/concertos/pedro-abrunhosa-povoa-de-varzim-13045/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e0b22a6e059e3a8ea6985ac9": {
+    "id": "e0b22a6e059e3a8ea6985ac9",
+    "title": "Rodrigo Cuevas",
+    "link": "https://agendadopedro.pt/concertos/rodrigo-cuevas-lisboa-13625/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "3bd4269dd976ae6992505656": {
+    "id": "3bd4269dd976ae6992505656",
+    "title": "Royal Film Concert Orchestra",
+    "link": "https://agendadopedro.pt/concertos/royal-film-concert-orchestra-lisboa-11443/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "31f7982a2a5a507628d00118": {
+    "id": "31f7982a2a5a507628d00118",
+    "title": "Rubel",
+    "link": "https://agendadopedro.pt/concertos/rubel-lisboa-11154/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "f1b66f1baff405df5789ecd2": {
+    "id": "f1b66f1baff405df5789ecd2",
+    "title": "Sam the Kid & Valete & Regula & Xeg",
+    "link": "https://agendadopedro.pt/concertos/sam-the-kid-valete-regula-xeg-lisboa-12821/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "cf1d2667a84ffbe2f00adaf4": {
+    "id": "cf1d2667a84ffbe2f00adaf4",
+    "title": "The Last Internationale",
+    "link": "https://agendadopedro.pt/concertos/the-last-internationale-lisboa-13834/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "121d89cd454f5d6131926da7": {
     "id": "121d89cd454f5d6131926da7",
     "title": "Chico da Tina",
@@ -4352,14 +4401,6 @@
     "link": "https://agendadopedro.pt/concertos/u2-lisboa-17161/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "5d06539c6d6e890cc7449956": {
-    "title": "Turandot, de Giacomo Puccini",
-    "date": "31 outubro 2026, 21h30",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Ópera — Aveiro",
-    "id": "5d06539c6d6e890cc7449956"
   },
   "0e47e16a8ee03a46167ab86d": {
     "title": "O Quebra-Nozes — Imperial Heritage Ballet",
