@@ -1861,6 +1861,20 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
+  "37bbd2f7259b9b224d2ddc45": {
+    "id": "37bbd2f7259b9b224d2ddc45",
+    "title": "European Tour 2026",
+    "link": "https://everythingisnew.pt/sanguijuelas-del-guadiana-2/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
+  "6891da34c74110e573667f32": {
+    "id": "6891da34c74110e573667f32",
+    "title": "European Tour 2026",
+    "link": "https://everythingisnew.pt/sanguijuelas-del-guadiana/",
+    "source": "Everything Is New",
+    "kind": "Promotora"
+  },
   "dacf5cec2a308c170d19afad": {
     "id": "dacf5cec2a308c170d19afad",
     "title": "A New Dimension",
@@ -2458,7 +2472,7 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 26 Dez 2026 18:30 A bela adormecida",
+    "title": "Teatro Camões 23 Dez 2026 20:00 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2715,34 +2729,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c1f93dad5480c46fb73ba3e7": {
-    "id": "c1f93dad5480c46fb73ba3e7",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-03/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "70eff29686b58f308d0bda22": {
-    "id": "70eff29686b58f308d0bda22",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-03/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "7d013f97dfa19f3fe012b012": {
-    "id": "7d013f97dfa19f3fe012b012",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-03/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "a2bf6ced4ad99a856bda5fb3": {
-    "id": "a2bf6ced4ad99a856bda5fb3",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-03/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "3df4cbf9b2202e38343f0245": {
     "id": "3df4cbf9b2202e38343f0245",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
@@ -2764,10 +2750,45 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "79f131ece81eeb197171974a": {
-    "id": "79f131ece81eeb197171974a",
+  "c2762370fa3268b56d55d07e": {
+    "id": "c2762370fa3268b56d55d07e",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "46cb3883a8b121bc3aea6828": {
+    "id": "46cb3883a8b121bc3aea6828",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "fa3ac3e45cbae00364966a35": {
+    "id": "fa3ac3e45cbae00364966a35",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "1b56620d30b58ececcd88e35": {
+    "id": "1b56620d30b58ececcd88e35",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "26aeb25717f387c7d2f228a3": {
+    "id": "26aeb25717f387c7d2f228a3",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "02d5010eede757fb0f150a8b": {
+    "id": "02d5010eede757fb0f150a8b",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-03/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-04/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2866,13 +2887,6 @@
     "id": "b56445b262860d65caad17ee",
     "title": "Marisol - When Things are Just Beginning",
     "link": "https://www.ccb.pt/evento/exposicao-marisol/2026-12-17/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "0cfcf48e9bd739dd7a5465f2": {
-    "id": "0cfcf48e9bd739dd7a5465f2",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-12-30/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
