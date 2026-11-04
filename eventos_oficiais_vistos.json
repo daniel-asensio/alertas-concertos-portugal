@@ -1854,17 +1854,17 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "37bbd2f7259b9b224d2ddc45": {
-    "id": "37bbd2f7259b9b224d2ddc45",
+  "a5ff8c8f8448874769b9fdbd": {
+    "id": "a5ff8c8f8448874769b9fdbd",
     "title": "European Tour 2026",
-    "link": "https://everythingisnew.pt/sanguijuelas-del-guadiana-2/",
+    "link": "https://everythingisnew.pt/sanguijuelas-del-guadiana-2027-porto/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "6891da34c74110e573667f32": {
-    "id": "6891da34c74110e573667f32",
+  "0c2898a1ceb1c262d462076e": {
+    "id": "0c2898a1ceb1c262d462076e",
     "title": "European Tour 2026",
-    "link": "https://everythingisnew.pt/sanguijuelas-del-guadiana/",
+    "link": "https://everythingisnew.pt/sanguijuelas-del-guadiana-2027-lisboa/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -1910,10 +1910,10 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "11b15470cb974b38eb331e4b": {
-    "id": "11b15470cb974b38eb331e4b",
+  "f34ab1ade76842a6547ee889": {
+    "id": "f34ab1ade76842a6547ee889",
     "title": "THE TESKEY BROTHERS",
-    "link": "https://everythingisnew.pt/the-teskey-brothers-2/",
+    "link": "https://everythingisnew.pt/the-teskey-brothers-2027/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2715,27 +2715,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "3df4cbf9b2202e38343f0245": {
-    "id": "3df4cbf9b2202e38343f0245",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-03/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b80bc15866df6d5b9c74b561": {
-    "id": "b80bc15866df6d5b9c74b561",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-03/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "aa0a218ebe8881ae2e47bda2": {
-    "id": "aa0a218ebe8881ae2e47bda2",
-    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
-    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-03/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "c2762370fa3268b56d55d07e": {
     "id": "c2762370fa3268b56d55d07e",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -2768,6 +2747,20 @@
     "id": "26aeb25717f387c7d2f228a3",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ee89c3ad62550337661f5980": {
+    "id": "ee89c3ad62550337661f5980",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-04/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8efde692f85d44799df15cd1": {
+    "id": "8efde692f85d44799df15cd1",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-04/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2810,6 +2803,13 @@
     "id": "ce55b04c96df69ae3c06aad9",
     "title": "Visitas Guiadas",
     "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-08/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "79b6dd95782c977e7a586a0d": {
+    "id": "79b6dd95782c977e7a586a0d",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -4259,13 +4259,6 @@
     "id": "cf5df6f81a1dd72ac80b3c91",
     "title": "D'zrt",
     "link": "https://agendadopedro.pt/concertos/d-zrt-porto-15566/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "96a9c211a92a7a78ebdec276": {
-    "id": "96a9c211a92a7a78ebdec276",
-    "title": "Duran Duran",
-    "link": "https://agendadopedro.pt/concertos/duran-duran-lisboa-14518/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
