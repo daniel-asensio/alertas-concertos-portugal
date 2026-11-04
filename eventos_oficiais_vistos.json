@@ -1084,13 +1084,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "1b7807fb08d7da75e4a5db71": {
-    "id": "1b7807fb08d7da75e4a5db71",
-    "title": "Skryabin",
-    "link": "https://www.hardclubporto.com/PT/evento/skryabin-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "383ccc9e17a00c9d8c65a040": {
     "id": "383ccc9e17a00c9d8c65a040",
     "title": "Max Cooper",
@@ -1102,6 +1095,13 @@
     "id": "a3fd328148ab17ada6ba3d33",
     "title": "Nevermind 35. Anniversary",
     "link": "https://www.hardclubporto.com/PT/evento/nevermind-35-anniversary-seattle-supersonics-tribute-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "3c7513fb82baea20383d0bab": {
+    "id": "3c7513fb82baea20383d0bab",
+    "title": "Jose Cid & Septeto",
+    "link": "https://www.hardclubporto.com/PT/evento/jose-cid-septeto-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1578,13 +1578,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "480da4d144c8f46e2aac80df": {
-    "id": "480da4d144c8f46e2aac80df",
-    "title": "CAMANÉ – FESTIVAL FADO SÃO PAULO",
-    "link": "https://everythingisnew.pt/camane-festival-fado-sao-paulo/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -4136,6 +4129,20 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "7218c02293379621d13c2911": {
+    "id": "7218c02293379621d13c2911",
+    "title": "Gui Aly",
+    "link": "https://agendadopedro.pt/concertos/gui-aly-porto-17260/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "516d90260d5b7a2592e5728d": {
+    "id": "516d90260d5b7a2592e5728d",
+    "title": "Diles Que No Me Maten",
+    "link": "https://agendadopedro.pt/concertos/diles-que-no-me-maten-porto-17252/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "470cab5812602fabddb528fc": {
     "id": "470cab5812602fabddb528fc",
     "title": "The Watch",
@@ -4388,6 +4395,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "2513c27c6012f25e3fbd7b1f": {
+    "id": "2513c27c6012f25e3fbd7b1f",
+    "title": "Messhuggah ᛫ Periphery ᛫ Vildhjarta",
+    "link": "https://agendadopedro.pt/concertos/messhuggah-lisboa-17248/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "3385af9e9172f28eb4e8dc2a": {
     "id": "3385af9e9172f28eb4e8dc2a",
     "title": "Moonspell ᛫ Amorphis ᛫ Zeal & Ardor ᛫ ...",
@@ -4399,6 +4413,13 @@
     "id": "66b20c3f11e5af94f6cda05c",
     "title": "Panda Bear & Sonic Boom",
     "link": "https://agendadopedro.pt/concertos/panda-bear-sonic-boom-lisboa-17215/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "3af09d635dea8c61080b0f29": {
+    "id": "3af09d635dea8c61080b0f29",
+    "title": "The Teskey Brothers ᛫ Brooke Combe",
+    "link": "https://agendadopedro.pt/concertos/the-teskey-brothers-lisboa-17245/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
