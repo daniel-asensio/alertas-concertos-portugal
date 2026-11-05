@@ -482,6 +482,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "a771349735126a5b709d31d7": {
+    "id": "a771349735126a5b709d31d7",
+    "title": "A 5 A De Beethoven E As Paisagens De Glass",
+    "link": "https://casadamusica.com/event/a-5-a-de-beethoven-e-as-paisagens-de-glass/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "d2547974480f10a731e2b3ef": {
     "id": "d2547974480f10a731e2b3ef",
     "title": "Som De La E De Ca 2",
@@ -2239,13 +2246,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "f2c4137f8fa64f5b28bb6956": {
-    "id": "f2c4137f8fa64f5b28bb6956",
-    "title": "Nina Pastori Turne Camino 2025 Lisboa",
-    "link": "https://coliseulisboa.com/eventos/nina-pastori-turne-camino-2025-lisboa/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "e54d7570ea281322a88bdfb8": {
     "id": "e54d7570ea281322a88bdfb8",
     "title": "Eros Prado O Pagode Da Ofensa",
@@ -2341,6 +2341,13 @@
     "id": "e882321e5eccff011bc64aea",
     "title": "Bate Papo Com Theo",
     "link": "https://coliseulisboa.com/eventos/bate-papo-com-theo/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "85b6060be8ac5c353a94994e": {
+    "id": "85b6060be8ac5c353a94994e",
+    "title": "Em Casa Damalia O Concerto Ao Vivo",
+    "link": "https://coliseulisboa.com/eventos/em-casa-damalia-o-concerto-ao-vivo/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -2610,41 +2617,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d5e0965bec8f22343f563abf": {
-    "id": "d5e0965bec8f22343f563abf",
-    "title": "Exposicao May I Help You Posso Ajudar",
-    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "5fa814d556e5d1f6d2c1b386": {
-    "id": "5fa814d556e5d1f6d2c1b386",
-    "title": "Instalacao James Webb",
-    "link": "https://www.ccb.pt/evento/instalacao-james-webb/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "79f308df2843e20f5a726b49": {
-    "id": "79f308df2843e20f5a726b49",
-    "title": "Visitas Guiadas Ao Edificio Centro Cultural De Belem",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-ao-edificio-centro-cultural-de-belem/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f16e52904656b9928206a898": {
-    "id": "f16e52904656b9928206a898",
-    "title": "Visitas Orientadas E Tematicas Oficinas",
-    "link": "https://www.ccb.pt/evento/visitas-orientadas-e-tematicas-oficinas/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "a00d1bd5dbcf0a19fa394bff": {
-    "id": "a00d1bd5dbcf0a19fa394bff",
-    "title": "Mostra Espanha 2026 Obras Convidadas",
-    "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "634b3f158231656d1254880c": {
     "id": "634b3f158231656d1254880c",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -2666,17 +2638,24 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "5c42d0ab9ce0cf30a6e51144": {
-    "id": "5c42d0ab9ce0cf30a6e51144",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-05/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "3c8e58d3b52f9553a57acac0": {
     "id": "3c8e58d3b52f9553a57acac0",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-05/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "05d05632f466f438ca05b3a1": {
+    "id": "05d05632f466f438ca05b3a1",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-05/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5c42d0ab9ce0cf30a6e51144": {
+    "id": "5c42d0ab9ce0cf30a6e51144",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2691,13 +2670,6 @@
     "id": "a7ce344eee038cf94b7a062e",
     "title": "Ângela Ferreira",
     "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-05/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "05d05632f466f438ca05b3a1": {
-    "id": "05d05632f466f438ca05b3a1",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2754,6 +2726,41 @@
     "id": "f4319bdd179ae0d362e323f4",
     "title": "Memórias, Silêncios e Disputas no Espaço Público em Duas Cidades da Península Ibérica",
     "link": "https://www.ccb.pt/evento/memorias-silencios-e-disputas-no-espaco-publico-em-duas-cidades-da-peninsula-iberica/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d5e0965bec8f22343f563abf": {
+    "id": "d5e0965bec8f22343f563abf",
+    "title": "Exposicao May I Help You Posso Ajudar",
+    "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5fa814d556e5d1f6d2c1b386": {
+    "id": "5fa814d556e5d1f6d2c1b386",
+    "title": "Instalacao James Webb",
+    "link": "https://www.ccb.pt/evento/instalacao-james-webb/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "79f308df2843e20f5a726b49": {
+    "id": "79f308df2843e20f5a726b49",
+    "title": "Visitas Guiadas Ao Edificio Centro Cultural De Belem",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-ao-edificio-centro-cultural-de-belem/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "f16e52904656b9928206a898": {
+    "id": "f16e52904656b9928206a898",
+    "title": "Visitas Orientadas E Tematicas Oficinas",
+    "link": "https://www.ccb.pt/evento/visitas-orientadas-e-tematicas-oficinas/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "a00d1bd5dbcf0a19fa394bff": {
+    "id": "a00d1bd5dbcf0a19fa394bff",
+    "title": "Mostra Espanha 2026 Obras Convidadas",
+    "link": "https://www.ccb.pt/evento/mostra-espanha-2026-obras-convidadas/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -4171,6 +4178,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "31d0684867f963d0c44d4b55": {
+    "id": "31d0684867f963d0c44d4b55",
+    "title": "Mafalda Veiga",
+    "link": "https://agendadopedro.pt/concertos/mafalda-veiga-porto-17267/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "82a11d8cbaaa90674827c4ee": {
     "id": "82a11d8cbaaa90674827c4ee",
     "title": "Steve Hackett",
@@ -4339,10 +4353,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "2604d9bd4f86fa45180b0cf5": {
-    "id": "2604d9bd4f86fa45180b0cf5",
+  "20bfe5c482bb2397100d5d8a": {
+    "id": "20bfe5c482bb2397100d5d8a",
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-11-04-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-05-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
