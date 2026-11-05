@@ -1490,62 +1490,6 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
-  "441d96b7ad41eef1151fccb5": {
-    "id": "441d96b7ad41eef1151fccb5",
-    "title": "Os Quatro e Meia | Tour Interior",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "e1b276669910d4d84f77026f": {
-    "id": "e1b276669910d4d84f77026f",
-    "title": "Sinfoniónicos | Música, Magia e Artes do Circo | Banda Sinfónica de Jovens de Santa Maria da Feira",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "bbb15b2a285a23bf5bf6f604": {
-    "id": "bbb15b2a285a23bf5bf6f604",
-    "title": "Memória de Peixe",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "7b90ee9d1ca0e693f7f56a4f": {
-    "id": "7b90ee9d1ca0e693f7f56a4f",
-    "title": "Noite do Circo | Noite do Circo Santa Maria da Feira",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "1b61ea7e2781d41f07d3481b": {
-    "id": "1b61ea7e2781d41f07d3481b",
-    "title": "Numa noite o ano inteiro | Federação das Colectividades de Cultura e Recreio do Concelho de Santa Maria da Feira",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "1f0bff9564a2d388f86b17f3": {
-    "id": "1f0bff9564a2d388f86b17f3",
-    "title": "Libra | Everyone´s First Breath | OuTonalidades - Circuito Português de Música ao Vivo",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "6d33ed973dbc46b9d040bfea": {
-    "id": "6d33ed973dbc46b9d040bfea",
-    "title": "Linda Martini | Passa Montanhas",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "cc47d244192c23771fb15a01": {
-    "id": "cc47d244192c23771fb15a01",
-    "title": "PULSO | Festival de Arte Inclusiva",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
   "f3a142d732d32aceb612b289": {
     "id": "f3a142d732d32aceb612b289",
     "title": "Programação atualizada — Casa da Criatividade (Infantil)",
@@ -2701,66 +2645,52 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c2762370fa3268b56d55d07e": {
-    "id": "c2762370fa3268b56d55d07e",
+  "634b3f158231656d1254880c": {
+    "id": "634b3f158231656d1254880c",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-04/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "46cb3883a8b121bc3aea6828": {
-    "id": "46cb3883a8b121bc3aea6828",
+  "b9f8330dd4b261d38e278ff1": {
+    "id": "b9f8330dd4b261d38e278ff1",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-04/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "fa3ac3e45cbae00364966a35": {
-    "id": "fa3ac3e45cbae00364966a35",
+  "536c7720a548c36afff46cfb": {
+    "id": "536c7720a548c36afff46cfb",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-04/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "1b56620d30b58ececcd88e35": {
-    "id": "1b56620d30b58ececcd88e35",
+  "5c42d0ab9ce0cf30a6e51144": {
+    "id": "5c42d0ab9ce0cf30a6e51144",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-04/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "26aeb25717f387c7d2f228a3": {
-    "id": "26aeb25717f387c7d2f228a3",
+  "3c8e58d3b52f9553a57acac0": {
+    "id": "3c8e58d3b52f9553a57acac0",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-04/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ee89c3ad62550337661f5980": {
-    "id": "ee89c3ad62550337661f5980",
+  "8c23a9a9c053c6d9a4f90ba0": {
+    "id": "8c23a9a9c053c6d9a4f90ba0",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-04/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8efde692f85d44799df15cd1": {
-    "id": "8efde692f85d44799df15cd1",
+  "a7ce344eee038cf94b7a062e": {
+    "id": "a7ce344eee038cf94b7a062e",
     "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-04/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "02d5010eede757fb0f150a8b": {
-    "id": "02d5010eede757fb0f150a8b",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-04/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "3fc6464370354a7a4a87531e": {
-    "id": "3fc6464370354a7a4a87531e",
-    "title": "Programa Público das exposições",
-    "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/2026-11-04/",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2768,6 +2698,13 @@
     "id": "05d05632f466f438ca05b3a1",
     "title": "PARAÍSO, HOJE.",
     "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-05/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "98094bde07102dc113c894e8": {
+    "id": "98094bde07102dc113c894e8",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2803,6 +2740,13 @@
     "id": "da9d1d21d0e0ed0f6b58148e",
     "title": "Museu em Partilha - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/museu-em-partilha/2026-11-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "442dba571ff3ef7b781f1b80": {
+    "id": "442dba571ff3ef7b781f1b80",
+    "title": "Programa Público das exposições",
+    "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/2026-11-14/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
