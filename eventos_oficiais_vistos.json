@@ -1273,13 +1273,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "078d7f669f1c19c35725431c": {
-    "id": "078d7f669f1c19c35725431c",
-    "title": "Ensemble Inverspace [ESTREIA NACIONAL] Tubo de Ensaio #14",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/ensemble-inverspace-estreia-nacional/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "ab914a735a2a5c67734ec576": {
     "id": "ab914a735a2a5c67734ec576",
     "title": "Home Francisco Sassetti / Ciclo O Problema da Habitação",
@@ -2267,17 +2260,17 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
-  "3fc636db6ec89332fd5472e0": {
-    "id": "3fc636db6ec89332fd5472e0",
-    "title": "Virgem Suta Sala De Estar",
-    "link": "https://coliseulisboa.com/eventos/virgem-suta-sala-de-estar/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "8ff43842f53e595ee797ae11": {
     "id": "8ff43842f53e595ee797ae11",
     "title": "O Barbeiro De Sevilha Opera De Gioachino Rossini",
     "link": "https://coliseulisboa.com/eventos/o-barbeiro-de-sevilha-opera-de-gioachino-rossini/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "3fc636db6ec89332fd5472e0": {
+    "id": "3fc636db6ec89332fd5472e0",
+    "title": "Virgem Suta Sala De Estar",
+    "link": "https://coliseulisboa.com/eventos/virgem-suta-sala-de-estar/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -2617,31 +2610,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "634b3f158231656d1254880c": {
-    "id": "634b3f158231656d1254880c",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-05/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b9f8330dd4b261d38e278ff1": {
-    "id": "b9f8330dd4b261d38e278ff1",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-05/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "536c7720a548c36afff46cfb": {
-    "id": "536c7720a548c36afff46cfb",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-05/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "3c8e58d3b52f9553a57acac0": {
-    "id": "3c8e58d3b52f9553a57acac0",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-05/",
+  "8c23a9a9c053c6d9a4f90ba0": {
+    "id": "8c23a9a9c053c6d9a4f90ba0",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-05/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2659,13 +2631,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8c23a9a9c053c6d9a4f90ba0": {
-    "id": "8c23a9a9c053c6d9a4f90ba0",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-05/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "a7ce344eee038cf94b7a062e": {
     "id": "a7ce344eee038cf94b7a062e",
     "title": "Ângela Ferreira",
@@ -2673,10 +2638,38 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "98094bde07102dc113c894e8": {
-    "id": "98094bde07102dc113c894e8",
+  "880d45e61492bf3fcac72bd0": {
+    "id": "880d45e61492bf3fcac72bd0",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-06/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9eadf373c11a1de845a47bba": {
+    "id": "9eadf373c11a1de845a47bba",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-06/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "a1bd09d2f08d735d70a13fab": {
+    "id": "a1bd09d2f08d735d70a13fab",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-06/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "02b9c118cae3a2128a7dc4d7": {
+    "id": "02b9c118cae3a2128a7dc4d7",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-06/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "bc4ef7d47321ca47447ae68a": {
+    "id": "bc4ef7d47321ca47447ae68a",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-05/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-06/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3326,7 +3319,7 @@
   },
   "949c61cef366dd873580f4f0": {
     "id": "949c61cef366dd873580f4f0",
-    "title": "Besta ᛫ Equaleft",
+    "title": "Besta ᛫ Nihility",
     "link": "https://agendadopedro.pt/concertos/besta-porto-17101/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -4315,13 +4308,6 @@
     "id": "121d89cd454f5d6131926da7",
     "title": "Chico da Tina",
     "link": "https://agendadopedro.pt/concertos/chico-da-tina-lisboa-17208/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "27b86ef075b474c1f82b4be0": {
-    "id": "27b86ef075b474c1f82b4be0",
-    "title": "Maninho",
-    "link": "https://agendadopedro.pt/concertos/maninho-lisboa-17202/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
