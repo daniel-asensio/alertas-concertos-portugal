@@ -244,13 +244,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "3e39e80eeba50d047e522d47": {
-    "id": "3e39e80eeba50d047e522d47",
-    "title": "Luan Sodre Quarteto",
-    "link": "https://casadamusica.com/event/luan-sodre-quarteto/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "ffc30100ff3f300e4218b6b1": {
     "id": "ffc30100ff3f300e4218b6b1",
     "title": "Ensaio Aberto %C2%B7 Pizarro Interpreta Britten 2",
@@ -325,6 +318,13 @@
     "id": "08dbcf8cae7007dfbd099bb3",
     "title": "Vozes Da Radio 35 Anos",
     "link": "https://casadamusica.com/event/vozes-da-radio-35-anos/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "cf58eca9b8bcc8637c065eaf": {
+    "id": "cf58eca9b8bcc8637c065eaf",
+    "title": "Concerto Das Orquestras Do Ensino Basico Amcc",
+    "link": "https://casadamusica.com/event/concerto-das-orquestras-do-ensino-basico-amcc/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1112,17 +1112,17 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "c60c6c3b1a1d561ec64105a4": {
-    "id": "c60c6c3b1a1d561ec64105a4",
-    "title": "ABC da Guerra",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7306/abc-da-guerra/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "b3062e94a434a26224bf0cd6": {
     "id": "b3062e94a434a26224bf0cd6",
     "title": "O Conceito Inútil",
     "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "c60c6c3b1a1d561ec64105a4": {
+    "id": "c60c6c3b1a1d561ec64105a4",
+    "title": "ABC da Guerra",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7306/abc-da-guerra/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -2232,13 +2232,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "e54d7570ea281322a88bdfb8": {
-    "id": "e54d7570ea281322a88bdfb8",
-    "title": "Eros Prado O Pagode Da Ofensa",
-    "link": "https://coliseulisboa.com/eventos/eros-prado-o-pagode-da-ofensa/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "e646ba8a771eea984c9b9bd9": {
     "id": "e646ba8a771eea984c9b9bd9",
     "title": "Super Bock Em Stock 2026",
@@ -2253,17 +2246,17 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
-  "8ff43842f53e595ee797ae11": {
-    "id": "8ff43842f53e595ee797ae11",
-    "title": "O Barbeiro De Sevilha Opera De Gioachino Rossini",
-    "link": "https://coliseulisboa.com/eventos/o-barbeiro-de-sevilha-opera-de-gioachino-rossini/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "3fc636db6ec89332fd5472e0": {
     "id": "3fc636db6ec89332fd5472e0",
     "title": "Virgem Suta Sala De Estar",
     "link": "https://coliseulisboa.com/eventos/virgem-suta-sala-de-estar/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "8ff43842f53e595ee797ae11": {
+    "id": "8ff43842f53e595ee797ae11",
+    "title": "O Barbeiro De Sevilha Opera De Gioachino Rossini",
+    "link": "https://coliseulisboa.com/eventos/o-barbeiro-de-sevilha-opera-de-gioachino-rossini/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -2334,6 +2327,13 @@
     "id": "85b6060be8ac5c353a94994e",
     "title": "Em Casa Damalia O Concerto Ao Vivo",
     "link": "https://coliseulisboa.com/eventos/em-casa-damalia-o-concerto-ao-vivo/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "8199acfe6a73781832fba7d7": {
+    "id": "8199acfe6a73781832fba7d7",
+    "title": "O Quebra Nozes Imperial Heritage Ballet Classic Stage",
+    "link": "https://coliseulisboa.com/eventos/o-quebra-nozes-imperial-heritage-ballet-classic-stage/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -4178,6 +4178,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "474ffd8b95e4d030ee1325ac": {
+    "id": "474ffd8b95e4d030ee1325ac",
+    "title": "Al Bano",
+    "link": "https://agendadopedro.pt/concertos/al-bano-lisboa-11694/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "29c5a7d7e6746ebe4c19dfa9": {
     "id": "29c5a7d7e6746ebe4c19dfa9",
     "title": "Amon Amarth ᛫ Orbit Culture ᛫ Soilwork",
@@ -4262,10 +4269,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "121d89cd454f5d6131926da7": {
-    "id": "121d89cd454f5d6131926da7",
-    "title": "Chico da Tina",
-    "link": "https://agendadopedro.pt/concertos/chico-da-tina-lisboa-17208/",
+  "6f08158da7faf471df60f6cc": {
+    "id": "6f08158da7faf471df60f6cc",
+    "title": "Feist",
+    "link": "https://agendadopedro.pt/concertos/feist-cascais-17275/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "08832b4d5ffad3f65d66fd11": {
+    "id": "08832b4d5ffad3f65d66fd11",
+    "title": "Jack Johnson",
+    "link": "https://agendadopedro.pt/concertos/jack-johnson-cascais-17274/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4276,26 +4290,26 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "3385af9e9172f28eb4e8dc2a": {
-    "id": "3385af9e9172f28eb4e8dc2a",
-    "title": "Moonspell ᛫ Amorphis ᛫ Zeal & Ardor ᛫ ...",
-    "link": "https://agendadopedro.pt/concertos/moonspell-lisboa-17224/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "66b20c3f11e5af94f6cda05c": {
-    "id": "66b20c3f11e5af94f6cda05c",
-    "title": "Panda Bear & Sonic Boom",
-    "link": "https://agendadopedro.pt/concertos/panda-bear-sonic-boom-lisboa-17215/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "3af09d635dea8c61080b0f29": {
     "id": "3af09d635dea8c61080b0f29",
     "title": "The Teskey Brothers ᛫ Brooke Combe",
     "link": "https://agendadopedro.pt/concertos/the-teskey-brothers-lisboa-17245/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "91cd0fcd659a530307e53cf0": {
+    "id": "91cd0fcd659a530307e53cf0",
+    "title": "U2 ᛫ Wolf Alice",
+    "link": "https://agendadopedro.pt/concertos/u2-lisboa-17273/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "989cc6be020294e9086a983c": {
+    "id": "989cc6be020294e9086a983c",
+    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-06-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "0e47e16a8ee03a46167ab86d": {
     "title": "O Quebra-Nozes — Imperial Heritage Ballet",
