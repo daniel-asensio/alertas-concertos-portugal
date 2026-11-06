@@ -153,17 +153,17 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "43362da46ad79c30a3ac9977": {
-    "id": "43362da46ad79c30a3ac9977",
-    "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
-    "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "9d32550e36dbb13d4f3d719a": {
     "id": "9d32550e36dbb13d4f3d719a",
     "title": "Claiana",
     "link": "https://casadamusica.com/event/claiana/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "43362da46ad79c30a3ac9977": {
+    "id": "43362da46ad79c30a3ac9977",
+    "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
+    "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -241,6 +241,13 @@
     "id": "cc5789bf5f549a9a0197b522",
     "title": "Al Di Meola",
     "link": "https://casadamusica.com/event/al-di-meola/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "ee7c628a3982a54b01f67198": {
+    "id": "ee7c628a3982a54b01f67198",
+    "title": "Eden Lewis Ii",
+    "link": "https://casadamusica.com/event/eden-lewis-ii/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1264,13 +1271,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "ab914a735a2a5c67734ec576": {
-    "id": "ab914a735a2a5c67734ec576",
-    "title": "Home Francisco Sassetti / Ciclo O Problema da Habitação",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/home-francisco-sassetti-ciclo-o-problema-da-habitacao/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "3ea6dbd914209bcbc3af76c7": {
