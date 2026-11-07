@@ -1126,13 +1126,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "71c768d50c45f9cb07144471": {
-    "id": "71c768d50c45f9cb07144471",
-    "title": "TPC: Frei Luís de Sousaaa",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "950a669a52f5018cb049439b": {
     "id": "950a669a52f5018cb049439b",
     "title": "Clubes de Teatro",
@@ -2202,6 +2195,111 @@
     "title": "David Carreira Reencontro 2027",
     "link": "https://arena.meo.pt/agenda/david-carreira-reencontro-2027_pt/16721/",
     "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "ac9ccf42355fbbf1f0be15dd": {
+    "id": "ac9ccf42355fbbf1f0be15dd",
+    "title": "Jose Pinhal Post Mortem Experience",
+    "link": "https://coliseulisboa.com/eventos/jose-pinhal-post-mortem-experience/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "3fc636db6ec89332fd5472e0": {
+    "id": "3fc636db6ec89332fd5472e0",
+    "title": "Virgem Suta Sala De Estar",
+    "link": "https://coliseulisboa.com/eventos/virgem-suta-sala-de-estar/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "8ff43842f53e595ee797ae11": {
+    "id": "8ff43842f53e595ee797ae11",
+    "title": "O Barbeiro De Sevilha Opera De Gioachino Rossini",
+    "link": "https://coliseulisboa.com/eventos/o-barbeiro-de-sevilha-opera-de-gioachino-rossini/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "8ae26a091b047056cbc5f363": {
+    "id": "8ae26a091b047056cbc5f363",
+    "title": "Al Bano 60 Anos De Carreira",
+    "link": "https://coliseulisboa.com/eventos/al-bano-60-anos-de-carreira/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "7e4f5adc2a6e4e8b93469c54": {
+    "id": "7e4f5adc2a6e4e8b93469c54",
+    "title": "Carlos Araujo E Beduet Convidados 113",
+    "link": "https://coliseulisboa.com/eventos/carlos-araujo-e-beduet-convidados-113/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "b281022c5491201479283b28": {
+    "id": "b281022c5491201479283b28",
+    "title": "Rubel Beleza Rubel Violao",
+    "link": "https://coliseulisboa.com/eventos/rubel-beleza-rubel-violao/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "196ff6a120bba7010891f64f": {
+    "id": "196ff6a120bba7010891f64f",
+    "title": "Royal Film Orchestra Dj Symphonic Royal Film Orchestra 2",
+    "link": "https://coliseulisboa.com/eventos/royal-film-orchestra-dj-symphonic-royal-film-orchestra-2/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "5d8242dad09c83ee2eb799a0": {
+    "id": "5d8242dad09c83ee2eb799a0",
+    "title": "Royal Film Orchestra Morricone Zimmer Williams 2",
+    "link": "https://coliseulisboa.com/eventos/royal-film-orchestra-morricone-zimmer-williams-2/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "c2efd6a82f7e4f4da780db7d": {
+    "id": "c2efd6a82f7e4f4da780db7d",
+    "title": "Psy Sessions 010 Batida Eletronica",
+    "link": "https://coliseulisboa.com/eventos/psy-sessions-010-batida-eletronica/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "b45f8b62d47da6d83a86cd7a": {
+    "id": "b45f8b62d47da6d83a86cd7a",
+    "title": "Torajo Uma Viagem Ao Mundo Das Frutas",
+    "link": "https://coliseulisboa.com/eventos/torajo-uma-viagem-ao-mundo-das-frutas/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "85797cb4c89d58f10c2f3a68": {
+    "id": "85797cb4c89d58f10c2f3a68",
+    "title": "Janeiro Reticencias Uma Nova Versao De Nos",
+    "link": "https://coliseulisboa.com/eventos/janeiro-reticencias-uma-nova-versao-de-nos/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "e882321e5eccff011bc64aea": {
+    "id": "e882321e5eccff011bc64aea",
+    "title": "Bate Papo Com Theo",
+    "link": "https://coliseulisboa.com/eventos/bate-papo-com-theo/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "85b6060be8ac5c353a94994e": {
+    "id": "85b6060be8ac5c353a94994e",
+    "title": "Em Casa Damalia O Concerto Ao Vivo",
+    "link": "https://coliseulisboa.com/eventos/em-casa-damalia-o-concerto-ao-vivo/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "8199acfe6a73781832fba7d7": {
+    "id": "8199acfe6a73781832fba7d7",
+    "title": "O Quebra Nozes Imperial Heritage Ballet Classic Stage",
+    "link": "https://coliseulisboa.com/eventos/o-quebra-nozes-imperial-heritage-ballet-classic-stage/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "218bcd417411cbab6de1d7a2": {
+    "id": "218bcd417411cbab6de1d7a2",
+    "title": "Ablaye Cissoko Cyrille Brotto",
+    "link": "https://coliseulisboa.com/eventos/ablaye-cissoko-cyrille-brotto/",
+    "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
   "9ac4c9c90eaa7756476c2479": {
@@ -3954,6 +4052,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "21feda8e0dbcfc11439c20de": {
+    "id": "21feda8e0dbcfc11439c20de",
+    "title": "Traitrs",
+    "link": "https://agendadopedro.pt/concertos/traitrs-porto-17290/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "5ca8cc31d3d48dfd4a3b0c35": {
     "id": "5ca8cc31d3d48dfd4a3b0c35",
     "title": "Cassete Pirata",
@@ -4122,10 +4227,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "2513c27c6012f25e3fbd7b1f": {
-    "id": "2513c27c6012f25e3fbd7b1f",
-    "title": "Messhuggah ᛫ Periphery ᛫ Vildhjarta",
-    "link": "https://agendadopedro.pt/concertos/messhuggah-lisboa-17248/",
+  "4491ef252da558c30c04e0ed": {
+    "id": "4491ef252da558c30c04e0ed",
+    "title": "Mafalda Veiga",
+    "link": "https://agendadopedro.pt/concertos/mafalda-veiga-lisboa-17287/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
