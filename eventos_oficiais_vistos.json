@@ -139,17 +139,17 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "43362da46ad79c30a3ac9977": {
-    "id": "43362da46ad79c30a3ac9977",
-    "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
-    "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "9d32550e36dbb13d4f3d719a": {
     "id": "9d32550e36dbb13d4f3d719a",
     "title": "Claiana",
     "link": "https://casadamusica.com/event/claiana/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "43362da46ad79c30a3ac9977": {
+    "id": "43362da46ad79c30a3ac9977",
+    "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
+    "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2204,13 +2204,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "e646ba8a771eea984c9b9bd9": {
-    "id": "e646ba8a771eea984c9b9bd9",
-    "title": "Super Bock Em Stock 2026",
-    "link": "https://coliseulisboa.com/eventos/super-bock-em-stock-2026/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "ac9ccf42355fbbf1f0be15dd": {
     "id": "ac9ccf42355fbbf1f0be15dd",
     "title": "Jose Pinhal Post Mortem Experience",
@@ -2306,6 +2299,13 @@
     "id": "8199acfe6a73781832fba7d7",
     "title": "O Quebra Nozes Imperial Heritage Ballet Classic Stage",
     "link": "https://coliseulisboa.com/eventos/o-quebra-nozes-imperial-heritage-ballet-classic-stage/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "218bcd417411cbab6de1d7a2": {
+    "id": "218bcd417411cbab6de1d7a2",
+    "title": "Ablaye Cissoko Cyrille Brotto",
+    "link": "https://coliseulisboa.com/eventos/ablaye-cissoko-cyrille-brotto/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
