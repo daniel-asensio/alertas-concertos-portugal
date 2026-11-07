@@ -1,18 +1,4 @@
 {
-  "561c1fcf5f13fe3d614d0e58": {
-    "id": "561c1fcf5f13fe3d614d0e58",
-    "title": "Ensaio Aberto %C2%B7 A Terceira De Rachmaninoff 2",
-    "link": "https://casadamusica.com/event/ensaio-aberto-%c2%b7-a-terceira-de-rachmaninoff-2/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "7c60acd2fd16a15d4b1b5a4b": {
-    "id": "7c60acd2fd16a15d4b1b5a4b",
-    "title": "Concerto Solidario Liga Portuguesa Contra O Cancro 20261106",
-    "link": "https://casadamusica.com/event/concerto-solidario-liga-portuguesa-contra-o-cancro-20261106/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "d84e09634d3832f5453c4628": {
     "id": "d84e09634d3832f5453c4628",
     "title": "Fazer Com Os Outros Estrategias Para Criar Em Conjunto",
@@ -153,17 +139,17 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "9d32550e36dbb13d4f3d719a": {
-    "id": "9d32550e36dbb13d4f3d719a",
-    "title": "Claiana",
-    "link": "https://casadamusica.com/event/claiana/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "43362da46ad79c30a3ac9977": {
     "id": "43362da46ad79c30a3ac9977",
     "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
     "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "9d32550e36dbb13d4f3d719a": {
+    "id": "9d32550e36dbb13d4f3d719a",
+    "title": "Claiana",
+    "link": "https://casadamusica.com/event/claiana/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -790,13 +776,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "7ab822aec5f63daaec774e9d": {
-    "id": "7ab822aec5f63daaec774e9d",
-    "title": "Fingertips",
-    "link": "https://www.superbockarena.pt/evento/fingertips/",
-    "source": "Super Bock Arena",
-    "kind": "Porto"
-  },
   "78e127ee0b9e393019708171": {
     "id": "78e127ee0b9e393019708171",
     "title": "Canta-me uma História – ao vivo",
@@ -1084,13 +1063,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "383ccc9e17a00c9d8c65a040": {
-    "id": "383ccc9e17a00c9d8c65a040",
-    "title": "Max Cooper",
-    "link": "https://www.hardclubporto.com/PT/evento/max-cooper-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "a3fd328148ab17ada6ba3d33": {
     "id": "a3fd328148ab17ada6ba3d33",
     "title": "Nevermind 35. Anniversary",
@@ -1105,17 +1077,17 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
+  "1a58ce8e9ed7b8c81362764d": {
+    "id": "1a58ce8e9ed7b8c81362764d",
+    "title": "Mercado de Natal",
+    "link": "https://www.hardclubporto.com/PT/evento/mercado-de-natal-segunda-edicao-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
   "773054cdb52d745a0f5f6e7a": {
     "id": "773054cdb52d745a0f5f6e7a",
     "title": "Auto da Barca do Inferno",
     "link": "https://www.tnsj.pt/pt/espetaculos/7266/auto-da-barca-do-inferno/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "71c768d50c45f9cb07144471": {
-    "id": "71c768d50c45f9cb07144471",
-    "title": "TPC: Frei Luís de Sousaaa",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1151,6 +1123,13 @@
     "id": "ff26a20420fb970831771a96",
     "title": "Dez palavras do Inferno",
     "link": "https://www.tnsj.pt/pt/espetaculos/7267/dez-palavras-do-auto-da-barca-do-inferno/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "71c768d50c45f9cb07144471": {
+    "id": "71c768d50c45f9cb07144471",
+    "title": "TPC: Frei Luís de Sousaaa",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7265/tpc-frei-luis-de-sousaaa/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1209,13 +1188,6 @@
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/carolina-bianchi-y-cara-de-cavalo-the-brotherhood-trilogia-cadela-for-a-cap-tulo-ii/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
-  },
-  "24f870f7b481f12000aa2549": {
-    "id": "24f870f7b481f12000aa2549",
-    "title": "Os Quatro E Meia Tour Interior Europarque",
-    "link": "https://www.bol.pt/Comprar/Bilhetes/173755-os_quatro_e_meia_tour_interior-europarque/",
-    "source": "Europarque",
-    "kind": "Aveiro"
   },
   "d5b545b586b593ed8d7fc436": {
     "id": "d5b545b586b593ed8d7fc436",
@@ -2603,66 +2575,31 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "880d45e61492bf3fcac72bd0": {
-    "id": "880d45e61492bf3fcac72bd0",
+  "187c3b3383122f45f10078b5": {
+    "id": "187c3b3383122f45f10078b5",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-06/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-07/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "9eadf373c11a1de845a47bba": {
-    "id": "9eadf373c11a1de845a47bba",
+  "4484330eed9465b982f83ebb": {
+    "id": "4484330eed9465b982f83ebb",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-06/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-07/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "a1bd09d2f08d735d70a13fab": {
-    "id": "a1bd09d2f08d735d70a13fab",
+  "d24cdbce466d8bd7ab831e5d": {
+    "id": "d24cdbce466d8bd7ab831e5d",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-06/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-07/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "02b9c118cae3a2128a7dc4d7": {
-    "id": "02b9c118cae3a2128a7dc4d7",
+  "571b90699193d9fbc3e22d5e": {
+    "id": "571b90699193d9fbc3e22d5e",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-06/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "1163ccaacbdf90be0d88fabc": {
-    "id": "1163ccaacbdf90be0d88fabc",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-06/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f98001db95d06a4a895a611a": {
-    "id": "f98001db95d06a4a895a611a",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-06/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "adc0f47190e8b2964b226649": {
-    "id": "adc0f47190e8b2964b226649",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-06/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b50c32fe5f1d2a1558b02acf": {
-    "id": "b50c32fe5f1d2a1558b02acf",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-06/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "bc4ef7d47321ca47447ae68a": {
-    "id": "bc4ef7d47321ca47447ae68a",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-06/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-07/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2673,10 +2610,45 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "1be814d1465ab6710e1b44a7": {
+    "id": "1be814d1465ab6710e1b44a7",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-07/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "69b6e58946d37b7ce7abb352": {
+    "id": "69b6e58946d37b7ce7abb352",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-07/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5208ff78fe9d91dad76753b6": {
+    "id": "5208ff78fe9d91dad76753b6",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-07/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "5f9368dbb69eccbee0d45596": {
     "id": "5f9368dbb69eccbee0d45596",
     "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
     "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-11-07/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "49ddfd6270af7dfdf41e3e5e": {
+    "id": "49ddfd6270af7dfdf41e3e5e",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-07/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "e5b04aef54fabaa41363bf2b": {
+    "id": "e5b04aef54fabaa41363bf2b",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-07/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2833,41 +2805,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "d178d9e001099bd051c11ccc": {
-    "id": "d178d9e001099bd051c11ccc",
-    "title": "Pedro Abrunhosa ᛫ GNR ᛫ Três Tristes Tigres ᛫ ...",
-    "link": "https://agendadopedro.pt/concertos/pedro-abrunhosa-porto-16761/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "0790263c3ef886d9ae2b1a01": {
-    "id": "0790263c3ef886d9ae2b1a01",
-    "title": "Max Cooper",
-    "link": "https://agendadopedro.pt/concertos/max-cooper-porto-15014/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "f38ae5b11f3998580be95192": {
-    "id": "f38ae5b11f3998580be95192",
-    "title": "Tom Ribeira",
-    "link": "https://agendadopedro.pt/concertos/tom-ribeira-porto-17079/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "51998afe3b0a1ff66f0abd45": {
-    "id": "51998afe3b0a1ff66f0abd45",
-    "title": "Fingertips",
-    "link": "https://agendadopedro.pt/concertos/fingertips-porto-11436/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "79d1345b70e54788cd2cac60": {
-    "id": "79d1345b70e54788cd2cac60",
-    "title": "Fears ᛫ Laura Olim",
-    "link": "https://agendadopedro.pt/concertos/fears-porto-14348/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "bcab28f5497f66d6ea38fabd": {
     "id": "bcab28f5497f66d6ea38fabd",
@@ -4168,13 +4105,6 @@
     "id": "b8f8b16c5f2b98a7850c0e28",
     "title": "José Pinhal Post-Mortem Experience",
     "link": "https://agendadopedro.pt/concertos/jose-pinhal-post-mortem-experience-lisboa-10073/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "add9f85a8d6025a4b0935d30": {
-    "id": "add9f85a8d6025a4b0935d30",
-    "title": "The Jesus and Mary Chain ᛫ Jalen Ngonda ᛫ Linda Martini \"Olhos de Mongol\"",
-    "link": "https://agendadopedro.pt/concertos/the-jesus-and-mary-chain-lisboa-16967/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
