@@ -1,18 +1,4 @@
 {
-  "d84e09634d3832f5453c4628": {
-    "id": "d84e09634d3832f5453c4628",
-    "title": "Fazer Com Os Outros Estrategias Para Criar Em Conjunto",
-    "link": "https://casadamusica.com/event/fazer-com-os-outros-estrategias-para-criar-em-conjunto/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "a707d57eb41814ecd78e1a0c": {
-    "id": "a707d57eb41814ecd78e1a0c",
-    "title": "A Terceira De Rachmaninoff",
-    "link": "https://casadamusica.com/event/a-terceira-de-rachmaninoff/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "1c5196c19fe37c8a9945c804": {
     "id": "1c5196c19fe37c8a9945c804",
     "title": "Estacao Casa Da Musica 2027",
@@ -1469,20 +1455,6 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "a0e30a5b73d2e9820a4badca": {
-    "id": "a0e30a5b73d2e9820a4badca",
-    "title": "CAMANÉ – FESTIVAL FADO RIO DE JANEIRO",
-    "link": "https://everythingisnew.pt/camane-festival-fado-rio-de-janeiro/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "5d290d8d71e3cac5026cbb74": {
-    "id": "5d290d8d71e3cac5026cbb74",
-    "title": "SARA CORREIA – FESTIVAL FADO RIO DE JANEIRO",
-    "link": "https://everythingisnew.pt/sara-correia-festival-fado-rio-de-janeiro/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
   "94355dbee057c52658d5964c": {
     "id": "94355dbee057c52658d5964c",
     "title": "SARA CORREIA – FESTIVAL FADO BRASÍLIA",
@@ -2792,48 +2764,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "bcab28f5497f66d6ea38fabd": {
-    "id": "bcab28f5497f66d6ea38fabd",
-    "title": "João Maia Ferreira",
-    "link": "https://agendadopedro.pt/concertos/joao-maia-ferreira-porto-14633/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "f9906dad59c60c061143f48c": {
-    "id": "f9906dad59c60c061143f48c",
-    "title": "Yotto",
-    "link": "https://agendadopedro.pt/concertos/yotto-porto-13820/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "1546b3cdc946fd3563d8e361": {
-    "id": "1546b3cdc946fd3563d8e361",
-    "title": "Canta-me Uma História",
-    "link": "https://agendadopedro.pt/concertos/canta-me-uma-historia-porto-11901/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "1d265d696722da87b61e837c": {
-    "id": "1d265d696722da87b61e837c",
-    "title": "Líquen ᛫ Mafalda",
-    "link": "https://agendadopedro.pt/concertos/liquen-porto-16354/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "45ef93b4561fed68057316a4": {
-    "id": "45ef93b4561fed68057316a4",
-    "title": "Passo Real",
-    "link": "https://agendadopedro.pt/concertos/passo-real-porto-17179/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "529bb2b595d3c8a9df17f1d2": {
-    "id": "529bb2b595d3c8a9df17f1d2",
-    "title": "Tiago Manuel Soares",
-    "link": "https://agendadopedro.pt/concertos/tiago-manuel-soares-porto-16501/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "9251a8bd82038a5e04b26901": {
     "id": "9251a8bd82038a5e04b26901",
     "title": "Ideal Clube de Fado Homenageia Gina Santos",
@@ -4101,13 +4031,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "b8f8b16c5f2b98a7850c0e28": {
-    "id": "b8f8b16c5f2b98a7850c0e28",
-    "title": "José Pinhal Post-Mortem Experience",
-    "link": "https://agendadopedro.pt/concertos/jose-pinhal-post-mortem-experience-lisboa-10073/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "474ffd8b95e4d030ee1325ac": {
     "id": "474ffd8b95e4d030ee1325ac",
     "title": "Al Bano",
@@ -4196,6 +4119,160 @@
     "id": "cf1d2667a84ffbe2f00adaf4",
     "title": "The Last Internationale",
     "link": "https://agendadopedro.pt/concertos/the-last-internationale-lisboa-13834/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "5b821a308ac8e399079ea1f5": {
+    "id": "5b821a308ac8e399079ea1f5",
+    "title": "Al di Meola",
+    "link": "https://agendadopedro.pt/concertos/al-di-meola-lisboa-14076/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "4dff8008f6876c26d572d428": {
+    "id": "4dff8008f6876c26d572d428",
+    "title": "Bryan Adams",
+    "link": "https://agendadopedro.pt/concertos/bryan-adams-lisboa-11948/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "a53a43161e93cd86cf296471": {
+    "id": "a53a43161e93cd86cf296471",
+    "title": "Cloud Nothings ᛫ Veenho",
+    "link": "https://agendadopedro.pt/concertos/cloud-nothings-lisboa-14088/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "60b009c415b195b9b21ebad4": {
+    "id": "60b009c415b195b9b21ebad4",
+    "title": "David Fonseca",
+    "link": "https://agendadopedro.pt/concertos/david-fonseca-lisboa-10791/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "4b220b4060a9abd2deb23c72": {
+    "id": "4b220b4060a9abd2deb23c72",
+    "title": "Em Casa d'Amália",
+    "link": "https://agendadopedro.pt/concertos/em-casa-d-amalia-lisboa-10448/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "b66d97ef81d21d5e68bbafda": {
+    "id": "b66d97ef81d21d5e68bbafda",
+    "title": "Freya Skye ᛫ Alex Sampson",
+    "link": "https://agendadopedro.pt/concertos/freya-skye-lisboa-13064/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "9a9398b162455d199fa289db": {
+    "id": "9a9398b162455d199fa289db",
+    "title": "Hatsune Miku",
+    "link": "https://agendadopedro.pt/concertos/hatsune-miku-lisboa-12850/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6f17c4e6f85e91d696b5ee94": {
+    "id": "6f17c4e6f85e91d696b5ee94",
+    "title": "HMB & Tim",
+    "link": "https://agendadopedro.pt/concertos/hmb-tim-lisboa-12979/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e79c4bbd50779e267f1f931d": {
+    "id": "e79c4bbd50779e267f1f931d",
+    "title": "Lambchop",
+    "link": "https://agendadopedro.pt/concertos/lambchop-braga-13554/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "c27456eed1203b691cd7b1ce": {
+    "id": "c27456eed1203b691cd7b1ce",
+    "title": "Lambchop",
+    "link": "https://agendadopedro.pt/concertos/lambchop-lisboa-13553/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "41c741cfd325d08cb3fabaff": {
+    "id": "41c741cfd325d08cb3fabaff",
+    "title": "Mark Delman",
+    "link": "https://agendadopedro.pt/concertos/mark-delman-lisboa-15445/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "08c9005dd2977fae2ab81c9c": {
+    "id": "08c9005dd2977fae2ab81c9c",
+    "title": "Némanus",
+    "link": "https://agendadopedro.pt/concertos/nemanus-lisboa-10856/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e454f459a4e58bef88f0b84a": {
+    "id": "e454f459a4e58bef88f0b84a",
+    "title": "Nena",
+    "link": "https://agendadopedro.pt/concertos/nena-lisboa-12553/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "c11821ec143ea57dba24a5f8": {
+    "id": "c11821ec143ea57dba24a5f8",
+    "title": "Paus",
+    "link": "https://agendadopedro.pt/concertos/paus-lisboa-13753/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "0c18b737107dfdeeaa86b0cc": {
+    "id": "0c18b737107dfdeeaa86b0cc",
+    "title": "Primitive Reason ᛫ The Skints ᛫ Meryl Streek ᛫ ...",
+    "link": "https://agendadopedro.pt/concertos/primitive-reason-lisboa-16481/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "bc5b85d204712a33d17df7cd": {
+    "id": "bc5b85d204712a33d17df7cd",
+    "title": "Rádio Macau",
+    "link": "https://agendadopedro.pt/concertos/radio-macau-sintra-14836/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "097968246365edae1435418b": {
+    "id": "097968246365edae1435418b",
+    "title": "Sir El Tom",
+    "link": "https://agendadopedro.pt/concertos/sir-el-tom-lisboa-10988/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "5046019f6f5167faffdb55bb": {
+    "id": "5046019f6f5167faffdb55bb",
+    "title": "Soen ᛫ Tribulation ᛫ Vulkan",
+    "link": "https://agendadopedro.pt/concertos/soen-lisboa-13141/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6005c85a260fa8c7a1c3b2c4": {
+    "id": "6005c85a260fa8c7a1c3b2c4",
+    "title": "Spike and the Gimme Gimmes",
+    "link": "https://agendadopedro.pt/concertos/spike-and-the-gimme-gimmes-lisboa-13676/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "c232520a5d046b63c68ebb83": {
+    "id": "c232520a5d046b63c68ebb83",
+    "title": "This Is Michael",
+    "link": "https://agendadopedro.pt/concertos/this-is-michael-lisboa-11123/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "fb932832caf8e6e6e6711d39": {
+    "id": "fb932832caf8e6e6e6711d39",
+    "title": "Tony Carreira",
+    "link": "https://agendadopedro.pt/concertos/tony-carreira-lisboa-11945/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "578296271ad75e61dea86619": {
+    "id": "578296271ad75e61dea86619",
+    "title": "Vizinhos",
+    "link": "https://agendadopedro.pt/concertos/vizinhos-lisboa-10071/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
