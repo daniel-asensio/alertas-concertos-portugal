@@ -2162,13 +2162,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "ac9ccf42355fbbf1f0be15dd": {
-    "id": "ac9ccf42355fbbf1f0be15dd",
-    "title": "Jose Pinhal Post Mortem Experience",
-    "link": "https://coliseulisboa.com/eventos/jose-pinhal-post-mortem-experience/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "3fc636db6ec89332fd5472e0": {
     "id": "3fc636db6ec89332fd5472e0",
     "title": "Virgem Suta Sala De Estar",
@@ -2264,6 +2257,13 @@
     "id": "218bcd417411cbab6de1d7a2",
     "title": "Ablaye Cissoko Cyrille Brotto",
     "link": "https://coliseulisboa.com/eventos/ablaye-cissoko-cyrille-brotto/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "02e8f4aceb1fc38cc63bc8bd": {
+    "id": "02e8f4aceb1fc38cc63bc8bd",
+    "title": "Lover The Unofficial Eras Tour Tribute",
+    "link": "https://coliseulisboa.com/eventos/lover-the-unofficial-eras-tour-tribute/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -4311,10 +4311,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "9dabd9d0c707486ea08134c0": {
-    "id": "9dabd9d0c707486ea08134c0",
+  "41372c4cd736d3ceda757980": {
+    "id": "41372c4cd736d3ceda757980",
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-11-07-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-08-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
