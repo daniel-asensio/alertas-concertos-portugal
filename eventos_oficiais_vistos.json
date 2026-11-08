@@ -1217,13 +1217,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "3ea6dbd914209bcbc3af76c7": {
-    "id": "3ea6dbd914209bcbc3af76c7",
-    "title": "Cantar-o-Lar [ESTREIA] Projeto de Arte Comunitária",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/cantar-o-lar-estreia/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "c719b2bc35464930d5d1c002": {
     "id": "c719b2bc35464930d5d1c002",
     "title": "Memórias do Cárcere Os Filmes das Nossas Terças",
@@ -2596,13 +2589,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ce55b04c96df69ae3c06aad9": {
-    "id": "ce55b04c96df69ae3c06aad9",
-    "title": "Visitas Guiadas",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-08/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "be510bfe3e2033f9b698d32b": {
     "id": "be510bfe3e2033f9b698d32b",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
@@ -2649,6 +2635,13 @@
     "id": "d5e0965bec8f22343f563abf",
     "title": "Exposicao May I Help You Posso Ajudar",
     "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ea1c660d38ddd4314177421e": {
+    "id": "ea1c660d38ddd4314177421e",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-29/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2904,6 +2897,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "77ff8763d001ef44cd36bf82": {
+    "id": "77ff8763d001ef44cd36bf82",
+    "title": "Croatian Amor ᛫ Frederik Valentin",
+    "link": "https://agendadopedro.pt/concertos/croatian-amor-porto-17307/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "8612168d1fc372abe27b88d3": {
     "id": "8612168d1fc372abe27b88d3",
     "title": "Luísa Sobral",
@@ -3128,6 +3128,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "109b368ca30318c01997796d": {
+    "id": "109b368ca30318c01997796d",
+    "title": "Eden Lewis II",
+    "link": "https://agendadopedro.pt/concertos/eden-lewis-ii-porto-17301/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "949c61cef366dd873580f4f0": {
     "id": "949c61cef366dd873580f4f0",
     "title": "Besta ᛫ Nihility",
@@ -3174,6 +3181,13 @@
     "id": "cddf03076870c0e4b20640e4",
     "title": "Klangkuenstler",
     "link": "https://agendadopedro.pt/concertos/klangkuenstler-porto-14952/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "1694f7edf86096304f9efb5c": {
+    "id": "1694f7edf86096304f9efb5c",
+    "title": "Clarisse e os Desviados ᛫ Mengers ᛫ O Manipulador",
+    "link": "https://agendadopedro.pt/concertos/clarisse-e-os-desviados-porto-17306/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3268,6 +3282,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "4d312cf30c41caf3a18d2f23": {
+    "id": "4d312cf30c41caf3a18d2f23",
+    "title": "Will Samson",
+    "link": "https://agendadopedro.pt/concertos/will-samson-porto-17305/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "2f4c69379df59c837bd1ed4d": {
     "id": "2f4c69379df59c837bd1ed4d",
     "title": "Smorra",
@@ -3279,6 +3300,13 @@
     "id": "b37e345dee0b41a2b81b0241",
     "title": "This Will Destroy You",
     "link": "https://agendadopedro.pt/concertos/this-will-destroy-you-porto-16023/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6ed73d0919ec4b5cbb51b987": {
+    "id": "6ed73d0919ec4b5cbb51b987",
+    "title": "Bruno de Seda",
+    "link": "https://agendadopedro.pt/concertos/bruno-de-seda-porto-17304/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4273,6 +4301,13 @@
     "id": "578296271ad75e61dea86619",
     "title": "Vizinhos",
     "link": "https://agendadopedro.pt/concertos/vizinhos-lisboa-10071/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e752e15d594e26f3e34747f4": {
+    "id": "e752e15d594e26f3e34747f4",
+    "title": "Bandidos do Cante",
+    "link": "https://agendadopedro.pt/concertos/bandidos-do-cante-lisboa-17302/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
