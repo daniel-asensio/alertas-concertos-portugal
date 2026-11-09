@@ -2127,20 +2127,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "3fc636db6ec89332fd5472e0": {
-    "id": "3fc636db6ec89332fd5472e0",
-    "title": "Virgem Suta Sala De Estar",
-    "link": "https://coliseulisboa.com/eventos/virgem-suta-sala-de-estar/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
-  "8ff43842f53e595ee797ae11": {
-    "id": "8ff43842f53e595ee797ae11",
-    "title": "O Barbeiro De Sevilha Opera De Gioachino Rossini",
-    "link": "https://coliseulisboa.com/eventos/o-barbeiro-de-sevilha-opera-de-gioachino-rossini/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "8ae26a091b047056cbc5f363": {
     "id": "8ae26a091b047056cbc5f363",
     "title": "Al Bano 60 Anos De Carreira",
@@ -2229,6 +2215,20 @@
     "id": "02e8f4aceb1fc38cc63bc8bd",
     "title": "Lover The Unofficial Eras Tour Tribute",
     "link": "https://coliseulisboa.com/eventos/lover-the-unofficial-eras-tour-tribute/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "28b9bf2e149dfeb54c0747f9": {
+    "id": "28b9bf2e149dfeb54c0747f9",
+    "title": "Laurent Filipe 100 Anos De Miles Davis A Homenagem",
+    "link": "https://coliseulisboa.com/eventos/laurent-filipe-100-anos-de-miles-davis-a-homenagem/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "c338f5ae080f09ae38bddb5a": {
+    "id": "c338f5ae080f09ae38bddb5a",
+    "title": "Sir El Tom Tributo A Elton John",
+    "link": "https://coliseulisboa.com/eventos/sir-el-tom-tributo-a-elton-john/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
