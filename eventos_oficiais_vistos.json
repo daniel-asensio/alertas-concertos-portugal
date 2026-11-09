@@ -314,6 +314,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "d655ff45df41450bb5a2b519": {
+    "id": "d655ff45df41450bb5a2b519",
+    "title": "Concerto Solidario De Natal 2",
+    "link": "https://casadamusica.com/event/concerto-solidario-de-natal-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "7c10e0d62c459b3beac646ad": {
     "id": "7c10e0d62c459b3beac646ad",
     "title": "Esmae Big Band 6",
@@ -437,13 +444,6 @@
     "id": "f725ace0716fd109c8a8874b",
     "title": "Uhf Underground Outros Misterios Ao Porto",
     "link": "https://casadamusica.com/event/uhf-underground-outros-misterios-ao-porto/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "a771349735126a5b709d31d7": {
-    "id": "a771349735126a5b709d31d7",
-    "title": "A 5 A De Beethoven E As Paisagens De Glass",
-    "link": "https://casadamusica.com/event/a-5-a-de-beethoven-e-as-paisagens-de-glass/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1112,24 +1112,10 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "140996f2389544a2158c0ec4": {
-    "id": "140996f2389544a2158c0ec4",
-    "title": "Isabél Zuaa AFRO SALOYÁ",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/isab-l-zuaa-afro-sal-oy/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
   "a9e3faabf38945de113a6b64": {
     "id": "a9e3faabf38945de113a6b64",
     "title": "Idio Chichava Dzudza",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/idio-chichava-dzudza/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
-  },
-  "a47dfae3aa76ea9d14d156c9": {
-    "id": "a47dfae3aa76ea9d14d156c9",
-    "title": "Teatro de Marionetas do Porto & Joana Magalhães #Não somos cactos#",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/teatro-de-marionetas-do-porto-joana-magalh-es-n-o-somos-cactos/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
@@ -1142,8 +1128,29 @@
   },
   "fe9c21b723f5b440250626f1": {
     "id": "fe9c21b723f5b440250626f1",
-    "title": "Carolina Bianchi Y Cara de Cavalo The Brotherhood TRILOGIA CADELA FORÇA – Capítulo II",
+    "title": "Erva Daninha Mostra Estufa",
     "link": "https://www.teatromunicipaldoporto.pt/pt/programa/carolina-bianchi-y-cara-de-cavalo-the-brotherhood-trilogia-cadela-for-a-cap-tulo-ii/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "a47dfae3aa76ea9d14d156c9": {
+    "id": "a47dfae3aa76ea9d14d156c9",
+    "title": "Teatro de Marionetas do Porto & Joana Magalhães #Não somos cactos#",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/teatro-de-marionetas-do-porto-joana-magalh-es-n-o-somos-cactos/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "f8a7696e12db19cd9b492af7": {
+    "id": "f8a7696e12db19cd9b492af7",
+    "title": "Bashar Murkus & Khulood Basel / Khashabi Theatre السّيرة الهلاليّة [A Epopeia dos Bani Hilal]",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/bashar-murkus-khulood-basel-khashabi-theatre-al-sirah-al-hilaliyyah-a-epopeia-de-ban-hil-l/",
+    "source": "Teatro Municipal do Porto",
+    "kind": "Teatro e dança — Porto"
+  },
+  "4a1c56f51924099d183b20f6": {
+    "id": "4a1c56f51924099d183b20f6",
+    "title": "Panda Bear & Sonic Boom A ? of WHEN",
+    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/panda-bear-sonic-boom-a-of-when/",
     "source": "Teatro Municipal do Porto",
     "kind": "Teatro e dança — Porto"
   },
@@ -1424,13 +1431,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "b49500fcaab2676ffef8480e": {
-    "id": "b49500fcaab2676ffef8480e",
-    "title": "CAMANÉ – FESTIVAL FADO BRASÍLIA",
-    "link": "https://everythingisnew.pt/camane-festival-fado-brasilia/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2078,6 +2078,13 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "c8fdb303d9a5a472e603dd2e": {
+    "id": "c8fdb303d9a5a472e603dd2e",
+    "title": "Super Arraial Chico Da Tina",
+    "link": "https://arena.meo.pt/agenda/super-arraial-chico-da-tina_pt/16824/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "8eb3ddd2a0fa4527e7a63774": {
     "id": "8eb3ddd2a0fa4527e7a63774",
     "title": "Luisa Sonza",
@@ -2120,10 +2127,24 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "e1a3e413ee90d9af0198bd1f": {
+    "id": "e1a3e413ee90d9af0198bd1f",
+    "title": "Moonfest",
+    "link": "https://arena.meo.pt/agenda/moonfest_pt/16827/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "9a1fad2a169af2ab18c21965": {
     "id": "9a1fad2a169af2ab18c21965",
     "title": "David Carreira Reencontro 2027",
     "link": "https://arena.meo.pt/agenda/david-carreira-reencontro-2027_pt/16721/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "1a87c16b2c312983bf4e28b0": {
+    "id": "1a87c16b2c312983bf4e28b0",
+    "title": "Carminho Com Orquestra",
+    "link": "https://arena.meo.pt/agenda/carminho-com-orquestra_pt/16750/",
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
@@ -2253,13 +2274,6 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "178f1bec4f0d098706b94b8e": {
-    "id": "178f1bec4f0d098706b94b8e",
-    "title": "Teatro das Figuras 07 Nov 2026 18:30 Mil e uma noites",
-    "link": "https://www.saocarlos.pt/program/mil-e-uma-noites/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
   "b80e87e134be704393905d4c": {
     "id": "b80e87e134be704393905d4c",
     "title": "Convento São Francisco Mátria | Ensaio aberto 19 Nov 2026 15:00 Encontro com a ópera",
@@ -2276,7 +2290,7 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 23 Dez 2026 20:00 A bela adormecida",
+    "title": "Teatro Camões 26 Dez 2026 18:30 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2526,10 +2540,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4ba0c0295f52d650dfaeceb0": {
-    "id": "4ba0c0295f52d650dfaeceb0",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-10/",
+  "3a859ef422045ce7c1967cbd": {
+    "id": "3a859ef422045ce7c1967cbd",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2547,10 +2561,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "3a859ef422045ce7c1967cbd": {
-    "id": "3a859ef422045ce7c1967cbd",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-10/",
+  "4ba0c0295f52d650dfaeceb0": {
+    "id": "4ba0c0295f52d650dfaeceb0",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
