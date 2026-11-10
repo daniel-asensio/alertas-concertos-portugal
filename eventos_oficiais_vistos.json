@@ -2148,13 +2148,6 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
-  "7e4f5adc2a6e4e8b93469c54": {
-    "id": "7e4f5adc2a6e4e8b93469c54",
-    "title": "Carlos Araujo E Beduet Convidados 113",
-    "link": "https://coliseulisboa.com/eventos/carlos-araujo-e-beduet-convidados-113/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "b281022c5491201479283b28": {
     "id": "b281022c5491201479283b28",
     "title": "Rubel Beleza Rubel Violao",
@@ -2187,6 +2180,13 @@
     "id": "b45f8b62d47da6d83a86cd7a",
     "title": "Torajo Uma Viagem Ao Mundo Das Frutas",
     "link": "https://coliseulisboa.com/eventos/torajo-uma-viagem-ao-mundo-das-frutas/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "7e4f5adc2a6e4e8b93469c54": {
+    "id": "7e4f5adc2a6e4e8b93469c54",
+    "title": "Carlos Araujo E Beduet Convidados 113",
+    "link": "https://coliseulisboa.com/eventos/carlos-araujo-e-beduet-convidados-113/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -2302,16 +2302,9 @@
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
-  "b0f17700e18a6346357e6b78": {
-    "id": "b0f17700e18a6346357e6b78",
-    "title": "World Ballet Day 2026",
-    "link": "https://www.cnb.pt/program/world-ballet-day-2026/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
   "ca6335c159697d4c74ab783f": {
     "id": "ca6335c159697d4c74ab783f",
-    "title": "Com orquestra 19 Dez 2026 18:30 A Bela Adormecida",
+    "title": "Com orquestra 20 Dez 2026 16:00 A Bela Adormecida",
     "link": "https://www.cnb.pt/program/a-bela-adormecida-2026/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
@@ -2320,6 +2313,13 @@
     "id": "0f1cec674e3a94aaffd9db8c",
     "title": "Atelier 06 Dez 2026 15:00 Quem me acordar, cem anos irá dançar!",
     "link": "https://www.cnb.pt/program/atelier-a-bela-adormecida/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
+  "b0f17700e18a6346357e6b78": {
+    "id": "b0f17700e18a6346357e6b78",
+    "title": "World Ballet Day 2026",
+    "link": "https://www.cnb.pt/program/world-ballet-day-2026/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -3212,13 +3212,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "88899ae9938ec402bcb92286": {
-    "id": "88899ae9938ec402bcb92286",
-    "title": "Nuki",
-    "link": "https://agendadopedro.pt/concertos/nuki-porto-16854/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "06e5c5f83117b63ae76b0832": {
     "id": "06e5c5f83117b63ae76b0832",
     "title": "João Paulo Rodrigues",
@@ -3279,6 +3272,13 @@
     "id": "bca973c2b6c146b1703fb313",
     "title": "Jane Monheit",
     "link": "https://agendadopedro.pt/concertos/jane-monheit-porto-15739/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "88899ae9938ec402bcb92286": {
+    "id": "88899ae9938ec402bcb92286",
+    "title": "Nuki",
+    "link": "https://agendadopedro.pt/concertos/nuki-porto-16854/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4192,17 +4192,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "0a5a562aa84586762d2ce9d0": {
+    "id": "0a5a562aa84586762d2ce9d0",
+    "title": "Carminho",
+    "link": "https://agendadopedro.pt/concertos/carminho-lisboa-17309/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "6f08158da7faf471df60f6cc": {
     "id": "6f08158da7faf471df60f6cc",
     "title": "Feist",
     "link": "https://agendadopedro.pt/concertos/feist-cascais-17275/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "08832b4d5ffad3f65d66fd11": {
-    "id": "08832b4d5ffad3f65d66fd11",
-    "title": "Jack Johnson",
-    "link": "https://agendadopedro.pt/concertos/jack-johnson-cascais-17274/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4217,13 +4217,6 @@
     "id": "4491ef252da558c30c04e0ed",
     "title": "Mafalda Veiga",
     "link": "https://agendadopedro.pt/concertos/mafalda-veiga-lisboa-17287/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "91cd0fcd659a530307e53cf0": {
-    "id": "91cd0fcd659a530307e53cf0",
-    "title": "U2 ᛫ Wolf Alice",
-    "link": "https://agendadopedro.pt/concertos/u2-lisboa-17273/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
