@@ -1,18 +1,4 @@
 {
-  "e94ad95bef1d937c284c12fb": {
-    "id": "e94ad95bef1d937c284c12fb",
-    "title": "A Arte Da Composicao Da Historia A Modernidade",
-    "link": "https://casadamusica.com/event/a-arte-da-composicao-da-historia-a-modernidade/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "0854fecd18cb4b3c04ed4ab9": {
-    "id": "0854fecd18cb4b3c04ed4ab9",
-    "title": "Comemoracoes 150 Anos Da Caixa Geral De Depositos",
-    "link": "https://casadamusica.com/event/comemoracoes-150-anos-da-caixa-geral-de-depositos/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "2fa06507bbb8ce71a4cbf4e0": {
     "id": "2fa06507bbb8ce71a4cbf4e0",
     "title": "Regresso Ao Barroco",
@@ -1049,69 +1035,6 @@
     "source": "Hard Club",
     "kind": "Porto"
   },
-  "773054cdb52d745a0f5f6e7a": {
-    "id": "773054cdb52d745a0f5f6e7a",
-    "title": "Auto da Barca do Inferno",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7266/auto-da-barca-do-inferno/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "b3062e94a434a26224bf0cd6": {
-    "id": "b3062e94a434a26224bf0cd6",
-    "title": "O Conceito Inútil",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "c60c6c3b1a1d561ec64105a4": {
-    "id": "c60c6c3b1a1d561ec64105a4",
-    "title": "ABC da Guerra",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7306/abc-da-guerra/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "bfd294a9db80ce6148e37140": {
-    "id": "bfd294a9db80ce6148e37140",
-    "title": "Residência",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7269/residencia/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "9acfe4a8ecffac817bb87bee": {
-    "id": "9acfe4a8ecffac817bb87bee",
-    "title": "Maguy Marin: Repertório(s)",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7230/maguy-marin-repertorios/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "ff26a20420fb970831771a96": {
-    "id": "ff26a20420fb970831771a96",
-    "title": "Dez palavras do Inferno",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7267/dez-palavras-do-auto-da-barca-do-inferno/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "950a669a52f5018cb049439b": {
-    "id": "950a669a52f5018cb049439b",
-    "title": "Clubes de Teatro",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7278/clubes-de-teatro/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "3a9edc84427a5826360a53a6": {
-    "id": "3a9edc84427a5826360a53a6",
-    "title": "Maiúscula",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7304/maiuscula/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "a127132638edf71e4c9c2231": {
-    "id": "a127132638edf71e4c9c2231",
-    "title": "Maiúscula",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7305/maiuscula/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "a9e3faabf38945de113a6b64": {
     "id": "a9e3faabf38945de113a6b64",
     "title": "Idio Chichava Dzudza",
@@ -2040,6 +1963,13 @@
     "id": "e38d32b6437d8ef0d30d9cba",
     "title": "Carolina Deslandes",
     "link": "https://arena.meo.pt/agenda/carolina-deslandes_pt/15716/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "6dd022f12376f73984cfd53c": {
+    "id": "6dd022f12376f73984cfd53c",
+    "title": "Ricky Gervais Legend",
+    "link": "https://arena.meo.pt/agenda/ricky-gervais-legend_pt/16722/",
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
@@ -4084,13 +4014,6 @@
     "id": "1fb639f74c33aaddcc24ac4f",
     "title": "Pedro Abrunhosa",
     "link": "https://agendadopedro.pt/concertos/pedro-abrunhosa-povoa-de-varzim-13045/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e0b22a6e059e3a8ea6985ac9": {
-    "id": "e0b22a6e059e3a8ea6985ac9",
-    "title": "Rodrigo Cuevas",
-    "link": "https://agendadopedro.pt/concertos/rodrigo-cuevas-lisboa-13625/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
