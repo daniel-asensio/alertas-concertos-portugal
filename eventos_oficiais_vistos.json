@@ -643,6 +643,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "424bb84159eb557265dbf74b": {
+    "id": "424bb84159eb557265dbf74b",
+    "title": "Kula Shaker",
+    "link": "https://casadamusica.com/event/kula-shaker/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "e223247c2a58cd9766acb93e": {
     "id": "e223247c2a58cd9766acb93e",
     "title": "Milhanas 3",
@@ -1187,13 +1194,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "c719b2bc35464930d5d1c002": {
-    "id": "c719b2bc35464930d5d1c002",
-    "title": "Memórias do Cárcere Os Filmes das Nossas Terças",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/memorias-do-carcere/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "62831604610b945a8e30ff0e": {
@@ -2505,31 +2505,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "a076afe3ddff6a11d2a552df": {
-    "id": "a076afe3ddff6a11d2a552df",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "c1b0234b37d722655f4123d2": {
-    "id": "c1b0234b37d722655f4123d2",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "1256939ed5267ca2f43c7faf": {
-    "id": "1256939ed5267ca2f43c7faf",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "682a533133e0af71773efb26": {
-    "id": "682a533133e0af71773efb26",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-10/",
+  "bb0f0c09027628d471c2611e": {
+    "id": "bb0f0c09027628d471c2611e",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2537,20 +2516,6 @@
     "id": "3a859ef422045ce7c1967cbd",
     "title": "Ângela Ferreira",
     "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "6c5687754426f2abd665f902": {
-    "id": "6c5687754426f2abd665f902",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "bb0f0c09027628d471c2611e": {
-    "id": "bb0f0c09027628d471c2611e",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-10/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2568,10 +2533,45 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "6b819190ca412999623cdf19": {
-    "id": "6b819190ca412999623cdf19",
+  "86df7997d253e9cf1941e81c": {
+    "id": "86df7997d253e9cf1941e81c",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ef217e765573335dcac069cf": {
+    "id": "ef217e765573335dcac069cf",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ad7c01569301666bf30216d3": {
+    "id": "ad7c01569301666bf30216d3",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "e8a74d1a11f868da31096aba": {
+    "id": "e8a74d1a11f868da31096aba",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ef145538032fcb6fa76ec78c": {
+    "id": "ef145538032fcb6fa76ec78c",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d5ff270f441483ed21977300": {
+    "id": "d5ff270f441483ed21977300",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-10/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-11/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2747,13 +2747,6 @@
     "id": "365b0869643aca9fbf31e726",
     "title": "Monstro",
     "link": "https://agendadopedro.pt/concertos/monstro-porto-17121/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "668d9b708df6a3cb500b893c": {
-    "id": "668d9b708df6a3cb500b893c",
-    "title": "Linda Martini \"Olhos de Mongol\"",
-    "link": "https://agendadopedro.pt/concertos/linda-martini-porto-17078/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3527,6 +3520,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "668d9b708df6a3cb500b893c": {
+    "id": "668d9b708df6a3cb500b893c",
+    "title": "Linda Martini \"Olhos de Mongol\"",
+    "link": "https://agendadopedro.pt/concertos/linda-martini-porto-17078/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "4a01b0f2c9f757f1e4b1d634": {
     "id": "4a01b0f2c9f757f1e4b1d634",
     "title": "Sean Riley & The Slowriders",
@@ -4196,13 +4196,6 @@
     "id": "0a5a562aa84586762d2ce9d0",
     "title": "Carminho",
     "link": "https://agendadopedro.pt/concertos/carminho-lisboa-17309/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6f08158da7faf471df60f6cc": {
-    "id": "6f08158da7faf471df60f6cc",
-    "title": "Feist",
-    "link": "https://agendadopedro.pt/concertos/feist-cascais-17275/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
