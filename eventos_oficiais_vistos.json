@@ -2127,13 +2127,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "8ae26a091b047056cbc5f363": {
-    "id": "8ae26a091b047056cbc5f363",
-    "title": "Al Bano 60 Anos De Carreira",
-    "link": "https://coliseulisboa.com/eventos/al-bano-60-anos-de-carreira/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "b281022c5491201479283b28": {
     "id": "b281022c5491201479283b28",
     "title": "Rubel Beleza Rubel Violao",
@@ -2229,6 +2222,13 @@
     "id": "c338f5ae080f09ae38bddb5a",
     "title": "Sir El Tom Tributo A Elton John",
     "link": "https://coliseulisboa.com/eventos/sir-el-tom-tributo-a-elton-john/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "9a045c2a5c7f0a8c0b7f0621": {
+    "id": "9a045c2a5c7f0a8c0b7f0621",
+    "title": "Mark Delman",
+    "link": "https://coliseulisboa.com/eventos/mark-delman/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -4177,6 +4177,13 @@
     "link": "https://agendadopedro.pt/concertos/mafalda-veiga-lisboa-17287/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "1cd65bc517efa65844ceb9bd": {
+    "id": "1cd65bc517efa65844ceb9bd",
+    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-11-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "0e47e16a8ee03a46167ab86d": {
     "title": "O Quebra-Nozes — Imperial Heritage Ballet",
