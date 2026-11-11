@@ -1,18 +1,4 @@
 {
-  "2fa06507bbb8ce71a4cbf4e0": {
-    "id": "2fa06507bbb8ce71a4cbf4e0",
-    "title": "Regresso Ao Barroco",
-    "link": "https://casadamusica.com/event/regresso-ao-barroco/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "230ca697530ba52ad35af371": {
-    "id": "230ca697530ba52ad35af371",
-    "title": "Rodrigo Cuevas",
-    "link": "https://casadamusica.com/event/rodrigo-cuevas/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "9b73a5021bce14737e2e28b9": {
     "id": "9b73a5021bce14737e2e28b9",
     "title": "Cordeiro Convida Euterpe Curcumbia",
@@ -2505,34 +2491,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "bb0f0c09027628d471c2611e": {
-    "id": "bb0f0c09027628d471c2611e",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "3a859ef422045ce7c1967cbd": {
-    "id": "3a859ef422045ce7c1967cbd",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "4ba0c0295f52d650dfaeceb0": {
-    "id": "4ba0c0295f52d650dfaeceb0",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "79b6dd95782c977e7a586a0d": {
-    "id": "79b6dd95782c977e7a586a0d",
-    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
-    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-10/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "86df7997d253e9cf1941e81c": {
     "id": "86df7997d253e9cf1941e81c",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -2554,6 +2512,20 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "ef145538032fcb6fa76ec78c": {
+    "id": "ef145538032fcb6fa76ec78c",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "0b00847f4af4900d714da33f": {
+    "id": "0b00847f4af4900d714da33f",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "e8a74d1a11f868da31096aba": {
     "id": "e8a74d1a11f868da31096aba",
     "title": "Primeiro Ciclo",
@@ -2561,10 +2533,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ef145538032fcb6fa76ec78c": {
-    "id": "ef145538032fcb6fa76ec78c",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-11/",
+  "1759b1342ad9e2f04a72adb6": {
+    "id": "1759b1342ad9e2f04a72adb6",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-11/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5361bce8b6ad78212f7ad575": {
+    "id": "5361bce8b6ad78212f7ad575",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-11/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2600,6 +2579,13 @@
     "id": "442dba571ff3ef7b781f1b80",
     "title": "Programa Público das exposições",
     "link": "https://www.ccb.pt/evento/programa-publico-mac-ccb/2026-11-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d4d22931709501afb575ef6a": {
+    "id": "d4d22931709501afb575ef6a",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2735,20 +2721,6 @@
     "link": "https://www.ccb.pt/evento/tramas-sonoras-musica-no-museu/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "2595ff70b73fecc4450a2621": {
-    "id": "2595ff70b73fecc4450a2621",
-    "title": "Rodrigo Cuevas",
-    "link": "https://agendadopedro.pt/concertos/rodrigo-cuevas-porto-13626/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "365b0869643aca9fbf31e726": {
-    "id": "365b0869643aca9fbf31e726",
-    "title": "Monstro",
-    "link": "https://agendadopedro.pt/concertos/monstro-porto-17121/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "14639b10196c505b3e113681": {
     "id": "14639b10196c505b3e113681",
@@ -4024,13 +3996,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "474ffd8b95e4d030ee1325ac": {
-    "id": "474ffd8b95e4d030ee1325ac",
-    "title": "Al Bano",
-    "link": "https://agendadopedro.pt/concertos/al-bano-lisboa-11694/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "29c5a7d7e6746ebe4c19dfa9": {
     "id": "29c5a7d7e6746ebe4c19dfa9",
     "title": "Amon Amarth ᛫ Orbit Culture ᛫ Soilwork",
@@ -4098,13 +4063,6 @@
     "id": "f1b66f1baff405df5789ecd2",
     "title": "Sam the Kid & Valete & Regula & Xeg",
     "link": "https://agendadopedro.pt/concertos/sam-the-kid-valete-regula-xeg-lisboa-12821/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "cf1d2667a84ffbe2f00adaf4": {
-    "id": "cf1d2667a84ffbe2f00adaf4",
-    "title": "The Last Internationale",
-    "link": "https://agendadopedro.pt/concertos/the-last-internationale-lisboa-13834/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4196,6 +4154,13 @@
     "id": "0a5a562aa84586762d2ce9d0",
     "title": "Carminho",
     "link": "https://agendadopedro.pt/concertos/carminho-lisboa-17309/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6f08158da7faf471df60f6cc": {
+    "id": "6f08158da7faf471df60f6cc",
+    "title": "Feist",
+    "link": "https://agendadopedro.pt/concertos/feist-cascais-17275/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
