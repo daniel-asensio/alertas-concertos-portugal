@@ -1,25 +1,4 @@
 {
-  "9b73a5021bce14737e2e28b9": {
-    "id": "9b73a5021bce14737e2e28b9",
-    "title": "Cordeiro Convida Euterpe Curcumbia",
-    "link": "https://casadamusica.com/event/cordeiro-convida-euterpe-curcumbia/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "8840436d91ccde3bb7122c21": {
-    "id": "8840436d91ccde3bb7122c21",
-    "title": "Will Love Dj Waldo Squash B2B Djs Gang Do Electro",
-    "link": "https://casadamusica.com/event/will-love-dj-waldo-squash-b2b-djs-gang-do-electro/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "70b67762ea8e2eded8491071": {
-    "id": "70b67762ea8e2eded8491071",
-    "title": "Clubbing Amazonico",
-    "link": "https://casadamusica.com/event/clubbing-amazonico/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "b56726cde0f99c406f14d24f": {
     "id": "b56726cde0f99c406f14d24f",
     "title": "A Voz Em Grupo Cancoes E Jogos",
@@ -276,6 +255,13 @@
     "id": "f390bef9672b2c1ee171f581",
     "title": "A Nona De Mahler",
     "link": "https://casadamusica.com/event/a-nona-de-mahler/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "bd4f23d31edbc6ae6478b7cb": {
+    "id": "bd4f23d31edbc6ae6478b7cb",
+    "title": "Concerto Escolar %C2%B7 O Natal Do Cvs",
+    "link": "https://casadamusica.com/event/concerto-escolar-%c2%b7-o-natal-do-cvs/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1406,13 +1392,6 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "91d8740729052dba53f76ed1": {
-    "id": "91d8740729052dba53f76ed1",
-    "title": "THE LAST INTERNATIONALE",
-    "link": "https://everythingisnew.pt/the-last-internationale/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
   "37073afa5850f804c743d9c8": {
     "id": "37073afa5850f804c743d9c8",
     "title": "SARA CORREIA – FESTIVAL FADO MONTEVIDEO",
@@ -1646,14 +1625,14 @@
   },
   "a5ff8c8f8448874769b9fdbd": {
     "id": "a5ff8c8f8448874769b9fdbd",
-    "title": "European Tour 2026",
+    "title": "European Tour 2027",
     "link": "https://everythingisnew.pt/sanguijuelas-del-guadiana-2027-porto/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
   "0c2898a1ceb1c262d462076e": {
     "id": "0c2898a1ceb1c262d462076e",
-    "title": "European Tour 2026",
+    "title": "European Tour 2027",
     "link": "https://everythingisnew.pt/sanguijuelas-del-guadiana-2027-lisboa/",
     "source": "Everything Is New",
     "kind": "Promotora"
@@ -4157,17 +4136,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "6f08158da7faf471df60f6cc": {
-    "id": "6f08158da7faf471df60f6cc",
-    "title": "Feist",
-    "link": "https://agendadopedro.pt/concertos/feist-cascais-17275/",
+  "950911e1878ff4e283690a59": {
+    "id": "950911e1878ff4e283690a59",
+    "title": "Fábia Rebordão & Jorge Fernando",
+    "link": "https://agendadopedro.pt/concertos/fabia-rebordao-jorge-fernando-lisboa-17326/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "a397fffa9556c11b61883e9e": {
-    "id": "a397fffa9556c11b61883e9e",
-    "title": "Kula Shaker \"K\"",
-    "link": "https://agendadopedro.pt/concertos/kula-shaker-lisboa-17277/",
+  "d97d5ccbbaca24a5151d77c1": {
+    "id": "d97d5ccbbaca24a5151d77c1",
+    "title": "José Cid",
+    "link": "https://agendadopedro.pt/concertos/jose-cid-lisboa-17325/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
