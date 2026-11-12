@@ -1,4 +1,18 @@
 {
+  "28578340e51a6c7402ff1cd6": {
+    "id": "28578340e51a6c7402ff1cd6",
+    "title": "Jam Amazonico No Cafe Casa Da Musica",
+    "link": "https://casadamusica.com/event/jam-amazonico-no-cafe-casa-da-musica/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "c47ce8b5e4ac315bceca971a": {
+    "id": "c47ce8b5e4ac315bceca971a",
+    "title": "Jam Amazonico No Cafe",
+    "link": "https://casadamusica.com/event/jam-amazonico-no-cafe/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "b56726cde0f99c406f14d24f": {
     "id": "b56726cde0f99c406f14d24f",
     "title": "A Voz Em Grupo Cancoes E Jogos",
@@ -993,6 +1007,13 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
+  "1dae43e0e83f8e96297e542c": {
+    "id": "1dae43e0e83f8e96297e542c",
+    "title": "Luís Trigacheiro",
+    "link": "https://www.superbockarena.pt/evento/luis-trigacheiro/",
+    "source": "Super Bock Arena",
+    "kind": "Porto"
+  },
   "3c7513fb82baea20383d0bab": {
     "id": "3c7513fb82baea20383d0bab",
     "title": "Jose Cid & Septeto",
@@ -1749,6 +1770,13 @@
     "source": "PEV Entertainment",
     "kind": "Promotora Porto"
   },
+  "ffd9a7c3a47923533f520d4f": {
+    "id": "ffd9a7c3a47923533f520d4f",
+    "title": "Luis Trigacheiro",
+    "link": "https://peventertainment.pt/luis-trigacheiro/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
   "0d6c99243e5277535801a2eb": {
     "id": "0d6c99243e5277535801a2eb",
     "title": "Buraka Som Sistema",
@@ -1868,6 +1896,13 @@
     "source": "Música no Coração",
     "kind": "Promotora"
   },
+  "15d0823167cd095f692637cd": {
+    "id": "15d0823167cd095f692637cd",
+    "title": "VER DETALHES",
+    "link": "https://musicanocoracao.com/events/nuno-da-camara-pereira-2027/",
+    "source": "Música no Coração",
+    "kind": "Promotora"
+  },
   "3dae2eae0eb08a7dadb7d17e": {
     "id": "3dae2eae0eb08a7dadb7d17e",
     "title": "VER DETALHES",
@@ -1875,10 +1910,10 @@
     "source": "Música no Coração",
     "kind": "Promotora"
   },
-  "15d0823167cd095f692637cd": {
-    "id": "15d0823167cd095f692637cd",
+  "1a2d774ab8b089c45efa0d09": {
+    "id": "1a2d774ab8b089c45efa0d09",
     "title": "VER DETALHES",
-    "link": "https://musicanocoracao.com/events/nuno-da-camara-pereira-2027/",
+    "link": "https://musicanocoracao.com/events/fábia-rebordão-jorge-fernando/",
     "source": "Música no Coração",
     "kind": "Promotora"
   },
@@ -2005,6 +2040,13 @@
     "id": "13f867555a41158711f28537",
     "title": "Hybrid Theory 10 Anos Depois",
     "link": "https://arena.meo.pt/agenda/hybrid-theory-10-anos-depois_pt/16004/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
+  "dd0a30b7e0eb4db8ccf71ed7": {
+    "id": "dd0a30b7e0eb4db8ccf71ed7",
+    "title": "Newgang Festival 2027",
+    "link": "https://arena.meo.pt/agenda/newgang-festival-2027_pt/16800/",
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
@@ -2248,7 +2290,7 @@
   },
   "3a1cd305471419090ba7a13e": {
     "id": "3a1cd305471419090ba7a13e",
-    "title": "Teatro Camões 26 Dez 2026 18:30 A bela adormecida",
+    "title": "Teatro Camões 27 Dez 2026 16:00 A bela adormecida",
     "link": "https://www.saocarlos.pt/program/a-bela-adormecida-1776856390312/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
@@ -2526,6 +2568,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "2be7712232c5e6af1ddacd69": {
+    "id": "2be7712232c5e6af1ddacd69",
+    "title": "Instalacao Zip Zap Circus School",
+    "link": "https://www.ccb.pt/evento/instalacao-zip-zap-circus-school/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "334df8b13a5430fa5550c6b3": {
     "id": "334df8b13a5430fa5550c6b3",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
@@ -2677,6 +2726,13 @@
     "id": "64fde51d76387ce5b801cc4d",
     "title": "Filamentos Da Voz Musica No Museu",
     "link": "https://www.ccb.pt/evento/filamentos-da-voz-musica-no-museu/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "71f832e90dd284ada670a057": {
+    "id": "71f832e90dd284ada670a057",
+    "title": "Exposicao Zurich Mon Amour",
+    "link": "https://www.ccb.pt/evento/exposicao-zurich-mon-amour/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3044,6 +3100,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "723071793fa7db05d7aec33f": {
+    "id": "723071793fa7db05d7aec33f",
+    "title": "Tomoko Sauvage ᛫ Inês Tartaruga Água",
+    "link": "https://agendadopedro.pt/concertos/tomoko-sauvage-porto-17333/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "949c61cef366dd873580f4f0": {
     "id": "949c61cef366dd873580f4f0",
     "title": "Besta ᛫ Nihility",
@@ -3307,6 +3370,13 @@
     "id": "8cd25fb460c9937e80554918",
     "title": "Worakls",
     "link": "https://agendadopedro.pt/concertos/worakls-porto-14242/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "42cf3b6e78b537225097a60d": {
+    "id": "42cf3b6e78b537225097a60d",
+    "title": "Bardino ᛫ Brian Blaker",
+    "link": "https://agendadopedro.pt/concertos/bardino-porto-17344/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3622,6 +3692,13 @@
     "id": "d927fccf7f29b00d73c7c4d0",
     "title": "Night in Athens ᛫ She Can't Afford Mascara",
     "link": "https://agendadopedro.pt/concertos/night-in-athens-porto-17140/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "45a2ea3e57057be6f18258f0": {
+    "id": "45a2ea3e57057be6f18258f0",
+    "title": "Hesse Kassel",
+    "link": "https://agendadopedro.pt/concertos/hesse-kassel-porto-17342/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4115,17 +4192,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "e752e15d594e26f3e34747f4": {
-    "id": "e752e15d594e26f3e34747f4",
-    "title": "Bandidos do Cante",
-    "link": "https://agendadopedro.pt/concertos/bandidos-do-cante-lisboa-17302/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "0a5a562aa84586762d2ce9d0": {
-    "id": "0a5a562aa84586762d2ce9d0",
-    "title": "Carminho",
-    "link": "https://agendadopedro.pt/concertos/carminho-lisboa-17309/",
+  "e61dd1692581b80b2484bc5a": {
+    "id": "e61dd1692581b80b2484bc5a",
+    "title": "Bárbara Tinoco",
+    "link": "https://agendadopedro.pt/concertos/barbara-tinoco-lisboa-17328/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4136,6 +4206,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "3411dc81799c729b7eaf670c": {
+    "id": "3411dc81799c729b7eaf670c",
+    "title": "Hollywood Symphony Orchestra \"Viva l'Italia!\"",
+    "link": "https://agendadopedro.pt/concertos/hollywood-symphony-orchestra-lisboa-17330/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "d97d5ccbbaca24a5151d77c1": {
     "id": "d97d5ccbbaca24a5151d77c1",
     "title": "José Cid",
@@ -4143,17 +4220,31 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "4491ef252da558c30c04e0ed": {
-    "id": "4491ef252da558c30c04e0ed",
-    "title": "Mafalda Veiga",
-    "link": "https://agendadopedro.pt/concertos/mafalda-veiga-lisboa-17287/",
+  "e457b0a6e49322040e6615e3": {
+    "id": "e457b0a6e49322040e6615e3",
+    "title": "Orochi ᛫ MC Cabelinho ᛫ MC Jacaré ᛫ ...",
+    "link": "https://agendadopedro.pt/concertos/orochi-lisboa-17329/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "1cd65bc517efa65844ceb9bd": {
-    "id": "1cd65bc517efa65844ceb9bd",
+  "084fe8222a2ae9286d75415c": {
+    "id": "084fe8222a2ae9286d75415c",
+    "title": "Wim Mertens",
+    "link": "https://agendadopedro.pt/concertos/wim-mertens-aveiro-17338/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "587c6ba160b597cb8b12c286": {
+    "id": "587c6ba160b597cb8b12c286",
+    "title": "Wim Mertens",
+    "link": "https://agendadopedro.pt/concertos/wim-mertens-sintra-17339/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "0355d4667a5d014b7ff5b833": {
+    "id": "0355d4667a5d014b7ff5b833",
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-11-11-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-12-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
