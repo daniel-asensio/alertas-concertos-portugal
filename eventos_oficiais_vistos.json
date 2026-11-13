@@ -1,11 +1,4 @@
 {
-  "28578340e51a6c7402ff1cd6": {
-    "id": "28578340e51a6c7402ff1cd6",
-    "title": "Jam Amazonico No Cafe Casa Da Musica",
-    "link": "https://casadamusica.com/event/jam-amazonico-no-cafe-casa-da-musica/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "c47ce8b5e4ac315bceca971a": {
     "id": "c47ce8b5e4ac315bceca971a",
     "title": "Jam Amazonico No Cafe",
@@ -1413,13 +1406,6 @@
     "source": "Everything Is New",
     "kind": "Promotora"
   },
-  "37073afa5850f804c743d9c8": {
-    "id": "37073afa5850f804c743d9c8",
-    "title": "SARA CORREIA – FESTIVAL FADO MONTEVIDEO",
-    "link": "https://everythingisnew.pt/sara-correia-festival-fado-montevideo/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
   "d31b00e20395b38a938e1dbd": {
     "id": "d31b00e20395b38a938e1dbd",
     "title": "CAMANÉ – FESTIVAL FADO BUENOS AIRES",
@@ -2512,62 +2498,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "59c0cd62d99de2fb68a19ac6": {
-    "id": "59c0cd62d99de2fb68a19ac6",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-12/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "92fd8234567c437f62156862": {
-    "id": "92fd8234567c437f62156862",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-12/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "3f32c19a64268f8d980b0991": {
-    "id": "3f32c19a64268f8d980b0991",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-12/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "42bcdb1287182c897f45eb3b": {
-    "id": "42bcdb1287182c897f45eb3b",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-12/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f2acff2f2625107d9a504cbf": {
-    "id": "f2acff2f2625107d9a504cbf",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-12/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "0fcf0f7c3e3100ad9dfdaab5": {
-    "id": "0fcf0f7c3e3100ad9dfdaab5",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-12/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "d1c2d4ae5a492bcda1db00e4": {
-    "id": "d1c2d4ae5a492bcda1db00e4",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-12/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "969595c078f8daf97a6d6c3f": {
-    "id": "969595c078f8daf97a6d6c3f",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-12/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "2be7712232c5e6af1ddacd69": {
     "id": "2be7712232c5e6af1ddacd69",
     "title": "Instalacao Zip Zap Circus School",
@@ -2575,10 +2505,66 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "334df8b13a5430fa5550c6b3": {
-    "id": "334df8b13a5430fa5550c6b3",
+  "11601c4b14418a1676e6c505": {
+    "id": "11601c4b14418a1676e6c505",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "2c62d8c81aa1b9620d1966d2": {
+    "id": "2c62d8c81aa1b9620d1966d2",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "788fbd022cd6c1b3a192d7f2": {
+    "id": "788fbd022cd6c1b3a192d7f2",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c26d2549ff582ce3643a139e": {
+    "id": "c26d2549ff582ce3643a139e",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "dd04b42fa276ba8c19c95a3c": {
+    "id": "dd04b42fa276ba8c19c95a3c",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "eec2fc423ded4f529fa15fa9": {
+    "id": "eec2fc423ded4f529fa15fa9",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "6abfd7bf3d5337323b54e2ec": {
+    "id": "6abfd7bf3d5337323b54e2ec",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "376a2e8e4d30847f895b175c": {
+    "id": "376a2e8e4d30847f895b175c",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-13/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "28551b0382bdd62eb1a3ec68": {
+    "id": "28551b0382bdd62eb1a3ec68",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-12/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-13/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2743,6 +2729,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "4e6e0a5fa593254da463d38e": {
+    "id": "4e6e0a5fa593254da463d38e",
+    "title": "Exposicao Ser Pos Moderno Em Portugal",
+    "link": "https://www.ccb.pt/evento/exposicao-ser-pos-moderno-em-portugal/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "446d6dec50622c7453617806": {
     "id": "446d6dec50622c7453617806",
     "title": "Linhas De Escuta",
@@ -2757,40 +2750,12 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "14639b10196c505b3e113681": {
-    "id": "14639b10196c505b3e113681",
-    "title": "Curcumbia",
-    "link": "https://agendadopedro.pt/concertos/curcumbia-porto-16957/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "1206756be85b442007557459": {
-    "id": "1206756be85b442007557459",
-    "title": "Em Casa d'Amália",
-    "link": "https://agendadopedro.pt/concertos/em-casa-d-amalia-porto-16344/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "b4bfb97fd7cad81dc8570d1a": {
-    "id": "b4bfb97fd7cad81dc8570d1a",
-    "title": "Dirty Sound Magnet",
-    "link": "https://agendadopedro.pt/concertos/dirty-sound-magnet-porto-16757/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "b09c1e6bd7481a078c138f9f": {
-    "id": "b09c1e6bd7481a078c138f9f",
-    "title": "Margarida",
-    "link": "https://agendadopedro.pt/concertos/margarida-porto-11498/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "25d6cedae911e7c449ced6ea": {
-    "id": "25d6cedae911e7c449ced6ea",
-    "title": "KeiyaA",
-    "link": "https://agendadopedro.pt/concertos/keiyaa-porto-13777/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
+  "ee3c1f86a945229fa2057d7c": {
+    "id": "ee3c1f86a945229fa2057d7c",
+    "title": "Exposicao Marion Scemama David Wojnarowicz",
+    "link": "https://www.ccb.pt/evento/exposicao-marion-scemama-david-wojnarowicz/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
   },
   "4b0bead2741351ecb15909a3": {
     "id": "4b0bead2741351ecb15909a3",
