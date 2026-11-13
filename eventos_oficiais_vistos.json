@@ -3870,6 +3870,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "c7c11b10077298c2ac749a9a": {
+    "id": "c7c11b10077298c2ac749a9a",
+    "title": "Orquestra Filarmonia das Beiras \"Harry Potter e a Câmara dos Segredos\"",
+    "link": "https://agendadopedro.pt/concertos/orquestra-filarmonia-das-beiras-porto-17362/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "470cab5812602fabddb528fc": {
     "id": "470cab5812602fabddb528fc",
     "title": "The Watch",
@@ -4000,6 +4007,13 @@
     "id": "1c94dcfb8cee0f371c1364a3",
     "title": "Tiago Bettencourt & Toranja",
     "link": "https://agendadopedro.pt/concertos/tiago-bettencourt-toranja-porto-14969/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "265382adb20f18e1615f910a": {
+    "id": "265382adb20f18e1615f910a",
+    "title": "Luís Trigacheiro",
+    "link": "https://agendadopedro.pt/concertos/luis-trigacheiro-porto-17359/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4164,13 +4178,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "950911e1878ff4e283690a59": {
-    "id": "950911e1878ff4e283690a59",
-    "title": "Fábia Rebordão & Jorge Fernando",
-    "link": "https://agendadopedro.pt/concertos/fabia-rebordao-jorge-fernando-lisboa-17326/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "3411dc81799c729b7eaf670c": {
     "id": "3411dc81799c729b7eaf670c",
     "title": "Hollywood Symphony Orchestra \"Viva l'Italia!\"",
@@ -4178,10 +4185,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "d97d5ccbbaca24a5151d77c1": {
-    "id": "d97d5ccbbaca24a5151d77c1",
-    "title": "José Cid",
-    "link": "https://agendadopedro.pt/concertos/jose-cid-lisboa-17325/",
+  "ec0fc3389d1b954dc6bce2a5": {
+    "id": "ec0fc3389d1b954dc6bce2a5",
+    "title": "Luís Trigacheiro",
+    "link": "https://agendadopedro.pt/concertos/luis-trigacheiro-lisboa-17360/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4192,19 +4199,19 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "084fe8222a2ae9286d75415c": {
-    "id": "084fe8222a2ae9286d75415c",
-    "title": "Wim Mertens",
-    "link": "https://agendadopedro.pt/concertos/wim-mertens-aveiro-17338/",
+  "3bdd2e109a5a95a133a750d5": {
+    "id": "3bdd2e109a5a95a133a750d5",
+    "title": "Orquestra Filarmonia das Beiras \"Harry Potter e a Câmara dos Segredos\"",
+    "link": "https://agendadopedro.pt/concertos/orquestra-filarmonia-das-beiras-lisboa-17363/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "587c6ba160b597cb8b12c286": {
-    "id": "587c6ba160b597cb8b12c286",
-    "title": "Wim Mertens",
-    "link": "https://agendadopedro.pt/concertos/wim-mertens-sintra-17339/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
+  "e7276d8533b9d889d321861a": {
+    "id": "e7276d8533b9d889d321861a",
+    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-13-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "0e47e16a8ee03a46167ab86d": {
     "title": "O Quebra-Nozes — Imperial Heritage Ballet",
