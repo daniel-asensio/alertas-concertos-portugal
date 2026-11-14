@@ -1175,13 +1175,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "628f55ba84182e8646e02754": {
-    "id": "628f55ba84182e8646e02754",
-    "title": "Bastien e Bastienne de W. A. Mozart Uma ópera em marionetas e em português",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/bastien-e-bastienne-de-w-a-mozart/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "ef5aa999a166c0bf67bbe996": {
     "id": "ef5aa999a166c0bf67bbe996",
     "title": "Entre Corpo, Voz, Memória Oficina Palcos Instáveis",
@@ -3569,6 +3562,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "571436406826156ad716961d": {
+    "id": "571436406826156ad716961d",
+    "title": "Quim Roscas & Zeca Estacionâncio",
+    "link": "https://agendadopedro.pt/concertos/quim-roscas-zeca-estacionancio-porto-17394/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "d701e405e049971fed64300f": {
     "id": "d701e405e049971fed64300f",
     "title": "Obscura ᛫ Pestilence ᛫ Cryptic Shift ᛫ Thus ᛫ Dvrk",
@@ -4143,10 +4143,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "3411dc81799c729b7eaf670c": {
-    "id": "3411dc81799c729b7eaf670c",
-    "title": "Hollywood Symphony Orchestra \"Viva l'Italia!\"",
-    "link": "https://agendadopedro.pt/concertos/hollywood-symphony-orchestra-lisboa-17330/",
+  "0a5a562aa84586762d2ce9d0": {
+    "id": "0a5a562aa84586762d2ce9d0",
+    "title": "Carminho",
+    "link": "https://agendadopedro.pt/concertos/carminho-lisboa-17309/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "d97d5ccbbaca24a5151d77c1": {
+    "id": "d97d5ccbbaca24a5151d77c1",
+    "title": "José Cid",
+    "link": "https://agendadopedro.pt/concertos/jose-cid-lisboa-17325/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4161,13 +4168,6 @@
     "id": "e457b0a6e49322040e6615e3",
     "title": "Orochi ᛫ MC Cabelinho ᛫ MC Jacaré ᛫ ...",
     "link": "https://agendadopedro.pt/concertos/orochi-lisboa-17329/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "3bdd2e109a5a95a133a750d5": {
-    "id": "3bdd2e109a5a95a133a750d5",
-    "title": "Orquestra Filarmonia das Beiras \"Harry Potter e a Câmara dos Segredos\"",
-    "link": "https://agendadopedro.pt/concertos/orquestra-filarmonia-das-beiras-lisboa-17363/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
