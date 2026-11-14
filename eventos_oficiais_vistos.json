@@ -1,11 +1,4 @@
 {
-  "c47ce8b5e4ac315bceca971a": {
-    "id": "c47ce8b5e4ac315bceca971a",
-    "title": "Jam Amazonico No Cafe",
-    "link": "https://casadamusica.com/event/jam-amazonico-no-cafe/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "b56726cde0f99c406f14d24f": {
     "id": "b56726cde0f99c406f14d24f",
     "title": "A Voz Em Grupo Cancoes E Jogos",
@@ -1007,13 +1000,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "3c7513fb82baea20383d0bab": {
-    "id": "3c7513fb82baea20383d0bab",
-    "title": "Jose Cid & Septeto",
-    "link": "https://www.hardclubporto.com/PT/evento/jose-cid-septeto-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "1a58ce8e9ed7b8c81362764d": {
     "id": "1a58ce8e9ed7b8c81362764d",
     "title": "Mercado de Natal",
@@ -1025,6 +1011,13 @@
     "id": "7fdcfa7c2522da168d1a5004",
     "title": "Lebanon Hanover",
     "link": "https://www.hardclubporto.com/PT/evento/lebanon-hanover-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "87b3c0a7e23a0d34993eb638": {
+    "id": "87b3c0a7e23a0d34993eb638",
+    "title": "Wallow Gospel De Natal",
+    "link": "https://www.hardclubporto.com/PT/evento/wallow-gospel-de-natal-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1180,13 +1173,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "5ad91e5aba341e46af3d1a10": {
-    "id": "5ad91e5aba341e46af3d1a10",
-    "title": "Sondre Lerche Apresentação do disco 'Acrobat'",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/sondre-lerche/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "628f55ba84182e8646e02754": {
@@ -2792,55 +2778,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4b0bead2741351ecb15909a3": {
-    "id": "4b0bead2741351ecb15909a3",
-    "title": "Gang do Eletro ᛫ Ayahuasca Detectives ᛫ Mind ᛫ Puwewere Puyanawa",
-    "link": "https://agendadopedro.pt/concertos/gang-do-eletro-porto-16974/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "7a5200170aa4e26070131911": {
-    "id": "7a5200170aa4e26070131911",
-    "title": "Em Casa d'Amália",
-    "link": "https://agendadopedro.pt/concertos/em-casa-d-amalia-porto-10422/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "78e149498aac1c05aeb8940d": {
-    "id": "78e149498aac1c05aeb8940d",
-    "title": "Interceptor",
-    "link": "https://agendadopedro.pt/concertos/interceptor-porto-16841/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "35062dcf46dbef2b22b2defd": {
-    "id": "35062dcf46dbef2b22b2defd",
-    "title": "José Cid",
-    "link": "https://agendadopedro.pt/concertos/jose-cid-porto-16878/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e27fc486a360e1ed8b88d2d8": {
-    "id": "e27fc486a360e1ed8b88d2d8",
-    "title": "Miaw",
-    "link": "https://agendadopedro.pt/concertos/miaw-porto-15017/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "207a6cf625a58c95a4b9b165": {
-    "id": "207a6cf625a58c95a4b9b165",
-    "title": "Cris",
-    "link": "https://agendadopedro.pt/concertos/cris-porto-17008/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e158b7feebc7ecbe77c52d94": {
-    "id": "e158b7feebc7ecbe77c52d94",
-    "title": "Superfan",
-    "link": "https://agendadopedro.pt/concertos/superfan-porto-14023/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "355d955fd5c68f1c0b4f7f39": {
     "id": "355d955fd5c68f1c0b4f7f39",
     "title": "Jack & Jack",
@@ -4073,24 +4010,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "a8c0c055bfc04eda95cfd86d": {
-    "id": "a8c0c055bfc04eda95cfd86d",
-    "title": "Cat Power \"The Greatest\"",
-    "link": "https://agendadopedro.pt/concertos/cat-power-lisboa-12772/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "6739a11722b1604e3e8ac6b0": {
     "id": "6739a11722b1604e3e8ac6b0",
     "title": "DJ Symphonic & Royal Film Concert Orchestra",
     "link": "https://agendadopedro.pt/concertos/dj-symphonic-lisboa-11442/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "3953ae5f1b16043a3ac6fb3d": {
-    "id": "3953ae5f1b16043a3ac6fb3d",
-    "title": "Gipsy Kings by Diego Baliardo",
-    "link": "https://agendadopedro.pt/concertos/gipsy-kings-by-diego-baliardo-guimaraes-15285/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4112,13 +4035,6 @@
     "id": "3bd4269dd976ae6992505656",
     "title": "Royal Film Concert Orchestra",
     "link": "https://agendadopedro.pt/concertos/royal-film-concert-orchestra-lisboa-11443/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "31f7982a2a5a507628d00118": {
-    "id": "31f7982a2a5a507628d00118",
-    "title": "Rubel",
-    "link": "https://agendadopedro.pt/concertos/rubel-lisboa-11154/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
