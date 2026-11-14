@@ -2113,13 +2113,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "b281022c5491201479283b28": {
-    "id": "b281022c5491201479283b28",
-    "title": "Rubel Beleza Rubel Violao",
-    "link": "https://coliseulisboa.com/eventos/rubel-beleza-rubel-violao/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "196ff6a120bba7010891f64f": {
     "id": "196ff6a120bba7010891f64f",
     "title": "Royal Film Orchestra Dj Symphonic Royal Film Orchestra 2",
@@ -2215,6 +2208,13 @@
     "id": "9a045c2a5c7f0a8c0b7f0621",
     "title": "Mark Delman",
     "link": "https://coliseulisboa.com/eventos/mark-delman/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "d514105f40fefe3ea93c0865": {
+    "id": "d514105f40fefe3ea93c0865",
+    "title": "Vizinhos Turismo Do Alentejo Vip",
+    "link": "https://coliseulisboa.com/eventos/vizinhos-turismo-do-alentejo-vip/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -2484,34 +2484,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "6abfd7bf3d5337323b54e2ec": {
-    "id": "6abfd7bf3d5337323b54e2ec",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-13/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "eec2fc423ded4f529fa15fa9": {
-    "id": "eec2fc423ded4f529fa15fa9",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-13/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "dd04b42fa276ba8c19c95a3c": {
-    "id": "dd04b42fa276ba8c19c95a3c",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-13/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "376a2e8e4d30847f895b175c": {
-    "id": "376a2e8e4d30847f895b175c",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-13/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "edb1575527d0dc56968dbcaf": {
     "id": "edb1575527d0dc56968dbcaf",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -2544,6 +2516,34 @@
     "id": "0d421b487ed676d048795c6a",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-11-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "2e35ac538b5d04a757694ac7": {
+    "id": "2e35ac538b5d04a757694ac7",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "897689f66f6c8f6d5b3f19ac": {
+    "id": "897689f66f6c8f6d5b3f19ac",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "7ca324ee83f268f54d47678b": {
+    "id": "7ca324ee83f268f54d47678b",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-14/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9ebd4f07b9f48578545161fb": {
+    "id": "9ebd4f07b9f48578545161fb",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-14/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
