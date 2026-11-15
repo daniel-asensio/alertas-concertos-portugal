@@ -1140,13 +1140,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "ef5aa999a166c0bf67bbe996": {
-    "id": "ef5aa999a166c0bf67bbe996",
-    "title": "Entre Corpo, Voz, Memória Oficina Palcos Instáveis",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/entre-corpo-voz-memoria/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "0502451e782d1b6fe1772f39": {
     "id": "0502451e782d1b6fe1772f39",
     "title": "Reflexo de um Diamante Morto Os Filmes das Nossas Terças",
@@ -2057,27 +2050,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "196ff6a120bba7010891f64f": {
-    "id": "196ff6a120bba7010891f64f",
-    "title": "Royal Film Orchestra Dj Symphonic Royal Film Orchestra 2",
-    "link": "https://coliseulisboa.com/eventos/royal-film-orchestra-dj-symphonic-royal-film-orchestra-2/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
-  "5d8242dad09c83ee2eb799a0": {
-    "id": "5d8242dad09c83ee2eb799a0",
-    "title": "Royal Film Orchestra Morricone Zimmer Williams 2",
-    "link": "https://coliseulisboa.com/eventos/royal-film-orchestra-morricone-zimmer-williams-2/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
-  "c2efd6a82f7e4f4da780db7d": {
-    "id": "c2efd6a82f7e4f4da780db7d",
-    "title": "Psy Sessions 010 Batida Eletronica",
-    "link": "https://coliseulisboa.com/eventos/psy-sessions-010-batida-eletronica/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "b45f8b62d47da6d83a86cd7a": {
     "id": "b45f8b62d47da6d83a86cd7a",
     "title": "Torajo Uma Viagem Ao Mundo Das Frutas",
@@ -2159,6 +2131,27 @@
     "id": "d514105f40fefe3ea93c0865",
     "title": "Vizinhos Turismo Do Alentejo Vip",
     "link": "https://coliseulisboa.com/eventos/vizinhos-turismo-do-alentejo-vip/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "59f30938a4ebf453d4df5f76": {
+    "id": "59f30938a4ebf453d4df5f76",
+    "title": "Vizinhos Ao Vivo Nos Coliseus",
+    "link": "https://coliseulisboa.com/eventos/vizinhos-ao-vivo-nos-coliseus/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "88e305b5ef35a65175885171": {
+    "id": "88e305b5ef35a65175885171",
+    "title": "Murmuration Level 2",
+    "link": "https://coliseulisboa.com/eventos/murmuration-level-2/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "c15629d78db7d49b70f4098c": {
+    "id": "c15629d78db7d49b70f4098c",
+    "title": "Elida Almeida Spedju",
+    "link": "https://coliseulisboa.com/eventos/elida-almeida-spedju/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
