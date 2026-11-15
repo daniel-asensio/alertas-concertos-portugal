@@ -1,25 +1,4 @@
 {
-  "b56726cde0f99c406f14d24f": {
-    "id": "b56726cde0f99c406f14d24f",
-    "title": "A Voz Em Grupo Cancoes E Jogos",
-    "link": "https://casadamusica.com/event/a-voz-em-grupo-cancoes-e-jogos/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "062c31c330d592d38f9661f3": {
-    "id": "062c31c330d592d38f9661f3",
-    "title": "Conversa Com Bianca Dacosta",
-    "link": "https://casadamusica.com/event/conversa-com-bianca-dacosta/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "b5b6736d3996df8c770d23d3": {
-    "id": "b5b6736d3996df8c770d23d3",
-    "title": "Amazonia",
-    "link": "https://casadamusica.com/event/amazonia/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "cbaa8f241e6b5b6059d74ea5": {
     "id": "cbaa8f241e6b5b6059d74ea5",
     "title": "A Invencao Da Natureza 4",
@@ -62,17 +41,17 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "43362da46ad79c30a3ac9977": {
-    "id": "43362da46ad79c30a3ac9977",
-    "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
-    "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "9d32550e36dbb13d4f3d719a": {
     "id": "9d32550e36dbb13d4f3d719a",
     "title": "Claiana",
     "link": "https://casadamusica.com/event/claiana/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "43362da46ad79c30a3ac9977": {
+    "id": "43362da46ad79c30a3ac9977",
+    "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
+    "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -993,13 +972,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "1a58ce8e9ed7b8c81362764d": {
-    "id": "1a58ce8e9ed7b8c81362764d",
-    "title": "Mercado de Natal",
-    "link": "https://www.hardclubporto.com/PT/evento/mercado-de-natal-segunda-edicao-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "7fdcfa7c2522da168d1a5004": {
     "id": "7fdcfa7c2522da168d1a5004",
     "title": "Lebanon Hanover",
@@ -1011,6 +983,13 @@
     "id": "87b3c0a7e23a0d34993eb638",
     "title": "Wallow Gospel De Natal",
     "link": "https://www.hardclubporto.com/PT/evento/wallow-gospel-de-natal-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "6b1b1594575fd34ae42f6d3c": {
+    "id": "6b1b1594575fd34ae42f6d3c",
+    "title": "GANSO",
+    "link": "https://www.hardclubporto.com/PT/evento/ganso-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1361,13 +1340,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "d31b00e20395b38a938e1dbd": {
-    "id": "d31b00e20395b38a938e1dbd",
-    "title": "CAMANÉ – FESTIVAL FADO BUENOS AIRES",
-    "link": "https://everythingisnew.pt/camane-festival-fado-buenos-aires/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2743,20 +2715,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "355d955fd5c68f1c0b4f7f39": {
-    "id": "355d955fd5c68f1c0b4f7f39",
-    "title": "Jack & Jack",
-    "link": "https://agendadopedro.pt/concertos/jack-jack-porto-14264/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "3308c2fe6da665f0882b63cd": {
-    "id": "3308c2fe6da665f0882b63cd",
-    "title": "Tony Carreira",
-    "link": "https://agendadopedro.pt/concertos/tony-carreira-porto-11944/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "ece0dbfec391a9b299b4b70d": {
     "id": "ece0dbfec391a9b299b4b70d",
     "title": "Fafá de Belém ᛫ Zaynara",
@@ -3993,41 +3951,6 @@
     "id": "29c5a7d7e6746ebe4c19dfa9",
     "title": "Amon Amarth ᛫ Orbit Culture ᛫ Soilwork",
     "link": "https://agendadopedro.pt/concertos/amon-amarth-lisboa-10416/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6739a11722b1604e3e8ac6b0": {
-    "id": "6739a11722b1604e3e8ac6b0",
-    "title": "DJ Symphonic & Royal Film Concert Orchestra",
-    "link": "https://agendadopedro.pt/concertos/dj-symphonic-lisboa-11442/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "ffb5d465583240fdfa99e8e9": {
-    "id": "ffb5d465583240fdfa99e8e9",
-    "title": "Os Quatro e Meia",
-    "link": "https://agendadopedro.pt/concertos/os-quatro-e-meia-guimaraes-10572/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "1fb639f74c33aaddcc24ac4f": {
-    "id": "1fb639f74c33aaddcc24ac4f",
-    "title": "Pedro Abrunhosa",
-    "link": "https://agendadopedro.pt/concertos/pedro-abrunhosa-povoa-de-varzim-13045/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "3bd4269dd976ae6992505656": {
-    "id": "3bd4269dd976ae6992505656",
-    "title": "Royal Film Concert Orchestra",
-    "link": "https://agendadopedro.pt/concertos/royal-film-concert-orchestra-lisboa-11443/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "f1b66f1baff405df5789ecd2": {
-    "id": "f1b66f1baff405df5789ecd2",
-    "title": "Sam the Kid & Valete & Regula & Xeg",
-    "link": "https://agendadopedro.pt/concertos/sam-the-kid-valete-regula-xeg-lisboa-12821/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
