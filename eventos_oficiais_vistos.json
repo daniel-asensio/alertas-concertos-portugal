@@ -1,25 +1,4 @@
 {
-  "cbaa8f241e6b5b6059d74ea5": {
-    "id": "cbaa8f241e6b5b6059d74ea5",
-    "title": "A Invencao Da Natureza 4",
-    "link": "https://casadamusica.com/event/a-invencao-da-natureza-4/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "8cfd26359738bcfdba3d8519": {
-    "id": "8cfd26359738bcfdba3d8519",
-    "title": "Conferencia Musica E Amazonia",
-    "link": "https://casadamusica.com/event/conferencia-musica-e-amazonia/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "e715347347d22a798a1d5f2c": {
-    "id": "e715347347d22a798a1d5f2c",
-    "title": "Zaynara Fafa De Belem",
-    "link": "https://casadamusica.com/event/zaynara-fafa-de-belem/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "8c89c946e6f28a30b9f7c8ce": {
     "id": "8c89c946e6f28a30b9f7c8ce",
     "title": "Luisa Sobral",
@@ -41,17 +20,17 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "9d32550e36dbb13d4f3d719a": {
-    "id": "9d32550e36dbb13d4f3d719a",
-    "title": "Claiana",
-    "link": "https://casadamusica.com/event/claiana/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "43362da46ad79c30a3ac9977": {
     "id": "43362da46ad79c30a3ac9977",
     "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
     "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "9d32550e36dbb13d4f3d719a": {
+    "id": "9d32550e36dbb13d4f3d719a",
+    "title": "Claiana",
+    "link": "https://casadamusica.com/event/claiana/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1326,13 +1305,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "d7307cc7e56be5d40d230e1e": {
-    "id": "d7307cc7e56be5d40d230e1e",
-    "title": "SARA CORREIA – FESTIVAL FADO BUENOS AIRES",
-    "link": "https://everythingisnew.pt/sara-correia-festival-fado-buenos-aires-2/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2694,27 +2666,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ece0dbfec391a9b299b4b70d": {
-    "id": "ece0dbfec391a9b299b4b70d",
-    "title": "Fafá de Belém ᛫ Zaynara",
-    "link": "https://agendadopedro.pt/concertos/fafa-de-belem-porto-16973/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "77ff8763d001ef44cd36bf82": {
-    "id": "77ff8763d001ef44cd36bf82",
-    "title": "Croatian Amor ᛫ Frederik Valentin",
-    "link": "https://agendadopedro.pt/concertos/croatian-amor-porto-17307/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6daae252bbc9980168a15f30": {
-    "id": "6daae252bbc9980168a15f30",
-    "title": "Marina Herlop",
-    "link": "https://agendadopedro.pt/concertos/marina-herlop-porto-17372/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "8612168d1fc372abe27b88d3": {
     "id": "8612168d1fc372abe27b88d3",
     "title": "Luísa Sobral",
@@ -3926,13 +3877,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "29c5a7d7e6746ebe4c19dfa9": {
-    "id": "29c5a7d7e6746ebe4c19dfa9",
-    "title": "Amon Amarth ᛫ Orbit Culture ᛫ Soilwork",
-    "link": "https://agendadopedro.pt/concertos/amon-amarth-lisboa-10416/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "4dff8008f6876c26d572d428": {
     "id": "4dff8008f6876c26d572d428",
     "title": "Bryan Adams",
@@ -4007,6 +3951,83 @@
     "id": "c232520a5d046b63c68ebb83",
     "title": "This Is Michael",
     "link": "https://agendadopedro.pt/concertos/this-is-michael-lisboa-11123/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "5b821a308ac8e399079ea1f5": {
+    "id": "5b821a308ac8e399079ea1f5",
+    "title": "Al di Meola",
+    "link": "https://agendadopedro.pt/concertos/al-di-meola-lisboa-14076/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "60b009c415b195b9b21ebad4": {
+    "id": "60b009c415b195b9b21ebad4",
+    "title": "David Fonseca",
+    "link": "https://agendadopedro.pt/concertos/david-fonseca-lisboa-10791/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "b66d97ef81d21d5e68bbafda": {
+    "id": "b66d97ef81d21d5e68bbafda",
+    "title": "Freya Skye ᛫ Alex Sampson",
+    "link": "https://agendadopedro.pt/concertos/freya-skye-lisboa-13064/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "9a9398b162455d199fa289db": {
+    "id": "9a9398b162455d199fa289db",
+    "title": "Hatsune Miku",
+    "link": "https://agendadopedro.pt/concertos/hatsune-miku-lisboa-12850/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6f17c4e6f85e91d696b5ee94": {
+    "id": "6f17c4e6f85e91d696b5ee94",
+    "title": "HMB & Tim",
+    "link": "https://agendadopedro.pt/concertos/hmb-tim-lisboa-12979/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "41c741cfd325d08cb3fabaff": {
+    "id": "41c741cfd325d08cb3fabaff",
+    "title": "Mark Delman",
+    "link": "https://agendadopedro.pt/concertos/mark-delman-lisboa-15445/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "e454f459a4e58bef88f0b84a": {
+    "id": "e454f459a4e58bef88f0b84a",
+    "title": "Nena",
+    "link": "https://agendadopedro.pt/concertos/nena-lisboa-12553/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "097968246365edae1435418b": {
+    "id": "097968246365edae1435418b",
+    "title": "Sir El Tom",
+    "link": "https://agendadopedro.pt/concertos/sir-el-tom-lisboa-10988/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "5046019f6f5167faffdb55bb": {
+    "id": "5046019f6f5167faffdb55bb",
+    "title": "Soen ᛫ Tribulation ᛫ Vulkan",
+    "link": "https://agendadopedro.pt/concertos/soen-lisboa-13141/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "fb932832caf8e6e6e6711d39": {
+    "id": "fb932832caf8e6e6e6711d39",
+    "title": "Tony Carreira",
+    "link": "https://agendadopedro.pt/concertos/tony-carreira-lisboa-11945/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "578296271ad75e61dea86619": {
+    "id": "578296271ad75e61dea86619",
+    "title": "Vizinhos",
+    "link": "https://agendadopedro.pt/concertos/vizinhos-lisboa-10071/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
