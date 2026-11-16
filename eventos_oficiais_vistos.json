@@ -1952,6 +1952,13 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
+  "f97984d7f353b34c4d3402af": {
+    "id": "f97984d7f353b34c4d3402af",
+    "title": "Nuno Markl Ao Vivo",
+    "link": "https://arena.meo.pt/agenda/nuno-markl-ao-vivo_pt/16816/",
+    "source": "MEO Arena",
+    "kind": "Grande sala"
+  },
   "412de1db06322e438c1f9d19": {
     "id": "412de1db06322e438c1f9d19",
     "title": "The World Of Hans Zimmer A New Dimension",
@@ -2006,13 +2013,6 @@
     "title": "Carminho Com Orquestra",
     "link": "https://arena.meo.pt/agenda/carminho-com-orquestra_pt/16750/",
     "source": "MEO Arena",
-    "kind": "Grande sala"
-  },
-  "b45f8b62d47da6d83a86cd7a": {
-    "id": "b45f8b62d47da6d83a86cd7a",
-    "title": "Torajo Uma Viagem Ao Mundo Das Frutas",
-    "link": "https://coliseulisboa.com/eventos/torajo-uma-viagem-ao-mundo-das-frutas/",
-    "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
   "7e4f5adc2a6e4e8b93469c54": {
@@ -2113,24 +2113,17 @@
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
-  "9ac4c9c90eaa7756476c2479": {
-    "id": "9ac4c9c90eaa7756476c2479",
-    "title": "Centro Cultural Olga Cadaval 15 Nov 2026 17:00 Claude Debussy: La mer",
-    "link": "https://www.saocarlos.pt/program/claude-debussy-la-mer/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
+  "d454e622f99a0b0ace5a06c9": {
+    "id": "d454e622f99a0b0ace5a06c9",
+    "title": "Circo De Natal Do Coliseu Dos Recreios 2026",
+    "link": "https://coliseulisboa.com/eventos/circo-de-natal-do-coliseu-dos-recreios-2026/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
   },
   "f687c71cc1ced13066817c0d": {
     "id": "f687c71cc1ced13066817c0d",
     "title": "Convento São Francisco 20 Nov 2026 21:00 Mátria",
     "link": "https://www.saocarlos.pt/program/matria-1776856565404/",
-    "source": "Teatro Nacional de São Carlos",
-    "kind": "Ópera — grandes espetáculos"
-  },
-  "da4e926e8e6aec571767e2af": {
-    "id": "da4e926e8e6aec571767e2af",
-    "title": "Gratuito São Luiz Teatro Municipal 15 Nov 2026 17:30 Lo speziale",
-    "link": "https://www.saocarlos.pt/program/lo-speziale/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -2166,6 +2159,34 @@
     "id": "4188e61bb254a44abd1cb73f",
     "title": "Centro Cultural de Belém 20 Dez 2026 17:00 Concerto de Natal - Missa em si menor de Bach",
     "link": "https://www.saocarlos.pt/program/concerto-de-natal-missa-em-si-menor-de-bach/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "804e9f6585c670e419fa6457": {
+    "id": "804e9f6585c670e419fa6457",
+    "title": "Centro Cultural Olga Cadaval 03 Jan 2027 17:00 Concerto de Ano Novo",
+    "link": "https://www.saocarlos.pt/program/2627-concerto-de-ano-novo/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "2596a57f6caa6a1b6722ec18": {
+    "id": "2596a57f6caa6a1b6722ec18",
+    "title": "Centro Cultural de Belém 10 Jan 2027 17:00 Sinfonia doméstica de Strauss",
+    "link": "https://www.saocarlos.pt/program/sinfonia-domestica-de-strauss/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "555848720fa7d72aa000df44": {
+    "id": "555848720fa7d72aa000df44",
+    "title": "Academia das Ciências de Lisboa 12 Jan 2027 18:30 Encontros na Academia",
+    "link": "https://www.saocarlos.pt/program/encontros-na-academia-or-variacoes-goldberg/",
+    "source": "Teatro Nacional de São Carlos",
+    "kind": "Ópera — grandes espetáculos"
+  },
+  "0f0c75aa2f7136531b9fd337": {
+    "id": "0f0c75aa2f7136531b9fd337",
+    "title": "Teatro Aberto 15 Jan 2027 20:00 Por todos nós",
+    "link": "https://www.saocarlos.pt/program/por-todos-nos/",
     "source": "Teatro Nacional de São Carlos",
     "kind": "Ópera — grandes espetáculos"
   },
@@ -4065,6 +4086,13 @@
     "link": "https://agendadopedro.pt/concertos/orochi-lisboa-17329/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "c2f9ae794cd4c0878554d72b": {
+    "id": "c2f9ae794cd4c0878554d72b",
+    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-16-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "0e47e16a8ee03a46167ab86d": {
     "title": "O Quebra-Nozes — Imperial Heritage Ballet",
