@@ -1471,7 +1471,7 @@
   },
   "87d62c3cd7ce1cba4c7c111a": {
     "id": "87d62c3cd7ce1cba4c7c111a",
-    "title": "Live 2027",
+    "title": "Convidado: Level 42",
     "link": "https://everythingisnew.pt/simple-minds-2027-porto/",
     "source": "Everything Is New",
     "kind": "Promotora"
@@ -1485,7 +1485,7 @@
   },
   "c243029adeb3f5c6f4698349": {
     "id": "c243029adeb3f5c6f4698349",
-    "title": "Live 2027",
+    "title": "Convidado: Level 42",
     "link": "https://everythingisnew.pt/simple-minds-2027/",
     "source": "Everything Is New",
     "kind": "Promotora"
@@ -1725,6 +1725,20 @@
     "id": "2817fedc1ea3a1869a3eede8",
     "title": "The Mission 29 abril — LAV - Lisboa ao Vivo",
     "link": "https://houseoffun.pt/concertos/the-mission-lisboa-2027/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "9ae568de8fdee12329cb603b": {
+    "id": "9ae568de8fdee12329cb603b",
+    "title": "James Blunt 1 julho — Sagres Campo Pequeno",
+    "link": "https://houseoffun.pt/concertos/james-blunt-lisboa-2027/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "75b782fb9ede8d08c8bf9b43": {
+    "id": "75b782fb9ede8d08c8bf9b43",
+    "title": "à venda 20 nov, 10:00",
+    "link": "https://houseoffun.pt/concertos/james-blunt-lisboa-2027/lembrete.ics/",
     "source": "House of Fun",
     "kind": "Promotora"
   },
@@ -2577,7 +2591,7 @@
   },
   "b56445b262860d65caad17ee": {
     "id": "b56445b262860d65caad17ee",
-    "title": "Marisol - When Things are Just Beginning",
+    "title": "Marisol - Quando tudo está apenas a começar",
     "link": "https://www.ccb.pt/evento/exposicao-marisol/2026-12-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
@@ -4066,10 +4080,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "c2f9ae794cd4c0878554d72b": {
-    "id": "c2f9ae794cd4c0878554d72b",
+  "dbd5e686d0b93625f62ef789": {
+    "id": "dbd5e686d0b93625f62ef789",
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-11-16-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-17-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
