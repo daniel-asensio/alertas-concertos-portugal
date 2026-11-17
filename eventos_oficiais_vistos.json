@@ -27,6 +27,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "88000f84d1b7db55408dd9e6": {
+    "id": "88000f84d1b7db55408dd9e6",
+    "title": "Apresentacao Da Temporada 2027",
+    "link": "https://casadamusica.com/event/apresentacao-da-temporada-2027/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "3b5108ea295f3eb7f669dd8f": {
     "id": "3b5108ea295f3eb7f669dd8f",
     "title": "Alan Stivell",
@@ -664,13 +671,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "6c8a1d6e39d7365d439ce627": {
-    "id": "6c8a1d6e39d7365d439ce627",
-    "title": "Bryan Adams",
-    "link": "https://www.superbockarena.pt/evento/bryan-adams/",
-    "source": "Super Bock Arena",
-    "kind": "Porto"
-  },
   "78e0f7c05286d7c77a0a1b7a": {
     "id": "78e0f7c05286d7c77a0a1b7a",
     "title": "Bryan Adams",
@@ -979,13 +979,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "c60c6c3b1a1d561ec64105a4": {
-    "id": "c60c6c3b1a1d561ec64105a4",
-    "title": "ABC da Guerra",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7306/abc-da-guerra/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "bfd294a9db80ce6148e37140": {
     "id": "bfd294a9db80ce6148e37140",
     "title": "Residência",
@@ -997,6 +990,13 @@
     "id": "9acfe4a8ecffac817bb87bee",
     "title": "Maguy Marin: Repertório(s)",
     "link": "https://www.tnsj.pt/pt/espetaculos/7230/maguy-marin-repertorios/",
+    "source": "Teatro Nacional São João",
+    "kind": "Teatro, dança e ópera — Porto"
+  },
+  "ff26a20420fb970831771a96": {
+    "id": "ff26a20420fb970831771a96",
+    "title": "Dez palavras do Inferno",
+    "link": "https://www.tnsj.pt/pt/espetaculos/7267/dez-palavras-do-auto-da-barca-do-inferno/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -1103,13 +1103,6 @@
     "title": "Amanha Nao Esta Certo Europarque",
     "link": "https://www.bol.pt/Comprar/Bilhetes/182992-amanha_nao_esta_certo-europarque/",
     "source": "Europarque",
-    "kind": "Aveiro"
-  },
-  "0502451e782d1b6fe1772f39": {
-    "id": "0502451e782d1b6fe1772f39",
-    "title": "Reflexo de um Diamante Morto Os Filmes das Nossas Terças",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/reflexo-de-um-diamante-morto/",
-    "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
   "209d3a393a736a1478f34de9": {
@@ -2407,73 +2400,66 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "e2e9066dfeb4375fc055d79b": {
-    "id": "e2e9066dfeb4375fc055d79b",
+  "d44f942b74729031829faea7": {
+    "id": "d44f942b74729031829faea7",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "7a56f2921c104f5f0eaf1638": {
-    "id": "7a56f2921c104f5f0eaf1638",
+  "07afb7170023e1a5c134b314": {
+    "id": "07afb7170023e1a5c134b314",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ef85718376c7e13eef1d3799": {
-    "id": "ef85718376c7e13eef1d3799",
+  "c8f29cb2dc0bc9823df00525": {
+    "id": "c8f29cb2dc0bc9823df00525",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "8f691a43452d173e096711a2": {
-    "id": "8f691a43452d173e096711a2",
+  "84ba093228d0abf634df4c76": {
+    "id": "84ba093228d0abf634df4c76",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "f187e8eac5afade66f68d0b2": {
-    "id": "f187e8eac5afade66f68d0b2",
+  "ef8c1d0d1ef5d6a747dfef93": {
+    "id": "ef8c1d0d1ef5d6a747dfef93",
     "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "cc1a52a64582a801acd17f5e": {
-    "id": "cc1a52a64582a801acd17f5e",
+  "056be9ddc3c6bb5efa0f1bc7": {
+    "id": "056be9ddc3c6bb5efa0f1bc7",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ef80050d321291a524f9eeba": {
-    "id": "ef80050d321291a524f9eeba",
+  "65737593b8a0fd8c7df18d9d": {
+    "id": "65737593b8a0fd8c7df18d9d",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "25f99c2a2b5fd2a3ac72e60f": {
-    "id": "25f99c2a2b5fd2a3ac72e60f",
+  "5e04116bf0442496c3e287cd": {
+    "id": "5e04116bf0442496c3e287cd",
     "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d4d22931709501afb575ef6a": {
-    "id": "d4d22931709501afb575ef6a",
-    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
-    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-17/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b112ad03ccb48e2121e424e6": {
-    "id": "b112ad03ccb48e2121e424e6",
+  "a73408a0a81ffae4a2a371fa": {
+    "id": "a73408a0a81ffae4a2a371fa",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-17/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-18/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2502,6 +2488,13 @@
     "id": "f4319bdd179ae0d362e323f4",
     "title": "Memórias, Silêncios e Disputas no Espaço Público em Duas Cidades da Península Ibérica",
     "link": "https://www.ccb.pt/evento/memorias-silencios-e-disputas-no-espaco-publico-em-duas-cidades-da-peninsula-iberica/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b7be0ae5bf1386184881f522": {
+    "id": "b7be0ae5bf1386184881f522",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-24/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2621,6 +2614,13 @@
     "id": "74cd6eea1af3550eaf298fa2",
     "title": "Arquiteturas Do Som",
     "link": "https://www.ccb.pt/evento/arquiteturas-do-som/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "71de7fe418450df073acfbbb": {
+    "id": "71de7fe418450df073acfbbb",
+    "title": "Ciclo de Conferências - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/ciclo-de-conferencias/2027-03-17/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3625,6 +3625,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "2b3ee6790ea9dc90aac45a48": {
+    "id": "2b3ee6790ea9dc90aac45a48",
+    "title": "Ryley Walker",
+    "link": "https://agendadopedro.pt/concertos/ryley-walker-porto-17414/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "f806cc3167b4da01427a934e": {
     "id": "f806cc3167b4da01427a934e",
     "title": "Leo Middea",
@@ -3636,6 +3643,13 @@
     "id": "61163361dd76715a054dd2d5",
     "title": "The Pineapple Thief",
     "link": "https://agendadopedro.pt/concertos/the-pineapple-thief-porto-16264/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "841211291af3f87777a136c5": {
+    "id": "841211291af3f87777a136c5",
+    "title": "Rotting Christ ᛫ Anzv",
+    "link": "https://agendadopedro.pt/concertos/rotting-christ-porto-17412/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3832,6 +3846,13 @@
     "id": "b75e400c9fa3d9c9960837c2",
     "title": "Ute Lemper",
     "link": "https://agendadopedro.pt/concertos/ute-lemper-porto-17081/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "28f8bac9ad1bcb03c4b25f3e": {
+    "id": "28f8bac9ad1bcb03c4b25f3e",
+    "title": "Original Enigma Voices",
+    "link": "https://agendadopedro.pt/concertos/original-enigma-voices-porto-17408/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4052,10 +4073,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "0a5a562aa84586762d2ce9d0": {
-    "id": "0a5a562aa84586762d2ce9d0",
-    "title": "Carminho",
-    "link": "https://agendadopedro.pt/concertos/carminho-lisboa-17309/",
+  "83e36777273141d250dab4c2": {
+    "id": "83e36777273141d250dab4c2",
+    "title": "James Blunt",
+    "link": "https://agendadopedro.pt/concertos/james-blunt-lisboa-17413/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
