@@ -1,11 +1,4 @@
 {
-  "8c89c946e6f28a30b9f7c8ce": {
-    "id": "8c89c946e6f28a30b9f7c8ce",
-    "title": "Luisa Sobral",
-    "link": "https://casadamusica.com/event/luisa-sobral/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "50b70abeb09dc80ad4d3c6a8": {
     "id": "50b70abeb09dc80ad4d3c6a8",
     "title": "Vania Leal 2026 11 17",
@@ -2484,6 +2477,13 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "677b6b63874fb4eaa988bb23": {
+    "id": "677b6b63874fb4eaa988bb23",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "f4319bdd179ae0d362e323f4": {
     "id": "f4319bdd179ae0d362e323f4",
     "title": "Memórias, Silêncios e Disputas no Espaço Público em Duas Cidades da Península Ibérica",
@@ -2495,13 +2495,6 @@
     "id": "d5e0965bec8f22343f563abf",
     "title": "Exposicao May I Help You Posso Ajudar",
     "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "ea1c660d38ddd4314177421e": {
-    "id": "ea1c660d38ddd4314177421e",
-    "title": "Visitas Guiadas",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-29/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2558,6 +2551,13 @@
     "id": "055e25a146d77f02476ff179",
     "title": "May I Help You?",
     "link": "https://www.ccb.pt/evento/exhibition-may-i-help-you-posso-ajudar/2026-12-03/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "7fd066fca8f8f9056c6ccf21": {
+    "id": "7fd066fca8f8f9056c6ccf21",
+    "title": "Museu em Partilha - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/museu-em-partilha/2026-12-12/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2679,13 +2679,6 @@
     "link": "https://www.ccb.pt/evento/exposicao-passagens-filipa-correia-de-sousa/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "8612168d1fc372abe27b88d3": {
-    "id": "8612168d1fc372abe27b88d3",
-    "title": "Luísa Sobral",
-    "link": "https://agendadopedro.pt/concertos/luisa-sobral-porto-14225/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "2e181dd51db7ba3a17f57af1": {
     "id": "2e181dd51db7ba3a17f57af1",
@@ -3951,13 +3944,6 @@
     "id": "bc5b85d204712a33d17df7cd",
     "title": "Rádio Macau",
     "link": "https://agendadopedro.pt/concertos/radio-macau-sintra-14836/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6005c85a260fa8c7a1c3b2c4": {
-    "id": "6005c85a260fa8c7a1c3b2c4",
-    "title": "Spike and the Gimme Gimmes",
-    "link": "https://agendadopedro.pt/concertos/spike-and-the-gimme-gimmes-lisboa-13676/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
