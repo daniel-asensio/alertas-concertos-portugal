@@ -1980,13 +1980,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "85797cb4c89d58f10c2f3a68": {
-    "id": "85797cb4c89d58f10c2f3a68",
-    "title": "Janeiro Reticencias Uma Nova Versao De Nos",
-    "link": "https://coliseulisboa.com/eventos/janeiro-reticencias-uma-nova-versao-de-nos/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "e882321e5eccff011bc64aea": {
     "id": "e882321e5eccff011bc64aea",
     "title": "Bate Papo Com Theo",
@@ -2082,6 +2075,13 @@
     "id": "3a004f6570428dd7a2ca9dd6",
     "title": "Iolanda",
     "link": "https://coliseulisboa.com/eventos/iolanda/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "c40d2d775a78a5a829eaf1c6": {
+    "id": "c40d2d775a78a5a829eaf1c6",
+    "title": "Joao So E Tiago Nogueira",
+    "link": "https://coliseulisboa.com/eventos/joao-so-e-tiago-nogueira/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -4059,17 +4059,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "611a6663aabfc1e1a1072a83": {
-    "id": "611a6663aabfc1e1a1072a83",
-    "title": "Delfins celebram 30 anos do álbum “Saber a Mar” nos coliseus",
-    "link": "https://expresso.pt/blitz/agenda/2026-11-18-delfins-celebram-30-anos-do-album-saber-a-mar-nos-coliseus-3ffdfc49/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
-  },
-  "2b08806cba9258f3e467f544": {
-    "id": "2b08806cba9258f3e467f544",
+  "2d396a551b2ca38661ff1a4e": {
+    "id": "2d396a551b2ca38661ff1a4e",
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-11-18-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-19-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
