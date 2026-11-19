@@ -1077,13 +1077,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "209d3a393a736a1478f34de9": {
-    "id": "209d3a393a736a1478f34de9",
-    "title": "O Problema da habitação e o papel ético e social da arquitetura Ciclo O Problema da Habitação",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/o-problema-da-habitacao-e-o-papel-etico-e-social-da-arquitetura-ciclo-o-problema-da-habitacao/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "2e49cebc10bb5bfce5919dc0": {
     "id": "2e49cebc10bb5bfce5919dc0",
     "title": "Songs of Ascension Beatriz Moreira, Iris Auguste e Giulia Miceli / Palcos Instáveis - Segunda Casa",
@@ -1237,6 +1230,34 @@
     "link": "https://www.teatroaveirense.pt/index.php/evento/cristina/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
+  },
+  "1b61ea7e2781d41f07d3481b": {
+    "id": "1b61ea7e2781d41f07d3481b",
+    "title": "Numa noite o ano inteiro | Federação das Colectividades de Cultura e Recreio do Concelho de Santa Maria da Feira",
+    "link": "https://cineteatro.cm-feira.pt/",
+    "source": "Cineteatro António Lamoso",
+    "kind": "Música, teatro, dança e ópera — Aveiro"
+  },
+  "1f0bff9564a2d388f86b17f3": {
+    "id": "1f0bff9564a2d388f86b17f3",
+    "title": "Libra | Everyone´s First Breath | OuTonalidades - Circuito Português de Música ao Vivo",
+    "link": "https://cineteatro.cm-feira.pt/",
+    "source": "Cineteatro António Lamoso",
+    "kind": "Música, teatro, dança e ópera — Aveiro"
+  },
+  "6d33ed973dbc46b9d040bfea": {
+    "id": "6d33ed973dbc46b9d040bfea",
+    "title": "Linda Martini | Passa Montanhas",
+    "link": "https://cineteatro.cm-feira.pt/",
+    "source": "Cineteatro António Lamoso",
+    "kind": "Música, teatro, dança e ópera — Aveiro"
+  },
+  "cc47d244192c23771fb15a01": {
+    "id": "cc47d244192c23771fb15a01",
+    "title": "PULSO | Festival de Arte Inclusiva",
+    "link": "https://cineteatro.cm-feira.pt/",
+    "source": "Cineteatro António Lamoso",
+    "kind": "Música, teatro, dança e ópera — Aveiro"
   },
   "f3a142d732d32aceb612b289": {
     "id": "f3a142d732d32aceb612b289",
@@ -2169,17 +2190,10 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
-  "b0f17700e18a6346357e6b78": {
-    "id": "b0f17700e18a6346357e6b78",
-    "title": "World Ballet Day 2026",
-    "link": "https://www.cnb.pt/program/world-ballet-day-2026/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "8801cbeb349f4213457964ad": {
-    "id": "8801cbeb349f4213457964ad",
-    "title": "Only Duos 26 27",
-    "link": "https://www.cnb.pt/program/only-duos-26-27/",
+  "4637cac639c7c56db0f342cf": {
+    "id": "4637cac639c7c56db0f342cf",
+    "title": "Gratuito Conversa pré-espetáculo 19 Dez 2026 17:00 Vamos Falar de Dança",
+    "link": "https://www.cnb.pt/program/vamos-falar-de-danca-2627/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -2194,13 +2208,6 @@
     "id": "14377ba8e7b29f17747e683d",
     "title": "Ensaio Geral Solidário 10 Dez 2026 20:00 A Bela Adormecida",
     "link": "https://www.cnb.pt/program/egs-a-bela-adormecida/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "4637cac639c7c56db0f342cf": {
-    "id": "4637cac639c7c56db0f342cf",
-    "title": "Gratuito Conversa pré-espetáculo 19 Dez 2026 17:00 Vamos Falar de Dança",
-    "link": "https://www.cnb.pt/program/vamos-falar-de-danca-2627/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -2365,31 +2372,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b0589f7dfad355c8bed1e9a0": {
-    "id": "b0589f7dfad355c8bed1e9a0",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-19/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "5e27c12c1de5348e6d1c413e": {
-    "id": "5e27c12c1de5348e6d1c413e",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-19/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "eaec642407fc84dcca15cef5": {
-    "id": "eaec642407fc84dcca15cef5",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-19/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "8ed053a71676a0c8da311280": {
-    "id": "8ed053a71676a0c8da311280",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-19/",
+  "1a3a3f289d57aa91d08f1836": {
+    "id": "1a3a3f289d57aa91d08f1836",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2400,20 +2386,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c4fd0c8267fa499d1c2ab65d": {
-    "id": "c4fd0c8267fa499d1c2ab65d",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-19/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "1a3a3f289d57aa91d08f1836": {
-    "id": "1a3a3f289d57aa91d08f1836",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-19/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "f7ecadfe12021e151b6b44ce": {
     "id": "f7ecadfe12021e151b6b44ce",
     "title": "PARAÍSO, HOJE.",
@@ -2421,10 +2393,45 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "bc1f7c6c3e2e381b5960496c": {
-    "id": "bc1f7c6c3e2e381b5960496c",
+  "9798423a03d9685a46e8564d": {
+    "id": "9798423a03d9685a46e8564d",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "a107e5eee073c3fe9053039b": {
+    "id": "a107e5eee073c3fe9053039b",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "55a7a19105351f604e6ed918": {
+    "id": "55a7a19105351f604e6ed918",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "dbad2ca3c1e772e7db74dd24": {
+    "id": "dbad2ca3c1e772e7db74dd24",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d780567b51c09ef649741f63": {
+    "id": "d780567b51c09ef649741f63",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "9862986c0ce9b85fbcdcead6": {
+    "id": "9862986c0ce9b85fbcdcead6",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-19/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-20/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2645,10 +2652,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ef3a4ff9448cf4d3df903461": {
-    "id": "ef3a4ff9448cf4d3df903461",
-    "title": "Hanging Out De Cindy Sherman A Wolfgang Tillmans",
-    "link": "https://www.ccb.pt/evento/hanging-out-de-cindy-sherman-a-wolfgang-tillmans/",
+  "bfc04c1587585ed5cc542275": {
+    "id": "bfc04c1587585ed5cc542275",
+    "title": "Exposicao Hanging Out De Cindy Sherman A Wolfgang Tillmans",
+    "link": "https://www.ccb.pt/evento/exposicao-hanging-out-de-cindy-sherman-a-wolfgang-tillmans/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
