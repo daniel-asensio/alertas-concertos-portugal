@@ -1,11 +1,4 @@
 {
-  "1bdf4b691e00f61ddf91f8bb": {
-    "id": "1bdf4b691e00f61ddf91f8bb",
-    "title": "Svaneborg Kardyb Vega Trails",
-    "link": "https://casadamusica.com/event/svaneborg-kardyb-vega-trails/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "43362da46ad79c30a3ac9977": {
     "id": "43362da46ad79c30a3ac9977",
     "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
@@ -664,13 +657,6 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "78e0f7c05286d7c77a0a1b7a": {
-    "id": "78e0f7c05286d7c77a0a1b7a",
-    "title": "Bryan Adams",
-    "link": "https://www.superbockarena.pt/evento/bryan-adams-2/",
-    "source": "Super Bock Arena",
-    "kind": "Porto"
-  },
   "e8a78dc4632096bf920d8835": {
     "id": "e8a78dc4632096bf920d8835",
     "title": "David Fonseca",
@@ -962,13 +948,6 @@
     "id": "b3062e94a434a26224bf0cd6",
     "title": "O Conceito Inútil",
     "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
-  "448ec5bfb73b5786e1a12eb8": {
-    "id": "448ec5bfb73b5786e1a12eb8",
-    "title": "Auto da Casa",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7273/auto-da-casa/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
@@ -2386,66 +2365,66 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d44f942b74729031829faea7": {
-    "id": "d44f942b74729031829faea7",
+  "b0589f7dfad355c8bed1e9a0": {
+    "id": "b0589f7dfad355c8bed1e9a0",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "07afb7170023e1a5c134b314": {
-    "id": "07afb7170023e1a5c134b314",
+  "5e27c12c1de5348e6d1c413e": {
+    "id": "5e27c12c1de5348e6d1c413e",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "c8f29cb2dc0bc9823df00525": {
-    "id": "c8f29cb2dc0bc9823df00525",
+  "eaec642407fc84dcca15cef5": {
+    "id": "eaec642407fc84dcca15cef5",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "84ba093228d0abf634df4c76": {
-    "id": "84ba093228d0abf634df4c76",
+  "8ed053a71676a0c8da311280": {
+    "id": "8ed053a71676a0c8da311280",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ef8c1d0d1ef5d6a747dfef93": {
-    "id": "ef8c1d0d1ef5d6a747dfef93",
+  "de117c07f8b6c0cf555fcd06": {
+    "id": "de117c07f8b6c0cf555fcd06",
     "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "056be9ddc3c6bb5efa0f1bc7": {
-    "id": "056be9ddc3c6bb5efa0f1bc7",
+  "c4fd0c8267fa499d1c2ab65d": {
+    "id": "c4fd0c8267fa499d1c2ab65d",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "65737593b8a0fd8c7df18d9d": {
-    "id": "65737593b8a0fd8c7df18d9d",
+  "1a3a3f289d57aa91d08f1836": {
+    "id": "1a3a3f289d57aa91d08f1836",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "5e04116bf0442496c3e287cd": {
-    "id": "5e04116bf0442496c3e287cd",
+  "f7ecadfe12021e151b6b44ce": {
+    "id": "f7ecadfe12021e151b6b44ce",
     "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "a73408a0a81ffae4a2a371fa": {
-    "id": "a73408a0a81ffae4a2a371fa",
+  "bc1f7c6c3e2e381b5960496c": {
+    "id": "bc1f7c6c3e2e381b5960496c",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-18/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-19/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2679,27 +2658,6 @@
     "link": "https://www.ccb.pt/evento/exposicao-passagens-filipa-correia-de-sousa/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "48907416fe3d9a0f0957c6d4": {
-    "id": "48907416fe3d9a0f0957c6d4",
-    "title": "Svaneborg Kardyb ᛫ Vega Trails",
-    "link": "https://agendadopedro.pt/concertos/svaneborg-kardyb-porto-13217/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "a0826913c31d36881a7823af": {
-    "id": "a0826913c31d36881a7823af",
-    "title": "Brujeria ᛫ ChaosAddiction ᛫ Mean",
-    "link": "https://agendadopedro.pt/concertos/brujeria-porto-13619/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "dfa6ca56bfa021234b486daf": {
-    "id": "dfa6ca56bfa021234b486daf",
-    "title": "Bryan Adams",
-    "link": "https://agendadopedro.pt/concertos/bryan-adams-porto-12049/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "2a7331f15b87a93ec05d3723": {
     "id": "2a7331f15b87a93ec05d3723",
