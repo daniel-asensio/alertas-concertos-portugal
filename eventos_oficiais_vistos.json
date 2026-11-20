@@ -335,10 +335,59 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "a2c2e6ac8645c2a68c3a9cd9": {
+    "id": "a2c2e6ac8645c2a68c3a9cd9",
+    "title": "Concerto Ano Novo 20270102",
+    "link": "https://casadamusica.com/event/concerto-ano-novo-20270102/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "a4aa63012edf93455dbb5020": {
+    "id": "a4aa63012edf93455dbb5020",
+    "title": "Concerto Ano Novo 20270103",
+    "link": "https://casadamusica.com/event/concerto-ano-novo-20270103/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "5135092a5c19fe1d6b0e52e8": {
+    "id": "5135092a5c19fe1d6b0e52e8",
+    "title": "A 5 A De Beethoven E As Paisagens De Glass 20270108",
+    "link": "https://casadamusica.com/event/a-5-a-de-beethoven-e-as-paisagens-de-glass-20270108/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "e1e6e0775fd4aee6edbee571": {
+    "id": "e1e6e0775fd4aee6edbee571",
+    "title": "A 5 A De Beethoven E As Paisagens De Glass 20270109",
+    "link": "https://casadamusica.com/event/a-5-a-de-beethoven-e-as-paisagens-de-glass-20270109/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "d2547974480f10a731e2b3ef": {
     "id": "d2547974480f10a731e2b3ef",
     "title": "Som De La E De Ca 2",
     "link": "https://casadamusica.com/event/som-de-la-e-de-ca-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "15663b0b846e68598986e190": {
+    "id": "15663b0b846e68598986e190",
+    "title": "Vanessa Wagner",
+    "link": "https://casadamusica.com/event/vanessa-wagner/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "512b78643cef5abfb5b1d918": {
+    "id": "512b78643cef5abfb5b1d918",
+    "title": "Esplendor De Viena",
+    "link": "https://casadamusica.com/event/esplendor-de-viena/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "b0fb0263a0d4f89cf1336990": {
+    "id": "b0fb0263a0d4f89cf1336990",
+    "title": "A Vida De Beethoven",
+    "link": "https://casadamusica.com/event/a-vida-de-beethoven/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -349,10 +398,24 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "d578ff0a46626e4354588c04": {
+    "id": "d578ff0a46626e4354588c04",
+    "title": "Mozart E Strauss Historias Contadas Pela Orquestra",
+    "link": "https://casadamusica.com/event/mozart-e-strauss-historias-contadas-pela-orquestra/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "bc123ad946efcbda71d7ebd5": {
     "id": "bc123ad946efcbda71d7ebd5",
     "title": "Diego El Cigala 2",
     "link": "https://casadamusica.com/event/diego-el-cigala-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "076c0c5d4123e5d37be96a72": {
+    "id": "076c0c5d4123e5d37be96a72",
+    "title": "Um Americano Em Paris",
+    "link": "https://casadamusica.com/event/um-americano-em-paris/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -370,6 +433,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "dbbb07a0b128ddc4e2f22561": {
+    "id": "dbbb07a0b128ddc4e2f22561",
+    "title": "Despedida De Beethoven 20270123",
+    "link": "https://casadamusica.com/event/despedida-de-beethoven-20270123/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "6e744937bf3092bb1b3202f3": {
     "id": "6e744937bf3092bb1b3202f3",
     "title": "Sean Riley The Slowriders",
@@ -384,6 +454,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "aaaaccb4c72818f5af836704": {
+    "id": "aaaaccb4c72818f5af836704",
+    "title": "Despedida De Beethoven 20260124",
+    "link": "https://casadamusica.com/event/despedida-de-beethoven-20260124/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "f67ac839826cb16e4c0896d1": {
     "id": "f67ac839826cb16e4c0896d1",
     "title": "Joep Beving 3",
@@ -395,6 +472,13 @@
     "id": "0d6bdd53c94133a5c6d829c9",
     "title": "Ana Lua Caiano",
     "link": "https://casadamusica.com/event/ana-lua-caiano/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "6137dad5878549863e0b475f": {
+    "id": "6137dad5878549863e0b475f",
+    "title": "As Quatro Estacoes De Vivaldi",
+    "link": "https://casadamusica.com/event/as-quatro-estacoes-de-vivaldi/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -419,6 +503,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "41a5abe6862c8e2a9be8a669": {
+    "id": "41a5abe6862c8e2a9be8a669",
+    "title": "Missa De Beethoven",
+    "link": "https://casadamusica.com/event/missa-de-beethoven/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "275d5518de25e55319fa84dc": {
     "id": "275d5518de25e55319fa84dc",
     "title": "Carnaval Na Casa",
@@ -430,6 +521,20 @@
     "id": "c5bdf4eb31bf8cfda372540a",
     "title": "Kadebostany",
     "link": "https://casadamusica.com/event/kadebostany/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "65aed1d093492f4157a25cdf": {
+    "id": "65aed1d093492f4157a25cdf",
+    "title": "Concerto De Carnaval 4",
+    "link": "https://casadamusica.com/event/concerto-de-carnaval-4/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "6a545f407a8366e73b37eb4e": {
+    "id": "6a545f407a8366e73b37eb4e",
+    "title": "Sonho E Paixao",
+    "link": "https://casadamusica.com/event/sonho-e-paixao/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -454,10 +559,24 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "22bd0defdd902ff527e8b3b1": {
+    "id": "22bd0defdd902ff527e8b3b1",
+    "title": "Ravel Comentado",
+    "link": "https://casadamusica.com/event/ravel-comentado/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "a8eab233dd3fd72495a5d878": {
     "id": "a8eab233dd3fd72495a5d878",
     "title": "Nouvelle Vague 3",
     "link": "https://casadamusica.com/event/nouvelle-vague-3/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "933e9b95416459f02f536821": {
+    "id": "933e9b95416459f02f536821",
+    "title": "Raul Da Costa 2",
+    "link": "https://casadamusica.com/event/raul-da-costa-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -468,10 +587,38 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "ed00e12f976f2939b2dd9a01": {
+    "id": "ed00e12f976f2939b2dd9a01",
+    "title": "Amadeus 20270219",
+    "link": "https://casadamusica.com/event/amadeus-20270219/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "1e582ac1f01fee1ffa96df3b": {
+    "id": "1e582ac1f01fee1ffa96df3b",
+    "title": "Amadeus",
+    "link": "https://casadamusica.com/event/amadeus/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "19318cc1728120dbbb39859f": {
     "id": "19318cc1728120dbbb39859f",
     "title": "Siloe",
     "link": "https://casadamusica.com/event/siloe/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "efd0b316f16ec8ea20a2e093": {
+    "id": "efd0b316f16ec8ea20a2e093",
+    "title": "Mozart E Os Virtuosos Da Europa",
+    "link": "https://casadamusica.com/event/mozart-e-os-virtuosos-da-europa/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "877c3ebb35d5c71360444e61": {
+    "id": "877c3ebb35d5c71360444e61",
+    "title": "Fidelio 2",
+    "link": "https://casadamusica.com/event/fidelio-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -482,6 +629,20 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "ffbd1a91c496156306987f9f": {
+    "id": "ffbd1a91c496156306987f9f",
+    "title": "O Novo Mundo De Dvorak",
+    "link": "https://casadamusica.com/event/o-novo-mundo-de-dvorak/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "f1603bf15c6868c975d06b4f": {
+    "id": "f1603bf15c6868c975d06b4f",
+    "title": "A Sala Decide",
+    "link": "https://casadamusica.com/event/a-sala-decide/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "4dc9f24157137072f893d399": {
     "id": "4dc9f24157137072f893d399",
     "title": "Grupo Compay Segundo",
@@ -489,10 +650,24 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "b3d4780b01e2856cb69c6555": {
-    "id": "b3d4780b01e2856cb69c6555",
-    "title": "Salvador Sobral 5",
-    "link": "https://casadamusica.com/event/salvador-sobral-5/",
+  "23f7d3bfb29353e5b1d32e0c": {
+    "id": "23f7d3bfb29353e5b1d32e0c",
+    "title": "A 7 A De Beethoven",
+    "link": "https://casadamusica.com/event/a-7-a-de-beethoven/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "7e96be7639efd96b8bc74c9a": {
+    "id": "7e96be7639efd96b8bc74c9a",
+    "title": "Salvador Sobral 20270306 2",
+    "link": "https://casadamusica.com/event/salvador-sobral-20270306-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "219481d1bdf9baaac1a2b686": {
+    "id": "219481d1bdf9baaac1a2b686",
+    "title": "Beethoven Quando A Sinfonia Danca",
+    "link": "https://casadamusica.com/event/beethoven-quando-a-sinfonia-danca/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -503,10 +678,31 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "23183806a150e4712a696507": {
+    "id": "23183806a150e4712a696507",
+    "title": "Beethoven Em Fuga",
+    "link": "https://casadamusica.com/event/beethoven-em-fuga/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "39fe321b2e03d674d2c5d6b0": {
     "id": "39fe321b2e03d674d2c5d6b0",
     "title": "Bebethoven 4",
     "link": "https://casadamusica.com/event/bebethoven-4/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "a370e283b3f8c8139a72921e": {
+    "id": "a370e283b3f8c8139a72921e",
+    "title": "Da Paixao A Aurora",
+    "link": "https://casadamusica.com/event/da-paixao-a-aurora/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "865a526b419d6bff86d3e2d0": {
+    "id": "865a526b419d6bff86d3e2d0",
+    "title": "As 33 Vidas De Beethoven",
+    "link": "https://casadamusica.com/event/as-33-vidas-de-beethoven/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -517,10 +713,38 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "0bc64099c6a6b44a16eb543f": {
+    "id": "0bc64099c6a6b44a16eb543f",
+    "title": "Grigory Sokolov 5",
+    "link": "https://casadamusica.com/event/grigory-sokolov-5/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "167f1f39d712c087bab752a8": {
+    "id": "167f1f39d712c087bab752a8",
+    "title": "Da Revolta A Revolucao",
+    "link": "https://casadamusica.com/event/da-revolta-a-revolucao/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "320346d23d47443495b173e3": {
+    "id": "320346d23d47443495b173e3",
+    "title": "A Via Sacra De Liszt",
+    "link": "https://casadamusica.com/event/a-via-sacra-de-liszt/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "484f4c1db0348f8620bc6a7f": {
     "id": "484f4c1db0348f8620bc6a7f",
     "title": "Minimal",
     "link": "https://casadamusica.com/event/minimal/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "38eee9afe03fefc54f975a8e": {
+    "id": "38eee9afe03fefc54f975a8e",
+    "title": "E A Terra Estremeceu",
+    "link": "https://casadamusica.com/event/e-a-terra-estremeceu/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -535,6 +759,13 @@
     "id": "e148286e2d3c501ee2a39124",
     "title": "Meltwater 2",
     "link": "https://casadamusica.com/event/meltwater-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "e17f469b3fefd56a3758e33f": {
+    "id": "e17f469b3fefd56a3758e33f",
+    "title": "Beethoven E As Cancoes De Portugal",
+    "link": "https://casadamusica.com/event/beethoven-e-as-cancoes-de-portugal/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -566,10 +797,38 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "7901645a58bac8b0e1aa5271": {
+    "id": "7901645a58bac8b0e1aa5271",
+    "title": "Romeu E Julieta",
+    "link": "https://casadamusica.com/event/romeu-e-julieta/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "a2d41c2a4bb63b7736a8e079": {
+    "id": "a2d41c2a4bb63b7736a8e079",
+    "title": "Quem Da Alma A Musica",
+    "link": "https://casadamusica.com/event/quem-da-alma-a-musica/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "8c9723d4ec47c6d1c6910ef3": {
     "id": "8c9723d4ec47c6d1c6910ef3",
     "title": "Disomnario 5",
     "link": "https://casadamusica.com/event/disomnario-5/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "429b00db584cf2219f208506": {
+    "id": "429b00db584cf2219f208506",
+    "title": "Romeu E Julieta A Musica Conta A Historia",
+    "link": "https://casadamusica.com/event/romeu-e-julieta-a-musica-conta-a-historia/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "7f0376bf4608b2051dddf7e0": {
+    "id": "7f0376bf4608b2051dddf7e0",
+    "title": "A Forca Da Liberdade",
+    "link": "https://casadamusica.com/event/a-forca-da-liberdade/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -587,6 +846,20 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "8ccb589defa0ab69cc7c3f1e": {
+    "id": "8ccb589defa0ab69cc7c3f1e",
+    "title": "Bruce Liu 2",
+    "link": "https://casadamusica.com/event/bruce-liu-2/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "c50bc493e8bf0147abec32eb": {
+    "id": "c50bc493e8bf0147abec32eb",
+    "title": "Stradivarius E A Luz De Italia",
+    "link": "https://casadamusica.com/event/stradivarius-e-a-luz-de-italia/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "0452d71ac0ce42fcc1b0573d": {
     "id": "0452d71ac0ce42fcc1b0573d",
     "title": "Ha Fisica No Som 5",
@@ -601,6 +874,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "a32f10a1e1f83449eafe1e86": {
+    "id": "a32f10a1e1f83449eafe1e86",
+    "title": "Beethoven E Strauss Imperador E Heroi",
+    "link": "https://casadamusica.com/event/beethoven-e-strauss-imperador-e-heroi/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "0f94a05a21e35499b54d3176": {
     "id": "0f94a05a21e35499b54d3176",
     "title": "Babar E Outras Historias 2",
@@ -608,38 +888,17 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "b7de42ec3e00f0859ffbfadb": {
-    "id": "b7de42ec3e00f0859ffbfadb",
-    "title": "Escola A Cantar 10 Anos",
-    "link": "https://casadamusica.com/event/escola-a-cantar-10-anos/",
+  "64a62697dfe3b2621029f787": {
+    "id": "64a62697dfe3b2621029f787",
+    "title": "Jupiter",
+    "link": "https://casadamusica.com/event/jupiter/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
-  "b880a2359cdea6c2cb2155d1": {
-    "id": "b880a2359cdea6c2cb2155d1",
-    "title": "Chouchou 4",
-    "link": "https://casadamusica.com/event/chouchou-4/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "4149c86d859443bf1bad3692": {
-    "id": "4149c86d859443bf1bad3692",
-    "title": "Ute Lemper 3",
-    "link": "https://casadamusica.com/event/ute-lemper-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "c610bf5ced5f73e680b0c22a": {
-    "id": "c610bf5ced5f73e680b0c22a",
-    "title": "Sonopolis 3",
-    "link": "https://casadamusica.com/event/sonopolis-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "38fd22a0b7f8836d7b026290": {
-    "id": "38fd22a0b7f8836d7b026290",
-    "title": "Cassete Pirata",
-    "link": "https://casadamusica.com/event/cassete-pirata/",
+  "709abe363e966b68e164f676": {
+    "id": "709abe363e966b68e164f676",
+    "title": "Jupiter Comentado",
+    "link": "https://casadamusica.com/event/jupiter-comentado/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -971,13 +1230,6 @@
     "link": "https://www.tnsj.pt/pt/espetaculos/7305/maiuscula/",
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
-  },
-  "fe9c21b723f5b440250626f1": {
-    "id": "fe9c21b723f5b440250626f1",
-    "title": "Erva Daninha Mostra Estufa",
-    "link": "https://www.teatromunicipaldoporto.pt/pt/programa/carolina-bianchi-y-cara-de-cavalo-the-brotherhood-trilogia-cadela-for-a-cap-tulo-ii/",
-    "source": "Teatro Municipal do Porto",
-    "kind": "Teatro e dança — Porto"
   },
   "f8a7696e12db19cd9b492af7": {
     "id": "f8a7696e12db19cd9b492af7",
@@ -2134,6 +2386,13 @@
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
+  "14377ba8e7b29f17747e683d": {
+    "id": "14377ba8e7b29f17747e683d",
+    "title": "Ensaio Geral Solidário 10 Dez 2026 20:00 A Bela Adormecida",
+    "link": "https://www.cnb.pt/program/egs-a-bela-adormecida/",
+    "source": "Companhia Nacional de Bailado",
+    "kind": "Ballet e dança — grandes espetáculos"
+  },
   "0f1cec674e3a94aaffd9db8c": {
     "id": "0f1cec674e3a94aaffd9db8c",
     "title": "Atelier 06 Dez 2026 15:00 Quem me acordar, cem anos irá dançar!",
@@ -2152,13 +2411,6 @@
     "id": "ab25e07a54bf7be5d456a83b",
     "title": "Carmina Burana 2026",
     "link": "https://www.cnb.pt/program/carmina-burana-2026/",
-    "source": "Companhia Nacional de Bailado",
-    "kind": "Ballet e dança — grandes espetáculos"
-  },
-  "14377ba8e7b29f17747e683d": {
-    "id": "14377ba8e7b29f17747e683d",
-    "title": "Ensaio Geral Solidário 10 Dez 2026 20:00 A Bela Adormecida",
-    "link": "https://www.cnb.pt/program/egs-a-bela-adormecida/",
     "source": "Companhia Nacional de Bailado",
     "kind": "Ballet e dança — grandes espetáculos"
   },
@@ -3100,6 +3352,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "663f4086653f71741cb6e87d": {
+    "id": "663f4086653f71741cb6e87d",
+    "title": "Akapellah",
+    "link": "https://agendadopedro.pt/concertos/akapellah-porto-17462/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "886d2a2da2c8b146afbd60a5": {
     "id": "886d2a2da2c8b146afbd60a5",
     "title": "Pz Porto 16996",
@@ -3947,10 +4206,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "e61dd1692581b80b2484bc5a": {
-    "id": "e61dd1692581b80b2484bc5a",
-    "title": "Bárbara Tinoco",
-    "link": "https://agendadopedro.pt/concertos/barbara-tinoco-lisboa-17328/",
+  "89bae89679afdbf685a61706": {
+    "id": "89bae89679afdbf685a61706",
+    "title": "Da Weasel",
+    "link": "https://agendadopedro.pt/concertos/da-weasel-cascais-17470/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3975,10 +4234,17 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "e457b0a6e49322040e6615e3": {
-    "id": "e457b0a6e49322040e6615e3",
-    "title": "Orochi ᛫ MC Cabelinho ᛫ MC Jacaré ᛫ ...",
-    "link": "https://agendadopedro.pt/concertos/orochi-lisboa-17329/",
+  "75231b7717626002fea47a63": {
+    "id": "75231b7717626002fea47a63",
+    "title": "Pablo Albóran",
+    "link": "https://agendadopedro.pt/concertos/pablo-alboran-lisboa-17486/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "f6c85c768cacd8ca45906c7c": {
+    "id": "f6c85c768cacd8ca45906c7c",
+    "title": "Paula Morelenbaum & Orquestra de Jazz de Espinho \"Tom Jobim\"",
+    "link": "https://agendadopedro.pt/concertos/paula-morelenbaum-lisboa-17461/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
