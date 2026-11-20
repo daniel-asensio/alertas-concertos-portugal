@@ -2323,27 +2323,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "1a3a3f289d57aa91d08f1836": {
-    "id": "1a3a3f289d57aa91d08f1836",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-19/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "de117c07f8b6c0cf555fcd06": {
-    "id": "de117c07f8b6c0cf555fcd06",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-19/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "f7ecadfe12021e151b6b44ce": {
-    "id": "f7ecadfe12021e151b6b44ce",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-19/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "9798423a03d9685a46e8564d": {
     "id": "9798423a03d9685a46e8564d",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -2365,6 +2344,20 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "d780567b51c09ef649741f63": {
+    "id": "d780567b51c09ef649741f63",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "3fb7767b2a039684cf4e646b": {
+    "id": "3fb7767b2a039684cf4e646b",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "dbad2ca3c1e772e7db74dd24": {
     "id": "dbad2ca3c1e772e7db74dd24",
     "title": "Primeiro Ciclo",
@@ -2372,10 +2365,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d780567b51c09ef649741f63": {
-    "id": "d780567b51c09ef649741f63",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-20/",
+  "9aa7b38e1efa939bb8561dea": {
+    "id": "9aa7b38e1efa939bb8561dea",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-20/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b288cd762fc8c1c311a5e4b9": {
+    "id": "b288cd762fc8c1c311a5e4b9",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-20/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
