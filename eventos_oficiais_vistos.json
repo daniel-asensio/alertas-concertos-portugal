@@ -1,18 +1,4 @@
 {
-  "43362da46ad79c30a3ac9977": {
-    "id": "43362da46ad79c30a3ac9977",
-    "title": "Bruno Pernadas Interpreta Steamboat Bill Jr De Buster Keaton",
-    "link": "https://casadamusica.com/event/bruno-pernadas-interpreta-steamboat-bill-jr-de-buster-keaton/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "9d32550e36dbb13d4f3d719a": {
-    "id": "9d32550e36dbb13d4f3d719a",
-    "title": "Claiana",
-    "link": "https://casadamusica.com/event/claiana/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "88000f84d1b7db55408dd9e6": {
     "id": "88000f84d1b7db55408dd9e6",
     "title": "Apresentacao Da Temporada 2027",
@@ -1077,13 +1063,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "2e49cebc10bb5bfce5919dc0": {
-    "id": "2e49cebc10bb5bfce5919dc0",
-    "title": "Songs of Ascension Beatriz Moreira, Iris Auguste e Giulia Miceli / Palcos Instáveis - Segunda Casa",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/songs-of-ascencion/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "1d23bea799fc2626c25a078c": {
     "id": "1d23bea799fc2626c25a078c",
     "title": "O Problema da Habitação [ESTREIA] Direção de Jorge Louraço Figueira",
@@ -1231,34 +1210,6 @@
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
   },
-  "1b61ea7e2781d41f07d3481b": {
-    "id": "1b61ea7e2781d41f07d3481b",
-    "title": "Numa noite o ano inteiro | Federação das Colectividades de Cultura e Recreio do Concelho de Santa Maria da Feira",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "1f0bff9564a2d388f86b17f3": {
-    "id": "1f0bff9564a2d388f86b17f3",
-    "title": "Libra | Everyone´s First Breath | OuTonalidades - Circuito Português de Música ao Vivo",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "6d33ed973dbc46b9d040bfea": {
-    "id": "6d33ed973dbc46b9d040bfea",
-    "title": "Linda Martini | Passa Montanhas",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
-  "cc47d244192c23771fb15a01": {
-    "id": "cc47d244192c23771fb15a01",
-    "title": "PULSO | Festival de Arte Inclusiva",
-    "link": "https://cineteatro.cm-feira.pt/",
-    "source": "Cineteatro António Lamoso",
-    "kind": "Música, teatro, dança e ópera — Aveiro"
-  },
   "f3a142d732d32aceb612b289": {
     "id": "f3a142d732d32aceb612b289",
     "title": "Programação atualizada — Casa da Criatividade (Infantil)",
@@ -1284,13 +1235,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "94699eba95ee2ee443066096": {
-    "id": "94699eba95ee2ee443066096",
-    "title": "CAMANÉ – FESTIVAL FADO LIMA",
-    "link": "https://everythingisnew.pt/camane-festival-fado-lima/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -1613,6 +1557,13 @@
     "id": "173f30c97a614a52d248bf6e",
     "title": "Arquivo - PEV Entertainment",
     "link": "https://peventertainment.pt/arquivo/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "d696dd7159ee31c662c71954": {
+    "id": "d696dd7159ee31c662c71954",
+    "title": "Dino Dsantiago",
+    "link": "https://peventertainment.pt/dino-dsantiago/",
     "source": "PEV Entertainment",
     "kind": "Promotora Porto"
   },
@@ -2665,34 +2616,6 @@
     "link": "https://www.ccb.pt/evento/exposicao-passagens-filipa-correia-de-sousa/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "2a7331f15b87a93ec05d3723": {
-    "id": "2a7331f15b87a93ec05d3723",
-    "title": "Bruno Pernadas \"Steamboat Bill, Jr.\"",
-    "link": "https://agendadopedro.pt/concertos/bruno-pernadas-porto-16865/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "5cc3fff85b1d7ae54b66f2d2": {
-    "id": "5cc3fff85b1d7ae54b66f2d2",
-    "title": "Imarhan",
-    "link": "https://agendadopedro.pt/concertos/imarhan-porto-13657/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "9dc8f64ee25fdf3dcf40e90e": {
-    "id": "9dc8f64ee25fdf3dcf40e90e",
-    "title": "Rubel",
-    "link": "https://agendadopedro.pt/concertos/rubel-porto-11155/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "661d4491b3e267604ff0e26b": {
-    "id": "661d4491b3e267604ff0e26b",
-    "title": "Mansion's Cellar",
-    "link": "https://agendadopedro.pt/concertos/mansion-s-cellar-porto-17090/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "d13fc0875f8db9ee56e62978": {
     "id": "d13fc0875f8db9ee56e62978",
@@ -3912,13 +3835,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "c27456eed1203b691cd7b1ce": {
-    "id": "c27456eed1203b691cd7b1ce",
-    "title": "Lambchop",
-    "link": "https://agendadopedro.pt/concertos/lambchop-lisboa-13553/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "08c9005dd2977fae2ab81c9c": {
     "id": "08c9005dd2977fae2ab81c9c",
     "title": "Némanus",
@@ -4065,13 +3981,6 @@
     "link": "https://agendadopedro.pt/concertos/orochi-lisboa-17329/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
-  },
-  "2d396a551b2ca38661ff1a4e": {
-    "id": "2d396a551b2ca38661ff1a4e",
-    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-11-19-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
-    "source": "BLITZ Agenda",
-    "kind": "Agenda nacional"
   },
   "0e47e16a8ee03a46167ab86d": {
     "title": "O Quebra-Nozes — Imperial Heritage Ballet",
