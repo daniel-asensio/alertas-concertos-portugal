@@ -1,25 +1,4 @@
 {
-  "88000f84d1b7db55408dd9e6": {
-    "id": "88000f84d1b7db55408dd9e6",
-    "title": "Apresentacao Da Temporada 2027",
-    "link": "https://casadamusica.com/event/apresentacao-da-temporada-2027/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "3b5108ea295f3eb7f669dd8f": {
-    "id": "3b5108ea295f3eb7f669dd8f",
-    "title": "Alan Stivell",
-    "link": "https://casadamusica.com/event/alan-stivell/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "74425a3317d018d4d8803b90": {
-    "id": "74425a3317d018d4d8803b90",
-    "title": "Niklas Paschburg",
-    "link": "https://casadamusica.com/event/niklas-paschburg/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "e02c401082d315fc3efe4fd8": {
     "id": "e02c401082d315fc3efe4fd8",
     "title": "Sinfonia Orgao",
@@ -741,6 +720,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "be9a5b423dd35ce1a1eecece": {
+    "id": "be9a5b423dd35ce1a1eecece",
+    "title": "A 6 A De Beethoven",
+    "link": "https://casadamusica.com/event/a-6-a-de-beethoven/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "38eee9afe03fefc54f975a8e": {
     "id": "38eee9afe03fefc54f975a8e",
     "title": "E A Terra Estremeceu",
@@ -899,6 +885,20 @@
     "id": "709abe363e966b68e164f676",
     "title": "Jupiter Comentado",
     "link": "https://casadamusica.com/event/jupiter-comentado/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "b7de42ec3e00f0859ffbfadb": {
+    "id": "b7de42ec3e00f0859ffbfadb",
+    "title": "Escola A Cantar 10 Anos",
+    "link": "https://casadamusica.com/event/escola-a-cantar-10-anos/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "46530d46da987d340ad13e9b": {
+    "id": "46530d46da987d340ad13e9b",
+    "title": "A Guitarra Na Noite",
+    "link": "https://casadamusica.com/event/a-guitarra-na-noite/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2575,66 +2575,31 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "9798423a03d9685a46e8564d": {
-    "id": "9798423a03d9685a46e8564d",
+  "6253a9b9b1486aef7ba6eaa9": {
+    "id": "6253a9b9b1486aef7ba6eaa9",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-20/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "a107e5eee073c3fe9053039b": {
-    "id": "a107e5eee073c3fe9053039b",
+  "5a3d125220761eb5f6383cec": {
+    "id": "5a3d125220761eb5f6383cec",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-20/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "55a7a19105351f604e6ed918": {
-    "id": "55a7a19105351f604e6ed918",
+  "dcf2a4db16f0305b6e7fc610": {
+    "id": "dcf2a4db16f0305b6e7fc610",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-20/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d780567b51c09ef649741f63": {
-    "id": "d780567b51c09ef649741f63",
+  "70340041265b088953e75183": {
+    "id": "70340041265b088953e75183",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-20/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "3fb7767b2a039684cf4e646b": {
-    "id": "3fb7767b2a039684cf4e646b",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-20/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "dbad2ca3c1e772e7db74dd24": {
-    "id": "dbad2ca3c1e772e7db74dd24",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-20/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "9aa7b38e1efa939bb8561dea": {
-    "id": "9aa7b38e1efa939bb8561dea",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-20/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b288cd762fc8c1c311a5e4b9": {
-    "id": "b288cd762fc8c1c311a5e4b9",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-20/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "9862986c0ce9b85fbcdcead6": {
-    "id": "9862986c0ce9b85fbcdcead6",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-20/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2645,10 +2610,45 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
+  "1bf920687bd2a76035c81bbc": {
+    "id": "1bf920687bd2a76035c81bbc",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "c37200387fa9742ddda07eeb": {
+    "id": "c37200387fa9742ddda07eeb",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "92189d7566da2f83c4a669e7": {
+    "id": "92189d7566da2f83c4a669e7",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "1c458529fcbc821f65cf90c2": {
+    "id": "1c458529fcbc821f65cf90c2",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
   "d1619f9707136ef0431ade66": {
     "id": "d1619f9707136ef0431ade66",
     "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
     "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "3cd449308a41127dc58da3b1": {
+    "id": "3cd449308a41127dc58da3b1",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2868,41 +2868,6 @@
     "link": "https://www.ccb.pt/evento/exposicao-passagens-filipa-correia-de-sousa/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "d13fc0875f8db9ee56e62978": {
-    "id": "d13fc0875f8db9ee56e62978",
-    "title": "Alan Stivell",
-    "link": "https://agendadopedro.pt/concertos/alan-stivell-porto-12548/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "1ad3b19e0a85e67bc2bcb175": {
-    "id": "1ad3b19e0a85e67bc2bcb175",
-    "title": "Niklas Paschburg",
-    "link": "https://agendadopedro.pt/concertos/niklas-paschburg-porto-12401/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "bfd4b060f11ed5fa5027da38": {
-    "id": "bfd4b060f11ed5fa5027da38",
-    "title": "Lime Garden",
-    "link": "https://agendadopedro.pt/concertos/lime-garden-porto-15823/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "f60edb3ead11e4853d19bcbc": {
-    "id": "f60edb3ead11e4853d19bcbc",
-    "title": "Carla Prata",
-    "link": "https://agendadopedro.pt/concertos/carla-prata-porto-15801/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "3e501a987aa917a6f1cac25a": {
-    "id": "3e501a987aa917a6f1cac25a",
-    "title": "Chek1 ᛫ Redoma",
-    "link": "https://agendadopedro.pt/concertos/chek1-porto-16985/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "6a3f76a5a548944027b56434": {
     "id": "6a3f76a5a548944027b56434",
@@ -4066,13 +4031,6 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "4dff8008f6876c26d572d428": {
-    "id": "4dff8008f6876c26d572d428",
-    "title": "Bryan Adams",
-    "link": "https://agendadopedro.pt/concertos/bryan-adams-lisboa-11948/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "a53a43161e93cd86cf296471": {
     "id": "a53a43161e93cd86cf296471",
     "title": "Cloud Nothings ᛫ Veenho",
@@ -4112,20 +4070,6 @@
     "id": "0c18b737107dfdeeaa86b0cc",
     "title": "Primitive Reason ᛫ The Skints ᛫ Meryl Streek ᛫ ...",
     "link": "https://agendadopedro.pt/concertos/primitive-reason-lisboa-16481/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "bc5b85d204712a33d17df7cd": {
-    "id": "bc5b85d204712a33d17df7cd",
-    "title": "Rádio Macau",
-    "link": "https://agendadopedro.pt/concertos/radio-macau-sintra-14836/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "c232520a5d046b63c68ebb83": {
-    "id": "c232520a5d046b63c68ebb83",
-    "title": "This Is Michael",
-    "link": "https://agendadopedro.pt/concertos/this-is-michael-lisboa-11123/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
