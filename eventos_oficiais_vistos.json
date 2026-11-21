@@ -1196,13 +1196,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "bfd294a9db80ce6148e37140": {
-    "id": "bfd294a9db80ce6148e37140",
-    "title": "Residência",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7269/residencia/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "9acfe4a8ecffac817bb87bee": {
     "id": "9acfe4a8ecffac817bb87bee",
     "title": "Maguy Marin: Repertório(s)",
@@ -3163,6 +3156,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "467ece576064abe00776ac34": {
+    "id": "467ece576064abe00776ac34",
+    "title": "Napa",
+    "link": "https://agendadopedro.pt/concertos/napa-porto-17491/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "2f4c69379df59c837bd1ed4d": {
     "id": "2f4c69379df59c837bd1ed4d",
     "title": "Smorra",
@@ -3181,6 +3181,13 @@
     "id": "6ed73d0919ec4b5cbb51b987",
     "title": "Bruno de Seda",
     "link": "https://agendadopedro.pt/concertos/bruno-de-seda-porto-17304/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "f87a2301d1f600b8e307009c": {
+    "id": "f87a2301d1f600b8e307009c",
+    "title": "Luís Trigacheiro",
+    "link": "https://agendadopedro.pt/concertos/luis-trigacheiro-porto-17492/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3216,6 +3223,13 @@
     "id": "44101b03f7358f96b950d30a",
     "title": "Apollo Brown & Skyzoo",
     "link": "https://agendadopedro.pt/concertos/apollo-brown-skyzoo-porto-16933/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "8d0ec886c3eeecf72c13e8b6": {
+    "id": "8d0ec886c3eeecf72c13e8b6",
+    "title": "Anabela",
+    "link": "https://agendadopedro.pt/concertos/anabela-porto-17493/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3282,6 +3296,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "c2be2686a7e098cd81e3b5f1": {
+    "id": "c2be2686a7e098cd81e3b5f1",
+    "title": "Samuel Úria",
+    "link": "https://agendadopedro.pt/concertos/samuel-uria-porto-17494/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "8cd25fb460c9937e80554918": {
     "id": "8cd25fb460c9937e80554918",
     "title": "Worakls",
@@ -3300,6 +3321,13 @@
     "id": "15a7dd032d56f43fac5941c8",
     "title": "Black Heritage Choir",
     "link": "https://agendadopedro.pt/concertos/black-heritage-choir-porto-12980/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "eaec8097b9e6b2141616aefb": {
+    "id": "eaec8097b9e6b2141616aefb",
+    "title": "Sétima Legião",
+    "link": "https://agendadopedro.pt/concertos/setima-legiao-porto-17495/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3363,6 +3391,13 @@
     "id": "e0516cf599a7769bc9e322f5",
     "title": "De Oliveira",
     "link": "https://agendadopedro.pt/concertos/de-oliveira-porto-17155/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "5381183b18c6694348838181": {
+    "id": "5381183b18c6694348838181",
+    "title": "Bárbara Tinoco",
+    "link": "https://agendadopedro.pt/concertos/barbara-tinoco-porto-17490/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4157,38 +4192,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "51548ac137917d62afe26e6d": {
-    "id": "51548ac137917d62afe26e6d",
-    "title": "Delfins",
-    "link": "https://agendadopedro.pt/concertos/delfins-lisboa-17430/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "83e36777273141d250dab4c2": {
-    "id": "83e36777273141d250dab4c2",
-    "title": "James Blunt",
-    "link": "https://agendadopedro.pt/concertos/james-blunt-lisboa-17413/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "ec0fc3389d1b954dc6bce2a5": {
-    "id": "ec0fc3389d1b954dc6bce2a5",
-    "title": "Luís Trigacheiro",
-    "link": "https://agendadopedro.pt/concertos/luis-trigacheiro-lisboa-17360/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "75231b7717626002fea47a63": {
     "id": "75231b7717626002fea47a63",
-    "title": "Pablo Albóran",
+    "title": "Pablo Alborán",
     "link": "https://agendadopedro.pt/concertos/pablo-alboran-lisboa-17486/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "f6c85c768cacd8ca45906c7c": {
-    "id": "f6c85c768cacd8ca45906c7c",
-    "title": "Paula Morelenbaum & Orquestra de Jazz de Espinho \"Tom Jobim\"",
-    "link": "https://agendadopedro.pt/concertos/paula-morelenbaum-lisboa-17461/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
