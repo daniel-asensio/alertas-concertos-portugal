@@ -1196,13 +1196,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "9acfe4a8ecffac817bb87bee": {
-    "id": "9acfe4a8ecffac817bb87bee",
-    "title": "Maguy Marin: Repertório(s)",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7230/maguy-marin-repertorios/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "ff26a20420fb970831771a96": {
     "id": "ff26a20420fb970831771a96",
     "title": "Dez palavras do Inferno",
@@ -1462,8 +1455,8 @@
     "source": "Casa da Criatividade",
     "kind": "São João da Madeira"
   },
-  "33518ad17d23d7b59b0b6b60": {
-    "id": "33518ad17d23d7b59b0b6b60",
+  "e41b6ee97431f69944db23b9": {
+    "id": "e41b6ee97431f69944db23b9",
     "title": "Programação atualizada — Casa da Criatividade (Somos Nos)",
     "link": "https://www.casadacriatividade.com/somos-nos/",
     "source": "Casa da Criatividade",
@@ -2568,38 +2561,17 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "6253a9b9b1486aef7ba6eaa9": {
-    "id": "6253a9b9b1486aef7ba6eaa9",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-21/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "5a3d125220761eb5f6383cec": {
-    "id": "5a3d125220761eb5f6383cec",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-21/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "dcf2a4db16f0305b6e7fc610": {
-    "id": "dcf2a4db16f0305b6e7fc610",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-21/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "70340041265b088953e75183": {
-    "id": "70340041265b088953e75183",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-21/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "8abba3e9a81289bb565e9e59": {
     "id": "8abba3e9a81289bb565e9e59",
     "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
     "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-11-21/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "92189d7566da2f83c4a669e7": {
+    "id": "92189d7566da2f83c4a669e7",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-21/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2617,13 +2589,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "92189d7566da2f83c4a669e7": {
-    "id": "92189d7566da2f83c4a669e7",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-21/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "1c458529fcbc821f65cf90c2": {
     "id": "1c458529fcbc821f65cf90c2",
     "title": "PARAÍSO, HOJE.",
@@ -2631,31 +2596,52 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d1619f9707136ef0431ade66": {
-    "id": "d1619f9707136ef0431ade66",
-    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
-    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-11-21/",
+  "3c3fbf41f5b5dfca78993593": {
+    "id": "3c3fbf41f5b5dfca78993593",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-22/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "3cd449308a41127dc58da3b1": {
-    "id": "3cd449308a41127dc58da3b1",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-21/",
+  "1e2862b67e44195ea32d2e66": {
+    "id": "1e2862b67e44195ea32d2e66",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-22/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "677b6b63874fb4eaa988bb23": {
-    "id": "677b6b63874fb4eaa988bb23",
-    "title": "Visitas Guiadas",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-21/",
+  "49e89cdbb3d8da46cc4ab816": {
+    "id": "49e89cdbb3d8da46cc4ab816",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-22/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "f4319bdd179ae0d362e323f4": {
-    "id": "f4319bdd179ae0d362e323f4",
+  "2efca181b6b5865ab548e757": {
+    "id": "2efca181b6b5865ab548e757",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-22/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "792844ccaabde6e97cad5853": {
+    "id": "792844ccaabde6e97cad5853",
     "title": "Memórias, Silêncios e Disputas no Espaço Público em Duas Cidades da Península Ibérica",
-    "link": "https://www.ccb.pt/evento/memorias-silencios-e-disputas-no-espaco-publico-em-duas-cidades-da-peninsula-iberica/2026-11-21/",
+    "link": "https://www.ccb.pt/evento/memorias-silencios-e-disputas-no-espaco-publico-em-duas-cidades-da-peninsula-iberica/2026-11-22/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ed4ce36a0eae4948efcf867c": {
+    "id": "ed4ce36a0eae4948efcf867c",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-22/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "25d5632dc569672ff6c71e70": {
+    "id": "25d5632dc569672ff6c71e70",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-22/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2670,6 +2656,13 @@
     "id": "d5e0965bec8f22343f563abf",
     "title": "Exposicao May I Help You Posso Ajudar",
     "link": "https://www.ccb.pt/evento/exposicao-may-i-help-you-posso-ajudar/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "e0b18b087556f24fc41395d4": {
+    "id": "e0b18b087556f24fc41395d4",
+    "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
+    "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-11-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -3226,6 +3219,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "213c998d8a9f3127ee07181e": {
+    "id": "213c998d8a9f3127ee07181e",
+    "title": "Torquoise ᛫ Daniel Catarino",
+    "link": "https://agendadopedro.pt/concertos/torquoise-porto-17520/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "8d0ec886c3eeecf72c13e8b6": {
     "id": "8d0ec886c3eeecf72c13e8b6",
     "title": "Anabela",
@@ -3384,6 +3384,13 @@
     "id": "fc6c17140693dbbdc528c9e2",
     "title": "GNR \"In Vivo\"",
     "link": "https://agendadopedro.pt/concertos/gnr-porto-17038/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "acc4776573b2b9b50b9d7809": {
+    "id": "acc4776573b2b9b50b9d7809",
+    "title": "Unsafe Space Garden ᛫ Frederica Campos",
+    "link": "https://agendadopedro.pt/concertos/unsafe-space-garden-porto-17519/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4028,6 +4035,13 @@
     "id": "82a11d8cbaaa90674827c4ee",
     "title": "Steve Hackett",
     "link": "https://agendadopedro.pt/concertos/steve-hackett-porto-16401/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "6772687d75023b63531146bd": {
+    "id": "6772687d75023b63531146bd",
+    "title": "Cristina Branco",
+    "link": "https://agendadopedro.pt/concertos/cristina-branco-porto-17530/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
