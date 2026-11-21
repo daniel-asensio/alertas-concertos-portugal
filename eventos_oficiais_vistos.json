@@ -2204,13 +2204,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "e882321e5eccff011bc64aea": {
-    "id": "e882321e5eccff011bc64aea",
-    "title": "Bate Papo Com Theo",
-    "link": "https://coliseulisboa.com/eventos/bate-papo-com-theo/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "85b6060be8ac5c353a94994e": {
     "id": "85b6060be8ac5c353a94994e",
     "title": "Em Casa Damalia O Concerto Ao Vivo",
@@ -2306,6 +2299,13 @@
     "id": "c40d2d775a78a5a829eaf1c6",
     "title": "Joao So E Tiago Nogueira",
     "link": "https://coliseulisboa.com/eventos/joao-so-e-tiago-nogueira/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "f2e92d85cf1747a521ad4271": {
+    "id": "f2e92d85cf1747a521ad4271",
+    "title": "Os Fabulosos Irmaos Catita The Very Sentimental Show Catita Club",
+    "link": "https://coliseulisboa.com/eventos/os-fabulosos-irmaos-catita-the-very-sentimental-show-catita-club/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
