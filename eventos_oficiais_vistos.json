@@ -1175,13 +1175,6 @@
     "source": "Teatro Nacional São João",
     "kind": "Teatro, dança e ópera — Porto"
   },
-  "b3062e94a434a26224bf0cd6": {
-    "id": "b3062e94a434a26224bf0cd6",
-    "title": "O Conceito Inútil",
-    "link": "https://www.tnsj.pt/pt/espetaculos/7268/o-conceito-inutil/",
-    "source": "Teatro Nacional São João",
-    "kind": "Teatro, dança e ópera — Porto"
-  },
   "ff26a20420fb970831771a96": {
     "id": "ff26a20420fb970831771a96",
     "title": "Dez palavras do Inferno",
@@ -1753,6 +1746,13 @@
     "id": "173f30c97a614a52d248bf6e",
     "title": "Arquivo - PEV Entertainment",
     "link": "https://peventertainment.pt/arquivo/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
+  "48eaeb7ada8e51217ec18028": {
+    "id": "48eaeb7ada8e51217ec18028",
+    "title": "Joao Gomes",
+    "link": "https://peventertainment.pt/joao-gomes/",
     "source": "PEV Entertainment",
     "kind": "Promotora Porto"
   },
