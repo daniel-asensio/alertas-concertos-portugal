@@ -1861,13 +1861,6 @@
     "source": "House of Fun",
     "kind": "Promotora"
   },
-  "75b782fb9ede8d08c8bf9b43": {
-    "id": "75b782fb9ede8d08c8bf9b43",
-    "title": "à venda 20 nov, 10:00",
-    "link": "https://houseoffun.pt/concertos/james-blunt-lisboa-2027/lembrete.ics/",
-    "source": "House of Fun",
-    "kind": "Promotora"
-  },
   "43dbaface9221e437ea1c122": {
     "id": "43dbaface9221e437ea1c122",
     "title": "Artistas",
@@ -2512,87 +2505,66 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "3c3fbf41f5b5dfca78993593": {
-    "id": "3c3fbf41f5b5dfca78993593",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "1e2862b67e44195ea32d2e66": {
-    "id": "1e2862b67e44195ea32d2e66",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "49e89cdbb3d8da46cc4ab816": {
-    "id": "49e89cdbb3d8da46cc4ab816",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "2efca181b6b5865ab548e757": {
-    "id": "2efca181b6b5865ab548e757",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b3e1c782ae8ac2e681c508da": {
-    "id": "b3e1c782ae8ac2e681c508da",
-    "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
-    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "d062b590e0ef2d3c8aa77481": {
-    "id": "d062b590e0ef2d3c8aa77481",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "673141384c879968b8a519ae": {
-    "id": "673141384c879968b8a519ae",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "c4e11c6fa18c13c5319681b4": {
-    "id": "c4e11c6fa18c13c5319681b4",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "c081b2c7eb23e4d198429bfa": {
-    "id": "c081b2c7eb23e4d198429bfa",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "792844ccaabde6e97cad5853": {
-    "id": "792844ccaabde6e97cad5853",
-    "title": "Memórias, Silêncios e Disputas no Espaço Público em Duas Cidades da Península Ibérica",
-    "link": "https://www.ccb.pt/evento/memorias-silencios-e-disputas-no-espaco-publico-em-duas-cidades-da-peninsula-iberica/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "ed4ce36a0eae4948efcf867c": {
-    "id": "ed4ce36a0eae4948efcf867c",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-22/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "25d5632dc569672ff6c71e70": {
-    "id": "25d5632dc569672ff6c71e70",
+  "298aeb587cf64785b31f3095": {
+    "id": "298aeb587cf64785b31f3095",
     "title": "Visitas Guiadas",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-22/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-23/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5167555c180f4549621ff651": {
+    "id": "5167555c180f4549621ff651",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8d3b8b3f79e5e83c94fedf4d": {
+    "id": "8d3b8b3f79e5e83c94fedf4d",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "13738a2ecb3187d5f928b156": {
+    "id": "13738a2ecb3187d5f928b156",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "fde5a326668f36eff0012881": {
+    "id": "fde5a326668f36eff0012881",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "bb046254dc95b6764bf67d9e": {
+    "id": "bb046254dc95b6764bf67d9e",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "e375a553ed768071be9bc316": {
+    "id": "e375a553ed768071be9bc316",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "5a25cd979d44a32741faafb7": {
+    "id": "5a25cd979d44a32741faafb7",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d6bd2db4366742ee7065296b": {
+    "id": "d6bd2db4366742ee7065296b",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-24/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2600,6 +2572,20 @@
     "id": "b7be0ae5bf1386184881f522",
     "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
     "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "45b8aadeb11b26ffabe4e345": {
+    "id": "45b8aadeb11b26ffabe4e345",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-24/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "0fc6a99027e8f7691bc2a32f": {
+    "id": "0fc6a99027e8f7691bc2a32f",
+    "title": "Aprender a brincar para a brincar aprender- Projeto Lúdico MAC/CCB",
+    "link": "https://www.ccb.pt/evento/aprender-a-brincar-para-a-brincar-aprender-projeto-ludico-mac-ccb/2026-11-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
