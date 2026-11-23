@@ -1,32 +1,4 @@
 {
-  "e8dc2f7dbd56beb214e41991": {
-    "id": "e8dc2f7dbd56beb214e41991",
-    "title": "Som De Ca E De La",
-    "link": "https://casadamusica.com/event/som-de-ca-e-de-la/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "7779cd5ef64f199c4fb1f32a": {
-    "id": "7779cd5ef64f199c4fb1f32a",
-    "title": "Solistas Da Orquestra Sinfonica",
-    "link": "https://casadamusica.com/event/solistas-da-orquestra-sinfonica/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "f8bfc2b2545899b038e23736": {
-    "id": "f8bfc2b2545899b038e23736",
-    "title": "Vincent Peirani",
-    "link": "https://casadamusica.com/event/vincent-peirani/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
-  "2da8f4bea198b612cd3d1251": {
-    "id": "2da8f4bea198b612cd3d1251",
-    "title": "Jazz In The Space Age De George Russel",
-    "link": "https://casadamusica.com/event/jazz-in-the-space-age-de-george-russel/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "6a72c82d501acbebcac4e2a1": {
     "id": "6a72c82d501acbebcac4e2a1",
     "title": "Rodrigo Leao 3",
@@ -101,6 +73,13 @@
     "id": "46064f35aa3ea6aca1a451fa",
     "title": "Youn Sun Nah",
     "link": "https://casadamusica.com/event/youn-sun-nah/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "e8dc2f7dbd56beb214e41991": {
+    "id": "e8dc2f7dbd56beb214e41991",
+    "title": "Som De Ca E De La",
+    "link": "https://casadamusica.com/event/som-de-ca-e-de-la/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -895,6 +874,34 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "4b309925c90fec5aceb5fadd": {
+    "id": "4b309925c90fec5aceb5fadd",
+    "title": "A Guitarra Em Transe",
+    "link": "https://casadamusica.com/event/a-guitarra-em-transe/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "db85d4e2fad17a0f97c40b21": {
+    "id": "db85d4e2fad17a0f97c40b21",
+    "title": "Danca E Ironia",
+    "link": "https://casadamusica.com/event/danca-e-ironia/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "1da5c1f30390d4d5dce504d1": {
+    "id": "1da5c1f30390d4d5dce504d1",
+    "title": "Amor Poder E Traicao",
+    "link": "https://casadamusica.com/event/amor-poder-e-traicao/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "b880a2359cdea6c2cb2155d1": {
+    "id": "b880a2359cdea6c2cb2155d1",
+    "title": "Chouchou 4",
+    "link": "https://casadamusica.com/event/chouchou-4/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "d1960b6b93e72b401a5ed86d": {
     "id": "d1960b6b93e72b401a5ed86d",
     "title": "Outworld",
@@ -1147,13 +1154,6 @@
     "source": "Super Bock Arena",
     "kind": "Porto"
   },
-  "87b3c0a7e23a0d34993eb638": {
-    "id": "87b3c0a7e23a0d34993eb638",
-    "title": "Wallow Gospel De Natal",
-    "link": "https://www.hardclubporto.com/PT/evento/wallow-gospel-de-natal-2026/",
-    "source": "Hard Club",
-    "kind": "Porto"
-  },
   "6b1b1594575fd34ae42f6d3c": {
     "id": "6b1b1594575fd34ae42f6d3c",
     "title": "GANSO",
@@ -1165,6 +1165,13 @@
     "id": "c3c046b5559cd88af2c18785",
     "title": "Vinhos No Mercado - Especial De Natal",
     "link": "https://www.hardclubporto.com/PT/evento/vinhos-no-mercado-especial-de-natal-2026/",
+    "source": "Hard Club",
+    "kind": "Porto"
+  },
+  "5984990d5c247145a47f1eba": {
+    "id": "5984990d5c247145a47f1eba",
+    "title": "Bring Back Kizomba Porto",
+    "link": "https://www.hardclubporto.com/PT/evento/bring-back-kizomba-porto-2026/",
     "source": "Hard Club",
     "kind": "Porto"
   },
@@ -1431,13 +1438,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "edc8d62c146eab49da5dea1b": {
-    "id": "edc8d62c146eab49da5dea1b",
-    "title": "SARA CORREIA – FESTIVAL FADO BOGOTÁ",
-    "link": "https://everythingisnew.pt/sara-correia-festival-fado-bogota-2/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2792,41 +2792,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "2c145ff6a4c5a641b3aa30f6": {
-    "id": "2c145ff6a4c5a641b3aa30f6",
-    "title": "Orquestra Jazz de Matosinhos \"George Russel: Jazz in the Space Age\"",
-    "link": "https://agendadopedro.pt/concertos/orquestra-jazz-de-matosinhos-porto-15843/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "50ae6dbb523e159868afb857": {
-    "id": "50ae6dbb523e159868afb857",
-    "title": "Vincent Peirani",
-    "link": "https://agendadopedro.pt/concertos/vincent-peirani-porto-12327/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "f18f0f3e60efc428a7125587": {
-    "id": "f18f0f3e60efc428a7125587",
-    "title": "DJ Symphonic & Royal Film Concert Orchestra",
-    "link": "https://agendadopedro.pt/concertos/dj-symphonic-porto-11448/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "ba2708417e123dcbc03b29af": {
-    "id": "ba2708417e123dcbc03b29af",
-    "title": "Royal Film Concert Orchestra",
-    "link": "https://agendadopedro.pt/concertos/royal-film-concert-orchestra-porto-11449/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "6663591b0f6a5cf427f40820": {
-    "id": "6663591b0f6a5cf427f40820",
-    "title": "Wallow Choir",
-    "link": "https://agendadopedro.pt/concertos/wallow-choir-porto-17181/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
   "2abb398da37f73bcef3bb63d": {
     "id": "2abb398da37f73bcef3bb63d",
     "title": "Rodrigo Leão \"Alma Mater\"",
@@ -4056,6 +4021,27 @@
     "id": "578296271ad75e61dea86619",
     "title": "Vizinhos",
     "link": "https://agendadopedro.pt/concertos/vizinhos-lisboa-10071/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "5aadc3a06177c6dea4b72dab": {
+    "id": "5aadc3a06177c6dea4b72dab",
+    "title": "Efterklang",
+    "link": "https://agendadopedro.pt/concertos/efterklang-lisboa-13303/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "487858db5c7d1fe8349a9516": {
+    "id": "487858db5c7d1fe8349a9516",
+    "title": "The Beatles Symphonic Fantasy",
+    "link": "https://agendadopedro.pt/concertos/the-beatles-symphonic-fantasy-lisboa-12513/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "c0a66d6adc833f3b1b4f52e7": {
+    "id": "c0a66d6adc833f3b1b4f52e7",
+    "title": "This Will Destroy You",
+    "link": "https://agendadopedro.pt/concertos/this-will-destroy-you-lisboa-16022/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
