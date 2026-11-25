@@ -1422,7 +1422,7 @@
   },
   "5ec21eacfacab5c6d8745257": {
     "id": "5ec21eacfacab5c6d8745257",
-    "title": "Começar tudo outra vez Tonan Quito",
+    "title": "Começar tudo outra vez Tonan Quito e Raquel André",
     "link": "https://www.teatroaveirense.pt/index.php/evento/comecar-tudo-outra-vez/",
     "source": "Teatro Aveirense",
     "kind": "Aveiro"
@@ -2197,13 +2197,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "218bcd417411cbab6de1d7a2": {
-    "id": "218bcd417411cbab6de1d7a2",
-    "title": "Ablaye Cissoko Cyrille Brotto",
-    "link": "https://coliseulisboa.com/eventos/ablaye-cissoko-cyrille-brotto/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "02e8f4aceb1fc38cc63bc8bd": {
     "id": "02e8f4aceb1fc38cc63bc8bd",
     "title": "Lover The Unofficial Eras Tour Tribute",
@@ -2299,6 +2292,13 @@
     "id": "7a918a7bc7671c0af7ccad24",
     "title": "Rodrigo Leao Alma Mater Misty Fest",
     "link": "https://coliseulisboa.com/eventos/rodrigo-leao-alma-mater-misty-fest/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "cf9fa22aebbe9e3ed648837d": {
+    "id": "cf9fa22aebbe9e3ed648837d",
+    "title": "Grande Concerto De Ano Novo Johann Strauss",
+    "link": "https://coliseulisboa.com/eventos/grande-concerto-de-ano-novo-johann-strauss/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
@@ -4115,10 +4115,10 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "bee0ca38f1e708ebd41b6e03": {
-    "id": "bee0ca38f1e708ebd41b6e03",
+  "debc5a39b0b92badc25ddfa1": {
+    "id": "debc5a39b0b92badc25ddfa1",
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
-    "link": "https://expresso.pt/blitz/agenda/2026-11-24-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-25-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
     "source": "BLITZ Agenda",
     "kind": "Agenda nacional"
   },
