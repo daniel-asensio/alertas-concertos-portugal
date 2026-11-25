@@ -1,11 +1,4 @@
 {
-  "6a72c82d501acbebcac4e2a1": {
-    "id": "6a72c82d501acbebcac4e2a1",
-    "title": "Rodrigo Leao 3",
-    "link": "https://casadamusica.com/event/rodrigo-leao-3/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "be13a44de88e4ecb46b9dad8": {
     "id": "be13a44de88e4ecb46b9dad8",
     "title": "Christian Loffler Until We Meet Again Tour",
@@ -899,6 +892,20 @@
     "id": "61ee6930d0e028807106d6fe",
     "title": "Concurso Santa Cecilia",
     "link": "https://casadamusica.com/event/concurso-santa-cecilia/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "27975391c7710ab74b042954": {
+    "id": "27975391c7710ab74b042954",
+    "title": "Chaplin Tempos Modernos 20270618",
+    "link": "https://casadamusica.com/event/chaplin-tempos-modernos-20270618/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "97a726b8dffdfcdfae652017": {
+    "id": "97a726b8dffdfcdfae652017",
+    "title": "Chaplin Tempos Modernos 20270619",
+    "link": "https://casadamusica.com/event/chaplin-tempos-modernos-20270619/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -2554,41 +2561,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "e375a553ed768071be9bc316": {
-    "id": "e375a553ed768071be9bc316",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-24/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "bb046254dc95b6764bf67d9e": {
-    "id": "bb046254dc95b6764bf67d9e",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-24/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "5a25cd979d44a32741faafb7": {
-    "id": "5a25cd979d44a32741faafb7",
-    "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-24/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "d6bd2db4366742ee7065296b": {
-    "id": "d6bd2db4366742ee7065296b",
-    "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-24/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "b7be0ae5bf1386184881f522": {
-    "id": "b7be0ae5bf1386184881f522",
-    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
-    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-11-24/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "961bb404fadb6bcf7251bf33": {
     "id": "961bb404fadb6bcf7251bf33",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
@@ -2614,6 +2586,34 @@
     "id": "0b8d6d4e95641a5b7ad1b970",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
     "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-25/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "d099649fde3aae866236c2bc": {
+    "id": "d099649fde3aae866236c2bc",
+    "title": "Ângela Ferreira",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-25/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "b16a6e40eb2b966cfdbd6e06": {
+    "id": "b16a6e40eb2b966cfdbd6e06",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-25/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "cb1be83e306387a2ebb85e2f": {
+    "id": "cb1be83e306387a2ebb85e2f",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-25/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "84a297b943424513f2238880": {
+    "id": "84a297b943424513f2238880",
+    "title": "PARAÍSO, HOJE.",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-25/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2684,6 +2684,13 @@
     "id": "80f251b9a3cbece84d3d0fae",
     "title": "Programa Vincular - Serviço de Educação e Mediação",
     "link": "https://www.ccb.pt/evento/programa-de-educacao-e-mediacao-do-mac-ccb/2026-12-01/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "fdd6a1f37558c9c56642e0dd": {
+    "id": "fdd6a1f37558c9c56642e0dd",
+    "title": "Festas de aniversário para crianças no Museu CCB, Lisboa",
+    "link": "https://www.ccb.pt/evento/festas-de-aniversario-no-museu-mac-ccb/2026-12-01/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2840,20 +2847,6 @@
     "link": "https://www.ccb.pt/evento/exposicao-passagens-filipa-correia-de-sousa/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "ef721a1f7cd4ebcf613d8b20": {
-    "id": "ef721a1f7cd4ebcf613d8b20",
-    "title": "Rodrigo Leão \"Alma Mater\"",
-    "link": "https://agendadopedro.pt/concertos/rodrigo-leao-porto-13430/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "4b665df77e41cb9a09581d36": {
-    "id": "4b665df77e41cb9a09581d36",
-    "title": "Bastonada",
-    "link": "https://agendadopedro.pt/concertos/bastonada-porto-17213/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "cb16d6fd64cf967403683b26": {
     "id": "cb16d6fd64cf967403683b26",
@@ -4063,13 +4056,6 @@
     "id": "41c741cfd325d08cb3fabaff",
     "title": "Mark Delman",
     "link": "https://agendadopedro.pt/concertos/mark-delman-lisboa-15445/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "e454f459a4e58bef88f0b84a": {
-    "id": "e454f459a4e58bef88f0b84a",
-    "title": "Nena",
-    "link": "https://agendadopedro.pt/concertos/nena-lisboa-12553/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
