@@ -1,11 +1,4 @@
 {
-  "be13a44de88e4ecb46b9dad8": {
-    "id": "be13a44de88e4ecb46b9dad8",
-    "title": "Christian Loffler Until We Meet Again Tour",
-    "link": "https://casadamusica.com/event/christian-loffler-until-we-meet-again-tour/",
-    "source": "Casa da Música",
-    "kind": "Porto"
-  },
   "cc5789bf5f549a9a0197b522": {
     "id": "cc5789bf5f549a9a0197b522",
     "title": "Al Di Meola",
@@ -206,6 +199,13 @@
     "id": "0def33133b66832d60ccb78a",
     "title": "Gnr Ao Vivo",
     "link": "https://casadamusica.com/event/gnr-ao-vivo/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
+  "256f81e980f20bc5d3aecb15": {
+    "id": "256f81e980f20bc5d3aecb15",
+    "title": "Quarteto De Cordas De Matosinhos 20261217 2",
+    "link": "https://casadamusica.com/event/quarteto-de-cordas-de-matosinhos-20261217-2/",
     "source": "Casa da Música",
     "kind": "Porto"
   },
@@ -1294,13 +1294,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "28b714cd7f0b3b4a5140184b": {
-    "id": "28b714cd7f0b3b4a5140184b",
-    "title": "Todos os sons vão dar à UA Ensemble Efémero Internacional / Festivais de Outono 2026",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/todos-os-sons-vao-dar-a-ua/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "e0c342b4df36ef1a95afae41": {
     "id": "e0c342b4df36ef1a95afae41",
     "title": "Som da Água: uma parceria UA / Comité Nacional para a Década do Oceano Conversa Festivais de Outono",
@@ -1480,13 +1473,6 @@
     "id": "cb516374e36edd2d213ff54d",
     "title": "Imprensa - Everything Is New",
     "link": "https://everythingisnew.pt/imprensa/",
-    "source": "Everything Is New",
-    "kind": "Promotora"
-  },
-  "b4f2526a73ae112a7d311cb8": {
-    "id": "b4f2526a73ae112a7d311cb8",
-    "title": "ÂNGELO FREIRE – FESTIVAL FADO SAN JOSÉ",
-    "link": "https://everythingisnew.pt/angelo-freire-festival-fado-san-jose/",
     "source": "Everything Is New",
     "kind": "Promotora"
   },
@@ -2561,73 +2547,73 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "961bb404fadb6bcf7251bf33": {
-    "id": "961bb404fadb6bcf7251bf33",
+  "dd801bd0e52d6982c7e15b64": {
+    "id": "dd801bd0e52d6982c7e15b64",
     "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b1030552d4d255ea92377fea": {
-    "id": "b1030552d4d255ea92377fea",
+  "80aeca0763b83343adf06568": {
+    "id": "80aeca0763b83343adf06568",
     "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "81f181a6a901bbbce856331f": {
-    "id": "81f181a6a901bbbce856331f",
+  "ca874225b238ca6d07eb3224": {
+    "id": "ca874225b238ca6d07eb3224",
     "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "0b8d6d4e95641a5b7ad1b970": {
-    "id": "0b8d6d4e95641a5b7ad1b970",
+  "28899a0e5a44a5de627bd3b6": {
+    "id": "28899a0e5a44a5de627bd3b6",
     "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "d099649fde3aae866236c2bc": {
-    "id": "d099649fde3aae866236c2bc",
+  "b0df7cda12117cae9cd48648": {
+    "id": "b0df7cda12117cae9cd48648",
     "title": "Ângela Ferreira",
-    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/exposicao-angela-ferreira/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "b16a6e40eb2b966cfdbd6e06": {
-    "id": "b16a6e40eb2b966cfdbd6e06",
+  "7361dbe21b61c97f645e13e5": {
+    "id": "7361dbe21b61c97f645e13e5",
     "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "cb1be83e306387a2ebb85e2f": {
-    "id": "cb1be83e306387a2ebb85e2f",
+  "027c4e6ced6232c07b48b4d4": {
+    "id": "027c4e6ced6232c07b48b4d4",
     "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "84a297b943424513f2238880": {
-    "id": "84a297b943424513f2238880",
+  "0c51a2d755eae481ff00e3c1": {
+    "id": "0c51a2d755eae481ff00e3c1",
     "title": "PARAÍSO, HOJE.",
-    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/paraiso-hoje/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "ef1aaa962bf6224822a451a8": {
-    "id": "ef1aaa962bf6224822a451a8",
+  "f0753d7d0ca39a9abbdda740": {
+    "id": "f0753d7d0ca39a9abbdda740",
     "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "14f8a5bdc5b5311f3fd90624": {
-    "id": "14f8a5bdc5b5311f3fd90624",
+  "052382d53a4e0ec040acef52": {
+    "id": "052382d53a4e0ec040acef52",
     "title": "Visitas Guiadas",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-25/",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-26/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2847,20 +2833,6 @@
     "link": "https://www.ccb.pt/evento/exposicao-passagens-filipa-correia-de-sousa/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
-  },
-  "cb16d6fd64cf967403683b26": {
-    "id": "cb16d6fd64cf967403683b26",
-    "title": "Christian Löffler",
-    "link": "https://agendadopedro.pt/concertos/christian-loffler-porto-12660/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
-  },
-  "69c54cbf777b3ca6d9eb6861": {
-    "id": "69c54cbf777b3ca6d9eb6861",
-    "title": "Manga Cava",
-    "link": "https://agendadopedro.pt/concertos/manga-cava-porto-17212/",
-    "source": "Agenda do Pedro",
-    "kind": "Agenda complementar do Porto"
   },
   "99c003b126aee3c60ff85366": {
     "id": "99c003b126aee3c60ff85366",
@@ -3356,6 +3328,13 @@
     "id": "6a8d7dcdea66aaf91e93c3f0",
     "title": "Orquestra Clássica de Espinho & Miguel Araújo",
     "link": "https://agendadopedro.pt/concertos/orquestra-classica-de-espinho-porto-13354/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "802e5f690fcf448a8777721e": {
+    "id": "802e5f690fcf448a8777721e",
+    "title": "Treze Raios",
+    "link": "https://agendadopedro.pt/concertos/treze-raios-porto-17572/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3940,6 +3919,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "b03c5d898a4a5a134906f00f": {
+    "id": "b03c5d898a4a5a134906f00f",
+    "title": "Fischer-Z",
+    "link": "https://agendadopedro.pt/concertos/fischer-z-porto-17582/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "5ca8cc31d3d48dfd4a3b0c35": {
     "id": "5ca8cc31d3d48dfd4a3b0c35",
     "title": "Cassete Pirata",
@@ -4112,6 +4098,27 @@
     "id": "74f2887bfc6f30a675d5bc53",
     "title": "Alt-J",
     "link": "https://agendadopedro.pt/concertos/alt-j-cascais-17531/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "744919e7d6151e4876a517e8": {
+    "id": "744919e7d6151e4876a517e8",
+    "title": "Fischer-Z",
+    "link": "https://agendadopedro.pt/concertos/fischer-z-lisboa-17583/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "fac8c35dc113f82282680993": {
+    "id": "fac8c35dc113f82282680993",
+    "title": "Mastodon ᛫ Monolord",
+    "link": "https://agendadopedro.pt/concertos/mastodon-lisboa-17571/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "b7ba5edf9ec9e8260aa3cc81": {
+    "id": "b7ba5edf9ec9e8260aa3cc81",
+    "title": "Paradise Lost ᛫ Voivod ᛫ Dool",
+    "link": "https://agendadopedro.pt/concertos/paradise-lost-lisboa-17558/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
