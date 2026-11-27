@@ -2183,13 +2183,6 @@
     "source": "MEO Arena",
     "kind": "Grande sala"
   },
-  "c338f5ae080f09ae38bddb5a": {
-    "id": "c338f5ae080f09ae38bddb5a",
-    "title": "Sir El Tom Tributo A Elton John",
-    "link": "https://coliseulisboa.com/eventos/sir-el-tom-tributo-a-elton-john/",
-    "source": "Coliseu dos Recreios",
-    "kind": "Grande sala"
-  },
   "9a045c2a5c7f0a8c0b7f0621": {
     "id": "9a045c2a5c7f0a8c0b7f0621",
     "title": "Mark Delman",
@@ -2285,6 +2278,13 @@
     "id": "9becbd8cb9b39182a7cc100b",
     "title": "O Lago Dos Cisnes Tchaikovsky National Ballet 5",
     "link": "https://coliseulisboa.com/eventos/o-lago-dos-cisnes-tchaikovsky-national-ballet-5/",
+    "source": "Coliseu dos Recreios",
+    "kind": "Grande sala"
+  },
+  "bb48bba19d01f630fba9feb9": {
+    "id": "bb48bba19d01f630fba9feb9",
+    "title": "Hollywood Symphony Orchestra Apresenta John Williams Hans Zimmer 3",
+    "link": "https://coliseulisboa.com/eventos/hollywood-symphony-orchestra-apresenta-john-williams-hans-zimmer-3/",
     "source": "Coliseu dos Recreios",
     "kind": "Grande sala"
   },
