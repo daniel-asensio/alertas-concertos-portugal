@@ -545,6 +545,13 @@
     "source": "Casa da Música",
     "kind": "Porto"
   },
+  "800d6b149bd525801ee82e94": {
+    "id": "800d6b149bd525801ee82e94",
+    "title": "Eu Clides 20270223",
+    "link": "https://casadamusica.com/event/eu-clides-20270223/",
+    "source": "Casa da Música",
+    "kind": "Porto"
+  },
   "877c3ebb35d5c71360444e61": {
     "id": "877c3ebb35d5c71360444e61",
     "title": "Fidelio 2",
@@ -1294,13 +1301,6 @@
     "source": "Europarque",
     "kind": "Aveiro"
   },
-  "e0c342b4df36ef1a95afae41": {
-    "id": "e0c342b4df36ef1a95afae41",
-    "title": "Som da Água: uma parceria UA / Comité Nacional para a Década do Oceano Conversa Festivais de Outono",
-    "link": "https://www.teatroaveirense.pt/index.php/evento/som-da-agua-uma-parceria-ua-unesco/",
-    "source": "Teatro Aveirense",
-    "kind": "Aveiro"
-  },
   "d92e24e1728667377cb1d270": {
     "id": "d92e24e1728667377cb1d270",
     "title": "O Som da Água: Música em estado líquido Concerto de encerramento dos Festivais de Outono 2026",
@@ -1791,6 +1791,13 @@
     "source": "PEV Entertainment",
     "kind": "Promotora Porto"
   },
+  "2aa5663dc566450f14191de3": {
+    "id": "2aa5663dc566450f14191de3",
+    "title": "Mika",
+    "link": "https://peventertainment.pt/mika/",
+    "source": "PEV Entertainment",
+    "kind": "Promotora Porto"
+  },
   "48eaeb7ada8e51217ec18028": {
     "id": "48eaeb7ada8e51217ec18028",
     "title": "Joao Gomes",
@@ -1900,6 +1907,20 @@
     "id": "9ae568de8fdee12329cb603b",
     "title": "James Blunt 1 julho — Sagres Campo Pequeno",
     "link": "https://houseoffun.pt/concertos/james-blunt-lisboa-2027/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "89e21f1bb42d313d94f5c7f0": {
+    "id": "89e21f1bb42d313d94f5c7f0",
+    "title": "Within Temptation 26 novembro — MEO Arena",
+    "link": "https://houseoffun.pt/concertos/within-temptation-lisboa-2027/",
+    "source": "House of Fun",
+    "kind": "Promotora"
+  },
+  "32d19b076bece0ea7d915f8f": {
+    "id": "32d19b076bece0ea7d915f8f",
+    "title": "à venda 2 dez, 09:00",
+    "link": "https://houseoffun.pt/concertos/within-temptation-lisboa-2027/lembrete.ics/",
     "source": "House of Fun",
     "kind": "Promotora"
   },
@@ -2547,31 +2568,10 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "1083d39a7ee8796df7f0728b": {
-    "id": "1083d39a7ee8796df7f0728b",
-    "title": "Visitas Guiadas - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-27/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "c6cb290da60b58f2be35dbcd": {
-    "id": "c6cb290da60b58f2be35dbcd",
-    "title": "Primeira Infância - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-27/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "4032770bf8b3c476f9e3e314": {
-    "id": "4032770bf8b3c476f9e3e314",
-    "title": "Pré-escolar - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-27/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "3830bcb04118256bd835caa7": {
-    "id": "3830bcb04118256bd835caa7",
-    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-27/",
+  "753ee59a723f8353655f627e": {
+    "id": "753ee59a723f8353655f627e",
+    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
+    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-27/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2582,20 +2582,6 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "5cf341afe484b3127c8d4d1b": {
-    "id": "5cf341afe484b3127c8d4d1b",
-    "title": "Primeiro Ciclo",
-    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-27/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
-  "753ee59a723f8353655f627e": {
-    "id": "753ee59a723f8353655f627e",
-    "title": "Uma deriva atlântica. As artes do séc. XX a partir da Coleção Berardo - MAC/CCB",
-    "link": "https://www.ccb.pt/evento/uma-deriva-atlantica-as-artes-do-seculo-xx-a-partir-da-colecao-berardo/2026-11-27/",
-    "source": "Centro Cultural de Belém",
-    "kind": "Grandes espetáculos nacionais"
-  },
   "c6c0275754c40008d0f10c93": {
     "id": "c6c0275754c40008d0f10c93",
     "title": "PARAÍSO, HOJE.",
@@ -2603,17 +2589,38 @@
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "4fa0441b8f6b849194ef1cd0": {
-    "id": "4fa0441b8f6b849194ef1cd0",
-    "title": "Segundo Ciclo - Centro Cultural de Belém",
-    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-27/",
+  "ac4fc92d0d39ae8e09a3fe11": {
+    "id": "ac4fc92d0d39ae8e09a3fe11",
+    "title": "Visitas Guiadas - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-2/2026-11-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
-  "6eae4bfbeb15ad16c1478927": {
-    "id": "6eae4bfbeb15ad16c1478927",
-    "title": "Visitas Guiadas",
-    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-27/",
+  "ec9d50726f605b38239e7a23": {
+    "id": "ec9d50726f605b38239e7a23",
+    "title": "Primeira Infância - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/primeira-infancia/2026-11-28/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ed2657e0b3e0bc72e580ee83": {
+    "id": "ed2657e0b3e0bc72e580ee83",
+    "title": "Pré-escolar - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/pre-escolar-escolas-museu-mac-ccb/2026-11-28/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "ac4f26db289497418d99939b": {
+    "id": "ac4f26db289497418d99939b",
+    "title": "Primeiro Ciclo",
+    "link": "https://www.ccb.pt/evento/primeiro-ciclo-escolas/2026-11-28/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "37bc469c640f335b16541c28": {
+    "id": "37bc469c640f335b16541c28",
+    "title": "Terceiro Ciclo e Secundário - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/terceiro-ciclo-e-secundario-escolas-museu-mac-ccb/2026-11-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2635,6 +2642,20 @@
     "id": "e0b18b087556f24fc41395d4",
     "title": "Curso Uma Viagem Atlântica através da Arte Moderna",
     "link": "https://www.ccb.pt/evento/curso-uma-viagem-atlantica-atraves-da-arte-moderna/2026-11-28/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "8361258eab09ee7a0b1ddcba": {
+    "id": "8361258eab09ee7a0b1ddcba",
+    "title": "Segundo Ciclo - Centro Cultural de Belém",
+    "link": "https://www.ccb.pt/evento/segundo-ciclo-escolas-museu-mac-ccb/2026-11-28/",
+    "source": "Centro Cultural de Belém",
+    "kind": "Grandes espetáculos nacionais"
+  },
+  "fa6045ad996ed51d3ec92996": {
+    "id": "fa6045ad996ed51d3ec92996",
+    "title": "Visitas Guiadas",
+    "link": "https://www.ccb.pt/evento/visitas-guiadas-a-exposicao-2-museu-mac-ccb/2026-11-28/",
     "source": "Centro Cultural de Belém",
     "kind": "Grandes espetáculos nacionais"
   },
@@ -2855,6 +2876,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "ab73679565d8ed69a14abb64": {
+    "id": "ab73679565d8ed69a14abb64",
+    "title": "Aurea ᛫ Ricardo Ribeiro",
+    "link": "https://agendadopedro.pt/concertos/aurea-porto-17615/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "1efed9a4577371806fb86ffb": {
     "id": "1efed9a4577371806fb86ffb",
     "title": "Youn Sun Nah﻿",
@@ -2922,6 +2950,13 @@
     "id": "2438b1545d2c9d4d0ff1258d",
     "title": "Chico Chico",
     "link": "https://agendadopedro.pt/concertos/chico-chico-porto-16969/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "f1a027bcffe8b2ad4d7e5f7a": {
+    "id": "f1a027bcffe8b2ad4d7e5f7a",
+    "title": "Fragile",
+    "link": "https://agendadopedro.pt/concertos/fragile-porto-17637/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3228,7 +3263,7 @@
   },
   "a21d1fea7e6d43ba448d8b03": {
     "id": "a21d1fea7e6d43ba448d8b03",
-    "title": "Cat Soup ᛫ Coletivo Obsoleto",
+    "title": "Cat Soup ᛫ Obsoleto",
     "link": "https://agendadopedro.pt/concertos/cat-soup-porto-17552/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
@@ -3555,6 +3590,13 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "c457b8163760a736909c8445": {
+    "id": "c457b8163760a736909c8445",
+    "title": "Eu.Clides",
+    "link": "https://agendadopedro.pt/concertos/eu-clides-porto-17613/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "79ac7c3e75ba8fb167ff68d0": {
     "id": "79ac7c3e75ba8fb167ff68d0",
     "title": "Agir & Paulo de Carvalho",
@@ -3692,6 +3734,13 @@
     "id": "d16c0c373dc898c75aa1fd26",
     "title": "Snarky Puppy",
     "link": "https://agendadopedro.pt/concertos/snarky-puppy-porto-16473/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "cb65351344c6f4f3ad390d04": {
+    "id": "cb65351344c6f4f3ad390d04",
+    "title": "Benjamin Clementine",
+    "link": "https://agendadopedro.pt/concertos/benjamin-clementine-porto-17601/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3863,10 +3912,24 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
+  "fbbaf57e36078ec8dda948c2": {
+    "id": "fbbaf57e36078ec8dda948c2",
+    "title": "The Cat Empire ᛫ Little Quirks",
+    "link": "https://agendadopedro.pt/concertos/the-cat-empire-porto-17620/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
   "b75e400c9fa3d9c9960837c2": {
     "id": "b75e400c9fa3d9c9960837c2",
     "title": "Ute Lemper",
     "link": "https://agendadopedro.pt/concertos/ute-lemper-porto-17081/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "db158dbc1ffd691c951cdd33": {
+    "id": "db158dbc1ffd691c951cdd33",
+    "title": "Lisbon Film Orchestra \"Disney in Concert\"",
+    "link": "https://agendadopedro.pt/concertos/lisbon-film-orchestra-porto-17621/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -3881,6 +3944,13 @@
     "id": "21feda8e0dbcfc11439c20de",
     "title": "Traitrs",
     "link": "https://agendadopedro.pt/concertos/traitrs-porto-17290/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "79c3631fba1c1df5c6506282": {
+    "id": "79c3631fba1c1df5c6506282",
+    "title": "Não Há 2 Sem 3",
+    "link": "https://agendadopedro.pt/concertos/nao-ha-2-sem-3-porto-17638/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4045,17 +4115,24 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "744919e7d6151e4876a517e8": {
-    "id": "744919e7d6151e4876a517e8",
-    "title": "Fischer-Z",
-    "link": "https://agendadopedro.pt/concertos/fischer-z-lisboa-17583/",
+  "47d2f55675535f32dcd76d28": {
+    "id": "47d2f55675535f32dcd76d28",
+    "title": "Benjamin Clementine",
+    "link": "https://agendadopedro.pt/concertos/benjamin-clementine-lisboa-17595/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "201222fc908a0fd4c8762bcc": {
-    "id": "201222fc908a0fd4c8762bcc",
-    "title": "Heilung ᛫ Lilith Max",
-    "link": "https://agendadopedro.pt/concertos/heilung-lisboa-17585/",
+  "1478e0f8eae4cbf9234a5295": {
+    "id": "1478e0f8eae4cbf9234a5295",
+    "title": "Clã",
+    "link": "https://agendadopedro.pt/concertos/cla-lisboa-17619/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "79840df6952a62961397bebf": {
+    "id": "79840df6952a62961397bebf",
+    "title": "D'zrt ᛫ Orishas",
+    "link": "https://agendadopedro.pt/concertos/d-zrt-oeiras-15557/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
@@ -4066,19 +4143,33 @@
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "fac8c35dc113f82282680993": {
-    "id": "fac8c35dc113f82282680993",
-    "title": "Mastodon ᛫ Monolord",
-    "link": "https://agendadopedro.pt/concertos/mastodon-lisboa-17571/",
+  "bfb274b15ca275b4ed046e56": {
+    "id": "bfb274b15ca275b4ed046e56",
+    "title": "Mika",
+    "link": "https://agendadopedro.pt/concertos/mika-lisboa-17641/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
   },
-  "b7ba5edf9ec9e8260aa3cc81": {
-    "id": "b7ba5edf9ec9e8260aa3cc81",
-    "title": "Paradise Lost ᛫ Voivod ᛫ Dool",
-    "link": "https://agendadopedro.pt/concertos/paradise-lost-lisboa-17558/",
+  "79d0ff862ede362b55dc5e95": {
+    "id": "79d0ff862ede362b55dc5e95",
+    "title": "Sérgio Godinho",
+    "link": "https://agendadopedro.pt/concertos/sergio-godinho-lisboa-17594/",
     "source": "Agenda do Pedro",
     "kind": "Agenda complementar do Porto"
+  },
+  "aa4c9cc2fd1d80ab7d85055b": {
+    "id": "aa4c9cc2fd1d80ab7d85055b",
+    "title": "Within Temptation",
+    "link": "https://agendadopedro.pt/concertos/within-temptation-lisboa-17622/",
+    "source": "Agenda do Pedro",
+    "kind": "Agenda complementar do Porto"
+  },
+  "00d9a56060ee19a91ca904ce": {
+    "id": "00d9a56060ee19a91ca904ce",
+    "title": "Todos os concertos marcados para 2026 e 2027 em Portugal",
+    "link": "https://expresso.pt/blitz/agenda/2026-11-27-todos-os-concertos-marcados-para-2026-e-2027-em-portugal-53436cea/",
+    "source": "BLITZ Agenda",
+    "kind": "Agenda nacional"
   },
   "0e47e16a8ee03a46167ab86d": {
     "title": "O Quebra-Nozes — Imperial Heritage Ballet",
